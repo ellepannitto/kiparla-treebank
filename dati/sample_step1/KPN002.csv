@@ -1,0 +1,869 @@
+tu_id	speaker	start	end	duration	text
+0	PKP031	0.880	1.120	0.240	okay
+1	PKP031	2.250	3.340	1.090	ciao ragazzuole
+2	PKP038	4.430	7.650	3.220	ciao, gianni che <piacere> [vederti] (.) ((ride))
+3	PKP031	6.990	9.290	2.300	[ah vi dicevo] cioè la ale::
+4	PKP031	11.580	14.180	2.600	son stato da lei son venuto:: via adesso
+5	PKP031	15.375	16.200	0.825	(cioè) [son venuto a ca~]
+6	PKP012	15.607	17.867	2.260	[AH da ieri] che ci siamo visti
+7	PKP031	17.222	17.432	0.210	[sì]
+8	PKP031	18.092	21.152	3.060	xx da da pomeriggio poi son tornato qua e:
+9	PKP012	22.027	23.287	1.260	e your sister?
+10	PKP031	24.312	29.032	4.720	e mia sorella e:: ha fatto quel cavolo che ha voluto è andata da suo moroso
+11	PKP038	30.107	31.357	1.250	n~ c'ha controllo [xx]
+12	PKP031	30.612	31.482	0.870	[ieri] xx
+13	PKP031	31.562	34.942	3.380	[NO ma] (.) sai cosa siccome eravamo tutti e due via no
+14	PKP012	31.567	32.537	0.970	[NO NO è che]
+15	PKP031	36.165	40.885	4.720	i i miei possono vedere se c'è l'allarme o no a casa >se stiamo< via dovremo mettere l'allarme
+16	PKP012	40.890	41.660	0.770	l'ha~ l'hai fatto?
+17	PKP031	41.805	43.355	1.550	non abbiamo messo l'allarme
+18	PKP031	43.750	47.550	3.800	#però abbiamo chiuso anche l'altra porticina a chiave e serà tutto:
+19	PKP012	47.575	48.015	0.440	okay
+20	PKP031	48.910	51.340	2.430	xxxxx [non vengono mai i ladri xxxx]
+21	PKP012	49.440	54.990	5.550	[come se foste via (.) EH NO vabbé] ma non puoi scongiurare che non vengano mai e [proprio quella volta là vengono.]
+22	PKP031	53.455	56.545	3.090	[lo so] (.) stavolta ho avuto °abbastanza fortuna° ((ride))
+23	PKP031	57.150	60.730	3.580	però spero che non capiti mai più °cioè° che almeno uno dei due (.) sia a [casa]
+24	PKP012	60.600	62.540	1.940	[e] e a che ora l'hai vista poi?
+25	PKP031	62.715	66.700	3.985	eh (mia) [sorella io] non la vedo da::: da venerdì
+26	PKP012	63.380	64.150	0.770	[eh (your)]
+27	PKP038	66.770	67.350	0.580	((ride))
+28	PKP012	66.860	67.420	0.560	okay
+29	PKP031	67.640	72.930	5.290	x è passata per casa >perchè ho visto che è passata per casa< ma °non so dove sia° adesso sarà sempre là con.
+30	PKP012	72.940	75.230	2.290	e i tuoi quando tornano stasera? o domani,
+31	PKP031	76.010	77.870	1.860	tornano: adesso (qua)
+32	PKP031	79.245	80.865	1.620	NO NO mia mamma ha lezione
+33	PKP012	81.420	81.680	0.260	EH
+34	PKP012	81.985	83.655	1.670	in didattica a distanza?
+35	PKP031	84.150	84.827	0.677	#°sì°(.) ara beppe
+36	PKP012	85.815	86.585	0.770	eh. alleluia
+37	PKP038	87.463	87.823	0.360	°dov'è?°
+38	PKP012	88.625	89.225	0.600	in fon[do,]
+39	PKP031	88.810	89.660	0.850	[là in fondo,]
+40	PKP012	91.160	93.550	2.390	la sandra è sempre quella ritardataria ((ride))
+41	PKP031	93.590	95.140	1.550	sì ma la sandra c'è:: [va~]
+42	PKP038	94.850	97.940	3.090	[perchè] dice un orario [però poi] l'autobus passa a un altro [orario.]
+43	PKP031	96.030	96.580	0.550	[NO uno]
+44	PKP031	97.515	101.095	3.580	[QUATTRO e mezza ci sta] perchè comunque un'ora e mezza va bene ma:
+45	PKP012	97.960	99.160	1.200	[(sono) le quaranta,]
+46	PKP012	101.510	104.430	2.920	sì ma alle sei chiudono tutto ciao: ((ride))
+47	PKP038	105.120	109.950	4.830	beh ieri sono andata a una laurea ci hanno [diviso] però (.) perché l'aveva già [prenotata °da tempo°]
+48	PKP031	107.115	107.555	0.440	[ah se?]
+49	PKP031	109.040	109.930	0.890	[ma: a pranzo?]
+50	PKP038	110.125	110.415	0.290	°sì°
+51	PKP038	111.265	115.725	4.460	[infatti non] sono riuscita a andare a canto (.) però l'ho fatto on line (.) l'ho [chiamata]
+52	PKP012	111.315	111.765	0.450	[come?]
+53	PKP031	111.600	111.830	0.230	[di chi?]
+54	PKP031	115.190	115.880	0.690	[°ah okay°]
+55	PKP012	116.130	117.420	1.290	okay [belli~]
+56	PKP031	116.940	117.490	0.550	[ma::]
+57	PKP038	116.990	120.660	3.670	[xx perchè ho] fatto le corse da vicenza (.) [DA] THIENE
+58	PKP012	119.890	120.320	0.430	[(wow)]
+59	PKP031	120.670	121.620	0.950	MA chi è >che si è laureato<?
+60	PKP038	121.800	126.760	4.960	una eh quella che faceva danza con me non so se ve la ricordate (.) che c'era alla mia laurea
+61	PKP038	127.495	130.065	2.570	forse era in [pantaloni (.) °e giacchetta°]
+62	PKP031	128.205	130.045	1.840	[AH: okay sì]
+63	PKP031	130.410	131.820	1.410	°xxx mi ricordo qual~°
+64	PKP038	131.830	132.230	0.400	FLAVIA
+65	PKP038	132.545	133.085	0.540	°coi capelli lunghi°
+66	PKP012	133.360	134.930	1.570	non mi è nuovo sto no[me]
+67	PKP038	134.700	135.100	0.400	[eh]
+68	PKP031	136.225	139.635	3.410	ma [michi ma n~ non esce da quei buchetti] la:: il:
+69	PKP038	136.535	138.295	1.760	[CENTODIECI E LODE,]
+70	PKP012	139.680	144.470	4.790	BOH sono quelli che mi ha dato la farmacia se le [vendono loro dovrebbero essere:]
+71	PKP031	142.600	144.780	2.180	[°ah okay allora (.) sì sì°]
+72	PKP038	144.535	144.995	0.460	[co]sa?
+73	PKP012	145.310	145.850	0.540	[queste]
+74	PKP031	145.405	148.405	3.000	[(ma dici) che tra] i buchetti non è che che trapas[sa?]
+75	PKP038	145.790	146.740	0.950	[è simile alla mia,]
+76	PKP012	148.125	151.215	3.090	[sì] è xx no eh (cioè) se la vende la [farmacia] non penso.
+77	PKP031	150.130	150.570	0.440	((ride))
+78	PKP038	153.000	153.910	0.910	tanto ha il naso fuori
+79	PKP012	154.660	158.770	4.110	perchè se no mi si [appannano gli occhiali] non lo faccio apposta è che [>mi si appannano gli occhiali<]
+80	PKP031	155.460	156.590	1.130	[no vabbè ma:]
+81	PKP038	157.870	168.000	10.130	[BEH il nonno] di tiktokay ha detto che c'è un trucco (.) devi metterti un fazzoletto messo qua piegato [(.) e stringi bene e non si appanna]
+82	PKP031	164.200	167.440	3.240	[>oppure< devi stringere BENE BENE e mettere gli occhiali su]
+83	PKP038	168.535	169.995	1.460	il nonno di tiktok,
+84	PKP038	170.660	178.060	7.400	in realtà è una tizia che me~ che fa sempre: (.) i gli indovinelli a suo nonno (.) e [li sa TUTTI]
+85	PKP031	177.035	178.375	1.340	[A:::h]
+86	PKP031	178.410	178.830	0.420	(°capito°)
+87	PKP012	178.860	179.980	1.120	ma secon[do me,]
+88	PKP038	179.265	180.555	1.290	[e quindi] è diventato <famoso>
+89	PKP012	180.595	182.385	1.790	ma secondo me si preparano prima
+90	PKP012	182.555	183.225	0.670	perché dai
+91	PKP031	183.220	184.990	1.770	beh beppe allora può anche sedersi qua
+92	PKP031	185.720	186.070	0.350	°eh:°
+93	PKP012	186.095	187.415	1.320	è la nella che [sta:]
+94	PKP038	186.840	188.650	1.810	[NO NO] NO non si preparano
+95	PKP038	189.710	194.130	4.420	ma i nonni sai che gli indovinelli e tutte le i detti li sanno tutti a memoria
+96	PKP012	195.640	199.060	3.420	O la giulia ha preso questo autobus o viene con i suoi.
+97	PKP038	199.235	200.555	1.320	devi sederti là,
+98	PKP011	200.550	201.725	1.175	buonasera bellezze.
+99	PKP031	201.745	204.395	2.650	NO vabbé ma siamo in quattro [(.) o la ale]
+100	PKP012	203.405	206.225	2.820	[NO lui puoi] stare è la ale che deve [andare]
+101	PKP031	205.650	209.970	4.320	[beppe] puoi sederti qua [(.) però] dovremo fare in modo che ci puliscano la roba qua
+102	PKP011	206.745	208.075	1.330	[sì eh xxx]
+103	PKP012	210.500	211.020	0.520	non so,
+104	PKP031	211.035	211.835	0.800	eh da ades[so]
+105	PKP038	211.790	215.240	3.450	[vabbè] adesso andiamo là e:: andiamo a vedere le paste [(dai)]
+106	PKP031	214.990	216.820	1.830	[andate] voi due e dopo andiamo::
+107	PKP012	216.985	218.745	1.760	MA non prendete [anche] per noi?
+108	PKP031	217.750	218.030	0.280	[io e te]
+109	PKP038	219.465	221.545	2.080	°eh xx bignè al cioccolato,°
+110	PKP012	221.660	223.180	1.520	e un tè al <limone>
+111	PKP031	223.910	229.990	6.080	io prendo eh: xxx (.) un no non lo so vengo anch'io
+112	PKP012	232.505	233.585	1.080	ma fai (.) [coda]
+113	PKP031	233.195	235.685	2.490	[°michi] occio° lascialo lì
+114	PKP038	254.120	255.150	1.030	°sono un genio,°
+115	PKP038	256.360	259.270	2.910	°sono un genio dicono che non ci si può più salutare (con il gomito)°
+116	PKP012	259.460	259.800	0.340	NO
+117	PKP012	260.695	261.555	0.860	se: va ben
+118	PKP031	313.060	314.240	1.180	°okay ho scelto°
+119	PKP012	315.585	317.245	1.660	ma avete preso anche per me vero?
+120	PKP031	317.530	319.420	1.890	e tu cos~ no beh >gliel'ave[vi< detto alla linda,]
+121	PKP012	318.930	320.350	1.420	[sì] gliel'ho detto alla flavia
+122	PKP031	320.445	323.085	2.640	°(adesso) gli (.) chiediamo a lei se riesce a:°
+123	PKP012	324.980	327.400	2.420	ma dovrebbe farlo perché ogni tanto devono uscire
+124	PKP012	330.100	330.620	0.520	e buondì
+125	PKP031	332.080	335.690	3.610	>questa< io la chiamo la tristona (.) sempre triste::
+126	PKP012	337.360	343.220	5.860	no ma scusa avrà avuto posto per mettere anche i miei no (.) no i cosi
+127	PKP031	346.810	348.080	1.270	°eh adesso glielo diciamo°
+128	PKP031	356.470	356.740	0.270	°è là°
+129	PKP031	359.730	362.600	2.870	°xx igienizzo anche il telefono (.) ovviamente°
+130	PKP012	362.630	367.200	4.570	no io lo igienizzo sempre quando torno a casa (.) con l'alcol e una: [pezza]
+131	PKP031	365.940	366.570	0.630	[(°esatto°)]
+132	PKP031	379.570	381.350	1.780	°ieri son andato al parco di san giuliano°
+133	PKP012	381.845	382.305	0.460	ieri?
+134	PKP031	382.485	391.095	8.610	si c'era un sacco di gente ho visto che la cami ha fatto le storie che era al parco di san giuliano ho visto xxxxxxxxxxxxx (.) al parco di san giuliano,
+135	PKP031	392.380	393.220	0.840	e:::
+136	PKP031	394.180	397.580	3.400	eh (.) un sacco di gente c'era la coda che arrivava fin fuori
+137	PKP031	398.615	403.695	5.080	tutti quanti hanno pensato >è una bella giornata< andiamo: [invece di andare] in centro vado: al parco e:
+138	PKP012	401.360	409.630	8.270	[io: (.)] io pagherei oro per andare in montagna a farmi una camminata ma non posso farlo [perchè] sono fuori comune
+139	PKP031	407.670	408.480	0.810	[°perché no?°]
+140	PKP031	410.920	413.330	2.410	#[ma vara che ci si] può spostare fuori comu[ne.]
+141	PKP012	411.100	412.170	1.070	[non posso andare,]
+142	PKP012	413.170	413.550	0.380	[sì?]
+143	PKP031	414.925	419.155	4.230	non siamo [nella zona:] e però diciamo (sì) scusate [ragazzi qua:]
+144	PKP011	415.685	416.165	0.480	[°arrivano°]
+145	PKP012	417.930	418.400	0.470	[cioè ma?]
+146	PKP011	418.830	423.390	4.560	[sì ma:] quando ci portano la roba poi ci pen~ quando ci portano da bere [ci (portano)]
+147	PKP012	423.055	426.535	3.480	[sì vabbé] ma allora aspettiamo almeno che igienizzino [un attimo il tavolo]
+148	PKP011	425.860	426.590	0.730	[e: però]
+149	PKP011	427.630	429.240	1.610	°scusa (.) posso prenderti una sedia?°
+150	???	429.360	430.180	0.820	°>vai vai< pure°
+151	PKP011	440.535	442.345	1.810	e dopo la ale (.) non si può [sedere.]
+152	PKP031	442.095	444.985	2.890	[eh] eh la [ale sta in piedi non lo so]
+153	PKP012	442.715	446.845	4.130	[e le~ e:: per me] può stare anche a casa a sto [punto]
+154	PKP011	446.385	447.355	0.970	[ma po]verina?
+155	PKP012	447.275	449.285	2.010	[NO] ma [scusa] guarda che ore sono,
+156	PKP011	447.935	448.535	0.600	((ride))
+157	PKP038	449.290	452.840	3.550	>comunque< avete notato che la laura ah ha usato due scuse?
+158	PKP031	453.610	454.070	0.460	°cioè?°
+159	PKP038	454.100	457.510	3.410	((ride)) che prima mi ha detto che >doveva studiare le faccio< ma anch'io st~ devo studiare
+160	PKP011	457.520	458.860	1.340	°ma dopo deve uscire con matteo°
+161	PKP038	458.875	463.515	4.640	cioè tipo (.) ero tipo (.) ma michi? ((ride)) >e lei ha detto< tanto non me ne frega più
+162	PKP012	463.500	468.540	5.040	cioè cosa devo dirti? che studi e dopo che esca col moroso cosa ti devo dire,
+163	PKP011	468.565	469.065	0.500	°vabbè dai°
+164	PKP012	473.420	474.110	0.690	xxxx
+165	PKP011	473.420	474.110	0.690	((si spaventa))
+166	PKP011	475.640	477.800	2.160	grazie (.) aspetta (.) grazie ((ride))
+167	PKP038	477.800	478.860	1.060	non è molto igienico
+168	PKP011	478.905	480.945	2.040	mn vabbè tanto poi xxx[x]
+169	PKP031	480.800	481.560	0.760	[<i]cienico>
+170	PKP038	481.955	486.775	4.820	((ride)) io che provo a mettermi il semi~ permanente e lo metto solo su quattro dita ((ride))
+171	PKP012	486.780	487.630	0.850	e il quinto?
+172	PKP038	488.260	490.770	2.510	°non c'è° ((ride)) °ero (scarica)°
+173	PKP012	491.030	492.020	0.990	°vuole il gelato°
+174	PKP031	492.320	494.440	2.120	((canta))
+175	PKP038	495.905	496.405	0.500	GIANNI?
+176	PKP031	496.980	497.870	0.890	non so perchè mi x
+177	PKP038	497.860	499.430	1.570	ha portato sfiga quella canzone
+178	PKP031	499.440	501.920	2.480	(perché sono) andati in lock[down]
+179	PKP038	501.415	502.035	0.620	[sì]
+180	PKP011	502.120	502.820	0.700	quale canzone?
+181	PKP038	503.245	505.425	2.180	((canta))
+182	PKP031	508.020	510.860	2.840	MICHI or~ fra poco è ora di venire a vedere sanremo a casa [tua]
+183	PKP011	510.675	511.465	0.790	[sì] ((ride))
+184	PKP031	511.325	513.115	1.790	#[cioè no ze] che manca [tanto]
+185	PKP012	512.485	514.505	2.020	[non credo] che si possa fare sai
+186	PKP011	514.480	515.030	0.550	[beh dai]
+187	PKP031	514.480	516.910	2.430	[eh bisogna vedere ormai non si sa]
+188	PKP012	515.905	518.465	2.560	[è mio papà il problema] non vuole nes[suno in casa]
+189	PKP011	517.665	518.915	1.250	[vabbè ma fino] a febbraio
+190	PKP012	518.965	520.665	1.700	AH eh vediamo cosa dicono
+191	PKP011	520.740	521.660	0.920	e: esatto
+192	PKP031	522.485	524.545	2.060	>quindi< tu vuoi fare a pranzo? (.) due gruppi sep~
+193	PKP012	524.530	529.850	5.320	eh sì perchè è [impossibile se no] (.) o non si fa niente o si fa separati.
+194	PKP031	525.390	527.120	1.730	[x due tavoli separati?]
+195	PKP031	533.180	534.250	1.070	MA dove vuoi andare?
+196	PKP012	535.290	535.570	0.280	boh
+197	PKP031	536.845	538.435	1.590	è la xxxxxx quella?
+198	PKP038	539.775	540.275	0.500	°cosa?°
+199	PKP012	540.770	542.750	1.980	NAH: troppo figa
+200	PKP031	545.205	546.565	1.360	°sembra lei in realtà eh°
+201	PKP011	547.180	547.480	0.300	°ma chi?°
+202	PKP031	548.205	549.365	1.160	°quella in fondo col cane°
+203	PKP012	550.930	554.200	3.270	quella in fondo col [cane. sì (mi) pa~ pare]
+204	PKP031	551.860	553.230	1.370	xxxx ((ride))
+205	PKP011	553.380	554.230	0.850	[°(forse) sì°]
+206	PKP038	554.340	558.050	3.710	ma no: è la cosa [>come] si chiama< quella che abi[ta affianco a te]
+207	PKP012	555.830	556.220	0.390	[chi?]
+208	PKP031	557.000	558.940	1.940	[(però) però] c'[è:]
+209	PKP011	558.195	558.845	0.650	[la gioia?]
+210	PKP012	560.735	563.195	2.460	e:::h ((ride))
+211	PKP031	561.920	562.280	0.360	[boh]
+212	PKP011	562.525	563.485	0.960	[xxpo]ggiare?
+213	PKP012	564.040	565.540	1.500	EH NO poteva (appoggiare) là,
+214	PKP031	566.005	567.725	1.720	#x posa eà,
+215	PKP012	570.540	573.090	2.550	a questo punto anche il [mio compagno era autistico.]
+216	PKP038	571.820	574.230	2.410	[comunque si è laureata] con cento e nove mi sembra?
+217	PKP011	574.550	575.140	0.590	[se]
+218	PKP031	574.550	575.140	0.590	[sì]
+219	PKP012	575.620	575.830	0.210	[per~]
+220	PKP038	575.630	577.220	1.590	[e] con cento e sei alla triennale
+221	PKP038	579.960	580.790	0.830	poi cos'andrà a fare?
+222	PKP012	582.600	588.150	5.550	per fortuna hanno strappato: il volantino: da me non l'ho più trovato l'hanno [strappato]
+223	PKP031	587.780	588.620	0.840	[xxx] più:
+224	PKP011	602.755	603.055	0.300	>grazie<
+225	PKP012	604.490	605.040	0.550	oka:y
+226	PKP031	606.015	607.595	1.580	butta là che va [ben] ((ride))
+227	PKP012	607.085	607.705	0.620	[EH eh]
+228	PKP038	608.060	610.170	2.110	°son più simpatici (.) a xxx°
+229	PKP012	610.190	617.650	7.460	comunque xxxx [è chiuso (.) è chiuso e xxxxxxx è chiuso] quindi questa è l'unica opzione: [(possibile.)]
+230	PKP031	611.005	614.525	3.520	[lei è triste: (.) cioè la xxxx è simpa~]
+231	PKP031	616.800	619.460	2.660	[eh ma xxxx] non stai in piedi: [(cioè)]
+232	PKP011	618.295	618.890	0.595	[sì infatti]
+233	PKP011	618.890	619.650	0.760	
+234	PKP038	618.890	619.650	0.760	[sì appunto.]
+235	PKP012	621.420	624.790	3.370	però ha degli orari [stranissimi] perché [tipo fa]
+236	PKP031	622.420	623.070	0.650	[grazie]
+237	???	623.550	624.160	0.610	[tè caldo]
+238	PKP012	625.950	627.020	1.070	ah [grazie]
+239	PKP031	626.270	627.000	0.730	[té qui,]
+240	PKP038	627.310	627.830	0.520	°era il tuo?°
+241	PKP012	628.295	628.565	0.270	sì
+242	PKP038	632.780	634.330	1.550	cos'è in xx,
+243	PKP011	634.950	635.340	0.390	no
+244	PKP012	636.770	638.700	1.930	io l'ho appena tolto ce l'avevo rosso,
+245	PKP011	638.730	638.940	0.210	>grazie<
+246	PKP031	639.010	639.400	0.390	[°grazie°]
+247	PKP038	639.040	646.200	7.160	[(volevo) pro]vare quella lampada che ho comprato su amazon la lampada funziona gli smalti xxxxx (.) cioè puzzano
+248	PKP012	647.015	647.845	0.830	puzzano?
+249	PKP011	649.035	651.395	2.360	oh mio dio [questo (.) no:]
+250	PKP038	651.190	651.630	0.440	[>sen]ti<
+251	PKP012	651.725	653.395	1.670	ma è naturale sta cosa? ((ride))
+252	PKP038	653.435	653.995	0.560	non so:
+253	PKP038	654.780	655.960	1.180	[infatti pensavo] di::
+254	PKP031	654.790	655.580	0.790	[cosa il tè?]
+255	PKP011	655.945	656.815	0.870	[vuoi quello col (pigiama)?]
+256	PKP012	655.995	657.685	1.690	[NO lo smalto] xxxxx
+257	PKP011	659.935	661.535	1.600	((ride)) sapevo io,
+258	PKP011	661.710	662.030	0.320	>grazie<
+259	PKP031	662.100	665.220	3.120	beh signorina inglese che beve il té come le regine
+260	PKP012	665.175	666.905	1.730	ho mal di stomaco in realtà
+261	PKP012	668.735	670.625	1.890	però sì (.) è vero
+262	PKP031	670.615	671.835	1.220	tu sei un po' english
+263	PKP012	671.840	673.760	1.920	io sono un po' english dentro
+264	PKP011	674.385	675.275	0.890	sei un po' [xx?]
+265	PKP038	674.635	677.775	3.140	[infatti] pensavo di prendermi gli smalti quelli che usa la cris
+266	PKP031	677.790	679.410	1.620	>ho capito< gli <smarties>
+267	PKP011	679.435	680.295	0.860	smarties ((ride))
+268	PKP012	679.990	680.370	0.380	((ride))
+269	PKP011	681.440	682.840	1.400	gli smarties che usa la cris~
+270	PKP038	684.345	686.475	2.130	ma tanto era per provare la prima volta dai
+271	PKP011	689.080	689.880	0.800	°che disastro°
+272	PKP012	691.755	695.285	3.530	niente fiappa. o [sì] sì::: ((ride))
+273	PKP011	693.515	694.105	0.590	[SÌ::]
+274	PKP038	695.070	695.550	0.480	fiappa?
+275	PKP011	696.055	697.345	1.290	sì io la chiamo fiappa.
+276	PKP012	698.060	698.450	0.390	perché,
+277	PKP031	698.450	700.890	2.440	an (michi) michely [cuc]ciola?
+278	PKP012	700.450	700.700	0.250	[eh?]
+279	PKP012	701.870	705.130	3.260	CUCCIOLA: ((ride)) prendilo
+280	PKP011	702.900	703.640	0.740	[cucciola] ((ride))
+281	PKP031	705.185	707.275	2.090	ma va' i:n mosca va'
+282	PKP038	709.305	710.525	1.220	non c'erano [(questi qua) allora?]
+283	PKP031	709.915	711.745	1.830	[EH ma no] ma è una carta vabbè
+284	PKP012	711.730	712.690	0.960	e come?
+285	PKP031	712.725	714.345	1.620	faccio così (.) [guarda] (guarda)
+286	PKP012	713.690	713.940	0.250	[TO']
+287	PKP011	716.790	718.050	1.260	che disastro.
+288	PKP038	718.775	720.035	1.260	#ara che è sporca
+289	PKP031	720.670	722.040	1.370	vabbè >di di< di crema
+290	PKP038	729.990	733.210	3.220	°hanno sempre gli stessi modi di tenere le dita le [mani°]
+291	PKP012	732.965	735.945	2.980	[sì:] hanno:: come se fossero [spastici]
+292	PKP038	735.375	738.245	2.870	[°e e lo] sguardo (.) lo sguardo è ug~ è [sempre uguale°]
+293	PKP012	737.275	738.205	0.930	[<assente>]
+294	PKP038	738.825	741.535	2.710	°xx tipo: verso l'orizzonte proprio°
+295	PKP012	742.705	743.375	0.670	ascol~
+296	PKP038	744.590	749.030	4.440	sapete che è uscito: [(.)] è uscito il nuovo libro di xx
+297	PKP011	745.805	746.935	1.130	[no che paura,]
+298	PKP038	749.930	751.190	1.260	sempre su::
+299	PKP031	751.270	753.720	2.450	ov~ guarda che io seguo le tue stories [no]
+300	PKP038	753.310	753.740	0.430	[bravo]
+301	PKP012	754.090	754.690	0.600	((ride))
+302	PKP038	757.985	761.865	3.880	mi contattano addirittura da tiktok le ragazze per chiedermi del test
+303	PKP011	762.230	763.020	0.790	[davvero?]
+304	PKP031	762.240	763.010	0.770	[davvero?]
+305	PKP038	766.270	774.470	8.200	due che mi hanno chiesto la stessa identica cosa (.) solo che avevo tiktok collegato a lindymakeup? (.) e allora le ho mandate nell'altra pagina
+306	PKP011	775.450	776.470	1.020	((ride))
+307	PKP031	776.525	778.745	2.220	vabbé si son fatte una cultura di:
+308	PKP031	782.270	783.950	1.680	hai visto il video della silvy?
+309	PKP038	784.155	784.535	0.380	no
+310	PKP031	784.910	786.760	1.850	quello del~ della laurea.
+311	PKP011	793.860	794.830	0.970	<carino> dai
+312	PKP031	796.850	798.450	1.600	mah (>secondo me<) è anche bravina
+313	PKP011	798.705	799.745	1.040	(eravamo) tutti carini
+314	PKP038	800.320	800.980	0.660	ma cosa?
+315	PKP011	801.695	802.725	1.030	un video che >ha postato< [la bonny]
+316	PKP031	802.475	807.105	4.630	[la silvy] ha fatto dov~ do~ >quand'è che ha fatto< la festa di laurea [due: mesi fa?] (.) eh
+317	PKP011	805.305	806.365	1.060	[il cinque settembre]
+318	PKP038	807.120	807.720	0.600	°non l'ho visto°
+319	PKP031	807.745	808.525	0.780	è uscito il video
+320	PKP011	808.530	809.320	0.790	(sul) suo profilo
+321	PKP038	810.940	814.970	4.030	ah ieri sera che: il vicino è cascato non lo so:
+322	PKP012	815.490	816.190	0.700	EH:[:?]
+323	PKP038	816.105	818.425	2.320	[ma] di solito si ubriaca sempre alla grot[ta]
+324	PKP011	818.120	818.420	0.300	[chi?]
+325	PKP012	818.445	819.025	0.580	Ma chi:?
+326	PKP038	819.360	827.760	8.400	>il mio< vicino di casa (.) [è] arrivata l'ambulanza solo che (.) eh sono un po' particolari sono quelli che sono dopo daniele non so se [hai presente,]
+327	PKP011	820.475	820.935	0.460	[oh gesù]
+328	PKP012	827.540	829.890	2.350	[ah] okay si la casa di là okay
+329	PKP038	830.270	841.290	11.020	che: la tizia tipo: è la sua compagna °moldava (>rumena<)° [non mi] ricordo (.) ma è sempre piena o si drogava una volta o si ubriacava si ubriacava anche lei non so comunque °dorme sempre°
+330	PKP031	833.865	834.375	0.510	[umh]
+331	PKP031	841.835	842.765	0.930	[dorme sempre,]
+332	PKP012	841.840	842.760	0.920	[non la vedi MAI?]
+333	PKP038	842.645	847.105	4.460	[non] non si vede mai o prende anche i [sonniferi da quanto] ha detto l'altra vicina
+334	PKP031	845.060	845.880	0.820	[>arriva la ale<]
+335	PKP038	847.555	857.385	9.830	e e >allora< siam stati tipo tremila ore [a suo]nare che n~ non si reffava [perché non] sapevano (.) data [di nascità] e carta d'identi~ [e tutti i documenti no?]
+336	PKP011	849.645	850.055	0.410	[eh:]
+337	PKP031	851.565	852.295	0.730	[>adesso< vediamo]
+338	PKP031	853.685	854.615	0.930	[°>più che altro< come°]
+339	PKP012	855.635	859.425	3.790	[fammi capire] questo si è ubriacato hanno chiamato l'ambulanza perché?
+340	PKP038	860.155	861.115	0.960	è >CADUTO<
+341	PKP012	861.335	861.805	0.470	AH::
+342	PKP038	861.835	863.015	1.180	e aveva sangue dall'orecchio
+343	PKP012	863.060	864.220	1.160	OH santo dio
+344	PKP011	864.255	864.805	0.550	madonna
+345	PKP124	864.915	865.845	0.930	ma buonasera
+346	PKP011	865.855	867.025	1.170	[<ciao>] [anto]
+347	PKP031	865.855	866.315	0.460	[ciao]
+348	PKP038	866.475	867.355	0.880	[non puoi] stare qua
+349	PKP011	867.520	868.890	1.370	ma sì ma adesso adesso
+350	PKP031	869.910	871.060	1.150	no davvero °come facciamo°
+351	PKP124	871.055	871.795	0.740	me ne [vado via allora?]
+352	PKP011	871.060	877.440	6.380	[no (.) adesso che finisco io] aspetta, adesso che finisco io la faccio sedere e io se sto in piedi dietro la [michi è un problema?]
+353	PKP038	871.795	873.565	1.770	[due (.) no due vanno là]
+354	PKP124	876.685	877.415	0.730	[°no okay°]
+355	PKP124	878.170	880.520	2.350	eh che vado dentro a chiedere mi: mi sparano?
+356	PKP011	880.980	881.420	0.440	°non lo so°
+357	PKP031	882.255	885.735	3.480	magari di che [sei fratello di qualcun~ >sorella< di qualcuno] non so
+358	PKP011	882.780	884.920	2.140	[vabbè (.) intanto comincia:]
+359	PKP038	884.960	885.500	0.540	((ride))
+360	PKP038	885.820	886.720	0.900	xxx (due)
+361	PKP012	887.120	887.630	0.510	<t[uo>]
+362	PKP011	887.270	888.000	0.730	[(vai] ale)
+363	PKP124	888.020	889.780	1.760	no no ma xx ti [ma ti pare?]
+364	PKP031	888.935	889.775	0.840	[qualched'un,]
+365	PKP011	889.770	890.580	0.810	ho finito?
+366	PKP031	891.480	895.270	3.790	[però ragazzi] °non c'è° effettivamente non c'è che sia [tanta gente]
+367	PKP011	891.500	891.980	0.480	[ho finito]
+368	PKP038	894.630	896.870	2.240	[lo] stesso modo di camminare [hanno °gli autistici°]
+369	PKP011	896.080	896.900	0.820	[si beh in effetti]
+370	PKP031	897.805	899.035	1.230	prova a [chiedere ale]
+371	PKP038	898.205	899.025	0.820	[li vedi proprio]
+372	PKP012	899.120	899.930	0.810	<rigido>
+373	PKP038	900.560	902.620	2.060	si:: e poi tipo traballante
+374	PKP012	903.375	909.025	5.650	allora anche il mio compagno era autistico ma non lo dava tantissimo a vedere a parte quelli spasmi che aveva
+375	PKP038	910.525	914.715	4.190	se urla e non parla è autistico se~ se [no è] asperger
+376	PKP012	913.495	914.335	0.840	[urlava]
+377	PKP012	915.570	917.530	1.960	non so urlava e [si::]
+378	PKP038	916.645	917.525	0.880	[e parla] poco
+379	PKP038	917.730	918.220	0.490	°di solito°
+380	PKP012	919.390	921.360	1.970	dava le testate sul banco a volte
+381	PKP038	922.570	923.580	1.010	ma parlava?
+382	PKP012	923.560	923.840	0.280	sì
+383	PKP012	926.865	929.385	2.520	tipo l'homo sapiens sapiens in storia
+384	PKP012	929.630	930.710	1.080	tipo:: roberto
+385	PKP031	929.705	930.155	0.450	((ride))
+386	PKP038	930.715	931.795	1.080	e allora è asperger
+387	PKP012	932.050	932.430	0.380	cioè?
+388	PKP038	932.420	946.300	13.880	perché s~ gli asperger sono molto più se~ ehm sempre una parte dell'autismo però gli asperger rispetto agli autistici sono dei GENI in un determinato ambito e materia come come XXXX
+389	PKP038	948.045	956.415	8.370	e: non non hanno tutto questo blocco [però] ogni tanto hanno: gli spasmi e:[:] (.) i tic anche loro
+390	PKP011	950.140	950.590	0.450	[°buono°]
+391	PKP012	954.250	954.930	0.680	[i tic]
+392	PKP012	956.960	963.250	6.290	sì perchè tipo [si dava (.) si] dava le testate sul banco a volte e dovevano portarlo fuori
+393	PKP038	957.570	959.160	1.590	[e si isolano dalla gente]
+394	PKP038	963.260	974.370	11.110	tipo per esempio il bambino asperger che avevo in ludoteca (.) si fissano con una persona in particolare tipo si era fissato con me voleva giocare <SOLO> con [me (.) e se]
+395	PKP031	972.140	973.780	1.640	[solo con una persona si:]
+396	PKP012	973.810	976.320	2.510	[e quando] non potevi stargli dietro cosa faceva?
+397	PKP012	976.970	977.580	0.610	urlava?
+398	PKP038	977.900	978.910	1.010	no disastro
+399	PKP038	979.760	994.230	14.470	nella stanza era il disastro (.) [lanciava le cose (.) si agitava ed era meglio e dove]vi chiamare i suoi genitori perché se no era impossibile fermarlo >oppure< dovevi: portarlo fuori dalla stanza e riuscire a calmarlo un minimo
+400	PKP031	981.650	985.770	4.120	[>quindi< è anche per questo che magari devono: avere qualcuno che li segua]
+401	PKP038	995.080	1002.370	7.290	ti[po è successo] che gli ho detto no dobbiamo imparare a gioca~ c'erano prima loro volevano >giocare anche loro< giochiamo anche con loro si è AGITATO
+402	PKP031	995.150	995.830	0.680	[ma lui:?]
+403	PKP012	1003.380	1003.740	0.360	ciao
+404	PKP038	1003.820	1009.070	5.250	dopo son riuscita a calmarlo (u)n attimo e si è seduto ha aspettato gli ho detto dopo giochiamo solo io e te
+405	PKP031	1010.060	1010.590	0.530	ma:[:]
+406	PKP011	1010.080	1011.760	1.680	[invece] adesso come sta andando?
+407	PKP038	1012.560	1015.360	2.800	adesso non sono neanch'ora fis[sa] (.) ((ride))
+408	PKP011	1013.625	1017.345	3.720	[<lo so lo so> dico:] (.) era [per cambiare (argomento)]
+409	PKP038	1015.900	1018.590	2.690	[la quinta è <to]sta> (.) [la quinta è tosta]
+410	PKP031	1017.240	1020.790	3.550	[ma: come sono sti] ragazzini di adesso? perchè ormai [sono ragazzini]
+411	PKP011	1020.070	1020.850	0.780	[si infatti]
+412	PKP038	1022.730	1031.660	8.930	GUARDA SE TI DICO <SOLO> CHE MI HANNO DETTO CHE LA TRAP  è migliore di qualsiasi altra musica esistente al mondo (.) e mi sono incazzata [nera]
+413	PKP011	1029.430	1031.520	2.090	((ride)) [già]
+414	PKP011	1031.640	1033.290	1.650	[(è lunga)] ((ride))
+415	PKP031	1031.660	1035.090	3.430	[ma:: com~] cioè vengono già un po' infighettiti non so co[sì]
+416	PKP038	1034.900	1035.200	0.300	[sì]
+417	PKP011	1035.510	1036.030	0.520	davvero?
+418	PKP031	1036.060	1038.490	2.430	cioè anche mia cugina [è in quin]ta [ma è (u)na santa]
+419	PKP012	1036.990	1037.370	0.380	[UHM]
+420	PKP011	1037.485	1038.495	1.010	[che xx che è]
+421	PKP038	1040.370	1046.040	5.670	però cioè: (.) [c'era una] sì [ehm] che la chiamerò xxxx
+422	PKP012	1041.550	1042.480	0.930	#[anca massa]
+423	PKP031	1043.110	1043.280	0.170	[eh]
+424	PKP011	1046.510	1046.850	0.340	ottimo
+425	PKP011	1047.310	1048.440	1.130	((ride)) [xx]
+426	PKP031	1047.340	1049.480	2.140	>perché< viene [sempre] lì MAESTRA le va
+427	PKP038	1050.210	1051.400	1.190	NO (.) al~ l'ho chiamata
+428	PKP038	1052.170	1058.090	5.920	[abbiamo] fatto un ripasso di geometria perché >la sua maestra< mi ha detto di non andare avanti io non sono andata avanti ma ho fatto fare un ripasso no?
+429	PKP031	1052.200	1052.570	0.370	[eh]
+430	PKP038	1058.860	1068.600	9.740	gli ho detto di disegnarmi la <simmetria> e spiegarmi che cos'era visto che avevano fatto i disegnetti (.) mi ha fatto il disegno del retta~ gli ho detto fammi un ret[tangolo] che >almeno è semplice< no?
+431	PKP011	1067.110	1067.530	0.420	[eh]
+432	PKP038	1069.020	1085.620	16.600	ha guarda~ ha contato puntini per puntini e fa okay questo è un quadratino [e vale U]NO di [adesso facciamo] due [un] su uno [e si fa su altri qui così] e poi tipo qua l'altro giorno prima quando io ho fatto correggere le operazioni le ho fatto fare una divisione no?
+433	PKP011	1072.920	1073.630	0.710	[e:: eh]
+434	PKP011	1074.540	1075.080	0.540	((ride))
+435	PKP031	1075.700	1076.020	0.320	[eh,]
+436	PKP011	1076.780	1078.680	1.900	[eh:: brava <scusa>]
+437	PKP038	1085.930	1098.840	12.910	e faceva le >divisioni< ogni volta quando fa (.) MA C'È UN PROBLEMA, perché [per arrivare a questo] (.) sì però è anche xxxx posso dire la prendono in giro [tutti ti credo che la >prendono in giro< fa la fa la sapientina]
+438	PKP031	1090.690	1091.880	1.190	[vabbè <brava:>]
+439	PKP011	1095.730	1100.260	4.530	((ride)) (.) poverina tu come maestra devi difenderla]
+440	PKP012	1098.815	1101.795	2.980	[MA ALMENO sa ci arriva] cioè il concetto è quello
+441	PKP031	1101.760	1105.280	3.520	[cioè (.) l~ l'ha racconta quando va a fare insomma]
+442	PKP038	1101.780	1106.780	5.000	[sì però sai (.) ma anche gli altri ci arrivano non è che] fanno tutte xx
+443	PKP011	1102.585	1105.665	3.080	((ride)) (.) [(che disperazione)]
+444	PKP038	1108.290	1110.020	1.730	la <leccaculo> praticamente
+445	PKP031	1110.500	1111.180	0.680	((ride))
+446	PKP011	1111.220	1111.940	0.720	((ride))
+447	PKP038	1112.040	1113.550	1.510	xx la leccacu[lo]
+448	PKP011	1112.870	1114.740	1.870	[che catti:va] ((ride))
+449	PKP031	1114.440	1116.040	1.600	[ma] >perché< faceva così anche la giulia?
+450	PKP012	1117.160	1119.130	1.970	no vabbè ma [non si può far] così scusa
+451	PKP038	1117.880	1118.690	0.810	[non te la ricordi?]
+452	PKP031	1119.380	1120.800	1.420	sì ma più che altro alle medie.
+453	PKP038	1120.920	1129.520	8.600	ma più che [altro cioè] (.) un conto è dire sono intelligente son brava ci arrivo (.) però sono umile (.) [un conto]
+454	PKP011	1121.380	1122.450	1.070	[°(non) sto capendo°]
+455	PKP011	1127.700	1129.430	1.730	[vabbè okay però:]
+456	PKP012	1129.890	1131.600	1.710	[ma magari è figlia unica,]
+457	PKP038	1129.920	1141.800	11.880	[e fare proprio la (lecchina)] e proprio in mensa: fa[ceva come la giulia e fa](.) <maestra> [è] il momento giusto per cambiare di posto quelle persone là quelle persone là (.) [e faceva la spia e a un] certo punto
+458	PKP012	1133.090	1134.090	1.000	[°magari è figlia unica°]
+459	PKP031	1135.645	1135.895	0.250	[no]
+460	PKP011	1140.080	1141.550	1.470	((ride))
+461	PKP031	1141.825	1143.495	1.670	faceva la mae~ la ma~ la maestrina
+462	PKP011	1143.480	1145.170	1.690	[xxx] ((ride))
+463	PKP038	1145.000	1157.400	12.400	(poi) ho detto ragazzi comunque n~ e poi anche in giardino mi veniva a dire le cose degli altri gli faccio (.) guarda che (.) non si fa la spia se c'è un detto chi fa la spia non fa la fine di non è figlio di [maria no?]
+464	PKP011	1157.080	1162.410	5.330	[ti ha risposto] mia mamma non si chiama maria ((ride)) ci mancava solo quello, ((ride))
+465	PKP038	1162.460	1174.850	12.390	cioè (.) non è un bel modo poi quando spiegavo le cose lei era sempre che alzava le mani >alzava le mani< gli faccio no basta laura [faccio parlare qual~ (.) fa~] (.) faccio parlare qualcun'altro so che le sai le cose
+466	PKP012	1169.130	1171.150	2.020	[<laura> (.) <laura>]
+467	PKP011	1169.700	1171.150	1.450	[laura] ((ride))
+468	PKP031	1174.920	1175.320	0.400	((ride))
+469	PKP038	1175.080	1175.630	0.550	eh:
+470	PKP011	1176.120	1179.550	3.430	#laura laura (.) so fia so bea
+471	PKP012	1179.935	1180.685	0.750	<laura>
+472	PKP038	1180.830	1185.530	4.700	e la pren[dono tutti in giro] e non [ha amici] ma (.) [ci credo se hai un atteggiamento così:]
+473	PKP031	1181.150	1182.140	0.990	#[so fiha]
+474	PKP011	1182.260	1182.900	0.640	#[°so fiha°]
+475	PKP011	1183.450	1186.420	2.970	[poverina (.) aiutala,]
+476	PKP031	1187.135	1187.585	0.450	e:h
+477	PKP031	1188.005	1191.945	3.940	>comunque queste< queste persone con la flavia hanno vita breve abbiamo capito
+478	PKP011	1189.380	1191.480	2.100	((ride))
+479	PKP012	1191.930	1194.300	2.370	no vabbé ma ci sono anche loro non puo[i::]
+480	PKP011	1193.940	1194.290	0.350	[eh]
+481	PKP038	1194.370	1200.550	6.180	sì appunto non ci sei solo tu (.) [lei pensa di essere so]lo lei di esser la più intelligente al mon[do,]
+482	PKP011	1196.805	1198.055	1.250	[°l'abbiamo: persa°]
+483	PKP011	1200.085	1200.565	0.480	[°un po'°]
+484	PKP011	1203.620	1204.670	1.050	°quello è uno o x°
+485	PKP012	1204.670	1207.010	2.340	mi sa che non gli concedono [la se]dia in più
+486	PKP031	1205.860	1206.310	0.450	[no]
+487	PKP011	1207.010	1207.890	0.880	no:::
+488	PKP012	1207.940	1209.240	1.300	eh: sono le regole
+489	PKP031	1209.710	1211.560	1.850	eh ci dobbiamo:: [(dividere)]
+490	PKP011	1210.835	1214.435	3.600	[dai adesso] divido (.) adesso mi g[iro]
+491	PKP012	1210.965	1212.225	1.260	[QUALCUNO::]
+492	PKP038	1211.890	1213.340	1.450	[°beppe dividi tu°]
+493	PKP031	1213.660	1215.640	1.980	°[ma] perché io mi sporco sempre°
+494	PKP038	1218.590	1219.160	0.570	°puoi sì?°
+495	PKP011	1219.290	1219.830	0.540	grande,
+496	PKP124	1221.560	1222.650	1.090	°sto un po' così,°
+497	PKP031	1222.745	1224.415	1.670	ah okay x va ben dai
+498	PKP031	1227.415	1230.765	3.350	se arriva la polizia: siamo fratelli °ale°
+499	PKP011	1228.510	1232.430	3.920	((ride))
+500	PKP124	1230.780	1231.290	0.510	°((ride))°
+501	PKP012	1231.350	1233.440	2.090	beh avete la stessa carnagione:
+502	PKP124	1233.430	1236.240	2.810	°vabbé: [ma mi xxx]xxx°
+503	PKP011	1234.105	1234.985	0.880	[sorella dai]
+504	PKP038	1234.275	1234.935	0.660	((ride))
+505	PKP011	1236.340	1239.380	3.040	°ma tu devi mangiare (.) ti avvicini e io mi allontano.
+506	PKP124	1239.380	1241.900	2.520	°io non prendo niente [da mangiare°] ((ride))
+507	PKP011	1240.485	1242.395	1.910	[come non prendi niente?] da bere,
+508	PKP011	1243.335	1244.715	1.380	((ride))
+509	PKP124	1244.785	1245.985	1.200	come state [cari?]
+510	PKP011	1245.510	1249.700	4.190	[ho fatto] la merenda dei nonni (.) mi piace tan[to la merenda dei nonni]
+511	PKP031	1246.010	1246.740	0.730	[be::ne]
+512	PKP031	1247.740	1250.360	2.620	[ho >ho preso< beppe] si è preso la fiappa
+513	PKP011	1250.000	1251.610	1.610	((ride)) >mi son preso< la fiappa
+514	PKP031	1252.265	1255.705	3.440	io mi son preso non so come si un cannolino con la [crema >tu cosa ti sei presa?<]
+515	PKP038	1254.330	1256.330	2.000	[comunque la cosa importante]
+516	PKP124	1255.730	1256.930	1.200	[>ho preso< uno] spritz
+517	PKP031	1256.960	1259.460	2.500	AH:: (.) [hai capito]
+518	PKP124	1258.360	1261.510	3.150	[no ora basta cibo:: °pieno di zucchero°]
+519	PKP038	1259.595	1266.285	6.690	[comunque la cosa importante] è che quando vai a insegnare (.) non devi <mostrare> che è la [tua prima volta]
+520	PKP124	1265.360	1266.320	0.960	[°cosa mi dici?°]
+521	PKP031	1266.355	1269.445	3.090	eh beh no: [però con i bambini è più faci]le dai:
+522	PKP038	1267.345	1268.105	0.760	[e non devi,]
+523	PKP011	1268.110	1268.850	0.740	[°ale?°]
+524	PKP038	1269.460	1270.775	1.315	no no (.) <fiutano la paura>
+525	PKP011	1270.775	1273.365	2.590	a:h ((ride))
+526	PKP124	1271.260	1272.370	1.110	((ride))
+527	PKP038	1272.405	1273.755	1.350	sono [come] i cani,
+528	PKP031	1272.990	1274.880	1.890	[e tu] devi stare [<tranquilla>]
+529	PKP011	1273.755	1274.895	1.140	[settimana frizzantina]
+530	PKP038	1274.900	1289.135	14.235	>devi stare tranquillo< e devi far vedere che <sai le cose> [e se e: se non sai cosa devi fa]re (.) [ti f~ prepari un discorso fai il gioco della presentazio]ne fai tutto (.) [PE]RO devi essere sicuro di te stes[so]
+531	PKP011	1277.640	1280.520	2.880	((ride)) [nel senso di xxx]
+532	PKP031	1278.100	1281.810	3.710	[tu devi far finta di: di di averlo fatto da sempre]
+533	PKP124	1282.000	1285.560	3.560	[beh ce li ho io comunque xx (.) i xgli]
+534	PKP011	1286.260	1286.850	0.590	[°che (poco)°]
+535	PKP011	1288.740	1291.950	3.210	[°io xxxxxxxx°]
+536	PKP031	1289.250	1292.190	2.940	[beh certo (.)] tu devi far finta di insegnare
+537	PKP038	1292.310	1295.390	3.080	guarda che i bambini [son peggio dei] ragazzi e degli adulti
+538	PKP031	1293.345	1294.395	1.050	[da una vita]
+539	PKP011	1295.530	1296.530	1.000	[°sei fortunella°]
+540	PKP124	1297.220	1299.220	2.000	°ma guar[da è] lo stesso°
+541	PKP031	1297.725	1298.085	0.360	[sì:]
+542	PKP011	1299.235	1300.615	1.380	sei fortu (.) nella
+543	PKP038	1300.945	1304.555	3.610	però è bello dà soddisfazione (.) poi gli ho fatto vedere anche,
+544	PKP011	1302.320	1303.290	0.970	((ride))
+545	PKP031	1304.540	1305.570	1.030	ma c'è [la lim?[
+546	PKP124	1304.850	1309.060	4.210	[°son tornata a casa però mi sa che (la) prossima settimana] torno su a ve[rona°]]
+547	PKP038	1305.670	1306.310	0.640	[°sì°]
+548	PKP012	1306.500	1307.110	0.610	[UMH]
+549	PKP012	1307.970	1308.780	0.810	[fortunati]
+550	PKP038	1308.210	1311.610	3.400	[io tipo a ma]tematica ho utilizzato un sacco la lim anche in scienze
+551	PKP124	1312.500	1315.990	3.490	[(fare) anche altro e non solamente quello:] ((ride))
+552	PKP038	1312.505	1317.355	4.850	[gli ho messo (tutto) sugli scienziati: gli ho messo xxxxx]
+553	PKP012	1315.300	1317.440	2.140	[che figo posso venire anche io?[ ((ride))
+554	PKP038	1318.030	1328.960	10.930	beh ieri gli ho messo il film di [paperino e la matemagica: (.) e gli ho fatti ragionare sulla matematica sulla geometria su quanto è importante nella vita di tutti i giorni:]
+555	PKP011	1319.960	1321.590	1.630	[°no: devi fare conoscenze°]
+556	PKP012	1321.270	1322.880	1.610	[CHE BELLO::]
+557	PKP031	1321.900	1322.880	0.980	[ah: che bello]
+558	PKP124	1322.990	1330.390	7.400	[e anche la anche la mia coinquilina è uscita con un tipo (che ha conosciuto) su tinder (.) o oggi (.) o ieri]
+559	PKP011	1323.200	1324.460	1.260	((ride))
+560	PKP011	1326.980	1327.880	0.900	[e va bene]
+561	PKP012	1328.540	1332.080	3.540	[BEPPE BEPPE (.) scena] cane piccolo e cane gr[ande]
+562	PKP038	1331.560	1334.220	2.660	[oh mio dio (.) ma è bellissimo?]
+563	PKP012	1332.325	1334.155	1.830	[guarda (.) guarda?]
+564	PKP031	1333.195	1334.215	1.020	[°è bellissimo°]
+565	PKP012	1335.275	1335.585	0.310	ah
+566	PKP038	1335.625	1336.555	0.930	è il xxx
+567	PKP012	1337.035	1337.945	0.910	[>guarda guarda guarda<]
+568	PKP124	1337.070	1338.480	1.410	#[ma costerà dosen]to euro
+569	PKP011	1338.705	1339.525	0.820	°io ho paura°
+570	PKP038	1339.975	1342.155	2.180	è bellissimo lo voglio [miche(la)]
+571	PKP124	1341.560	1347.310	5.750	[ah comunque pensavo di prendermi un'altra gatta per: (.) o o natale o >il mio compleanno<] ((ride))
+572	PKP012	1342.150	1343.560	1.410	[È anche troppo grande]
+573	PKP038	1343.560	1345.610	2.050	[xx da cuccioli xxxx]
+574	PKP012	1345.620	1346.970	1.350	[è un orsetto.]
+575	PKP038	1347.560	1348.520	0.960	sì appunto,
+576	PKP012	1348.600	1349.700	1.100	è un orsetto
+577	PKP031	1350.580	1351.870	1.290	°xxxxx [rossetto°]
+578	PKP124	1350.900	1355.100	4.200	[così::] no è troppo viziata la mia (.) ha bisogno di un [po' di:]
+579	PKP011	1354.250	1357.970	3.720	[così una] te la tieni a verona ((ride)) una te la tieni a casa ((ride))
+580	PKP124	1357.005	1357.775	0.770	°grazie°
+581	PKP124	1358.835	1360.365	1.530	#a verona: go massa da fare
+582	PKP011	1360.395	1360.935	0.540	((ride))
+583	PKP012	1361.375	1367.815	6.440	madonna è gi~ è gigante è pi[eno di pelo (.) (dovresti:) (.) no è qua] ((ride))
+584	PKP011	1363.120	1364.310	1.190	[°no no che paura x°]
+585	PKP124	1364.030	1367.300	3.270	[sì che poi lo dovresti lavare ogni tanto non è che lo puoi tenere:]
+586	PKP031	1364.190	1365.410	1.220	[°si alza in piedi il cane]
+587	PKP038	1364.650	1367.470	2.820	[no è bellissimo che coccoloso xxx]
+588	PKP011	1367.980	1370.080	2.100	sì ma mi butta giù [xx]
+589	PKP038	1369.225	1371.255	2.030	[quello è quello] che vuole mia mamma [invece]
+590	PKP011	1370.715	1371.625	0.910	[è alto] quanto me,
+591	PKP012	1371.180	1371.880	0.700	[non mi] piace
+592	PKP011	1372.535	1377.075	4.540	((ride)) (.) s~ sì infatti
+593	PKP031	1372.535	1374.475	1.940	però è bello [(così) è molto bello]
+594	PKP012	1373.675	1374.265	0.590	[mhm:h]
+595	PKP124	1374.620	1376.910	2.290	[no ma sai a tenerlo quel cane]
+596	PKP124	1377.550	1380.330	2.780	non ce la fai neanche (.) o ti [fai::]
+597	PKP038	1379.645	1381.385	1.740	[ma ce l'ha] naturali?
+598	PKP011	1383.430	1386.410	2.980	(però) ((ride)) [<contabile>]
+599	PKP124	1384.190	1388.500	4.310	[<minchia> (.) ma hai fatto] hai fatto hai fatto i conti ((ride)) per xxxxx
+600	PKP012	1388.565	1390.515	1.950	CERTO per essere precisa
+601	PKP124	1390.540	1393.480	2.940	ma io mi fido::? [°che ci siano tutti°] ((ride))
+602	PKP012	1391.495	1393.325	1.830	[CONTALI (.) contali]
+603	PKP011	1392.785	1395.400	2.615	((ride)) contabile (.) comunque:
+604	PKP124	1395.495	1397.615	2.120	no vabbè mi fido (ecco)
+605	PKP124	1399.640	1404.520	4.880	>tra l'altro< devo pagare anche internet di verona (.) AH (.) volevi un po' di moneta?
+606	PKP011	1404.575	1407.595	3.020	°no grazie cara° ((ride))
+607	PKP038	1411.400	1416.270	4.870	quindi io andre lo vedrò:: l'otto dicembre si si spera ((ride))
+608	PKP011	1413.750	1414.270	0.520	((ride))
+609	PKP124	1416.760	1420.600	3.840	ma ti conveniva andar su due settimane [fa piuttosto]
+610	PKP012	1419.225	1421.535	2.310	[ma come facev~ come (.) sì vabbè]
+611	PKP011	1420.320	1421.450	1.130	[eh ma: >non poteva<]
+612	PKP038	1420.930	1423.180	2.250	[sì però] con xxx [non potevo,]
+613	PKP124	1422.420	1423.520	1.100	[(avevi) deciso] però:
+614	PKP038	1424.730	1425.720	0.990	con xxx non potevo
+615	PKP011	1425.700	1427.330	1.630	xxxx ha cosato
+616	PKP031	1427.360	1430.270	2.910	perché xxx ha già chiuso [le province >aveva già chiuso le<]
+617	PKP124	1428.560	1429.160	0.600	[ah sì?]
+618	PKP011	1429.190	1429.850	0.660	[°sì°]
+619	PKP038	1429.580	1433.240	3.660	[eh ma:] già ancora: (.) [prima che par]tissi
+620	PKP031	1431.920	1432.610	0.690	[°madonna°]
+621	PKP031	1433.290	1437.800	4.510	>quindi< loro sono zonA gialla ma in realtà è come se fossero [zona rossa (.) cioè]
+622	PKP011	1435.985	1437.045	1.060	[sì infatti]
+623	PKP038	1436.390	1437.190	0.800	[zona rossa]
+624	PKP124	1436.770	1437.500	0.730	[rossa:]
+625	PKP012	1437.230	1439.230	2.000	[no ma è] XXX proprio che è:
+626	PKP038	1439.215	1441.215	2.000	è è è xxx che mi ostacola
+627	PKP011	1441.530	1443.020	1.490	[per colpa di xxx]
+628	PKP031	1441.675	1442.505	0.830	((ride))
+629	PKP038	1442.690	1447.630	4.940	[infatti] volevo cre~ volevo: volevo fargli tipo un regalino [ad andre]
+630	PKP011	1446.380	1451.280	4.900	[a xxx] ah ((ride))
+631	PKP012	1448.045	1451.485	3.440	((ride)) (.) [ha fatto la battuta]
+632	PKP031	1448.855	1449.505	0.650	[cioè:]
+633	PKP038	1449.940	1454.850	4.910	[volevo fargli tipo] il calendario dell'avvento (.) [però non so] come costruì~ e~ esatto
+634	PKP011	1452.660	1453.790	1.130	[e (mandarglielo)]
+635	PKP012	1455.050	1459.610	4.560	avete visto che hanno già messo le luminarie le hanno messe venerdì (.) [mattina] (.) guarda?
+636	PKP011	1458.420	1458.990	0.570	[di già:?]
+637	PKP124	1459.600	1463.640	4.040	sì [ma anche in] xxx c'erano già tutte at[taccate (.) è] mio?
+638	PKP038	1459.710	1460.510	0.800	[oh è vero]
+639	PKP031	1460.075	1460.495	0.420	[se]
+640	PKP031	1461.700	1463.100	1.400	[è vero ho visto anch'io]
+641	PKP124	1464.040	1467.190	3.150	>è mio< ((ride)) non me l'aspettavo (.) grazie
+642	???	1467.240	1467.750	0.510	prego
+643	PKP124	1468.020	1468.780	0.760	quanto ti devo?
+644	???	1469.480	1469.990	0.510	due e cinquanta
+645	PKP038	1470.820	1472.300	1.480	ma paghiamo tutto dopo no?
+646	PKP031	1472.325	1473.025	0.700	°sì andiamo,°
+647	PKP012	1473.005	1479.135	6.130	paghiamo (.) o <adesso> cioè [ragazzi (.) dopo xx (.) DOPO uno alla volta] (.) vabbè
+648	PKP011	1475.000	1478.370	3.370	[dai facciam dopo (.) ((ride)) sì (esatto)]
+649	PKP031	1475.850	1478.370	2.520	[facciamo uno alla volta dopo così facciamo]
+650	PKP124	1481.580	1482.790	1.210	è due e cinquanta
+651	???	1483.470	1483.790	0.320	[grazie]
+652	PKP038	1483.485	1485.355	1.870	posso chiederti un bicchiere d'acqua?
+653	???	1485.650	1486.470	0.820	>naturale frizzante<?
+654	PKP038	1486.635	1487.495	0.860	e: naturale
+655	PKP011	1488.465	1489.205	0.740	non puoi
+656	PKP038	1489.475	1492.000	2.525	°perché? (.) prendo solo il (cioccolato)°
+657	PKP011	1492.010	1493.550	1.540	l'ho deciso [io xxx]
+658	PKP031	1492.400	1495.350	2.950	[si può prendere] solo una cosa ((ride)) [pensa se]
+659	PKP124	1493.740	1495.360	1.620	[(due) euro e cinquanta?]
+660	PKP038	1495.610	1496.450	0.840	no vab[bé l'acqua]
+661	PKP124	1496.010	1500.800	4.790	[(due) euro e cinquanta xxx] minchia [io vengo qua eh:]
+662	PKP031	1496.690	1497.980	1.290	no:: sto scherzando
+663	PKP038	1498.920	1501.860	2.940	a parte che giù te la regala[no] ((ride))
+664	PKP011	1500.385	1501.515	1.130	[°si fatto sempre:°]
+665	PKP124	1501.910	1503.590	1.680	#ara gianni che ze tutto mio [questo vero?]
+666	PKP038	1502.675	1510.295	7.620	[e comunque dicevo che volevo fare] sto: >calendario dell'[avvento< ma (non sapevo) come farlo quindi mia mamma mi ha dato uno spunto e penso f~] che farò proprio così
+667	PKP011	1503.540	1504.810	1.270	((ride)) [°ma era suo°]
+668	PKP011	1505.860	1509.900	4.040	[°ma come xx fai a mangiare? xx xxxxx]
+669	PKP011	1510.275	1511.265	0.990	°ti ha dato uno s[puto?°]
+670	PKP012	1510.615	1512.155	1.540	[glielo invii] per posta?
+671	PKP038	1512.680	1513.310	0.630	con le poste?
+672	PKP011	1513.270	1514.670	1.400	>ma sapete< xx
+673	PKP124	1514.690	1519.260	4.570	°comunque: ho [ascoltato il discorso di kamala mi sono: commossa xx°]
+674	PKP038	1515.220	1519.270	4.050	[volevo prendere tipo i sacchett~ avete presente quelli trasparenti colorati?]
+675	PKP011	1519.250	1522.340	3.090	xx devo ancora ascoltarli (.) cioè non ho [visto:]
+676	PKP124	1521.570	1526.290	4.720	[joe ho iniziato] a ascoltarlo però [poi mi stavo annoiando (.) mi spiace]
+677	PKP031	1522.060	1522.350	0.290	[EH]
+678	PKP038	1522.850	1523.290	0.440	[sì]
+679	PKP031	1523.520	1524.360	0.840	[mi confond(i)]
+680	PKP038	1524.680	1536.960	12.280	[volevo mettergli: dei cioc]colatini in ogni sacchetto (.) e delle foto nostre tipo] piccole così[: plastificate (.) con un nastrino in modo che lo può attaccare nell'albero di natale]
+681	PKP011	1525.740	1529.750	4.010	((ride)) [io sono contento per kamala che non (per biden)] ((ride))
+682	PKP124	1530.520	1540.620	10.100	[è xxx un bel discorso: carattere tipo: empowerment cioè vedi che vedete che io sono arrivata qua anche per le bambine che sono a casa,]
+683	PKP031	1537.365	1537.955	0.590	[bello?]
+684	PKP012	1538.115	1539.700	1.585	[WOW: (.) originale]
+685	PKP038	1539.110	1544.600	5.490	[e dopo] o: magari scrivere (dietro) [anche le foto tipo ti amo perché: robe così]
+686	PKP011	1540.790	1541.830	1.040	[ma ch'ha ragione,]
+687	PKP124	1541.910	1544.690	2.780	[(mi ha) fatto: no: ero stata felice?]
+688	PKP031	1543.965	1545.885	1.920	[bello:] °dai° [carino]
+689	PKP011	1544.730	1545.090	0.360	[°cara°]
+690	PKP038	1545.300	1547.410	2.110	[e poi] fare la scatolina e spedirglielo.
+691	PKP031	1547.460	1549.180	1.720	ma lui >invece< non può venire [qua?]
+692	PKP124	1548.920	1556.110	7.190	[quindi anche le ragazze: (.) possono farlo >non solo le ragazze< qualsiasi persona di: qualsiasi genere:]
+693	PKP038	1549.340	1550.000	0.660	[eh no]
+694	PKP031	1550.130	1551.510	1.380	[perché xxx non lascia uscire.]
+695	PKP038	1551.615	1552.275	0.660	[esatto]
+696	PKP031	1552.295	1553.025	0.730	[neanche entrare.]
+697	PKP038	1553.220	1553.860	0.640	[esatto]
+698	PKP011	1554.195	1555.965	1.770	[°quando ti vediamo° (.) xx]
+699	PKP038	1554.755	1556.615	1.860	[quindi è zona rossa praticament~]
+700	PKP031	1556.145	1557.135	0.990	[sì] praticamente
+701	PKP124	1558.160	1560.600	2.440	#bisogna (.) no go neanca [a cittadinanza]
+702	PKP011	1558.740	1561.100	2.360	((ride))
+703	PKP031	1559.635	1567.805	8.170	[cioè se lui fosse] EH NO ma perché se era a lecce la puglia è arancione <ni[ente> (.) in ogni in ogni caso c'è sempre qualcosa di:]
+704	PKP124	1563.320	1567.710	4.390	[no non è un mio (obiettivo) però sai che (ci sono) xxxxxx]
+705	PKP038	1565.810	1566.360	0.550	[beh x]
+706	PKP038	1567.950	1568.700	0.750	grazie mille
+707	???	1568.705	1569.225	0.520	prego
+708	PKP124	1575.230	1590.200	14.970	ho senti~ stavo ascoltando striscia l'altro giorno (.) che c'era: un servizio su (l'auto locale) una cosa del genere (.) e erano tutti: nominati così a caso (.) [la gente non lo sapeva neache]
+709	PKP038	1587.650	1590.370	2.720	[siete felici: (.) che (.) trump,]
+710	PKP031	1590.665	1593.505	2.840	<madonna> n~ non ci [credevo tanto °ultimamente°]
+711	PKP012	1591.840	1600.700	8.860	[sì però:: (.) sta facendo tanti casini NO non è che non mi convince biden è che trump sta facendo il mona]
+712	PKP124	1593.310	1602.540	9.230	[°e:: (.) cos'è successo? (.) la gente non lo sapeva e intanto la lista aggiungeva xxxxx (come) non lo so sai°]
+713	PKP031	1594.830	1596.320	1.490	[non ti convince neanche?]
+714	PKP031	1599.290	1602.080	2.790	[eh vabbé ma:: i voti sono quelli]
+715	PKP038	1600.715	1605.505	4.790	[e adesso melania se ne torna in slovenia] ((ride))
+716	PKP011	1602.670	1604.030	1.360	[ma più che xx]
+717	PKP124	1604.100	1605.440	1.340	#[°(no gavemo soldi) però,°]
+718	PKP031	1605.590	1609.730	4.140	[ma finalmente >raga<] un po' di fiducia nell'umanità: la dobbiamo avere allora
+719	PKP011	1605.680	1607.120	1.440	[vabbè] ((ride))
+720	PKP038	1609.770	1622.430	12.660	poi altra cosa (.) io ho visto un video tiktokay c'è un ragazzo cinese che >parla benissimo< l'italiano che è stato in italia che adesso è in cina (.) ha fatto un video (.) ha raccontato com'è in cina in questo momento
+721	PKP124	1622.610	1624.250	1.640	e non l'hanno censura[to?]
+722	PKP011	1623.700	1624.750	1.050	[e sta da dio:]
+723	PKP038	1624.330	1627.950	3.620	[no] al momento no, però [secondo me ie~ (.) esatto]
+724	PKP124	1626.200	1627.270	1.070	[ma lo censureranno.]
+725	PKP031	1627.305	1629.025	1.720	[no ma] quello delle iene?
+726	PKP038	1629.335	1629.595	0.260	no
+727	PKP031	1629.960	1634.800	4.840	>perché ho visto< un servizio delle iene che c'era lui che raccontava [che là] comunque adesso è <normale> xx
+728	PKP038	1632.830	1633.400	0.570	[no:]
+729	PKP038	1634.800	1646.900	12.100	[là là] è normale non usano le mascherine solo per entrare nei negozi quant'altro ESISTE IL VACCINO (.) [ESISTE ha detto che esiste il vaccino ma non è obbligatorio,]
+730	PKP031	1641.800	1643.950	2.150	[EH VEDI che non ce lo dicono]
+731	PKP011	1642.250	1643.050	0.800	[in cina?]
+732	PKP031	1644.100	1649.570	5.470	[ma hanno mentito anch~ anche un sacco di robe che] son successe a gennaio le hanno [tenute nascoste dicono]
+733	PKP012	1648.015	1649.925	1.910	[hai visto::]
+734	PKP038	1648.040	1654.660	6.620	[ma non è (.) ha detto che] non è obbligatorio e che non è per quello che: sono calati:: i contagi
+735	PKP124	1653.250	1654.820	1.570	[BE::LA bambina:]
+736	PKP124	1657.170	1658.410	1.240	[piena di capelli:]
+737	PKP038	1657.180	1661.900	4.720	[che ha xxx (.) xxxx rispettar le regole]
+738	PKP012	1659.005	1660.975	1.970	[hai visto perché è piena di capelli,]
+739	PKP031	1662.202	1662.922	0.720	ca:ri[na]
+740	PKP011	1662.480	1666.425	3.945	[ottimo] (.) °perché loro (hanno) pre[so il vaccino (pensavo non ci fosse il vaccino)]
+741	PKP124	1664.270	1666.380	2.110	[anche quand'ero piccolina ero piena]
+742	PKP012	1664.720	1665.570	0.850	[e ha gli occhi]
+743	PKP038	1666.427	1673.987	7.560	EH:: [a noi] (.) a noi però dicono che il vaccino >non c'è ancora< e che lo stanno studiando è strana sta [cosa]
+744	PKP012	1667.010	1667.930	0.920	[anche io]
+745	PKP031	1673.347	1674.797	1.450	[MA] loro secondo me ce l'hanno
+746	PKP038	1674.980	1676.350	1.370	MA L'HA DET[TO,]
+747	PKP031	1675.517	1677.867	2.350	[ma] hanno tenuto x nascosto un sacco di robe]
+748	PKP124	1675.870	1680.120	4.250	[ma è un vaccino che poi ha un'efficacia su:lla sulla persona oppure no]
+749	PKP038	1677.170	1686.260	9.090	[e: (.) e inoltre inoltre sai che là] là hanno proprio tipo: le telecamere che riconoscono >la faccia delle persone< lui ha det[to che]
+750	PKP011	1678.810	1679.370	0.560	[sì:]
+751	PKP031	1679.570	1681.490	1.920	[ciò se non ci sono casi:]
+752	PKP031	1685.885	1689.505	3.620	[>hanno un sistema<] di tracciamento molto meglio del nos[tro eh quello sì]
+753	PKP038	1688.390	1692.350	3.960	[lo (.) sì però] se lo facessero qua: terza guerra mondiale:
+754	PKP031	1692.645	1693.665	1.020	eh:: [ciò]
+755	PKP124	1693.140	1694.640	1.500	[là] non c'è privacy,
+756	PKP038	1694.685	1695.995	1.310	[là non c'è privacy]
+757	PKP031	1694.710	1695.210	0.500	[eh:]
+758	PKP124	1695.290	1698.820	3.530	[eh: un im~] cioè: è [è un paese comunista]
+759	PKP038	1697.185	1704.675	7.490	[ha detto:] inoltre che se uno è [positivo si vede] con chi è stato a [contatto e con chi al]tro è pos[itivo]
+760	PKP031	1699.710	1701.240	1.530	[uno era in ciabatte ca~]
+761	PKP012	1702.125	1703.165	1.040	[chi è in ciabatte?]
+762	PKP031	1702.320	1703.500	1.180	[uno in ciabatte.]
+763	PKP011	1703.865	1704.815	0.950	[grazie cara]
+764	PKP012	1704.010	1705.940	1.930	[ah si (.)] ma che?
+765	PKP124	1705.960	1709.560	3.600	comunque non è male [(.) due euro e cinquanta?]
+766	PKP038	1706.580	1708.940	2.360	[quindi riescono a rintracciare tutti]
+767	PKP031	1707.270	1708.950	1.680	[°ale posso un'altra patatina?°]
+768	PKP012	1707.290	1708.070	0.780	[ma non hanno?]
+769	PKP011	1710.010	1710.330	0.320	>buono<?
+770	PKP124	1710.465	1712.705	2.240	bah e mi: [xxxx]
+771	PKP011	1711.385	1715.145	3.760	[>perché<] (.) da cavoli (.) [costa tre e cin]quanta
+772	PKP124	1714.160	1714.900	0.740	[no:]
+773	PKP031	1715.155	1715.795	0.640	però è buono
+774	PKP124	1716.540	1718.310	1.770	[cioè:] (.) non è forte
+775	PKP011	1716.590	1716.960	0.370	[sì:]
+776	PKP038	1718.535	1719.675	1.140	°perché tre euro e cinquanta?°
+777	PKP011	1720.070	1720.920	0.850	è: aumentato,
+778	PKP038	1721.640	1724.740	3.100	poi da da st'altri un euro il prosecco ((ride))
+779	PKP011	1724.150	1725.230	1.080	[un euro e cinquanta]
+780	PKP012	1724.160	1730.080	5.920	[<comunque>] (.) non so [se avete visto ma c'erano due] in ciabatte (.) sono [passati per strada in] ciabatte
+781	PKP038	1725.785	1727.385	1.600	[hanno aumentato anche là:]
+782	PKP124	1728.640	1729.760	1.120	[ma (.) dove?]
+783	PKP011	1730.700	1733.600	2.900	#[anca mi] (.) quando vado a buttar la spazzatura
+784	PKP124	1730.700	1731.750	1.050	[eh vabbè avranno caldo]
+785	PKP012	1731.640	1732.680	1.040	((ride))
+786	PKP031	1733.790	1734.610	0.820	vabbè::
+787	PKP012	1734.625	1736.565	1.940	POSSO farti un video quando vieni,
+788	PKP011	1737.120	1737.800	0.680	°va ben°
+789	PKP124	1742.330	1743.680	1.350	°hanno un sacco di gente°
+790	PKP011	1743.935	1745.085	1.150	(hai il) [xxxx?]
+791	PKP038	1744.065	1753.665	9.600	[comunque son~] quando mi son presa gli appunti della lezione son tornata indietro per vedere do~ quand'è che entr[avi] (.) ((ride))
+792	PKP031	1749.735	1754.485	4.750	[ma] hanno meno sedie dei posti effettivamente >perché se conti< quattro per [tavolo]
+793	PKP011	1749.810	1752.220	2.410	((ride))
+794	PKP011	1753.905	1761.505	7.600	[sì è vista] la faccia che ho fatto okay xx ((ride)) [ho >aperto la porta< ho visto ((ride)) xx]
+795	PKP038	1755.470	1756.360	0.890	((ride))
+796	PKP012	1756.430	1761.690	5.260	[(devi) pensare che cavoli e xxxx è chiuso quindi si concentrano tutto qua (.) è chiuso]
+797	PKP031	1759.315	1759.715	0.400	[°e:h°]
+798	PKP124	1759.470	1763.850	4.380	[eh ma xxxx non era chiuso (.) io pensavo fosse aperto, xx]
+799	PKP038	1760.950	1769.140	8.190	[(sei apparso) così all'improvviso però era (.) l'ul]tima [gli ultimi venti minuti (mi stava aspettando) mentre faceva le domande]
+800	PKP012	1762.725	1763.805	1.080	[no (.) è chiuso.]
+801	PKP124	1764.260	1766.420	2.160	[vabbé anche xxx a xxxx]
+802	PKP012	1765.680	1768.970	3.290	[secondo me fanno una settimana loro e una settimana zanca]
+803	PKP031	1769.180	1775.370	6.190	più che altro magari loro non hanno posti da se[dere quindi dovrebbero la gente dovrebbe stare in piedi (.) EH ma non puoi mi sa]
+804	PKP038	1770.840	1772.940	2.100	[>quindi< secondo è tipo mezzo in xx]
+805	PKP011	1771.720	1781.780	10.060	[((sospira)) (.) ah ma comunque (.) ma adesso non lo sai (come fare) (.) cioè adesso che è per forza tutto] online (.) [dovrebbe xx]
+806	PKP012	1772.260	1774.300	2.040	[zanca stai in piedi dentro]
+807	PKP124	1775.070	1779.620	4.550	[eh ma xxxx >dovrebbe chiudere< anche allo~ all~ anche alla mattina se non ha i posti a sedere]
+808	PKP012	1780.195	1787.375	7.180	[comunque rossi vi saluta] l'ho visto che è venuto a prender le paste alle quattro e un quarto quattro e ven[ti e è andato via con suo papà]
+809	PKP031	1780.890	1781.630	0.740	[°non lo so°]
+810	PKP031	1785.540	1787.140	1.600	[senza guardare il cellulare.]
+811	PKP124	1787.430	1788.250	0.820	ma tu eri già qua?
+812	PKP012	1788.270	1790.300	2.030	sì (.) alle quattro e [venti ero qua]
+813	PKP011	1789.540	1790.460	0.920	[eh (dai)]
+814	PKP038	1791.095	1792.900	1.805	°no ha cambiato un xx in xxx°
+815	PKP124	1792.910	1793.690	0.780	[ma da so]la:?
+816	PKP011	1792.915	1793.235	0.320	[°(è vero)°]
+817	PKP038	1793.735	1801.675	7.940	mi sono xxxx un [sacco xxxxx tipo il venti xxx dovrei fare l'esa]me di inglese in presenza in [xxxxxxxx]
+818	PKP012	1794.525	1797.915	3.390	[ASPETTAVO LORO (.) poco dopo sono arrivati loro]
+819	PKP031	1795.115	1798.285	3.170	[siamo arrivati: (.) cinque dieci minuti dopo sì]
+820	PKP012	1800.840	1811.700	10.860	[(me la son presa) con calma sono arrivata con calma ho incontrato lui pensavo che (.) ci stesse aspettando >e gli faccio< ROBY eh no no sto prendendo le paste dopo: vado vi]a infatti l'ho visto andare via con suo papà.
+821	PKP038	1802.590	1807.690	5.100	[e allora:: la xx ha scritto a~ alla (rappresentante del corso) xx]
+822	PKP011	1807.940	1809.620	1.680	[°sì ha: molto più senso°]
+823	PKP038	1811.745	1814.495	2.750	perché cioè c'è gente che viene dalle zone rosse?
+824	PKP011	1814.670	1815.610	0.940	°sì [infatti°]
+825	PKP038	1814.860	1818.580	3.720	[>(a parte)<] che c'è uno che è toscano e mi fa morir dal ridere quando parla
+826	PKP011	1818.655	1819.335	0.680	((ride))
+827	PKP031	1818.765	1819.565	0.800	tosha[no]
+828	PKP038	1819.330	1821.710	2.380	[ma perché eh eh senti come parla?]
+829	PKP124	1819.370	1823.250	3.880	[gianni come va il tirocinio? come va quella roba (dell'intervista) hai fatto qualcosa:?]
+830	PKP011	1821.730	1824.110	2.380	[bellissimo °(l'accento) toscano°]
+831	PKP031	1823.270	1829.610	6.340	[bene >sto facendo però< siccome ho fatto l'esame la settimana scorsa adesso ci do dentro perché: mi manca]
+832	PKP038	1824.145	1834.565	10.420	[comunque là i: sto facendo anche i laboratori interessante però cioè sto facendo >laboratorio lavoro< di gruppo] e poi: [lavorare studiare (.) mi son messa nei casini]
+833	PKP124	1828.290	1829.570	1.280	[ma l'esame su zoom?]
+834	PKP031	1830.025	1830.535	0.510	[°sì sì sì°]
+835	PKP031	1831.190	1842.310	11.120	[mi manca un mese: e mezzo ho >un mese e mezzo di tempo< per far tutto adesso: (.) faccio solo quello perché devo finirlo e la tesi (.) perché prima con l'esame studiavo solo per l'esame]
+836	PKP012	1834.600	1847.970	13.370	[ma posso dirti la verità? se è vero che la laura esce con suo moroso (.) la vediamo: tipo (.) col cappuccio tutto intabarrata che non si faccia vedere che esce con matteo (.) di là, ((ride)) secondo me sì]
+837	PKP124	1842.320	1844.020	1.700	[ah io ho sentito: <max>]
+838	PKP031	1844.095	1844.595	0.500	[sì,]
+839	PKP124	1844.650	1847.720	3.070	>e mi ha detto che< stava facendo la tesi però: xxxx
+840	PKP011	1845.945	1846.705	0.760	[di:ci?]
+841	PKP031	1847.760	1848.910	1.150	[(quanto ha)] ha scritto?
+842	PKP124	1848.990	1851.890	2.900	venti pagine (.) [>però ha detto< che ne servono centocinquanta.]
+843	PKP012	1850.170	1853.410	3.240	[perché in realtà <c'era> ma non voleva uscire secondo me]
+844	PKP031	1851.890	1854.520	2.630	[eh (.) eh beh sì] con la bibliografia e [tutto]
+845	PKP038	1854.130	1855.140	1.010	[eh anche] >secondo me<
+846	PKP031	1855.460	1855.960	0.500	°più o meno°
+847	PKP038	1855.970	1856.810	0.840	senti come parla,
+848	PKP124	1857.720	1860.960	3.240	no: sta roba non mi piace tanto xxxx (però) [vabbè]
+849	PKP038	1860.215	1861.515	1.300	[(non) fa morir dal ridere?]
+850	PKP031	1860.730	1862.150	1.420	[del?] (.) cosa?
+851	PKP011	1862.630	1864.350	1.720	mi piace da morire °l'ac[cento°]
+852	PKP124	1863.760	1869.340	5.580	[no nel] s~ cioè io mi mi xxxxx (cerche[rei di) lavorare il più possibile no: xxxx]
+853	PKP038	1866.050	1875.500	9.450	[per il lavoro di gruppo abbiamo analizzato: degli albi illustrati ce li ha letti ci ha daro anche un libro da comprarmi che è una poesia al giorno si chiama] una poesia all'anno
+854	PKP031	1869.555	1871.385	1.830	[perché dici che lui non fa niente fa solo la tesi?]
+855	PKP124	1871.405	1873.485	2.080	[xx non (ha voglia) di fare]
+856	PKP031	1873.515	1874.245	0.730	[ah x]
+857	PKP038	1876.460	1896.750	20.290	[poesie per l'anno tipo (u)na roba del genere ogni giorno c'è una poesia e bisogna che sia sempre di rodari (.) è bellissimo e poi ci ha ci ha mostrato un album illustrato che (devi) che si chiama la cosa importante] e diceva [questa è una tazza (.) questo è quello quello è quello (.) xxx finiva con tu sei tu]
+858	PKP031	1876.475	1882.995	6.520	[>perché< o (.) dici in un mese la faccio (.) dici in un mese la faccio e faccio solo quello e okay]
+859	PKP124	1878.220	1879.170	0.950	[non lavora neanche]
+860	PKP124	1883.100	1888.050	4.950	[cioè boh io sono anche messa °in un altro modo° però: (.) cioè ho una mentalità un po' diversa.]
+861	PKP031	1888.210	1889.130	0.920	[sì magari è:]
+862	PKP012	1889.645	1894.275	4.630	[cavolo gianni mi son dimenticata il libro dopo mi vieni con me, (.) vieni con me?]
+863	PKP031	1893.090	1913.250	20.160	[si ti a~ ti accompagno però: pren~ ti spiace se andiamo in macchina] perché poi >vado [da mio papà< direttamente (.) per cui NO NO NO >VA BENE< (.) no guarda lo (.) così lo leggo subito e:: (.) e poi posso (.) concentrarmi su altro.]
+864	PKP038	1897.310	1916.415	19.105	[e: ci ha detto provate a ragionare: su sull'albo illustrato (su cosa) vi ha lasciato (.) e a chi lo leggereste a un adulto o e che tipo di adulto xxx] e pensate al xxx [xxxxxx xxxxxx]
+865	PKP012	1898.285	1902.765	4.480	[sì sì ma mi son dimenticata (.) (no)n c'è verso che mi ricordi quel libro]
+866	PKP012	1911.240	1916.390	5.150	[comunque se volete il libro] della martina lo vendono su libraccio a quattordici euro
+867	PKP031	1914.510	1915.540	1.030	[libraccio]

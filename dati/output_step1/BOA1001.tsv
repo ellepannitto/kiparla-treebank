@@ -1,0 +1,843 @@
+tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	annotation	correct	text
+0	BO026	6.57	7.55	0.98	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh,	e:h=mh,	eh mh
+1	BO026	7.675	9.03	1.355	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	'spetti che preparo:,	'spetti che preparo:,	'spetti che preparo
+2	BO026	10.861	11.813	0.952	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	°il file,°	°il file,°	il file
+3	BO026	13.006	14.39	1.384	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	mi ricorda il suo nome,	mi ricorda il suo nome,	mi ricorda il suo nome
+4	BO020	14.39	16.86	2.47	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	allora io mi chiamo rossi anna giulia	allora io mi chiamo rossi anna giulia	allora io mi chiamo rossi anna giulia
+5	BO020	17.655	22.66	5.005	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e:h in realtà prima vorrei un' informazione sulla: sull' esame di giug[no giu]gno luglio,	e:h in realtà prima vorrei un' informazione sulla: sull' esame di giug[no giu]gno luglio,	eh in realtà prima vorrei un' informazione sulla sull' esame di giugno giugno luglio
+6	BO026	21.61	21.93	0.32	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+7	BO020	22.795	24.43	1.635	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[eh lei non ha ancora abili~]	[eh lei non ha ancora abili~]	eh lei non ha ancora abili~
+8	BO026	22.796	24.64	1.844	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[di didattica delle lingue modern]e?	[di didattica delle lingue modern]e?	di didattica delle lingue moderne
+9	BO020	24.64	24.938	0.298	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+10	BO020	25.346	27.72	2.374	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	non ha ancora abilitato per=eh,	non ha ancora abilitato per=eh,	non ha ancora abilitato per eh
+11	BO020	28.081	29.286	1.205	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	per l' i[scrizione,]	per l' i[scrizione,]	per l' iscrizione
+12	BO026	28.401	34.568	6.167	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	19	[allora c' è stato un pro]blema in segreteria che dovrebbero aver risolto [un problema te]cnico della segreteria da oggi,	[allora c' è stato un pro]blema in segreteria che dovrebbero aver risolto [un problema te]cnico della segreteria da oggi,	allora c' è stato un problema in segreteria che dovrebbero aver risolto un problema tecnico della segreteria da oggi
+13	BO020	31.7	32.36	0.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m:h,]	[m:h,]	mh
+14	BO020	34.716	35.15	0.434	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mh mh,	mh mh,	mh mh
+15	BO026	35.15	41.188	6.038	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	e:h ho visto: eh loro dovrebbero averlo risolto perché dieci giorni fa l' ha segnalto una studentessa.	e:h ho visto: eh loro dovrebbero averlo risolto perché dieci giorni fa l' ha segnalto una studentessa.	eh ho visto eh loro dovrebbero averlo risolto perché dieci giorni fa l' ha segnalto una studentessa
+16	BO020	41.289	42.35	1.061	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	forse proprio io.	forse proprio io.	forse proprio io
+17	BO020	42.831	44.629	1.798	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	perché: in realtà: e[:h]	perché: in realtà: e[:h]	perché in realtà eh
+18	BO026	44.291	47.015	2.724	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[però] da og[gi a partire dal trenta,]	[però] da og[gi a partire dal trenta,]	però da oggi a partire dal trenta
+19	BO020	45.053	50.343	5.29	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	[non è in blu: la:: il] il pi:ù che apre la tendina pe:r=ah,	[non è in blu: la:: il] il pi:ù che apre la tendina pe:r=ah,	non è in blu la il il più che apre la tendina per ah
+20	BO020	50.56	52.468	1.908	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e::[h per le prenotazioni.]	e::[h per le prenotazioni.]	eh per le prenotazioni
+21	BO026	51.215	52.85	1.635	True	0	0	0	0	0	0	False	False	False	False	True	20=1.253,22=0.008	0	0	0	5	[adesso lo diciamo di] nuovo.	[adesso lo diciamo di] nuovo.	adesso lo diciamo di nuovo
+22	BO020	52.842	54.893	2.051	True	0	0	0	0	0	0	False	False	False	False	True	21=0.008	0	0	0	7	dall' altra parte invece è in blu.	dall' altra parte invece è in blu.	dall' altra parte invece è in blu
+23	BO020	54.938	59.123	4.185	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	allora io ho provato ad aprire però mi dice che non è prenotabile nulla.	allora io ho provato ad aprire però mi dice che non è prenotabile nulla.	allora io ho provato ad aprire però mi dice che non è prenotabile nulla
+24	BO020	59.178	62.308	3.13	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	ho controllato stamattina: credo verso:,	ho controllato stamattina: credo verso:,	ho controllato stamattina credo verso
+25	BO020	62.561	64.053	1.492	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	le dieci le undici,	le dieci le undici,	le dieci le undici
+26	BO020	64.375	66.053	1.678	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	l' ultima volta e ancora,	l' ultima volta e ancora,	l' ultima volta e ancora
+27	BO020	66.181	67.655	1.474	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	era così la situazione.	era così la situazione.	era così la situazione
+28	BO026	68.141	69.712	1.571	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	al[lora fa]ccia una cosa,	al[lora fa]ccia una cosa,	allora faccia una cosa
+29	BO020	68.286	68.9	0.614	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[quindi,]	[quindi,]	quindi
+30	BO026	69.795	71.5	1.705	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	>subito dopo aver parlato con me,<	>subito dopo aver parlato con me,<	subito dopo aver parlato con me
+31	BO026	71.593	71.904	0.311	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	lo,	lo,	lo
+32	BO026	72.133	80.01	7.877	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	24	bussa qui alla porta a fianco: e:[: e glie]lo dice lo segnala perché io ho controllato per vedere se c' erano già degli iscritti,	bussa qui alla porta a fianco: e:[: e glie]lo dice lo segnala perché io ho controllato per vedere se c' erano già degli iscritti,	bussa qui alla porta a fianco e e glielo dice lo segnala perché io ho controllato per vedere se c' erano già degli iscritti
+33	BO020	74.22	75.181	0.961	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[°perfetto. okay.°]	[°perfetto. okay.°]	perfetto okay
+34	BO020	80.01	80.378	0.368	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì,	sì,	sì
+35	BO026	80.725	84.382	3.657	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	e:h=mh e siccome però le is~ le iscrizioni,	e:h=mh e siccome però le is~ le iscrizioni,	eh mh e siccome però le is~ le iscrizioni
+36	BO026	84.946	87.74	2.794	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	sarebbero partite:[: da] oggi,	sarebbero partite:[: da] oggi,	sarebbero partite da oggi
+37	BO020	86.586	87.191	0.605	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[sì da,]	[sì da,]	sì da
+38	BO020	87.74	88.116	0.376	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+39	BO026	88.341	91.074	2.733	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e::h=mh non non c' erano anc[ora,]	e::h=mh non non c' erano anc[ora,]	eh mh non non c' erano ancora
+40	BO020	90.873	91.361	0.488	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[eh] eh.	[eh] eh.	eh eh
+41	BO026	91.489	99.244	7.755	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	32	loro mi hanno eh io non ero qui: ero: fuori bologna >e loro mi hanno mandato una mail dicendo che avevano risolto il problema< non era u[na cos]a che dipendeva da me.	loro mi hanno eh io non ero qui: ero: fuori bologna >e loro mi hanno mandato una mail dicendo che avevano risolto il problema< non era u[na cos]a che dipendeva da me.	loro mi hanno eh io non ero qui ero fuori bologna e loro mi hanno mandato una mail dicendo che avevano risolto il problema non era una cosa che dipendeva da me
+42	BO020	97.801	98.166	0.365	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[mh,]	[mh,]	mh
+43	BO020	99.244	99.513	0.269	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+44	BO026	99.85	102.353	2.503	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[però lei lo segnali adesso lo dico anch' io.]	[però lei lo segnali adesso lo dico anch' io.]	però lei lo segnali adesso lo dico anch' io
+45	BO020	99.851	104.372	4.521	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	[sì io: mh giorni fa l' ho segna]lato non so se sono stata l' unica.	[sì io: mh giorni fa l' ho segna]lato non so se sono stata l' unica.	sì io mh giorni fa l' ho segnalato non so se sono stata l' unica
+46	BO020	104.68	111.985	7.305	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	22	e: non è cambiato nulla fino a stamattina quindi io ancora non posso prenotare. °adesso n[on s]aprei se è cambiato [qualcosa però,°]	e: non è cambiato nulla fino a stamattina quindi io ancora non posso prenotare. °adesso n[on s]aprei se è cambiato [qualcosa però,°]	e non è cambiato nulla fino a stamattina quindi io ancora non posso prenotare adesso non saprei se è cambiato qualcosa però
+47	BO026	109.926	110.268	0.342	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+48	BO026	111.141	113.638	2.497	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	[no (.) ora ma]gari andiamo a~ insieme.	[no {P} ora ma]gari andiamo a~ insieme.	no {P} ora magari andiamo a~ insieme
+49	BO026	113.716	115.0	1.284	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	allora mi ripete il nom[e,]	allora mi ripete il nom[e,]	allora mi ripete il nome
+50	BO020	114.882	115.457	0.575	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e]h=mh,	[e]h=mh,	eh mh
+51	BO020	115.765	117.808	2.043	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	rossi. erre o esse esse i	rossi. erre o esse esse i	rossi erre o esse esse i
+52	BO026	117.896	118.17	0.274	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+53	BO020	118.17	119.425	1.255	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	anna giulia	anna giulia	anna giulia
+54	BO026	119.53	121.457	1.927	True	0	0	0	0	0	0	False	False	False	False	True	55=0.001	1	0	0	4	avevamo parl~ (.) anna giulia	avevamo parl~ {P} anna giulia	avevamo parl~ {P} anna giulia
+55	BO020	121.456	121.765	0.309	True	0	0	0	0	0	0	False	False	False	False	True	54=0.001	0	0	0	1	sì.	sì.	sì
+56	BO026	121.765	123.989	2.224	True	0	0	0	0	0	0	False	False	False	False	True	57=0.001	0	0	0	5	avevamo parlato della tesi vero?	avevamo parlato della tesi vero?	avevamo parlato della tesi vero
+57	BO020	123.988	127.836	3.848	True	0	0	0	0	0	0	False	False	False	False	True	56=0.001	0	0	0	7	sì avevamo parlato della te:si e::h=m:h	sì avevamo parlato della te:si e::h=m:h	sì avevamo parlato della tesi eh mh
+58	BO020	128.521	132.755	4.234	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	dunque lei mh mi aveva: mh parlato di diverse possiblità,	dunque lei mh mi aveva: mh parlato di diverse possiblità,	dunque lei mh mi aveva mh parlato di diverse possiblità
+59	BO020	133.176	134.67	1.494	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h io::,	e::h io::,	eh io
+60	BO020	134.965	135.957	0.992	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	pensavo,	pensavo,	pensavo
+61	BO020	136.196	136.67	0.474	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh,	eh,	eh
+62	BO020	137.127	143.18	6.053	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	che e:h potrei e::h=mh stendere:=mh il questionario >stendere un questionario che,<	che e:h potrei e::h=mh stendere:=mh il questionario >stendere un questionario che,<	che eh potrei eh mh stendere mh il questionario stendere un questionario che
+63	BO020	143.546	146.095	2.549	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	in realtà non penso sia::=mh,	in realtà non penso sia::=mh,	in realtà non penso sia mh
+64	BO020	146.56	152.648	6.088	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	13	m:h sia migliore un questionario aperto piut[tosto che] con una (.) domande chiu:se dove,	m:h sia migliore un questionario aperto piut[tosto che] con una {P} domande chiu:se dove,	mh sia migliore un questionario aperto piuttosto che con una {P} domande chiuse dove
+65	BO026	149.234	149.904	0.67	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh=mh,]	[mh=mh,]	mh mh
+66	BO020	153.106	158.244	5.138	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e:h non lo so per il numero di ragazzi che:=mh che vanno indicati,	e:h non lo so per il numero di ragazzi che:=mh che vanno indicati,	eh non lo so per il numero di ragazzi che mh che vanno indicati
+67	BO020	158.446	162.234	3.788	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	e:h c' è una percentuale ciè c' è un (sacco) abbastanza=mh [più,]	e:h c' è una percentuale ciè c' è un (sacco) abbastanza=mh [più,]	eh c' è una percentuale ciè c' è un sacco abbastanza mh più
+68	BO026	161.645	164.297	2.652	True	0	0	0	0	0	0	False	False	False	False	True	67=0.589,69=0.001	0	0	0	8	[è mh] è un questionario rivolto a studenti?	[è mh] è un questionario rivolto a studenti?	è mh è un questionario rivolto a studenti
+69	BO020	164.296	165.01	0.714	True	0	0	0	0	0	0	False	False	False	False	True	68=0.001,70=0.420	0	0	0	2	mh al[lora,]	mh al[lora,]	mh allora
+70	BO026	164.59	165.446	0.856	True	0	0	0	0	0	0	False	False	False	False	True	69=0.420,71=0.051	0	0	0	3	[°o ai do]centi?°	[°o ai do]centi?°	o ai docenti
+71	BO020	165.395	170.255	4.86	True	0	0	0	0	0	0	False	False	False	False	True	72=0.805,73=0.782,74=0.392,70=0.051	1	0	1	15	o:~ ora ri~=r[itorno un a]ttimin[o su no no] ai ai docenti lei mi a[veva] (.) detto,	o:~ ora ri~=r[itorno un a]ttimin[o su no no] ai ai docenti lei mi a[veva] {P} detto,	o:~ ora ri~ ritorno un attimino su no no ai ai docenti lei mi aveva {P} detto
+72	BO026	166.026	166.831	0.805	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[perché è,]	[perché è,]	perché è
+73	BO026	166.973	167.755	0.782	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[riepiloghiamo]	[riepiloghiamo]	riepiloghiamo
+74	BO026	169.101	169.493	0.392	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+75	BO020	170.791	177.085	6.294	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	e:h che io avrei potuto mandare un questionario ai tecnici di bologna io ho raccolto i tecnici,	e:h che io avrei potuto mandare un questionario ai tecnici di bologna io ho raccolto i tecnici,	eh che io avrei potuto mandare un questionario ai tecnici di bologna io ho raccolto i tecnici
+76	BO026	177.085	177.493	0.408	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mh mh,	mh mh,	mh mh
+77	BO020	177.575	180.414	2.839	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	gli istituti tecnici su e[:h >s]cuola secondaria.<	gli istituti tecnici su e[:h >s]cuola secondaria.<	gli istituti tecnici su eh scuola secondaria
+78	BO026	179.159	179.57	0.411	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+79	BO020	180.748	183.936	3.188	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	di bologna che sarebbero: tredici quattordici,	di bologna che sarebbero: tredici quattordici,	di bologna che sarebbero tredici quattordici
+80	BO026	184.043	184.382	0.339	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mh mh,	mh mh,	mh mh
+81	BO020	184.382	185.861	1.479	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	ho qui tutti gli indirizzi.	ho qui tutti gli indirizzi.	ho qui tutti gli indirizzi
+82	BO020	186.138	187.703	1.565	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=m:h	e::h=m:h	eh mh
+83	BO020	188.961	195.0	6.039	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	e mh inviare un questionario che: sarebbe andato agli insegnanti d[i ital]iano o comunque di lingue,	e mh inviare un questionario che: sarebbe andato agli insegnanti d[i ital]iano o comunque di lingue,	e mh inviare un questionario che sarebbe andato agli insegnanti di italiano o comunque di lingue
+84	BO026	193.361	193.745	0.384	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+85	BO020	195.308	196.148	0.84	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	pe:r=eh,	pe:r=eh,	per eh
+86	BO020	196.321	197.77	1.449	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh	e::h=mh	eh mh
+87	BO026	197.821	202.414	4.593	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	eh [e:h il t]ema era[: la lingua l' altra l]ingua straniera.	eh [e:h il t]ema era[: la lingua l' altra l]ingua straniera.	eh eh il tema era la lingua l' altra lingua straniera
+88	BO020	198.041	198.745	0.704	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e:h,]	[e:h,]	eh
+89	BO020	198.925	201.34	2.415	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[per mh sì il tema: sì il tema per,]	[per mh sì il tema: sì il tema per,]	per mh sì il tema sì il tema per
+90	BO020	202.466	207.6	5.134	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	sì o co[munque su]ll' integrazione tra eh elle due ed elle esse.	sì o co[munque su]ll' integrazione tra eh elle due ed elle esse.	sì o comunque sull' integrazione tra eh elle due ed elle esse
+91	BO026	203.011	203.483	0.472	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[mh,]	[mh,]	mh
+92	BO026	207.86	208.418	0.558	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+93	BO020	207.861	210.38	2.519	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[pe:r] i:=mh non nativi.	[pe:r] i:=mh non nativi.	per i mh non nativi
+94	BO026	210.638	211.181	0.543	True	0	0	0	0	0	0	False	False	False	False	True	95=0.001	0	0	0	2	mh mh,	mh mh,	mh mh
+95	BO020	211.18	215.797	4.617	True	0	0	0	0	0	0	False	False	False	False	True	94=0.001	0	0	0	13	e:h per studenti che imparano: l' italiano elle due imparano la lingua straniera.	e:h per studenti che imparano: l' italiano elle due imparano la lingua straniera.	eh per studenti che imparano l' italiano elle due imparano la lingua straniera
+96	BO026	215.956	216.319	0.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e[:h,]	e[:h,]	eh
+97	BO020	216.076	218.675	2.599	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ma] rispetto alla [lingua] straniera:=mh,	[ma] rispetto alla [lingua] straniera:=mh,	ma rispetto alla lingua straniera mh
+98	BO026	217.07	217.416	0.346	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+99	BO020	219.341	223.744	4.403	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	la seconda lingua strani[era <in]glese:> cioè >la la prima lingua [stran]iera inglese< oppure,	la seconda lingua strani[era <in]glese:> cioè >la la prima lingua [stran]iera inglese< oppure,	la seconda lingua straniera inglese cioè la la prima lingua straniera inglese oppure
+100	BO026	220.308	220.68	0.372	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+101	BO026	222.553	222.861	0.308	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+102	BO020	224.106	234.51	10.404	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	29	e:h [anche] la seconda lingua straniera nel mio caso se lo facessi nel nelle mie classi sarebbe la seconda lingua straniera io diret[tamen]te sulla <sulle mie:> (.) sui miei ragazzi.	e:h [anche] la seconda lingua straniera nel mio caso se lo facessi nel nelle mie classi sarebbe la seconda lingua straniera io diret[tamen]te sulla <sulle mie:> {P} sui miei ragazzi.	eh anche la seconda lingua straniera nel mio caso se lo facessi nel nelle mie classi sarebbe la seconda lingua straniera io direttamente sulla sulle mie {P} sui miei ragazzi
+103	BO026	224.376	224.7	0.324	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m:h,]	[m:h,]	mh
+104	BO026	230.595	231.006	0.411	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+105	BO020	235.329	241.68	6.351	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	e:h quindi l' argomento era questo ah=m:h <[non] ben precisato> ancora però mh io direi che,	e:h quindi l' argomento era questo ah=m:h <[non] ben precisato> ancora però mh io direi che,	eh quindi l' argomento era questo ah mh non ben precisato ancora però mh io direi che
+106	BO026	238.457	238.829	0.372	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+107	BO026	241.962	246.734	4.772	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	sì prov[visoriamente avevamo identif~ m]h individuato quel diciamo,	sì prov[visoriamente avevamo identif~ m]h individuato quel diciamo,	sì provvisoriamente avevamo identif~ mh individuato quel diciamo
+108	BO020	242.421	244.473	2.052	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[questo potrebbe svilupparsi,]	[questo potrebbe svilupparsi,]	questo potrebbe svilupparsi
+109	BO020	247.176	249.148	1.972	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	sì più [o meno in questo:,]	sì più [o meno in questo:,]	sì più o meno in questo
+110	BO026	247.585	249.128	1.543	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[denominandolo così?]	[denominandolo così?]	denominandolo così
+111	BO026	249.194	257.456	8.262	True	0	0	0	0	0	0	False	False	False	False	True	112=0.396,113=0.001	0	0	0	27	cioè la lingua straniera per gli apprendenti di italiano elle due no, l[a lingua] straniera la lingua:: studiata a scuola per gli apprendenti di italiano elle due?	cioè la lingua straniera per gli apprendenti di italiano elle due no, l[a lingua] straniera la lingua:: studiata a scuola per gli apprendenti di italiano elle due?	cioè la lingua straniera per gli apprendenti di italiano elle due no la lingua straniera la lingua studiata a scuola per gli apprendenti di italiano elle due
+112	BO020	253.04	253.436	0.396	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì,]	[sì,]	sì
+113	BO020	257.455	263.127	5.672	True	0	0	0	0	0	0	False	False	False	False	True	111=0.001,114=0.629	0	0	0	19	sì e l' interazione quindi tra elle due ed elle [esse e:h]=mh sì più o meno era questo.	sì e l' interazione quindi tra elle due ed elle [esse e:h]=mh sì più o meno era questo.	sì e l' interazione quindi tra elle due ed elle esse eh mh sì più o meno era questo
+114	BO026	260.331	260.96	0.629	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+115	BO020	263.661	264.829	1.168	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+116	BO020	264.91	267.311	2.401	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	io pensavo che a:h=mh,	io pensavo che a:h=mh,	io pensavo che ah mh
+117	BO020	267.641	268.925	1.284	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e:[:h p~ posso,]	e:[:h p~ posso,]	eh p~ posso
+118	BO026	267.819	272.638	4.819	True	0	0	0	0	0	0	False	False	False	False	True	117=1.106,120=0.003,119=0.367	0	0	0	12	[nella sua scuola supe]riore qui[ndi pe]:r nel suo contesto di lavoro no?	[nella sua scuola supe]riore qui[ndi pe]:r nel suo contesto di lavoro no?	nella sua scuola superiore quindi per nel suo contesto di lavoro no
+119	BO020	269.611	269.978	0.367	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+120	BO020	272.635	272.996	0.361	True	0	0	0	0	0	0	False	False	False	False	True	118=0.003	0	0	0	1	sì.	sì.	sì
+121	BO026	273.145	273.881	0.736	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e:h,]	[e:h,]	eh
+122	BO020	273.145	275.212	2.067	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[secondaria] di secondo [grado:,]	[secondaria] di secondo [grado:,]	secondaria di secondo grado
+123	BO026	274.676	276.191	1.515	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[>nella scuola se]condaria di [secon~<]	[>nella scuola se]condaria di [secon~<]	nella scuola secondaria di secon~
+124	BO020	275.574	277.308	1.734	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[tecni]co. per[ché io,]	[tecni]co. per[ché io,]	tecnico perché io
+125	BO026	276.67	277.574	0.904	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[tecnico] sì.	[tecnico] sì.	tecnico sì
+126	BO020	277.738	282.414	4.676	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e:h nella mia scuola xxx sia l' indirizzo tecnico che il professionale in realtà,	e:h nella mia scuola xxx sia l' indirizzo tecnico che il professionale in realtà,	eh nella mia scuola xxx sia l' indirizzo tecnico che il professionale in realtà
+127	BO020	282.8	285.801	3.001	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	la maggior parte degli stranieri si trova al professionale.	la maggior parte degli stranieri si trova al professionale.	la maggior parte degli stranieri si trova al professionale
+128	BO020	286.193	287.23	1.037	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh	e::h=mh	eh mh
+129	BO020	287.53	288.148	0.618	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	quindi,	quindi,	quindi
+130	BO020	288.396	291.851	3.455	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	ma m:h in realtà anche al tecnico ci sono gli stranieri ora,	ma m:h in realtà anche al tecnico ci sono gli stranieri ora,	ma mh in realtà anche al tecnico ci sono gli stranieri ora
+131	BO020	292.155	295.508	3.353	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	la scelta tra l' uno e l' altro u::h=mh	la scelta tra l' uno e l' altro u::h=mh	la scelta tra l' uno e l' altro uh mh
+132	BO020	295.713	297.446	1.733	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	io direi potrebbe [dipendere,]	io direi potrebbe [dipendere,]	io direi potrebbe dipendere
+133	BO026	296.553	301.446	4.893	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	[scusi solo un a]ttimo mattia se vuoi puoi chiudere la porta perché c' è molto rumore.	[scusi solo un a]ttimo mattia se vuoi puoi chiudere la porta perché c' è molto rumore.	scusi solo un attimo mattia se vuoi puoi chiudere la porta perché c' è molto rumore
+134	BO026	301.986	302.904	0.918	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e[::h,]	e[::h,]	eh
+135	BO020	302.106	303.52	1.414	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[troppo rumore d]i fondo.	[troppo rumore d]i fondo.	troppo rumore di fondo
+136	BO026	303.52	303.87	0.35	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+137	BO020	304.365	305.188	0.823	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh	e:h=mh	eh mh
+138	BO020	305.361	310.053	4.692	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	potrebbe: dipende da: dalla risposta che ricevo dalle altre scuole.	potrebbe: dipende da: dalla risposta che ricevo dalle altre scuole.	potrebbe dipende da dalla risposta che ricevo dalle altre scuole
+139	BO026	310.053	310.425	0.372	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+140	BO020	310.425	316.425	6.0	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	13	questo perché io avevo pensato di fa:re una (.) questionario rivolto alle diverse scuole,	questo perché io avevo pensato di fa:re una {P} questionario rivolto alle diverse scuole,	questo perché io avevo pensato di fare una {P} questionario rivolto alle diverse scuole
+141	BO020	316.991	318.331	1.34	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	eh che:=m:h	eh che:=m:h	eh che mh
+142	BO020	318.565	320.776	2.211	True	0	0	0	0	0	0	False	False	False	False	True	143=0.001	1	0	0	6	mi dà (.) delle indicazione di base.	mi dà {P} delle indicazione di base.	mi dà {P} delle indicazione di base
+143	BO026	320.775	321.191	0.416	True	0	0	0	0	0	0	False	False	False	False	True	142=0.001,144=0.001	0	0	0	2	mh mh,	mh mh,	mh mh
+144	BO020	321.19	322.606	1.416	True	0	0	0	0	0	0	False	False	False	False	True	143=0.001	0	0	0	3	e poi utilizzare,	e poi utilizzare,	e poi utilizzare
+145	BO020	323.03	326.723	3.693	True	0	0	0	0	0	0	False	False	False	False	True	146=0.002	0	0	0	12	>se possibile la mia scuola< quindi o il tecnico o il professionale,	>se possibile la mia scuola< quindi o il tecnico o il professionale,	se possibile la mia scuola quindi o il tecnico o il professionale
+146	BO026	326.721	327.165	0.444	True	0	0	0	0	0	0	False	False	False	False	True	145=0.002	0	0	0	2	mh mh,	mh mh,	mh mh
+147	BO020	327.165	331.946	4.781	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	11	le classi: m:h prime e seconde quindi (.) >quattordici quindici< sedici anni,	le classi: m:h prime e seconde quindi {P} >quattordici quindici< sedici anni,	le classi mh prime e seconde quindi {P} quattordici quindici sedici anni
+148	BO020	332.533	334.425	1.892	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	a:h=mh pe:r come,	a:h=mh pe:r come,	ah mh per come
+149	BO020	335.151	337.503	2.352	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	eh diciamo come::=mh,	eh diciamo come::=mh,	eh diciamo come mh
+150	BO020	337.563	338.67	1.107	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	modello,	modello,	modello
+151	BO020	338.905	339.605	0.7	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	m::h,	m::h,	mh
+152	BO020	340.34	342.425	2.085	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	dei <vari::> tecnici,	dei <vari::> tecnici,	dei vari tecnici
+153	BO026	342.765	343.366	0.601	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+154	BO020	342.765	346.702	3.937	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[<e:h e] fare l' analisi più approfondita,>	[<e:h e] fare l' analisi più approfondita,>	eh e fare l' analisi più approfondita
+155	BO020	347.095	348.67	1.575	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	<sui risultati,>	<sui risultati,>	sui risultati
+156	BO020	348.985	350.829	1.844	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<eh che ottengo,>	<eh che ottengo,>	eh che ottengo
+157	BO020	351.171	352.255	1.084	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	nella mia scu[ola.]	nella mia scu[ola.]	nella mia scuola
+158	BO026	351.91	352.261	0.351	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+159	BO020	352.563	355.106	2.543	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	anch[e perché e:h se fosse la sit~]	anch[e perché e:h se fosse la sit~]	anche perché eh se fosse la sit~
+160	BO026	352.904	360.617	7.713	True	0	0	0	0	0	0	False	False	False	False	True	159=2.202,161=3.772,162=0.002	0	0	0	18	[quindi una ricognizione: a]mpia ne ne in que[sto:: numero di istituti tecnici no per avere un quadro ge]nerale.	[quindi una ricognizione: a]mpia ne ne in que[sto:: numero di istituti tecnici no per avere un quadro ge]nerale.	quindi una ricognizione ampia ne ne in questo numero di istituti tecnici no per avere un quadro generale
+161	BO020	356.568	360.34	3.772	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	9	[sì. (.) per avere un quadro più generale per vedere,]	[sì. {P} per avere un quadro più generale per vedere,]	sì {P} per avere un quadro più generale per vedere
+162	BO020	360.615	366.138	5.523	True	0	0	0	0	0	0	False	False	False	False	True	160=0.002	1	0	0	14	se il mio istituto rientra nella più o meno nella (.) nella media degli istituti,	se il mio istituto rientra nella più o meno nella {P} nella media degli istituti,	se il mio istituto rientra nella più o meno nella {P} nella media degli istituti
+163	BO020	366.43	369.265	2.835	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e:h tecnici per quanto riguarda,	e:h tecnici per quanto riguarda,	eh tecnici per quanto riguarda
+164	BO020	369.57	377.117	7.547	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	15	il numero di [studen]ti, la distribuzione tra (.) eh=mh <stranieri:> e:h=mh nativi non na[tivi,]	il numero di [studen]ti, la distribuzione tra {P} eh=mh <stranieri:> e:h=mh nativi non na[tivi,]	il numero di studenti la distribuzione tra {P} eh mh stranieri eh mh nativi non nativi
+165	BO026	370.256	370.901	0.645	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m:h,]	[m:h,]	mh
+166	BO026	376.608	377.125	0.517	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+167	BO020	377.595	378.991	1.396	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+168	BO020	379.34	380.861	1.521	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<e anche pe:r,>	<e anche pe:r,>	e anche per
+169	BO020	381.202	383.606	2.404	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	eh stabilire quali sono le seconde,	eh stabilire quali sono le seconde,	eh stabilire quali sono le seconde
+170	BO020	384.136	389.685	5.549	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	le la prima lingua straniera >ovviamente è l' inglese ma anche eh=eventualmente le seconde lingue studiate,<	le la prima lingua straniera >ovviamente è l' inglese ma anche eh=eventualmente le seconde lingue studiate,<	le la prima lingua straniera ovviamente è l' inglese ma anche eh eventualmente le seconde lingue studiate
+171	BO020	389.985	390.968	0.983	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	<e poi,>	<e poi,>	e poi
+172	BO020	391.323	392.521	1.198	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+173	BO020	392.72	396.191	3.471	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	utilizzare mh i risultati della mia scuola per=mh,	utilizzare mh i risultati della mia scuola per=mh,	utilizzare mh i risultati della mia scuola per mh
+174	BO020	396.581	401.68	5.099	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	avere u:n mh qualcosa di più pratico su cui lavorare di:: risc[ontro]:,	avere u:n mh qualcosa di più pratico su cui lavorare di:: risc[ontro]:,	avere un mh qualcosa di più pratico su cui lavorare di riscontro
+175	BO026	401.03	401.51	0.48	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+176	BO020	402.021	403.908	1.887	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[e:h e di esempi,]	[e:h e di esempi,]	eh e di esempi
+177	BO026	402.023	407.726	5.703	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	[cioè sulla base delle rispo]ste: del quadro che lei un po' insomma delinea,	[cioè sulla base delle rispo]ste: del quadro che lei un po' insomma delinea,	cioè sulla base delle risposte del quadro che lei un po' insomma delinea
+178	BO026	408.001	414.265	6.264	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	18	riesce poi a: a:=mh a fissare meglio gli obiettivi per un' analisi approfondita presso la sua scuola?	riesce poi a: a:=mh a fissare meglio gli obiettivi per un' analisi approfondita presso la sua scuola?	riesce poi a a mh a fissare meglio gli obiettivi per un' analisi approfondita presso la sua scuola
+179	BO020	414.265	422.01	7.745	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	22	sì cioè nella misura in cui la mia scuola può può valere come modello anche per le altre p[erché] più o meno,	sì cioè nella misura in cui la mia scuola può può valere come modello anche per le altre p[erché] più o meno,	sì cioè nella misura in cui la mia scuola può può valere come modello anche per le altre perché più o meno
+180	BO026	420.715	421.3	0.585	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+181	BO020	422.316	424.095	1.779	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<e la situazione,>	<e la situazione,>	e la situazione
+182	BO020	424.702	432.744	8.042	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	12	distribuzione: eh della: degli studenti anche delle lingue anche delle competenze (.) [linguistiche,]	distribuzione: eh della: degli studenti anche delle lingue anche delle competenze {P} [linguistiche,]	distribuzione eh della degli studenti anche delle lingue anche delle competenze {P} linguistiche
+183	BO026	431.298	433.266	1.968	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ma come modello in che se]nso?	[ma come modello in che se]nso?	ma come modello in che senso
+184	BO020	433.685	434.741	1.056	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh	e:h=mh	eh mh
+185	BO020	435.585	436.723	1.138	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	nel s[enso che,]	nel s[enso che,]	nel senso che
+186	BO026	435.995	443.361	7.366	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	[<di colla]borazione tra i mh le insegnanti di: programmazione coordinata integrata:,>	[<di colla]borazione tra i mh le insegnanti di: programmazione coordinata integrata:,>	di collaborazione tra i mh le insegnanti di programmazione coordinata integrata
+187	BO020	443.513	446.51	2.997	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	m::h no io mh pensavo di fare:=mh,	m::h no io mh pensavo di fare:=mh,	mh no io mh pensavo di fare mh
+188	BO020	446.907	448.446	1.539	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	uno studio sulla,	uno studio sulla,	uno studio sulla
+189	BO020	449.126	450.556	1.43	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh	e:h=mh	eh mh
+190	BO020	451.16	455.478	4.318	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	a:h sulla: o sul lessico o sulla morfosintassi:,	a:h sulla: o sul lessico o sulla morfosintassi:,	ah sulla o sul lessico o sulla morfosintassi
+191	BO020	455.76	457.638	1.878	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	eh di questi ragazzi.	eh di questi ragazzi.	eh di questi ragazzi
+192	BO026	457.75	458.138	0.388	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mh m[h,]	mh m[h,]	mh mh
+193	BO020	458.066	465.139	7.073	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	[qu]indi mh ovviamente non potrei fa~ cioè mh mi sembra difficile d~ raccogliere dei dati così approfonditi,	[qu]indi mh ovviamente non potrei fa~ cioè mh mi sembra difficile d~ raccogliere dei dati così approfonditi,	quindi mh ovviamente non potrei fa~ cioè mh mi sembra difficile d~ raccogliere dei dati così approfonditi
+194	BO020	465.455	469.186	3.731	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	e:h su tante scuole anche per[ché (.) immagino che,]	e:h su tante scuole anche per[ché {P} immagino che,]	eh su tante scuole anche perché {P} immagino che
+195	BO026	467.575	474.023	6.448	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	15	[sì no questo non è possi]bile infatti (.) c[ioè le] domande del questionario:: e:h=mh mh,	[sì no questo non è possi]bile infatti {P} c[ioè le] domande del questionario:: e:h=mh mh,	sì no questo non è possibile infatti {P} cioè le domande del questionario eh mh mh
+196	BO020	470.255	470.581	0.326	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+197	BO026	474.195	479.29	5.095	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	per altro a risposta aperta riguardano semplicemente la: possono riguardare,	per altro a risposta aperta riguardano semplicemente la: possono riguardare,	per altro a risposta aperta riguardano semplicemente la possono riguardare
+198	BO026	479.57	481.546	1.976	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[il tipo di collaborazione,]	[il tipo di collaborazione,]	il tipo di collaborazione
+199	BO020	479.57	481.546	1.976	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[sì la distribuzione,]	[sì la distribuzione,]	sì la distribuzione
+200	BO026	481.79	490.593	8.803	True	0	0	0	0	0	0	False	False	False	False	True	201=0.890,202=0.002	0	0	0	21	e::h il numero di ore:: dell~=m:h [cioè il il] mh lo spazio che la disciplina occupa nella programmazione nei programmi,	e::h il numero di ore:: dell~=m:h [cioè il il] mh lo spazio che la disciplina occupa nella programmazione nei programmi,	eh il numero di ore dell~ mh cioè il il mh lo spazio che la disciplina occupa nella programmazione nei programmi
+201	BO020	484.97	485.86	0.89	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[di lingua?]	[di lingua?]	di lingua
+202	BO020	490.591	497.741	7.15	True	0	0	0	0	0	0	False	False	False	False	True	200=0.002,203=1.119,204=0.503	0	0	0	27	che quello più o meno in realtà pe:r l[a >per le classi] prime e seconde è uniforme in tutti gli istituti [ma non so]lo nei tecnici quindi,<	che quello più o meno in realtà pe:r l[a >per le classi] prime e seconde è uniforme in tutti gli istituti [ma non so]lo nei tecnici quindi,<	che quello più o meno in realtà per la per le classi prime e seconde è uniforme in tutti gli istituti ma non solo nei tecnici quindi
+203	BO026	492.141	493.26	1.119	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[lei lo conosce?]	[lei lo conosce?]	lei lo conosce
+204	BO026	495.75	496.253	0.503	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+205	BO020	497.793	502.29	4.497	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	11	son tre ore di:: inglese son tre ore di: (.) seconda lin[gua.]	son tre ore di:: inglese son tre ore di: {P} seconda lin[gua.]	son tre ore di inglese son tre ore di {P} seconda lingua
+206	BO026	501.895	502.313	0.418	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+207	BO020	502.575	505.788	3.213	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	e:[:h anche] le ore di italiano direi che son le stesse.	e:[:h anche] le ore di italiano direi che son le stesse.	eh anche le ore di italiano direi che son le stesse
+208	BO026	502.796	503.674	0.878	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[cioè da questo,]	[cioè da questo,]	cioè da questo
+209	BO026	506.018	516.511	10.493	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	25	da questa indagine può emergere quali lingue straniere e i tempi di: di:: sì di: della disciplina saranno gli stessi quali lingue straniere vengono studiate,	da questa indagine può emergere quali lingue straniere e i tempi di: di:: sì di: della disciplina saranno gli stessi quali lingue straniere vengono studiate,	da questa indagine può emergere quali lingue straniere e i tempi di di sì di della disciplina saranno gli stessi quali lingue straniere vengono studiate
+210	BO026	516.786	529.569	12.783	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	34	se c' è (.) una: rapporto tra e:h l' insegnanti di: l' insegnante di italiano elle due e di laboratorio (.) e l' insegnante di lingua:: straniera per esempio di inglese o di tedesco o di:,	se c' è {P} una: rapporto tra e:h l' insegnanti di: l' insegnante di italiano elle due e di laboratorio {P} e l' insegnante di lingua:: straniera per esempio di inglese o di tedesco o di:,	se c' è {P} una rapporto tra eh l' insegnanti di l' insegnante di italiano elle due e di laboratorio {P} e l' insegnante di lingua straniera per esempio di inglese o di tedesco o di
+211	BO026	529.985	531.241	1.256	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	spagnolo no?	spagnolo no?	spagnolo no
+212	BO026	531.81	533.081	1.271	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[e:h=mh perché,]	[e:h=mh perché,]	eh mh perché
+213	BO020	531.81	537.093	5.283	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	[e:h=m:h lei lei] dice un rapporto in che senso d[i programmazione didattica?]	[e:h=m:h lei lei] dice un rapporto in che senso d[i programmazione didattica?]	eh mh lei lei dice un rapporto in che senso di programmazione didattica
+214	BO026	535.046	539.728	4.682	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[cioè una collaborazione professionale] per esempio una programmazione integrata no?	[cioè una collaborazione professionale] per esempio una programmazione integrata no?	cioè una collaborazione professionale per esempio una programmazione integrata no
+215	BO026	539.93	543.128	3.198	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	è il famos[o concetto] di educazione linguistica integrata.	è il famos[o concetto] di educazione linguistica integrata.	è il famoso concetto di educazione linguistica integrata
+216	BO020	540.5	541.063	0.563	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[allora,]	[allora,]	allora
+217	BO020	543.328	549.123	5.795	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	mh diciamo che questo succede a livello di consigli di classe credo perché nei c[onsigli di] classe,	mh diciamo che questo succede a livello di consigli di classe credo perché nei c[onsigli di] classe,	mh diciamo che questo succede a livello di consigli di classe credo perché nei consigli di classe
+218	BO026	547.901	548.406	0.505	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[°mh,°]	[°mh,°]	mh
+219	BO020	549.59	554.733	5.143	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	12	però (.) soprattutto nella dal terzo anno in poi si cerca di fare,	però {P} soprattutto nella dal terzo anno in poi si cerca di fare,	però {P} soprattutto nella dal terzo anno in poi si cerca di fare
+220	BO020	554.988	558.533	3.545	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e:h dei percorsi interdisciplinari [per cui]:,	e:h dei percorsi interdisciplinari [per cui]:,	eh dei percorsi interdisciplinari per cui
+221	BO026	557.915	558.435	0.52	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[°mh mh,°]	[°mh mh,°]	mh mh
+222	BO020	558.77	561.133	2.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	u:h=non lo so eh inglese,	u:h=non lo so eh inglese,	uh non lo so eh inglese
+223	BO020	561.361	572.422	11.061	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	24	e::h=m:h l~ l' inglese orientato (.) alla geografia all' amb[ito turi]stico poi e:h=m:h e poi eh chiaro dipende dagli indirizzi l' economia però,	e::h=m:h l~ l' inglese orientato {P} alla geografia all' amb[ito turi]stico poi e:h=m:h e poi eh chiaro dipende dagli indirizzi l' economia però,	eh mh l~ l' inglese orientato {P} alla geografia all' ambito turistico poi eh mh e poi eh chiaro dipende dagli indirizzi l' economia però
+224	BO026	565.901	566.48	0.579	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+225	BO020	572.82	573.844	1.024	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+226	BO020	573.991	579.2	5.209	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	primo e secondo anno::: direi di no siccome [la maggio]r parte dei:,	primo e secondo anno::: direi di no siccome [la maggio]r parte dei:,	primo e secondo anno direi di no siccome la maggior parte dei
+227	BO026	577.5	577.973	0.473	True	0	0	0	0	0	0	True	False	False	False	False		0	0	0	1	[°mh,]	[°mh,]	mh
+228	BO026	580.028	585.866	5.838	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	e[: quindi mh che tipo di domande] porrebbe lei cioè qual è diciamo lo scopo di questa:,	e[: quindi mh che tipo di domande] porrebbe lei cioè qual è diciamo lo scopo di questa:,	e quindi mh che tipo di domande porrebbe lei cioè qual è diciamo lo scopo di questa
+229	BO020	580.266	582.17	1.904	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[degli amministra~ xx]	[degli amministra~ xx]	degli amministra~ xx
+230	BO026	586.146	588.666	2.52	True	0	0	0	0	0	0	False	False	False	False	True	231=0.001	0	0	0	4	ricognizione attraverso un questionario.	ricognizione attraverso un questionario.	ricognizione attraverso un questionario
+231	BO020	588.665	592.677	4.012	True	0	0	0	0	0	0	False	False	False	False	True	230=0.001	0	0	0	9	e:::h sì allora io m:h ho mh ho stilato::,	e:::h sì allora io m:h ho mh ho stilato::,	eh sì allora io mh ho mh ho stilato
+232	BO020	593.311	596.543	3.232	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	un:: possibile questionario che::,	un:: possibile questionario che::,	un possibile questionario che
+233	BO020	597.126	598.433	1.307	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh	e::h=mh	eh mh
+234	BO020	598.6	601.286	2.686	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	non so <quanto> possa essere efficace.	non so <quanto> possa essere efficace.	non so quanto possa essere efficace
+235	BO020	601.553	602.885	1.332	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+236	BO020	603.351	606.866	3.515	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	pensavo a mh tipo al massimo venti doma:nde,	pensavo a mh tipo al massimo venti doma:nde,	pensavo a mh tipo al massimo venti domande
+237	BO020	607.375	612.244	4.869	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	e::h perché più lungo mi sembra: dispersivo[: potrebbero rifiutarsi,]	e::h perché più lungo mi sembra: dispersivo[: potrebbero rifiutarsi,]	eh perché più lungo mi sembra dispersivo potrebbero rifiutarsi
+238	BO026	610.13	613.677	3.547	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[venti domande a risposta apert~ eh] infat[ti magari non,]	[venti domande a risposta apert~ eh] infat[ti magari non,]	venti domande a risposta apert~ eh infatti magari non
+239	BO020	612.56	616.0	3.44	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	[di fare la risposta] aperta perché se è a risposta chiusa mh,	[di fare la risposta] aperta perché se è a risposta chiusa mh,	di fare la risposta aperta perché se è a risposta chiusa mh
+240	BO020	616.2	619.622	3.422	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	mi sembra poco informativo perché [è mo]lto:,	mi sembra poco informativo perché [è mo]lto:,	mi sembra poco informativo perché è molto
+241	BO026	618.646	619.028	0.382	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+242	BO020	620.155	624.3	4.145	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	cioè io devo dare massimo tre possiiblità quattro possibilità,	cioè io devo dare massimo tre possiiblità quattro possibilità,	cioè io devo dare massimo tre possiiblità quattro possibilità
+243	BO020	624.585	626.411	1.826	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e comunque il numero,	e comunque il numero,	e comunque il numero
+244	BO020	626.535	631.877	5.342	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	e::h=[mh non lo s]o da dieci a venti da:: venti a trenta di ragazzi mi sembra,	e::h=[mh non lo s]o da dieci a venti da:: venti a trenta di ragazzi mi sembra,	eh mh non lo so da dieci a venti da venti a trenta di ragazzi mi sembra
+245	BO026	627.088	627.8	0.712	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m:h,]	[m:h,]	mh
+246	BO020	631.965	633.645	1.68	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	m::h dispersivo.	m::h dispersivo.	mh dispersivo
+247	BO020	633.905	635.455	1.55	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	a [me sembra xx s]ì.	a [me sembra xx s]ì.	a me sembra xx sì
+248	BO026	633.991	635.378	1.387	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[posso vedere un attimo?]	[posso vedere un attimo?]	posso vedere un attimo
+249	BO020	635.724	638.55	2.826	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	allora io ho scritto, guardi. mh ho scritto anche,	allora io ho scritto, guardi. mh ho scritto anche,	allora io ho scritto guardi mh ho scritto anche
+250	BO020	639.013	642.186	3.173	True	0	0	0	0	0	0	False	False	False	False	False		1	0	1	6	perché io (.) pensavo di lasciarglielo però n:~	perché io {P} pensavo di lasciarglielo però n:~	perché io {P} pensavo di lasciarglielo però n:~
+251	BO026	642.976	650.393	7.417	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	26	e::h=m:h l' ha fatto anche in una in x in una:: l' ha scritto solo così o anche: ce l' ha anche in formato: digi[tale?]	e::h=m:h l' ha fatto anche in una in x in una:: l' ha scritto solo così o anche: ce l' ha anche in formato: digi[tale?]	eh mh l' ha fatto anche in una in x in una l' ha scritto solo così o anche ce l' ha anche in formato digitale
+252	BO020	649.971	653.8	3.829	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	16	[ce l' ho c]osì (.) [sì] mh questo qui [ah] lei dice ce l' ho su chi[avetta?]	[ce l' ho c]osì {P} [sì] mh questo qui [ah] lei dice ce l' ho su chi[avetta?]	ce l' ho così {P} sì mh questo qui ah lei dice ce l' ho su chiavetta
+253	BO026	650.588	651.015	0.427	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[ah.]	[ah.]	ah
+254	BO026	651.688	651.986	0.298	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+255	BO026	652.913	655.061	2.148	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[tutto tutto i]l questionario?	[tutto tutto i]l questionario?	tutto tutto il questionario
+256	BO020	655.22	656.938	1.718	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	questo ce l' ho su chiavetta sì.	questo ce l' ho su chiavetta sì.	questo ce l' ho su chiavetta sì
+257	BO020	656.966	660.177	3.211	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	però non è a[ncora ben strutturato °comunque non ho,°]	però non è a[ncora ben strutturato °comunque non ho,°]	però non è ancora ben strutturato comunque non ho
+258	BO026	657.771	660.155	2.384	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[allora le prime sono::,]	[allora le prime sono::,]	allora le prime sono
+259	BO026	660.246	663.411	3.165	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	proprio informative [(no) quante] lingue quali so[no,]	proprio informative [(no) quante] lingue quali so[no,]	proprio informative no quante lingue quali sono
+260	BO020	661.288	662.011	0.723	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh sì.]	[mh sì.]	mh sì
+261	BO020	663.233	664.533	1.3	True	0	0	0	0	0	0	False	False	False	False	True	259=0.178,262=0.003	0	0	0	5	[s]ì sì proprio di base.	[s]ì sì proprio di base.	sì sì proprio di base
+262	BO026	664.53	667.044	2.514	True	0	0	0	0	0	0	False	False	False	False	True	261=0.003	0	0	0	6	e:h quanti studenti: ci sono in,	e:h quanti studenti: ci sono in,	eh quanti studenti ci sono in
+263	BO026	667.988	668.645	0.657	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	okay?	okay?	okay
+264	BO026	679.822	682.966	3.144	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	e quella dei nativi è al secondo posto,	e quella dei nativi è al secondo posto,	e quella dei nativi è al secondo posto
+265	BO026	709.613	713.133	3.52	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	sì eh sarebbe queste no, sono qua[ttordici?]	sì eh sarebbe queste no, sono qua[ttordici?]	sì eh sarebbe queste no sono quattordici
+266	BO020	712.171	716.777	4.606	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	[sì infatti poi] una è modificata qui n[e ho aggiu]nta un' altra e non ho messo,	[sì infatti poi] una è modificata qui n[e ho aggiu]nta un' altra e non ho messo,	sì infatti poi una è modificata qui ne ho aggiunta un' altra e non ho messo
+267	BO026	714.331	714.881	0.55	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+268	BO020	717.15	719.722	2.572	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	le xx xx diciamo quest[o:]:,	le xx xx diciamo quest[o:]:,	le xx xx diciamo questo
+269	BO026	719.123	719.528	0.405	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+270	BO026	720.558	723.433	2.875	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	allora [la prima cosa che posso dire qui eh,]	allora [la prima cosa che posso dire qui eh,]	allora la prima cosa che posso dire qui eh
+271	BO020	721.181	723.866	2.685	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[sì no pensavo un quindici o un massimo ve]nti.	[sì no pensavo un quindici o un massimo ve]nti.	sì no pensavo un quindici o un massimo venti
+272	BO026	724.786	725.9	1.114	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh,	e:h=mh,	eh mh
+273	BO026	726.381	730.855	4.474	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	sono tante queste no, e biso~ bisognerebbe accorparle,	sono tante queste no, e biso~ bisognerebbe accorparle,	sono tante queste no e biso~ bisognerebbe accorparle
+274	BO026	731.016	736.844	5.828	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	per ambito tematico per esempio queste sono solo informative sulla scuola no, quanti studenti,	per ambito tematico per esempio queste sono solo informative sulla scuola no, quanti studenti,	per ambito tematico per esempio queste sono solo informative sulla scuola no quanti studenti
+275	BO020	736.844	737.258	0.414	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+276	BO026	737.68	739.833	2.153	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e:h stra[nieri ci sono,]	e:h stra[nieri ci sono,]	eh stranieri ci sono
+277	BO020	738.43	740.122	1.692	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[°numeriche in realtà s]ì.°	[°numeriche in realtà s]ì.°	numeriche in realtà sì
+278	BO026	740.344	747.9	7.556	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	16	mh (.) sul~ proprio quantitative cioè <quante lingue> >quantitative e qualitative< quante lingue quali quanti studenti stranieri,	mh {P} sul~ proprio quantitative cioè <quante lingue> >quantitative e qualitative< quante lingue quali quanti studenti stranieri,	mh {P} sul~ proprio quantitative cioè quante lingue quantitative e qualitative quante lingue quali quanti studenti stranieri
+279	BO026	748.206	748.555	0.349	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	poi,	poi,	poi
+280	BO026	748.72	753.733	5.013	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	una: un quadro diciamo delle lingue delle na~ delle lingue native delle nazionalità,	una: un quadro diciamo delle lingue delle na~ delle lingue native delle nazionalità,	una un quadro diciamo delle lingue delle na~ delle lingue native delle nazionalità
+281	BO026	754.415	755.823	1.408	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+282	BO026	764.578	768.596	4.018	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	allora questa è >in geneale quale delle quattro abilità è più sviluppata?<	allora questa è >in geneale quale delle quattro abilità è più sviluppata?<	allora questa è in geneale quale delle quattro abilità è più sviluppata
+283	BO026	772.922	778.1	5.178	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	io la ri[peterei io la ripeterei <questa do]manda> e:h riferita,	io la ri[peterei io la ripeterei <questa do]manda> e:h riferita,	io la ripeterei io la ripeterei questa domanda eh riferita
+284	BO020	773.331	776.138	2.807	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[questa è abbastanza discrezionale nel senso che,]	[questa è abbastanza discrezionale nel senso che,]	questa è abbastanza discrezionale nel senso che
+285	BO026	778.565	780.165	1.6	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	ai neo arrivati:,	ai neo arrivati:,	ai neo arrivati
+286	BO026	780.22	787.555	7.335	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	21	e agli stranieri nativi in italia cioè la ripeterei non metterei (.) in maniera implicita: otto e no~ in otto e nove,	e agli stranieri nativi in italia cioè la ripeterei non metterei {P} in maniera implicita: otto e no~ in otto e nove,	e agli stranieri nativi in italia cioè la ripeterei non metterei {P} in maniera implicita otto e no~ in otto e nove
+287	BO026	788.001	789.622	1.621	True	0	0	0	0	0	0	False	False	False	False	True	288=0.001	0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+288	BO020	789.621	790.1	0.479	True	0	0	0	0	0	0	False	False	False	False	True	287=0.001	0	0	0	1	sì.	sì.	sì
+289	BO026	790.666	792.588	1.922	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[la la domanda di base no?]	[la la domanda di base no?]	la la domanda di base no
+290	BO020	790.72	792.577	1.857	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ah per esteso lei dice, sì.]	[ah per esteso lei dice, sì.]	ah per esteso lei dice sì
+291	BO026	792.97	798.951	5.981	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	19	dopo di che qui ci sono queste che riguardano il lessico e la competenza lessicale allora vanno messe insieme.	dopo di che qui ci sono queste che riguardano il lessico e la competenza lessicale allora vanno messe insieme.	dopo di che qui ci sono queste che riguardano il lessico e la competenza lessicale allora vanno messe insieme
+292	BO026	799.246	799.586	0.34	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	no?	no?	no
+293	BO026	799.835	801.906	2.071	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	la numero dieci e la numero dodici,	la numero dieci e la numero dodici,	la numero dieci e la numero dodici
+294	BO020	802.146	802.744	0.598	True	0	0	0	0	0	0	False	False	False	False	True	295=0.001	0	0	0	2	mh mh,	mh mh,	mh mh
+295	BO026	802.743	805.488	2.745	True	0	0	0	0	0	0	False	False	False	False	True	294=0.001	0	0	0	9	una dietro l' altra non non con questi salti.	una dietro l' altra non non con questi salti.	una dietro l' altra non non con questi salti
+296	BO026	806.03	811.077	5.047	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	e poi c' è u:n forse passaggio brusco al code switching perché bisogna,	e poi c' è u:n forse passaggio brusco al code switching perché bisogna,	e poi c' è un forse passaggio brusco al code switching perché bisogna
+297	BO026	811.677	812.688	1.011	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<prima,>	<prima,>	prima
+298	BO026	812.845	814.344	1.499	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e:h=mh chiedere,	e:h=mh chiedere,	eh mh chiedere
+299	BO026	814.655	816.177	1.522	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	intanto se ci sono,	intanto se ci sono,	intanto se ci sono
+300	BO026	816.448	819.813	3.365	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	dei fenomeni di code switching magari con altre lingue,	dei fenomeni di code switching magari con altre lingue,	dei fenomeni di code switching magari con altre lingue
+301	BO020	820.26	820.571	0.311	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	m[h,]	m[h,]	mh
+302	BO026	820.451	822.716	2.265	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[ch]e non sono quelle studiate a scuola.	[ch]e non sono quelle studiate a scuola.	che non sono quelle studiate a scuola
+303	BO026	823.305	823.625	0.32	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh,°	°mh,°	mh
+304	BO026	823.975	824.57	0.595	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	perché,	perché,	perché
+305	BO026	824.781	829.833	5.052	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	a che cosa si riferisce mh perché perché (mh) [lei ha inserito il] code switching?	a che cosa si riferisce mh perché perché (mh) [lei ha inserito il] code switching?	a che cosa si riferisce mh perché perché mh lei ha inserito il code switching
+306	BO020	828.135	829.211	1.076	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[a::=mh,]	[a::=mh,]	a mh
+307	BO020	830.783	832.9	2.117	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	<a questo eh=m::h,>	<a questo eh=m::h,>	a questo eh mh
+308	BO020	834.977	842.748	7.771	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	25	siccome lo farebbe o l' insegnante di italiano >risponderebb[e l' insegna]te di italiano o l' insegnante di lingua ma io credo l' insegnante di italiano.<	siccome lo farebbe o l' insegnante di italiano >risponderebb[e l' insegna]te di italiano o l' insegnante di lingua ma io credo l' insegnante di italiano.<	siccome lo farebbe o l' insegnante di italiano risponderebbe l' insegnate di italiano o l' insegnante di lingua ma io credo l' insegnante di italiano
+309	BO026	838.683	839.135	0.452	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+310	BO020	843.175	844.058	0.883	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh,	e:h=mh,	eh mh
+311	BO020	844.936	846.866	1.93	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	rispe:tto: alla=mh,	rispe:tto: alla=mh,	rispetto alla mh
+312	BO020	847.155	848.29	1.135	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	alla lingua:,	alla lingua:,	alla lingua
+313	BO020	849.131	850.477	1.346	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	alla prima li[ngua,]	alla prima li[ngua,]	alla prima lingua
+314	BO026	850.04	850.466	0.426	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+315	BO020	850.503	851.122	0.619	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	deii:,	deii:,	deii
+316	BO020	852.048	857.5	5.452	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	e: sì d~ d~ è vero dovrei chiarirlo magari <legarlo ai non nativi,>	e: sì d~ d~ è vero dovrei chiarirlo magari <legarlo ai non nativi,>	e sì d~ d~ è vero dovrei chiarirlo magari legarlo ai non nativi
+317	BO026	857.505	857.845	0.34	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+318	BO020	858.208	858.866	0.658	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	eh=mh,	eh=mh,	eh mh
+319	BO026	858.96	860.855	1.895	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	cioè (.) eh=m[h allora di solito,]	cioè {P} eh=m[h allora di solito,]	cioè {P} eh mh allora di solito
+320	BO020	859.68	863.811	4.131	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	[cioè me~ metterla] di seguito alla risposta su >non lo so< quant[i:,]	[cioè me~ metterla] di seguito alla risposta su >non lo so< quant[i:,]	cioè me~ metterla di seguito alla risposta su non lo so quanti
+321	BO026	863.531	863.833	0.302	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+322	BO020	864.181	864.698	0.517	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	eh=mh,	eh=mh,	eh mh
+323	BO020	864.76	866.74	1.98	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	o quali <quali lingue,>	o quali <quali lingue,>	o quali quali lingue
+324	BO020	866.955	868.818	1.863	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	altre vengono parlate,	altre vengono parlate,	altre vengono parlate
+325	BO020	868.926	869.426	0.5	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:h	e:h	eh
+326	BO020	869.472	872.545	3.073	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	<oddio non ho ben chiaro d[ove potrei metterla però,>]	<oddio non ho ben chiaro d[ove potrei metterla però,>]	oddio non ho ben chiaro dove potrei metterla però
+327	BO026	871.086	877.3	6.214	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	20	[no allora una cosa che pu]ò fare è il il va bene in ogni caso qualsiasi questionario ha bisogno di:,	[no allora una cosa che pu]ò fare è il il va bene in ogni caso qualsiasi questionario ha bisogno di:,	no allora una cosa che può fare è il il va bene in ogni caso qualsiasi questionario ha bisogno di
+328	BO026	877.604	880.011	2.407	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	assemblare per aree tematiche.	assemblare per aree tematiche.	assemblare per aree tematiche
+329	BO026	880.207	880.922	0.715	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	per esempio,	per esempio,	per esempio
+330	BO026	881.188	884.811	3.623	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	<i dati informativi, la frequenza, le lingue,> cioè,	<i dati informativi, la frequenza, le lingue,> cioè,	i dati informativi la frequenza le lingue cioè
+331	BO026	885.386	887.155	1.769	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	lo dico in generale no, quindi,	lo dico in generale no, quindi,	lo dico in generale no quindi
+332	BO026	887.38	887.922	0.542	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	se qui,	se qui,	se qui
+333	BO026	888.181	895.933	7.752	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	<se dal quesito dalla dieci> dalla domanda dieci alla quattor~ alla <quattordici> ci spostiamo sulle competenze linguistiche,	<se dal quesito dalla dieci> dalla domanda dieci alla quattor~ alla <quattordici> ci spostiamo sulle competenze linguistiche,	se dal quesito dalla dieci dalla domanda dieci alla quattor~ alla quattordici ci spostiamo sulle competenze linguistiche
+334	BO026	896.296	900.877	4.581	True	0	0	0	0	0	0	False	False	False	False	True	335=0.001	0	0	0	14	allora se questa riguarda il lessico quel~ le due del lessico le teniamo vicine.	allora se questa riguarda il lessico quel~ le due del lessico le teniamo vicine.	allora se questa riguarda il lessico quel~ le due del lessico le teniamo vicine
+335	BO020	900.876	901.198	0.322	True	0	0	0	0	0	0	False	False	False	False	True	334=0.001	0	0	0	1	sì.	sì.	sì
+336	BO026	901.198	903.888	2.69	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	perché poi ci sono quelle che riguardano la morfosi[ntassi,]	perché poi ci sono quelle che riguardano la morfosi[ntassi,]	perché poi ci sono quelle che riguardano la morfosintassi
+337	BO020	903.366	903.853	0.487	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+338	BO026	904.7	906.677	1.977	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e poi i fenomeni:=mh,	e poi i fenomeni:=mh,	e poi i fenomeni mh
+339	BO026	906.81	911.763	4.953	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	di::=mh già discorsivi no, perché il code switching è all' interno della,	di::=mh già discorsivi no, perché il code switching è all' interno della,	di mh già discorsivi no perché il code switching è all' interno della
+340	BO026	912.118	916.155	4.037	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	delle della interazione verbale se quando c[omun]ica con gli altri,	delle della interazione verbale se quando c[omun]ica con gli altri,	delle della interazione verbale se quando comunica con gli altri
+341	BO020	914.822	915.176	0.354	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+342	BO026	916.256	916.577	0.321	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	se,	se,	se
+343	BO026	917.948	920.711	2.763	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	ricorrono anche episodi di questo tipo.	ricorrono anche episodi di questo tipo.	ricorrono anche episodi di questo tipo
+344	BO026	921.16	921.611	0.451	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	però,	però,	però
+345	BO026	921.765	924.3	2.535	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e:h questo questionario ancora non ci dice,	e:h questo questionario ancora non ci dice,	eh questo questionario ancora non ci dice
+346	BO026	924.85	926.01	1.16	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+347	BO026	928.033	932.788	4.755	True	0	0	0	0	0	0	False	False	False	False	True	348=1.008,349=1.408,350=0.002	0	0	0	14	che cosa:: ef[fettivamente] cioè qu[al è la sua meta qual è] lo scopo no?	che cosa:: ef[fettivamente] cioè qu[al è la sua meta qual è] lo scopo no?	che cosa effettivamente cioè qual è la sua meta qual è lo scopo no
+348	BO020	929.32	930.328	1.008	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[che cosa vogliamo.]	[che cosa vogliamo.]	che cosa vogliamo
+349	BO020	930.665	932.073	1.408	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[qual è lo scopo,]	[qual è lo scopo,]	qual è lo scopo
+350	BO020	932.786	933.103	0.317	True	0	0	0	0	0	0	False	False	False	False	True	347=0.002,351=0.002	0	0	0	1	sì.	sì.	sì
+351	BO026	933.101	934.488	1.387	True	0	0	0	0	0	0	False	False	False	False	True	350=0.002	0	0	0	5	l' altra volta mi sembrava,	l' altra volta mi sembrava,	l' altra volta mi sembrava
+352	BO026	935.376	935.723	0.347	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	che,	che,	che
+353	BO026	935.881	937.533	1.652	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	avevamo parlato di,	avevamo parlato di,	avevamo parlato di
+354	BO026	937.753	939.025	1.272	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+355	BO026	940.375	943.6	3.225	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	indagare la relazione che c' è eh tra,	indagare la relazione che c' è eh tra,	indagare la relazione che c' è eh tra
+356	BO026	944.383	945.644	1.261	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	l' italiano elle due,	l' italiano elle due,	l' italiano elle due
+357	BO026	945.906	950.96	5.054	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	17	e la lingua straniera che viene appresa a scuola °no cioè ° gli apprendenti di italiano elle due,	e la lingua straniera che viene appresa a scuola °no cioè° gli apprendenti di italiano elle due,	e la lingua straniera che viene appresa a scuola no cioè gli apprendenti di italiano elle due
+358	BO026	951.9	952.21	0.31	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh,	eh,	eh
+359	BO026	952.375	959.155	6.78	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	17	ha (.) una sua lingua nativa o anche più lingue e nella scuola in cui è inserito impara,	ha {P} una sua lingua nativa o anche più lingue e nella scuola in cui è inserito impara,	ha {P} una sua lingua nativa o anche più lingue e nella scuola in cui è inserito impara
+360	BO026	959.965	966.246	6.281	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	22	la lingua maggioritaria come lingua seconda >ma al tempo stesso c' è una lingua che fa parte del piano di studio< no?	la lingua maggioritaria come lingua seconda >ma al tempo stesso c' è una lingua che fa parte del piano di studio< no?	la lingua maggioritaria come lingua seconda ma al tempo stesso c' è una lingua che fa parte del piano di studio no
+361	BO026	966.56	968.615	2.055	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	che fa parte del programma scolastico.	che fa parte del programma scolastico.	che fa parte del programma scolastico
+362	BO026	968.775	969.4	0.625	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e quindi,	e quindi,	e quindi
+363	BO026	971.066	978.6	7.534	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	20	che tipo di e:h che cosa vuole indagare lei cioè quali c~ quali quali competenze <sviluppa> in quest' altra lingua?	che tipo di e:h che cosa vuole indagare lei cioè quali c~ quali quali competenze <sviluppa> in quest' altra lingua?	che tipo di eh che cosa vuole indagare lei cioè quali c~ quali quali competenze sviluppa in quest' altra lingua
+364	BO026	978.855	979.815	0.96	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	in parallelo?	in parallelo?	in parallelo
+365	BO026	980.533	982.248	1.715	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	oppure se la conosce già,	oppure se la conosce già,	oppure se la conosce già
+366	BO026	982.571	983.411	0.84	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	oppu[re,]	oppu[re,]	oppure
+367	BO020	983.111	985.4	2.289	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[in quest' a]ltra lingua mi scusi [e:h la mia,]	[in quest' a]ltra lingua mi scusi [e:h la mia,]	in quest' altra lingua mi scusi eh la mia
+368	BO026	984.366	986.688	2.322	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[la lingua stranier]a la lingua straniera.	[la lingua stranier]a la lingua straniera.	la lingua straniera la lingua straniera
+369	BO020	986.688	992.0	5.312	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	e:h=mh la lingua straniera s~ e:h la seconda lingua straniera cioè stiamo parlando d[ella mia]:,	e:h=mh la lingua straniera s~ e:h la seconda lingua straniera cioè stiamo parlando d[ella mia]:,	eh mh la lingua straniera s~ eh la seconda lingua straniera cioè stiamo parlando della mia
+370	BO026	991.4	991.87	0.47	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+371	BO020	992.36	994.166	1.806	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	o del possibilmente il,	o del possibilmente il,	o del possibilmente il
+372	BO026	994.361	998.381	4.02	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	parliamo dell' i[taliano co]me lingua seconda perché è in immersione no?	parliamo dell' i[taliano co]me lingua seconda perché è in immersione no?	parliamo dell' italiano come lingua seconda perché è in immersione no
+373	BO020	995.191	995.72	0.529	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[°okay.°]	[°okay.°]	okay
+374	BO026	998.958	1006.388	7.43	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	28	e [poi c' è l]a lingua straniera che non è in immersione perché se studia lo [spagno]lo non è in imme[rsion]e studia il tedesco non è in immersione,	e [poi c' è l]a lingua straniera che non è in immersione perché se studia lo [spagno]lo non è in imme[rsion]e studia il tedesco non è in immersione,	e poi c' è la lingua straniera che non è in immersione perché se studia lo spagnolo non è in immersione studia il tedesco non è in immersione
+375	BO020	999.16	999.65	0.49	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+376	BO020	1002.428	1002.876	0.448	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+377	BO020	1003.695	1004.08	0.385	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+378	BO026	1006.826	1007.388	0.562	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	quindi,	quindi,	quindi
+379	BO026	1007.55	1008.4	0.85	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	un alunno,	un alunno,	un alunno
+380	BO026	1008.566	1009.377	0.811	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ristudia,	ristudia,	ristudia
+381	BO026	1009.751	1013.596	3.845	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	parallelamente contemporaneamente di fatto due lingue.	parallelamente contemporaneamente di fatto due lingue.	parallelamente contemporaneamente di fatto due lingue
+382	BO026	1014.051	1014.321	0.27	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh°	°mh°	mh
+383	BO026	1014.561	1015.288	0.727	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	una però,	una però,	una però
+384	BO026	1015.766	1019.677	3.911	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	è usata nel contesto in cui la studia l' altra no. l' altra è solo,	è usata nel contesto in cui la studia l' altra no. l' altra è solo,	è usata nel contesto in cui la studia l' altra no l' altra è solo
+385	BO026	1020.175	1022.426	2.251	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ogge]tto dell' ora di le[zione no?]	[ogge]tto dell' ora di le[zione no?]	oggetto dell' ora di lezione no
+386	BO020	1020.175	1020.52	0.345	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+387	BO020	1021.421	1022.668	1.247	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[xxx straniera] sì.	[xxx straniera] sì.	xxx straniera sì
+388	BO026	1024.086	1025.188	1.102	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+389	BO026	1025.2	1026.133	0.933	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e quindi la,	e quindi la,	e quindi la
+390	BO026	1026.645	1029.266	2.621	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	la::=mh l~ una ricerca su,	la::=mh l~ una ricerca su,	la mh l~ una ricerca su
+391	BO026	1029.576	1030.633	1.057	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	la rela[zione,]	la rela[zione,]	la relazione
+392	BO020	1030.155	1032.333	2.178	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[su s]ulla distanza <tra:,>	[su s]ulla distanza <tra:,>	su sulla distanza tra
+393	BO020	1032.765	1035.544	2.779	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	7	<la elle due l' italiano elle due, >	<la elle due l' italiano elle due,>	la elle due l' italiano elle due
+394	BO020	1036.705	1037.225	0.52	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:,	e:,	e
+395	BO020	1037.386	1038.288	0.902	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:h,	e:h,	eh
+396	BO020	1038.386	1039.728	1.342	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	la lingua straniera.	la lingua straniera.	la lingua straniera
+397	BO020	1040.6	1044.722	4.122	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	che potrebbe essere l' inglese <o la seconda lingua [stranie]ra.>	che potrebbe essere l' inglese <o la seconda lingua [stranie]ra.>	che potrebbe essere l' inglese o la seconda lingua straniera
+398	BO026	1043.811	1044.36	0.549	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh.]	[mh mh.]	mh mh
+399	BO020	1045.971	1046.831	0.86	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh,	e:h=mh,	eh mh
+400	BO026	1047.766	1054.211	6.445	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	oppure può essere una lingua che è lingua franca: lingua:: già conosciuta o parzialmente conosciuta per,	oppure può essere una lingua che è lingua franca: lingua:: già conosciuta o parzialmente conosciuta per,	oppure può essere una lingua che è lingua franca lingua già conosciuta o parzialmente conosciuta per
+401	BO026	1054.533	1055.411	0.878	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	per l' alunno.	per l' alunno.	per l' alunno
+402	BO026	1055.465	1056.422	0.957	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	quindi le domande,	quindi le domande,	quindi le domande
+403	BO026	1056.75	1057.089	0.339	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	io,	io,	io
+404	BO026	1057.301	1066.344	9.043	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	29	il l~ l' altra volta immaginavo più a un proprio a un' indagine presso le scuole per capire se=uno se c' è una relazione tra questi due ambiti.	il l~ l' altra volta immaginavo più a un proprio a un' indagine presso le scuole per capire se=uno se c' è una relazione tra questi due ambiti.	il l~ l' altra volta immaginavo più a un proprio a un' indagine presso le scuole per capire se uno se c' è una relazione tra questi due ambiti
+405	BO026	1066.731	1069.789	3.058	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	tra gli insegnanti di laboratorio e di italiano elle due,	tra gli insegnanti di laboratorio e di italiano elle due,	tra gli insegnanti di laboratorio e di italiano elle due
+406	BO026	1070.208	1071.848	1.64	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e gli insegnanti di lingua.	e gli insegnanti di lingua.	e gli insegnanti di lingua
+407	BO026	1072.093	1073.5	1.407	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	no? se in qualche modo,	no? se in qualche modo,	no se in qualche modo
+408	BO026	1074.166	1078.844	4.678	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	9	a vario:: a vari livelli cioè (.) <della collaborazione nella,>	a vario:: a vari livelli cioè {P} <della collaborazione nella,>	a vario a vari livelli cioè {P} della collaborazione nella
+409	BO026	1079.358	1088.977	9.619	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	27	nella:=m::h nella <programmazione nei materiali nella> a volte l' insegnante di italiano elle due è anche l~ è anche l' insegnante di l~ di elle esse.	nella:=m::h nella <programmazione nei materiali nella> a volte l' insegnante di italiano elle due è anche l~ è anche l' insegnante di l~ di elle esse.	nella mh nella programmazione nei materiali nella a volte l' insegnante di italiano elle due è anche l~ è anche l' insegnante di l~ di elle esse
+410	BO026	1089.376	1089.81	0.434	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°no?°	°no?°	no
+411	BO020	1090.689	1092.051	1.362	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<sì questo sì.>	<sì questo sì.>	sì questo sì
+412	BO020	1092.175	1093.611	1.436	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	però che ci sia,	però che ci sia,	però che ci sia
+413	BO020	1093.938	1095.253	1.315	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+414	BO020	1095.444	1100.689	5.245	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	<vera collaborazione a livello di classe o su parte della classe,>	<vera collaborazione a livello di classe o su parte della classe,>	vera collaborazione a livello di classe o su parte della classe
+415	BO020	1101.096	1105.011	3.915	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	e:h io son stata anche al professionale per esempio nella [mia sc]uola.	e:h io son stata anche al professionale per esempio nella [mia sc]uola.	eh io son stata anche al professionale per esempio nella mia scuola
+416	BO026	1104.051	1104.45	0.399	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[mh,]	[mh,]	mh
+417	BO020	1105.251	1106.673	1.422	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	m:h secondo me non c' è.	m:h secondo me non c' è.	mh secondo me non c' è
+418	BO020	1106.883	1113.5	6.617	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	14	e::h (.) c' è (.) mh può esserci su singolo <studente> per esempio ci sono stati,	e::h {P} c' è {P} mh può esserci su singolo <studente> per esempio ci sono stati,	eh {P} c' è {P} mh può esserci su singolo studente per esempio ci sono stati
+419	BO020	1113.785	1115.461	1.676	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e:h=mh casi in cui,	e:h=mh casi in cui,	eh mh casi in cui
+420	BO020	1115.621	1120.689	5.068	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e:h <c' erano dei cinesi che parlano pochissimo> hanno davvero di[fficoltà] di ogni tipo,	e:h <c' erano dei cinesi che parlano pochissimo> hanno davvero di[fficoltà] di ogni tipo,	eh c' erano dei cinesi che parlano pochissimo hanno davvero difficoltà di ogni tipo
+421	BO026	1119.122	1119.633	0.511	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+422	BO020	1120.966	1122.389	1.423	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e:h con l' italiano,	e:h con l' italiano,	eh con l' italiano
+423	BO020	1122.765	1123.822	1.057	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+424	BO020	1123.935	1127.6	3.665	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	quindi si cerca la mediazione dell' inglese,	quindi si cerca la mediazione dell' inglese,	quindi si cerca la mediazione dell' inglese
+425	BO020	1128.021	1129.022	1.001	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e::h,	e::h,	eh
+426	BO020	1129.211	1130.422	1.211	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	a volte,	a volte,	a volte
+427	BO020	1130.766	1134.244	3.478	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e:h non lo so anche l~ la preparazione della verifica,	e:h non lo so anche l~ la preparazione della verifica,	eh non lo so anche l~ la preparazione della verifica
+428	BO020	1134.546	1136.789	2.243	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e:h=mh può esser fatta,	e:h=mh può esser fatta,	eh mh può esser fatta
+429	BO020	1137.126	1143.566	6.44	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	15	e:h=mh (.) in collaborazione tra l' insegnante di (.) e:h=mh italiano e l' insegnante di,	e:h=mh {P} in collaborazione tra l' insegnante di {P} e:h=mh italiano e l' insegnante di,	eh mh {P} in collaborazione tra l' insegnante di {P} eh mh italiano e l' insegnante di
+430	BO020	1144.011	1145.5	1.489	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	di lingua straniera,	di lingua straniera,	di lingua straniera
+431	BO026	1146.02	1148.22	2.2	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ecco questo tipo questo tipo di,]	[ecco questo tipo questo tipo di,]	ecco questo tipo questo tipo di
+432	BO020	1146.021	1149.755	3.734	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[e::h cr~ credo che sia succes]so eh eh inglese.	[e::h cr~ credo che sia succes]so eh eh inglese.	eh cr~ credo che sia successo eh eh inglese
+433	BO020	1149.886	1150.992	1.106	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ingl[ese chi]aramente.	ingl[ese chi]aramente.	inglese chiaramente
+434	BO026	1150.12	1150.441	0.321	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+435	BO020	1151.195	1155.897	4.702	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	e::h=mh oppure qualche volta sì mh con ispanofoni::,	e::h=mh oppure qualche volta sì mh con ispanofoni::,	eh mh oppure qualche volta sì mh con ispanofoni
+436	BO020	1156.191	1159.489	3.298	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	a::h=mh i~ in realtà con gli ispanofoni:,	a::h=mh i~ in realtà con gli ispanofoni:,	ah mh i~ in realtà con gli ispanofoni
+437	BO020	1161.529	1164.941	3.412	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	mh ragazzi non lo so p[e~ peruvi]ani dell' ecuador,	mh ragazzi non lo so p[e~ peruvi]ani dell' ecuador,	mh ragazzi non lo so pe~ peruviani dell' ecuador
+438	BO026	1162.805	1163.458	0.653	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+439	BO020	1165.183	1166.348	1.165	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+440	BO020	1167.111	1172.724	5.613	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	11	ci si consultava soprattutto su <quale sia la> strad~=~tegia migliore pe:r,	ci si consultava soprattutto su <quale sia la> strad~=~tegia migliore pe:r,	ci si consultava soprattutto su quale sia la strad~ ~tegia migliore per
+441	BO020	1172.966	1174.26	1.294	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+442	BO020	1174.756	1177.122	2.366	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<per fargli imparare,>	<per fargli imparare,>	per fargli imparare
+443	BO020	1177.941	1179.125	1.184	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	<delle cose.>	<delle cose.>	delle cose
+444	BO020	1179.561	1181.091	1.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e::h=mh [però:,]	e::h=mh [però:,]	eh mh però
+445	BO026	1180.595	1186.061	5.466	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	[ma ques]te queste sono:: sono informazioni rilevanti per[(ché) non mi sembra ci siano dei lavori,]	[ma ques]te queste sono:: sono informazioni rilevanti per[(ché) non mi sembra ci siano dei lavori,]	ma queste queste sono sono informazioni rilevanti perché non mi sembra ci siano dei lavori
+446	BO020	1184.398	1187.285	2.887	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[<però sempre su singo]li studenti.>	[<però sempre su singo]li studenti.>	però sempre su singoli studenti
+447	BO020	1187.605	1191.663	4.058	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	non credo ci sia qualcosa di ma in nessuna [scuola] anche perché,	non credo ci sia qualcosa di ma in nessuna [scuola] anche perché,	non credo ci sia qualcosa di ma in nessuna scuola anche perché
+448	BO026	1190.51	1191.0	0.49	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mh mh,]	[mh mh,]	mh mh
+449	BO020	1191.99	1194.673	2.683	True	0	0	0	0	0	0	False	False	False	False	True	450=0.002	0	0	0	8	a:h e:h=mh ci son sempre meno fondi,	a:h e:h=mh ci son sempre meno fondi,	ah eh mh ci son sempre meno fondi
+450	BO026	1194.671	1195.076	0.405	True	0	0	0	0	0	0	False	False	False	False	True	449=0.002	0	0	0	2	mh mh,	mh mh,	mh mh
+451	BO020	1195.076	1197.645	2.569	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e:h gli insegnan[ti sono s]empre più arrabbiati,	e:h gli insegnan[ti sono s]empre più arrabbiati,	eh gli insegnanti sono sempre più arrabbiati
+452	BO026	1196.054	1196.513	0.459	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[però,]	[però,]	però
+453	BO026	1197.765	1198.275	0.51	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+454	BO020	1197.766	1201.34	3.574	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	[c' è] sempre meno [tempo da dedi]care a [queste cose quindi,]	[c' è] sempre meno [tempo da dedi]care a [queste cose quindi,]	c' è sempre meno tempo da dedicare a queste cose quindi
+455	BO026	1198.776	1199.744	0.968	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[sì sì sì sì.]	[sì sì sì sì.]	sì sì sì sì
+456	BO026	1200.326	1213.556	13.23	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	30	[però questa è una] sono ri~ considerazioni impressionistiche che noi facciamo perché le abbiamo sentito: ne=mh da~ [dagli insegnanti, è diverso è diverso] dal fare u~ una ricognizione (.) sistematica.	[però questa è una] sono ri~ considerazioni impressionistiche che noi facciamo perché le abbiamo sentito: ne=mh da~ [dagli insegnanti, è diverso è diverso] dal fare u~ una ricognizione {P} sistematica.	però questa è una sono ri~ considerazioni impressionistiche che noi facciamo perché le abbiamo sentito ne mh da~ dagli insegnanti è diverso è diverso dal fare u~ una ricognizione {P} sistematica
+457	BO020	1207.061	1210.17	3.109	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[mh sì xx xxx.]	[mh sì xx xxx.]	mh sì xx xxx
+458	BO026	1213.81	1215.426	1.616	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	in un campione di scuole,	in un campione di scuole,	in un campione di scuole
+459	BO026	1215.775	1216.766	0.991	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	in cui si chiede,	in cui si chiede,	in cui si chiede
+460	BO026	1217.535	1220.5	2.965	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	eh eh quindi il questionario viene indirizzato,	eh eh quindi il questionario viene indirizzato,	eh eh quindi il questionario viene indirizzato
+461	BO026	1220.81	1224.23	3.42	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	agli insegnanti di elle esse di lingua straniera,	agli insegnanti di elle esse di lingua straniera,	agli insegnanti di elle esse di lingua straniera
+462	BO026	1224.414	1226.381	1.967	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e agli insegnanti di italiano elle due.	e agli insegnanti di italiano elle due.	e agli insegnanti di italiano elle due
+463	BO020	1226.598	1226.916	0.318	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh.	mh.	mh
+464	BO026	1226.928	1227.23	0.302	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh.°	°mh.°	mh
+465	BO026	1228.181	1229.819	1.638	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e:h eh=mh c[ioè,]	e:h eh=mh c[ioè,]	eh eh mh cioè
+466	BO020	1229.308	1232.617	3.309	True	0	0	0	0	0	0	False	False	False	False	True	465=0.511,467=0.319,468=0.002	0	0	0	9	[che spes]so [è l' in]segnante di lingua straniera (no,)	[che spes]so [è l' in]segnante di lingua straniera (no,)	che spesso è l' insegnante di lingua straniera no
+467	BO026	1229.941	1230.26	0.319	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[que~]	[que~]	que~
+468	BO026	1232.615	1235.475	2.86	True	0	0	0	0	0	0	False	False	False	False	True	466=0.002,469=2.707	0	0	0	8	ch[e può essere la la figura può coincidere.]	ch[e può essere la la figura può coincidere.]	che può essere la la figura può coincidere
+469	BO020	1232.768	1236.234	3.466	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[xx successo o o di italiano] sì [sì sì.]	[xx successo o o di italiano] sì [sì sì.]	xx successo o o di italiano sì sì sì
+470	BO026	1235.725	1237.34	1.615	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[in alcune] scuole può coinci[dere.]	[in alcune] scuole può coinci[dere.]	in alcune scuole può coincidere
+471	BO020	1236.921	1237.351	0.43	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+472	BO026	1237.606	1239.183	1.577	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	quindi arrivare a dire,	quindi arrivare a dire,	quindi arrivare a dire
+473	BO026	1239.67	1242.872	3.202	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	7	che (.) su venti scuole in dieci coincide,	che {P} su venti scuole in dieci coincide,	che {P} su venti scuole in dieci coincide
+474	BO026	1242.972	1247.428	4.456	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	oppure:: in cinque non c' è nessun tipo di collaborazione,	oppure:: in cinque non c' è nessun tipo di collaborazione,	oppure in cinque non c' è nessun tipo di collaborazione
+475	BO026	1247.625	1250.616	2.991	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	in quattro le insegnanti programmano insieme,	in quattro le insegnanti programmano insieme,	in quattro le insegnanti programmano insieme
+476	BO026	1250.79	1253.276	2.486	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	5	e: (.) poi in ultima analisi,	e: {P} poi in ultima analisi,	e {P} poi in ultima analisi
+477	BO026	1253.411	1254.074	0.663	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	anche,	anche,	anche
+478	BO026	1254.74	1259.723	4.983	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	le competenze (de~ mh mh) nell' italiano elle due e nella lingua straniera.	le competenze (de~ mh mh) nell' italiano elle due e nella lingua straniera.	le competenze de~ mh mh nell' italiano elle due e nella lingua straniera
+479	BO026	1259.755	1261.75	1.995	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	quindi immaginiamo un bambino che arriva,	quindi immaginiamo un bambino che arriva,	quindi immaginiamo un bambino che arriva
+480	BO026	1261.9	1263.361	1.461	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	mh (dell' inserito.)	mh (dell' inserito.)	mh dell' inserito
+481	BO026	1263.608	1269.893	6.285	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	23	e deve imparare (.) deve iniziare a imparare l' italiano e poi nell' ora di inglese deve fare anche ingese o francese o spagnolo.	e deve imparare {P} deve iniziare a imparare l' italiano e poi nell' ora di inglese deve fare anche ingese o francese o spagnolo.	e deve imparare {P} deve iniziare a imparare l' italiano e poi nell' ora di inglese deve fare anche ingese o francese o spagnolo
+482	BO020	1269.995	1270.258	0.263	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+483	BO026	1270.258	1271.433	1.175	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	che cosa succede?	che cosa succede?	che cosa succede
+484	BO026	1271.61	1272.808	1.198	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	dal punto di vista,	dal punto di vista,	dal punto di vista
+485	BO026	1273.178	1276.734	3.556	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	della sua acquisizione del rendimento scolastico cioè dobbiamo,	della sua acquisizione del rendimento scolastico cioè dobbiamo,	della sua acquisizione del rendimento scolastico cioè dobbiamo
+486	BO026	1276.965	1278.678	1.713	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	articolare delle domande,	articolare delle domande,	articolare delle domande
+487	BO026	1279.115	1280.348	1.233	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	molto puntuali,	molto puntuali,	molto puntuali
+488	BO026	1280.408	1281.165	0.757	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	anche su,	anche su,	anche su
+489	BO026	1281.851	1284.493	2.642	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	questi aspetti però questo lo farei alla fine.	questi aspetti però questo lo farei alla fine.	questi aspetti però questo lo farei alla fine
+490	BO020	1284.783	1291.403	6.62	True	0	0	0	0	0	0	False	False	False	False	True	491=0.898,492=0.002	1	0	0	18	quindi quin[di mi servi]rebbero anche i risultati finale (.) finali o per lo meno i risultati non lo so,	quindi quin[di mi servi]rebbero anche i risultati finale {P} finali o per lo meno i risultati non lo so,	quindi quindi mi servirebbero anche i risultati finale {P} finali o per lo meno i risultati non lo so
+491	BO026	1285.111	1286.009	0.898	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[partirei da,]	[partirei da,]	partirei da
+492	BO026	1291.401	1295.596	4.195	True	0	0	0	0	0	0	False	False	False	False	True	490=0.002	0	0	0	8	no le anche le valutazioni::: in cors~ innn,	no le anche le valutazioni::: in cors~ innn,	no le anche le valutazioni in cors~ innn
+493	BO026	1295.83	1301.596	5.766	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e:::h=l a metà dopo un certo periodo naturalmente d~ di inserimento dell' alunno.	e:::h=l a metà dopo un certo periodo naturalmente d~ di inserimento dell' alunno.	eh l a metà dopo un certo periodo naturalmente d~ di inserimento dell' alunno
+494	BO026	1301.965	1307.339	5.374	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	e:::h che gli insegnanti possono fare in maniera: così sommativa non non,	e:::h che gli insegnanti possono fare in maniera: così sommativa non non,	eh che gli insegnanti possono fare in maniera così sommativa non non
+495	BO026	1307.801	1309.366	1.565	True	0	0	0	0	0	0	False	False	False	False	True	496=0.001	0	0	0	4	attraverso i test no?	attraverso i test no?	attraverso i test no
+496	BO020	1309.365	1309.633	0.268	True	0	0	0	0	0	0	False	False	False	False	True	495=0.001	0	0	0	1	sì.	sì.	sì
+497	BO026	1309.633	1310.422	0.789	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	cioè qual è,	cioè qual è,	cioè qual è
+498	BO026	1310.745	1314.88	4.135	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	e::h il punto di vista che loro hanno sulle competenze di questi alunni.	e::h il punto di vista che loro hanno sulle competenze di questi alunni.	eh il punto di vista che loro hanno sulle competenze di questi alunni
+499	BO020	1314.88	1315.253	0.373	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh.	mh.	mh
+500	BO026	1315.276	1317.496	2.22	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	però io partirei proprio dal contesto.	però io partirei proprio dal contesto.	però io partirei proprio dal contesto
+501	BO026	1318.394	1322.071	3.677	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	quale o quali lingue straniere si insegnano nella sua scuola.	quale o quali lingue straniere si insegnano nella sua scuola.	quale o quali lingue straniere si insegnano nella sua scuola
+502	BO026	1322.441	1322.79	0.349	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh,°	°mh,°	mh
+503	BO020	1323.455	1323.838	0.383	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+504	BO026	1323.456	1329.266	5.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	18	[c' è un] laboratorio di italiano elle due cioè di~ le dividerei in due blocchi pensando di indirizzarlo,	[c' è un] laboratorio di italiano elle due cioè di~ le dividerei in due blocchi pensando di indirizzarlo,	c' è un laboratorio di italiano elle due cioè di~ le dividerei in due blocchi pensando di indirizzarlo
+505	BO026	1329.576	1335.174	5.598	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	agli insegnanti di: della lingua <all' insegnante> o agli insegnanti della lingua straniera,	agli insegnanti di: della lingua <all' insegnante> o agli insegnanti della lingua straniera,	agli insegnanti di della lingua all' insegnante o agli insegnanti della lingua straniera
+506	BO026	1335.676	1336.954	1.278	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e all' insegnante,	e all' insegnante,	e all' insegnante
+507	BO026	1337.896	1339.636	1.74	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e:h di italiano elle due.	e:h di italiano elle due.	eh di italiano elle due
+508	BO026	1340.62	1344.588	3.968	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	che ripeto in alcuni casi può essere l~ esattamente la stessa persona.	che ripeto in alcuni casi può essere l~ esattamente la stessa persona.	che ripeto in alcuni casi può essere l~ esattamente la stessa persona
+509	BO026	1344.98	1347.834	2.854	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	perché laddove nelle scuole dove non ci sono:: risor~	perché laddove nelle scuole dove non ci sono:: risor~	perché laddove nelle scuole dove non ci sono risor~
+510	BO026	1348.35	1351.357	3.007	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	non solo non solo per assenza di risorse perché a volte,	non solo non solo per assenza di risorse perché a volte,	non solo non solo per assenza di risorse perché a volte
+511	BO026	1351.67	1353.871	2.201	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	la figura competente è ques[ta qu]i.	la figura competente è ques[ta qu]i.	la figura competente è questa qui
+512	BO020	1353.301	1353.78	0.479	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+513	BO020	1354.063	1354.43	0.367	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+514	BO026	1354.621	1355.697	1.076	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e quindi:,	e quindi:,	e quindi
+515	BO020	1356.111	1357.225	1.114	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+516	BO020	1359.19	1361.844	2.654	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	questi dati comunque però m:h poi:,	questi dati comunque però m:h poi:,	questi dati comunque però mh poi
+517	BO020	1362.483	1363.525	1.042	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	m::h	m::h	mh
+518	BO020	1363.921	1365.899	1.978	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	cioè sono m::h,	cioè sono m::h,	cioè sono mh
+519	BO020	1366.285	1367.12	0.835	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh	e:h=mh	eh mh
+520	BO020	1367.801	1373.0	5.199	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	non mi servono per=eh un' analisi: specifica cioè son dati abbastanza,	non mi servono per=eh un' analisi: specifica cioè son dati abbastanza,	non mi servono per eh un' analisi specifica cioè son dati abbastanza
+521	BO026	1373.516	1374.026	0.51	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	allora,	allora,	allora
+522	BO026	1374.191	1387.988	13.797	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	33	lei fa una ri~ una ricognizione mh presso un certo numero di scuole quindi già questo diventa una sorta di un ritratto no, una fotografia [di una] situazione minima non quantitativamente rappresentativa però,	lei fa una ri~ una ricognizione mh presso un certo numero di scuole quindi già questo diventa una sorta di un ritratto no, una fotografia [di una] situazione minima non quantitativamente rappresentativa però,	lei fa una ri~ una ricognizione mh presso un certo numero di scuole quindi già questo diventa una sorta di un ritratto no una fotografia di una situazione minima non quantitativamente rappresentativa però
+523	BO020	1383.331	1383.736	0.405	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+524	BO026	1388.06	1389.473	1.413	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	le dice qualcosa no,	le dice qualcosa no,	le dice qualcosa no
+525	BO026	1389.995	1390.498	0.503	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	poi,	poi,	poi
+526	BO026	1390.636	1393.364	2.728	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e::h su questa base qui si può,	e::h su questa base qui si può,	eh su questa base qui si può
+527	BO026	1393.789	1397.324	3.535	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	naturalmente la la parte propositiva della tesi è quella di,	naturalmente la la parte propositiva della tesi è quella di,	naturalmente la la parte propositiva della tesi è quella di
+528	BO026	1397.686	1401.655	3.969	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	di fare anche delle proposte quindi non è l' unica e:h	di fare anche delle proposte quindi non è l' unica e:h	di fare anche delle proposte quindi non è l' unica eh
+529	BO026	1401.86	1403.889	2.029	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e:h parte del suo lavoro no,	e:h parte del suo lavoro no,	eh parte del suo lavoro no
+530	BO026	1403.994	1404.5	0.506	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	cioè,	cioè,	cioè
+531	BO026	1404.745	1411.944	7.199	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	13	e::h di fare delle proposte: che (.) sono fondamentalmente di di: educazione lingustica integrata.	e::h di fare delle proposte: che {P} sono fondamentalmente di di: educazione lingustica integrata.	eh di fare delle proposte che {P} sono fondamentalmente di di educazione lingustica integrata
+532	BO026	1412.165	1414.466	2.301	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	l' ideale sarebbe nella sua scuola,	l' ideale sarebbe nella sua scuola,	l' ideale sarebbe nella sua scuola
+533	BO026	1414.908	1417.944	3.036	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	5	fare una (.) condurre una sperimentazione.	fare una {P} condurre una sperimentazione.	fare una {P} condurre una sperimentazione
+534	BO026	1419.228	1420.576	1.348	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	per un periodo no,	per un periodo no,	per un periodo no
+535	BO026	1420.956	1424.273	3.317	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	una programmazione: e:h in cui:,	una programmazione: e:h in cui:,	una programmazione eh in cui
+536	BO026	1424.325	1428.433	4.108	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	e::h l' insegnamento delle due lingue che tiene conto,	e::h l' insegnamento delle due lingue che tiene conto,	eh l' insegnamento delle due lingue che tiene conto
+537	BO026	1429.145	1430.368	1.223	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	di:=m:h	di:=m:h	di mh
+538	BO026	1433.131	1441.511	8.38	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	24	che che che che ricorra a uno stesso metalinguaggio: che tiene conto del fatto che c' è (.) ci sono alunni che (.) in quel momento,	che che che che ricorra a uno stesso metalinguaggio: che tiene conto del fatto che c' è {P} ci sono alunni che {P} in quel momento,	che che che che ricorra a uno stesso metalinguaggio che tiene conto del fatto che c' è {P} ci sono alunni che {P} in quel momento
+539	BO026	1441.622	1442.444	0.822	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	in quel periodo,	in quel periodo,	in quel periodo
+540	BO026	1442.5	1444.35	1.85	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	(ap)prendono due lingue diverse.	(ap)prendono due lingue diverse.	apprendono due lingue diverse
+541	BO026	1445.318	1446.722	1.404	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	una [molto più,]	una [molto più,]	una molto più
+542	BO020	1445.689	1446.722	1.033	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e:h=mh,]	[e:h=mh,]	eh mh
+543	BO020	1446.951	1449.644	2.693	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	sì [quindi l~ lei di]ce che a:h=mh	sì [quindi l~ lei di]ce che a:h=mh	sì quindi l~ lei dice che ah mh
+544	BO026	1447.173	1448.076	0.903	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e::h,]	[e::h,]	eh
+545	BO020	1449.761	1452.765	3.004	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	la la ricerca potrebbe essere orientata,	la la ricerca potrebbe essere orientata,	la la ricerca potrebbe essere orientata
+546	BO020	1453.14	1454.161	1.021	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<alla,>	<alla,>	alla
+547	BO020	1455.76	1457.128	1.368	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<diciamo:,>	<diciamo:,>	diciamo
+548	BO020	1458.098	1465.677	7.579	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	<a suggerire l' impostazione metodologica più adeguata dopo aver fatto> aver rilevato queste cose.	<a suggerire l' impostazione metodologica più adeguata dopo aver fatto> aver rilevato queste cose.	a suggerire l' impostazione metodologica più adeguata dopo aver fatto aver rilevato queste cose
+549	BO026	1465.73	1466.089	0.359	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°sì.°	°sì.°	sì
+550	BO026	1466.311	1471.422	5.111	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	più adeguata suggerire (una una mh) una im[postazione metodologica che viene,]	più adeguata suggerire (una una mh) una im[postazione metodologica che viene,]	più adeguata suggerire una una mh una impostazione metodologica che viene
+551	BO020	1469.198	1471.453	2.255	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[e e integrata comunque.]	[e e integrata comunque.]	e e integrata comunque
+552	BO026	1471.622	1476.733	5.111	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	11	sperimentata <e viene: e si:> (.) e si tiene conto dei risultati.	sperimentata <e viene: e si:> {P} e si tiene conto dei risultati.	sperimentata e viene e si {P} e si tiene conto dei risultati
+553	BO026	1476.965	1480.878	3.913	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	secondo me allora lei può guardare sul sito della:=mh,	secondo me allora lei può guardare sul sito della:=mh,	secondo me allora lei può guardare sul sito della mh
+554	BO026	1481.92	1485.17	3.25	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	del centro come forse gliel' avevo già indicato.	del centro come forse gliel' avevo già indicato.	del centro come forse gliel' avevo già indicato
+555	BO020	1485.321	1487.785	2.464	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	forse me l' ha: indicato [lo scorso anno.]	forse me l' ha: indicato [lo scorso anno.]	forse me l' ha indicato lo scorso anno
+556	BO026	1486.751	1491.711	4.96	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	[ecco lì ci sar~] ci sono diversi materali nnel corso degli anni insomma,	[ecco lì ci sar~] ci sono diversi materali nnel corso degli anni insomma,	ecco lì ci sar~ ci sono diversi materali nnel corso degli anni insomma
+557	BO026	1492.051	1498.322	6.271	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e troverà molti lavori anche di graziella favaro sul prof[ilo li]nguistico degli alunni stranieri,	e troverà molti lavori anche di graziella favaro sul prof[ilo li]nguistico degli alunni stranieri,	e troverà molti lavori anche di graziella favaro sul profilo linguistico degli alunni stranieri
+558	BO020	1495.511	1495.998	0.487	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+559	BO026	1499.161	1503.455	4.294	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	e e:=m:h può darsi che ci siano anche:,	e e:=m:h può darsi che ci siano anche:,	e e mh può darsi che ci siano anche
+560	BO026	1503.93	1505.022	1.092	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	a:h=mh,	a:h=mh,	ah mh
+561	BO026	1505.1	1509.2	4.1	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	i resoco:nti:: o:: accenni o::,	i resoco:nti:: o:: accenni o::,	i resoconti o accenni o
+562	BO026	1509.41	1511.989	2.579	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	materiali riguardanti proprio questo tema.	materiali riguardanti proprio questo tema.	materiali riguardanti proprio questo tema
+563	BO026	1512.051	1512.377	0.326	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	cioè,	cioè,	cioè
+564	BO026	1512.646	1518.266	5.62	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	12	mettere in relazione le due lingue che vengono apprese (.) simultaneamenete nello stesso,	mettere in relazione le due lingue che vengono apprese {P} simultaneamenete nello stesso,	mettere in relazione le due lingue che vengono apprese {P} simultaneamenete nello stesso
+565	BO026	1518.766	1519.538	0.772	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	periodo.	periodo.	periodo
+566	BO026	1520.833	1521.577	0.744	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	anche se,	anche se,	anche se
+567	BO026	1521.985	1523.36	1.375	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	con finalità diverse.	con finalità diverse.	con finalità diverse
+568	BO026	1523.936	1532.5	8.564	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	19	e::: e co:n obiettivi diversi perché la prima è più urgente (e) la lingua seconda dell' immersione. l' altra,	e::: e co:n obiettivi diversi perché la prima è più urgente (e) la lingua seconda dell' immersione. l' altra,	e e con obiettivi diversi perché la prima è più urgente e la lingua seconda dell' immersione l' altra
+569	BO026	1532.766	1537.7	4.934	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	è quella dello studio condiviso allo s~ nella stessa maniera con gli altri alunni.	è quella dello studio condiviso allo s~ nella stessa maniera con gli altri alunni.	è quella dello studio condiviso allo s~ nella stessa maniera con gli altri alunni
+570	BO026	1539.533	1539.896	0.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh°	°mh°	mh
+571	BO020	1540.1	1540.8	0.7	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m:h,]	[m:h,]	mh
+572	BO026	1540.101	1543.866	3.765	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	9	[i~ allora io] proverei [a (.) e]laborare meglio il questionario.	[i~ allora io] proverei [a {P} e]laborare meglio il questionario.	i~ allora io proverei a {P} elaborare meglio il questionario
+573	BO020	1541.593	1542.2	0.607	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[eh=mh,]	[eh=mh,]	eh mh
+574	BO020	1544.022	1544.489	0.467	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	s[:ì.]	s[:ì.]	sì
+575	BO026	1544.133	1548.2	4.067	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[sopra]ttutto tenendo conto che quesiti vanno assemblati per aree.	[sopra]ttutto tenendo conto che quesiti vanno assemblati per aree.	soprattutto tenendo conto che quesiti vanno assemblati per aree
+576	BO026	1548.531	1548.766	0.235	True	0	0	0	0	0	0	False	False	False	False	True	577=0.001	0	0	0	1	mh,	mh,	mh
+577	BO020	1548.765	1549.106	0.341	True	0	0	0	0	0	0	False	False	False	False	True	576=0.001	0	0	0	1	sì.	sì.	sì
+578	BO026	1549.411	1554.411	5.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	provi a guardare questi profili linguistici perché lì sono separate per aree.	provi a guardare questi profili linguistici perché lì sono separate per aree.	provi a guardare questi profili linguistici perché lì sono separate per aree
+579	BO020	1555.375	1562.055	6.68	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	22	e::h=mh sì no eh il dubbio che mi viene è che: restringendolo più o meno a queste comunque a queste d[omande,]	e::h=mh sì no eh il dubbio che mi viene è che: restringendolo più o meno a queste comunque a queste d[omande,]	eh mh sì no eh il dubbio che mi viene è che restringendolo più o meno a queste comunque a queste domande
+580	BO026	1561.346	1564.155	2.809	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[sì non ]più come dice lei non più di venti.	[sì non]più come dice lei non più di venti.	sì nonpiù come dice lei non più di venti
+581	BO020	1564.391	1564.866	0.475	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+582	BO026	1564.393	1570.433	6.04	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	19	[lasciando]le aperte deve dare un po' di tempo >poi bisogna vedere la modalità di raccolta se deve essere online,<	[lasciando]le aperte deve dare un po' di tempo >poi bisogna vedere la modalità di raccolta se deve essere online,<	lasciandole aperte deve dare un po' di tempo poi bisogna vedere la modalità di raccolta se deve essere online
+583	BO026	1570.713	1572.256	1.543	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	oppure::,	oppure::,	oppure
+584	BO026	1572.545	1574.7	2.155	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	>perché non è che può andare nelle scuole,<	>perché non è che può andare nelle scuole,<	perché non è che può andare nelle scuole
+585	BO026	1574.99	1580.889	5.899	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	co::n google si può fare un questionario online e: lo si manda nelle scuole.	co::n google si può fare un questionario online e: lo si manda nelle scuole.	con google si può fare un questionario online e lo si manda nelle scuole
+586	BO026	1581.898	1585.212	3.314	True	0	0	0	0	0	0	False	False	False	False	True	587=0.002	0	0	0	9	e: e scriviamo una lettera anche al dirigente scolastico.	e: e scriviamo una lettera anche al dirigente scolastico.	e e scriviamo una lettera anche al dirigente scolastico
+587	BO020	1585.21	1585.598	0.388	True	0	0	0	0	0	0	False	False	False	False	True	586=0.002	0	0	0	2	mh mh.	mh mh.	mh mh
+588	BO026	1585.851	1588.48	2.629	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	però proverei prima a documentarmi,	però proverei prima a documentarmi,	però proverei prima a documentarmi
+589	BO026	1588.676	1593.913	5.237	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	13	sui (.) profili linguistici, sui (.) temi che vengono indagati per l' italiano elle due,	sui {P} profili linguistici, sui {P} temi che vengono indagati per l' italiano elle due,	sui {P} profili linguistici sui {P} temi che vengono indagati per l' italiano elle due
+590	BO026	1594.817	1597.39	2.573	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	<nella> rilevare il profilo linguistico,	<nella> rilevare il profilo linguistico,	nella rilevare il profilo linguistico
+591	BO026	1597.601	1600.646	3.045	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e a vedere se ci sono dei lavori già svolti,	e a vedere se ci sono dei lavori già svolti,	e a vedere se ci sono dei lavori già svolti
+592	BO026	1600.93	1603.726	2.796	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	per quanto: parziali, eccetera,	per quanto: parziali, eccetera,	per quanto parziali eccetera
+593	BO026	1603.973	1606.158	2.185	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	che mettono in relazione le due lingue.	che mettono in relazione le due lingue.	che mettono in relazione le due lingue
+594	BO026	1606.393	1608.296	1.903	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	dalla prospettiva dell' alunno.	dalla prospettiva dell' alunno.	dalla prospettiva dell' alunno
+595	BO026	1608.976	1610.286	1.31	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	dell' alunno straniero.	dell' alunno straniero.	dell' alunno straniero
+596	BO026	1616.17	1622.804	6.634	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	cioè in una classe italiana plurilingue ci sono degli alunni che contemporaneamente imparano due lingue.	cioè in una classe italiana plurilingue ci sono degli alunni che contemporaneamente imparano due lingue.	cioè in una classe italiana plurilingue ci sono degli alunni che contemporaneamente imparano due lingue
+597	BO026	1623.175	1626.304	3.129	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	per scopi diversi e: co:n=a:h,	per scopi diversi e: co:n=a:h,	per scopi diversi e con ah
+598	BO026	1626.551	1630.829	4.278	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	e: >caratteristiche completamente diverse perché u~< una lingua,	e: >caratteristiche completamente diverse perché u~< una lingua,	e caratteristiche completamente diverse perché u~ una lingua
+599	BO026	1631.551	1635.838	4.287	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	viene appresa in immersione e l' altra viene appresa come materia scolastica.	viene appresa in immersione e l' altra viene appresa come materia scolastica.	viene appresa in immersione e l' altra viene appresa come materia scolastica
+600	BO026	1636.255	1638.68	2.425	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	allo stesso modo del dei suoi compagni.	allo stesso modo del dei suoi compagni.	allo stesso modo del dei suoi compagni
+601	BO026	1639.715	1645.201	5.486	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	13	i[o adesso se trovo] dei riferimenti glieli mando (.) e:h=mh però guarderei su:,	i[o adesso se trovo] dei riferimenti glieli mando {P} e:h=mh però guarderei su:,	io adesso se trovo dei riferimenti glieli mando {P} eh mh però guarderei su
+602	BO020	1639.89	1640.768	0.878	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e:h=mh,]	[e:h=mh,]	eh mh
+603	BO026	1645.513	1647.577	2.064	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	centro come su <sesamo>,	centro come su <sesamo>,	centro come su sesamo
+604	BO020	1648.128	1650.77	2.642	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ah sì ho [visto d~ sì perché]:=mh,	ah sì ho [visto d~ sì perché]:=mh,	ah sì ho visto d~ sì perché mh
+605	BO026	1648.785	1650.486	1.701	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[glielo avevo segnalato anche,]	[glielo avevo segnalato anche,]	glielo avevo segnalato anche
+606	BO020	1651.063	1657.605	6.542	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	16	ho cercato:: la favaro(g) e:h[ e:] mi è venuto fuori xx [sesamo però non ci ho xx,]	ho cercato:: la favaro(g) e:h[e:] mi è venuto fuori xx [sesamo però non ci ho xx,]	ho cercato la favarog ehe mi è venuto fuori xx sesamo però non ci ho xx
+607	BO026	1653.81	1654.295	0.485	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[°mh mh,°]	[°mh mh,°]	mh mh
+608	BO026	1655.49	1658.917	3.427	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[(e) riviste che le dicevo italiano lingua] due sesamo,	[(e) riviste che le dicevo italiano lingua] due sesamo,	e riviste che le dicevo italiano lingua due sesamo
+609	BO026	1659.441	1660.183	0.742	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<elle,>	<elle,>	elle
+610	BO026	1660.461	1662.559	2.098	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	sono tutti online open access.	sono tutti online open access.	sono tutti online open access
+611	BO026	1664.968	1668.715	3.747	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e:h elle è >educazione linguistica liguistica educativa.<	e:h elle è >educazione linguistica liguistica educativa.<	eh elle è educazione linguistica liguistica educativa
+612	BO026	1669.381	1671.688	2.307	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	se lei mette rivista elle la trova.	se lei mette rivista elle la trova.	se lei mette rivista elle la trova
+613	BO026	1675.29	1675.724	0.434	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sono,]	[sono,]	sono
+614	BO020	1675.29	1676.513	1.223	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[a:h el]le el[le.]	[a:h el]le el[le.]	ah elle elle
+615	BO026	1676.221	1676.522	0.301	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+616	BO026	1676.645	1679.0	2.355	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	[e sono e:h pun~] è un acronimo no,	[e sono e:h pun~] è un acronimo no,	e sono eh pun~ è un acronimo no
+617	BO020	1676.645	1677.55	0.905	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[xx xx.]	[xx xx.]	xx xx
+618	BO020	1679.0	1679.363	0.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mh mh.	mh mh.	mh mh
+619	BO026	1679.813	1681.025	1.212	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+620	BO026	1681.64	1687.77	6.13	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	<e: trova::> secondo me qualche: riflessione è stata già fatta e la trova,	<e: trova::> secondo me qualche: riflessione è stata già fatta e la trova,	e trova secondo me qualche riflessione è stata già fatta e la trova
+621	BO026	1688.34	1692.155	3.815	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	7	quindi farei (.) anche una ricerca bibliografica innanzitutto,	quindi farei {P} anche una ricerca bibliografica innanzitutto,	quindi farei {P} anche una ricerca bibliografica innanzitutto
+622	BO026	1692.65	1692.972	0.322	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e,	e,	e
+623	BO026	1693.238	1694.788	1.55	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	m:h in parallelo,	m:h in parallelo,	mh in parallelo
+624	BO026	1694.893	1695.813	0.92	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e::h,	e::h,	eh
+625	BO026	1696.318	1700.43	4.112	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	mi documenterei per poter preparare un questionario che sia,	mi documenterei per poter preparare un questionario che sia,	mi documenterei per poter preparare un questionario che sia
+626	BO026	1700.946	1701.895	0.949	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h mirato.	e:h mirato.	eh mirato
+627	BO026	1702.533	1704.248	1.715	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	ai suo~ al suo scopo.	ai suo~ al suo scopo.	ai suo~ al suo scopo
+628	BO026	1704.697	1710.407	5.71	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	magari buttando giù anche una bozza di: indice che non è ancora per niente l' indice cioè,	magari buttando giù anche una bozza di: indice che non è ancora per niente l' indice cioè,	magari buttando giù anche una bozza di indice che non è ancora per niente l' indice cioè
+629	BO026	1710.74	1713.055	2.315	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	un' articolazione del del tema.	un' articolazione del del tema.	un' articolazione del del tema
+630	BO026	1713.266	1713.513	0.247	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+631	BO020	1713.513	1713.953	0.44	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+632	BO020	1714.215	1719.662	5.447	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	e:h=mh pe:rò mh m:h=mi viene un dubbio con questo questionario,	e:h=mh pe:rò mh m:h=mi viene un dubbio con questo questionario,	eh mh però mh mh mi viene un dubbio con questo questionario
+633	BO020	1719.986	1722.709	2.723	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	<io non raccolgo in dettaglio,>	<io non raccolgo in dettaglio,>	io non raccolgo in dettaglio
+634	BO020	1722.981	1723.941	0.96	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=la,	e:h=la,	eh la
+635	BO020	1724.595	1726.4	1.805	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=la:,	e:h=la:,	eh la
+636	BO020	1726.613	1730.965	4.352	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	11	come si rapporta il raga~ (.) eh lo studente <con il lessico>,	come si rapporta il raga~ {P} eh lo studente <con il lessico>,	come si rapporta il raga~ {P} eh lo studente con il lessico
+637	BO020	1731.335	1733.883	2.548	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	nella lingua straniera nella lingua elle due.	nella lingua straniera nella lingua elle due.	nella lingua straniera nella lingua elle due
+638	BO026	1734.201	1736.337	2.136	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	>ma [questo diventa un altro lavoro cioè,<]	>ma [questo diventa un altro lavoro cioè,<]	ma questo diventa un altro lavoro cioè
+639	BO020	1734.525	1737.261	2.736	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[<oppure con la morfologi]a v[erbale,>]	[<oppure con la morfologi]a v[erbale,>]	oppure con la morfologia verbale
+640	BO026	1736.385	1739.43	3.045	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[allora allora ca]mbiamo focus se (è) questo.	[allora allora ca]mbiamo focus se (è) questo.	allora allora cambiamo focus se è questo
+641	BO026	1739.941	1740.305	0.364	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh.°	°mh.°	mh
+642	BO026	1740.785	1741.662	0.877	True	0	0	0	0	0	0	False	False	False	False	True	643=0.016	0	0	0	2	e::h=mh	e::h=mh	eh mh
+643	BO020	1741.646	1745.361	3.715	True	0	0	0	0	0	0	False	False	False	False	True	642=0.016	0	0	0	11	perché co~ come faccio io questo mi chiedo come faccio io,	perché co~ come faccio io questo mi chiedo come faccio io,	perché co~ come faccio io questo mi chiedo come faccio io
+644	BO020	1745.62	1746.01	0.39	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	a,	a,	a
+645	BO020	1746.361	1747.516	1.155	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:h=mh,	e:h=mh,	eh mh
+646	BO020	1747.635	1749.197	1.562	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	diciamo suggerire,	diciamo suggerire,	diciamo suggerire
+647	BO020	1749.405	1755.383	5.978	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	e:h una una idea di lavoro integrato e >quindi di impostazione metodolo[gica,<]	e:h una una idea di lavoro integrato e >quindi di impostazione metodolo[gica,<]	eh una una idea di lavoro integrato e quindi di impostazione metodologica
+648	BO026	1754.853	1755.368	0.515	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[°mh mh,°]	[°mh mh,°]	mh mh
+649	BO020	1755.608	1757.511	1.903	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	se non ho e::h=mh,	se non ho e::h=mh,	se non ho eh mh
+650	BO020	1757.965	1761.22	3.255	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	<i dati quantitativi sulla,>	<i dati quantitativi sulla,>	i dati quantitativi sulla
+651	BO020	1762.335	1764.779	2.444	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	su >come si comportano i ragazzi,<	su >come si comportano i ragazzi,<	su come si comportano i ragazzi
+652	BO020	1764.903	1769.046	4.143	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	sulla ritrosia rispetto: a >non lo so< un certo lessico,	sulla ritrosia rispetto: a >non lo so< un certo lessico,	sulla ritrosia rispetto a non lo so un certo lessico
+653	BO020	1769.201	1772.61	3.409	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e in questa lingua piuttosto che in quest' altra oppure,	e in questa lingua piuttosto che in quest' altra oppure,	e in questa lingua piuttosto che in quest' altra oppure
+654	BO026	1772.765	1774.605	1.84	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	diventa però un altro lavoro.	diventa però un altro lavoro.	diventa però un altro lavoro
+655	BO026	1774.661	1779.302	4.641	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	quindi lo restrigiamo dal punto di vista generale x >a me era parso di capire che,<	quindi lo restrigiamo dal punto di vista generale x >a me era parso di capire che,<	quindi lo restrigiamo dal punto di vista generale x a me era parso di capire che
+656	BO026	1780.015	1784.93	4.915	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	e:h=l' interesse iniziale fosse per ricognizione proprio nelle scuole per capire,	e:h=l' interesse iniziale fosse per ricognizione proprio nelle scuole per capire,	eh l' interesse iniziale fosse per ricognizione proprio nelle scuole per capire
+657	BO026	1785.59	1786.325	0.735	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<come,>	<come,>	come
+658	BO026	1786.398	1787.778	1.38	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+659	BO026	1787.995	1790.686	2.691	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	che cosa avviene (.) insomma da: m[h,]	che cosa avviene {P} insomma da: m[h,]	che cosa avviene {P} insomma da mh
+660	BO020	1790.585	1796.837	6.252	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	[s]ì e pensavo di poter utilizzare d[ei da]ti più precisi però: [xx la mia classe,]	[s]ì e pensavo di poter utilizzare d[ei da]ti più precisi però: [xx la mia classe,]	sì e pensavo di poter utilizzare dei dati più precisi però xx la mia classe
+661	BO026	1792.781	1793.209	0.428	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[una,]	[una,]	una
+662	BO026	1794.78	1800.639	5.859	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	[allora una parte del questionario] può essere dedicata a questo aspetto specifico però dopo,	[allora una parte del questionario] può essere dedicata a questo aspetto specifico però dopo,	allora una parte del questionario può essere dedicata a questo aspetto specifico però dopo
+663	BO026	1801.175	1804.79	3.615	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	aver (.) condotto l' insegnante che ci deve riflettere,	aver {P} condotto l' insegnante che ci deve riflettere,	aver {P} condotto l' insegnante che ci deve riflettere
+664	BO026	1805.166	1805.976	0.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	al tema.	al tema.	al tema
+665	BO026	1807.771	1808.708	0.937	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:[:h,]	e:[:h,]	eh
+666	BO020	1808.413	1814.279	5.866	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	14	[e:h] (.) quindi >posso concentrarmi prima sull' impostazione del [questio]nario raccogliere i da[ti< e po:i:],	[e:h] {P} quindi >posso concentrarmi prima sull' impostazione del [questio]nario raccogliere i da[ti< e po:i:],	eh {P} quindi posso concentrarmi prima sull' impostazione del questionario raccogliere i dati e poi
+667	BO026	1811.43	1811.815	0.385	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+668	BO026	1813.183	1814.302	1.119	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[raccogliere i dati.]	[raccogliere i dati.]	raccogliere i dati
+669	BO020	1814.73	1816.662	1.932	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	magari vedere come rie~ mh	magari vedere come rie~ mh	magari vedere come rie~ mh
+670	BO020	1816.986	1818.43	1.444	True	0	0	0	0	0	0	False	False	False	False	True	672=0.042,671=0.530	0	0	0	3	<orient[are i]l la,>	<orient[are i]l la,>	orientare il la
+671	BO026	1817.586	1818.116	0.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+672	BO026	1818.388	1825.139	6.751	True	0	0	0	0	0	0	False	False	False	False	True	670=0.042	0	0	0	17	eh però io prima mi documeterei per capire se c' è letteratura:: specifica su questo tema quindi,	eh però io prima mi documeterei per capire se c' è letteratura:: specifica su questo tema quindi,	eh però io prima mi documeterei per capire se c' è letteratura specifica su questo tema quindi
+673	BO026	1825.403	1828.407	3.004	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e:h la ricerca nelle riviste la farei,	e:h la ricerca nelle riviste la farei,	eh la ricerca nelle riviste la farei
+674	BO026	1828.718	1829.105	0.387	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°mh,°	°mh,°	mh
+675	BO026	1829.921	1837.662	7.741	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	21	la:[: adesso] io e::h=le darò alcune indicazioni anch' io che però non riguardano l' italiano elle due riguarano altre lingue.	la:[: adesso] io e::h=le darò alcune indicazioni anch' io che però non riguardano l' italiano elle due riguarano altre lingue.	la adesso io eh le darò alcune indicazioni anch' io che però non riguardano l' italiano elle due riguarano altre lingue
+676	BO020	1830.241	1830.831	0.59	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	0	[°~kay.°]	[°~kay.°]	~kay.
+677	BO020	1839.743	1840.626	0.883	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:[:h,]	e:[:h,]	eh
+678	BO026	1839.996	1848.505	8.509	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	22	[cioè le li]ngue straniere apprese da non so i bambini stranieri di francia che co~ contemporaneamente imparano il francese come lingua seconda.	[cioè le li]ngue straniere apprese da non so i bambini stranieri di francia che co~ contemporaneamente imparano il francese come lingua seconda.	cioè le lingue straniere apprese da non so i bambini stranieri di francia che co~ contemporaneamente imparano il francese come lingua seconda
+679	BO020	1848.796	1849.456	0.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mh mh.	mh mh.	mh mh
+680	BO026	1849.601	1851.465	1.864	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	qualche riferimento glielo manderò,	qualche riferimento glielo manderò,	qualche riferimento glielo manderò
+681	BO026	1851.788	1853.255	1.467	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+682	BO026	1853.32	1857.455	4.135	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	11	e:h e però (.) contemporanemanete la fa anche lei la ricerca no,	e:h e però {P} contemporanemanete la fa anche lei la ricerca no,	eh e però {P} contemporanemanete la fa anche lei la ricerca no
+683	BO020	1857.746	1858.313	0.567	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	okay.	okay.	okay
+684	BO026	1858.371	1859.79	1.419	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	sia della bibliografia,	sia della bibliografia,	sia della bibliografia
+685	BO026	1859.88	1861.29	1.41	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	4	sia (.) dei modi di,	sia {P} dei modi di,	sia {P} dei modi di
+686	BO026	1862.015	1864.883	2.868	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	per impostare diversamente il questionario,	per impostare diversamente il questionario,	per impostare diversamente il questionario
+687	BO026	1865.733	1868.998	3.265	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	molto: >non ha non ha bisogno di mettere dei titoli.<	molto: >non ha non ha bisogno di mettere dei titoli.<	molto non ha non ha bisogno di mettere dei titoli
+688	BO026	1869.201	1871.488	2.287	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	nelle parti che lo compo[ngono.]	nelle parti che lo compo[ngono.]	nelle parti che lo compongono
+689	BO020	1870.896	1874.0	3.104	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[però rag]gru[pparlo per ambiti di sì.]	[però rag]gru[pparlo per ambiti di sì.]	però raggrupparlo per ambiti di sì
+690	BO026	1871.62	1875.386	3.766	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	[però lei deve sapere che è raggruppato p]er ambiti poi magari,	[però lei deve sapere che è raggruppato p]er ambiti poi magari,	però lei deve sapere che è raggruppato per ambiti poi magari
+691	BO026	1875.47	1882.802	7.332	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	19	si può anche esplicitare con il desti~ con chi riceverà il questionario e si mette non so dati:: info[rmazioni:,]	si può anche esplicitare con il desti~ con chi riceverà il questionario e si mette non so dati:: info[rmazioni:,]	si può anche esplicitare con il desti~ con chi riceverà il questionario e si mette non so dati informazioni
+692	BO020	1881.868	1883.034	1.166	True	0	0	0	0	0	0	False	False	False	False	True	691=0.934,693=0.003	0	0	0	2	[relativi a]:,	[relativi a]:,	relativi a
+693	BO026	1883.031	1884.255	1.224	True	0	0	0	0	0	0	False	False	False	False	True	692=0.003,694=0.350	0	0	0	2	informa[tivi] poi,	informa[tivi] poi,	informativi poi
+694	BO020	1883.445	1883.795	0.35	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+695	BO026	1884.746	1887.232	2.486	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e:h le competenze il=e:h	e:h le competenze il=e:h	eh le competenze il eh
+696	BO026	1887.795	1889.916	2.121	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	periodo di inserimento eccetera.	periodo di inserimento eccetera.	periodo di inserimento eccetera
+697	BO026	1889.956	1890.23	0.274	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh.	mh.	mh
+698	BO026	1891.141	1892.306	1.165	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+699	BO026	1893.335	1899.118	5.783	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	20	questa è la fase esplorativa in cui le cose che raccoglie sono un po' vanno un po' in più direzioni.	questa è la fase esplorativa in cui le cose che raccoglie sono un po' vanno un po' in più direzioni.	questa è la fase esplorativa in cui le cose che raccoglie sono un po' vanno un po' in più direzioni
+700	BO026	1899.215	1899.612	0.397	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+701	BO026	1900.898	1906.6	5.702	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	cercherei comunque di documentarmi io adesso mi scrivo che le manderò due riferimenti,	cercherei comunque di documentarmi io adesso mi scrivo che le manderò due riferimenti,	cercherei comunque di documentarmi io adesso mi scrivo che le manderò due riferimenti
+702	BO026	1914.911	1916.52	1.609	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	su elle esse,	su elle esse,	su elle esse
+703	BO026	1916.636	1917.979	1.343	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e elle due.	e elle due.	e elle due
+704	BO026	1919.04	1921.633	2.593	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	dalla prospettiva della lingua straniera.	dalla prospettiva della lingua straniera.	dalla prospettiva della lingua straniera
+705	BO026	1921.816	1922.173	0.357	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+706	BO020	1923.673	1924.083	0.41	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+707	BO026	1929.102	1929.465	0.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(cioè,)	(cioè,)	cioè
+708	BO026	1931.285	1934.108	2.823	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	trattandosi di scuola secondaria di secondo grado,	trattandosi di scuola secondaria di secondo grado,	trattandosi di scuola secondaria di secondo grado
+709	BO026	1934.776	1944.255	9.479	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	24	se so~ sono sono già scolarizzati anche quelli che vengono inseriti al loro arrivo sono già scolarizza[ti quin]di avranno già anche altre lingue straniere,	se so~ sono sono già scolarizzati anche quelli che vengono inseriti al loro arrivo sono già scolarizza[ti quin]di avranno già anche altre lingue straniere,	se so~ sono sono già scolarizzati anche quelli che vengono inseriti al loro arrivo sono già scolarizzati quindi avranno già anche altre lingue straniere
+710	BO020	1940.785	1941.161	0.376	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+711	BO026	1944.391	1946.181	1.79	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	4	questo che bisogna (.) capire.	questo che bisogna {P} capire.	questo che bisogna {P} capire
+712	BO026	1947.01	1950.408	3.398	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	profilo:: lingui[stico degli allievi, eh.]	profilo:: lingui[stico degli allievi, eh.]	profilo linguistico degli allievi eh
+713	BO020	1948.75	1951.193	2.443	True	0	0	0	0	0	0	False	False	False	True	True	712=1.658	0	0	0	4	beh sicuramente anche] inglese,	beh sicuramente anche] inglese,	beh sicuramente anche inglese
+714	BO020	1951.776	1952.724	0.948	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e::h,	e::h,	eh
+715	BO020	1953.57	1957.244	3.674	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	<o:: [alcuni anche inglese come]::,>	<o:: [alcuni anche inglese come]::,>	o alcuni anche inglese come
+716	BO026	1954.008	1956.898	2.89	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[guardi faccia così l~ le divid~ divida in tappe.]	[guardi faccia così l~ le divid~ divida in tappe.]	guardi faccia così l~ le divid~ divida in tappe
+717	BO020	1958.773	1962.214	3.441	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	non so come lingua studiata credo non so i pakistani,	non so come lingua studiata credo non so i pakistani,	non so come lingua studiata credo non so i pakistani
+718	BO020	1962.548	1966.293	3.745	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e:h=mh credo che parlino anche l' inglese [per e]sempio.	e:h=mh credo che parlino anche l' inglese [per e]sempio.	eh mh credo che parlino anche l' inglese per esempio
+719	BO026	1965.02	1965.286	0.266	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+720	BO020	1966.511	1967.704	1.193	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	quindi non solo il,	quindi non solo il,	quindi non solo il
+721	BO020	1967.958	1969.887	1.929	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	dia[letto che xxx.]	dia[letto che xxx.]	dialetto che xxx
+722	BO026	1968.195	1973.295	5.1	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	[eh i ragazzi gli alunni fili]ppini che sono già scolarizzati sono scolarizzati in inglese.	[eh i ragazzi gli alunni fili]ppini che sono già scolarizzati sono scolarizzati in inglese.	eh i ragazzi gli alunni filippini che sono già scolarizzati sono scolarizzati in inglese
+723	BO020	1973.295	1976.683	3.388	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	anche sì [io: ho: dei filippini in terza,]	anche sì [io: ho: dei filippini in terza,]	anche sì io ho dei filippini in terza
+724	BO026	1974.091	1977.53	3.439	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[quindi se studiano l' inglese come lingua strani]era a scuola,	[quindi se studiano l' inglese come lingua strani]era a scuola,	quindi se studiano l' inglese come lingua straniera a scuola
+725	BO026	1978.575	1983.295	4.72	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	sono già competenti [se stu]diano un' altra lingua straniera per loro diventa,	sono già competenti [se stu]diano un' altra lingua straniera per loro diventa,	sono già competenti se studiano un' altra lingua straniera per loro diventa
+726	BO020	1979.97	1980.383	0.413	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[mh.]	[mh.]	mh
+727	BO026	1983.76	1987.285	3.525	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	una terza o quarta lingua conosciuta cioè [(.) ca]pire,	una terza o quarta lingua conosciuta cioè [{P} ca]pire,	una terza o quarta lingua conosciuta cioè {P} capire
+728	BO020	1986.306	1986.68	0.374	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[mh.]	[mh.]	mh
+729	BO026	1987.5	1988.795	1.295	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	questa situazione.	questa situazione.	questa situazione
+730	BO026	1989.091	1989.367	0.276	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+731	BO026	1989.726	1993.855	4.129	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	però io comincerei dalla dalla:: dalla ricerca bibliografica.	però io comincerei dalla dalla:: dalla ricerca bibliografica.	però io comincerei dalla dalla dalla ricerca bibliografica
+732	BO020	1996.146	1996.796	0.65	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	va b[ene.]	va b[ene.]	va bene
+733	BO026	1996.468	1999.53	3.062	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[le man]do due riferimenti [che ade]sso non ho qui a,	[le man]do due riferimenti [che ade]sso non ho qui a,	le mando due riferimenti che adesso non ho qui a
+734	BO020	1997.916	1998.385	0.469	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e:h,]	[e:h,]	eh
+735	BO026	1999.805	2000.203	0.398	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ma,	ma,	ma
+736	BO026	2001.176	2005.316	4.14	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	glieli cerco e:: poi da lì può ampliare anche la ricerca però,	glieli cerco e:: poi da lì può ampliare anche la ricerca però,	glieli cerco e poi da lì può ampliare anche la ricerca però
+737	BO026	2005.867	2007.845	1.978	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	faccia e::h=mh,	faccia e::h=mh,	faccia eh mh
+738	BO026	2009.181	2010.153	0.972	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	una °un~°	una °un~°	una un~
+739	BO026	2011.501	2013.295	1.794	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	vada sul sito di queste riviste.	vada sul sito di queste riviste.	vada sul sito di queste riviste
+740	BO020	2013.612	2014.015	0.403	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+741	BO026	2014.14	2016.275	2.135	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	soprattutto italiano elle due elle,	soprattutto italiano elle due elle,	soprattutto italiano elle due elle
+742	BO026	2016.685	2019.377	2.692	True	0	0	0	0	0	0	False	False	False	False	True	743=0.012	0	0	0	5	e::h e quelli che:=mh,	e::h e quelli che:=mh,	eh e quelli che mh
+743	BO020	2019.365	2019.968	0.603	True	0	0	0	0	0	0	False	False	False	False	True	742=0.012	0	0	0	1	°okay.°	°okay.°	okay
+744	BO026	2020.183	2021.51	1.327	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	gestisce la favaro.	gestisce la favaro.	gestisce la favaro
+745	BO020	2021.66	2022.188	0.528	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	°mh mh.°	°mh mh.°	mh mh
+746	BO026	2022.381	2027.086	4.705	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	perché sui profili lingusitici secondo me può trovare delle: delle informazioni.	perché sui profili lingusitici secondo me può trovare delle: delle informazioni.	perché sui profili lingusitici secondo me può trovare delle delle informazioni
+747	BO026	2029.773	2030.061	0.288	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	poi,	poi,	poi
+748	BO026	2030.38	2032.523	2.143	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	queste queste domande le miglioriamo.	queste queste domande le miglioriamo.	queste queste domande le miglioriamo
+749	BO026	2032.655	2033.735	1.08	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	3	più avanti (.) però,	più avanti {P} però,	più avanti {P} però
+750	BO026	2033.96	2035.704	1.744	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	abbiamo bisogno anche di di,	abbiamo bisogno anche di di,	abbiamo bisogno anche di di
+751	BO026	2036.106	2037.153	1.047	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	vedere meglio,	vedere meglio,	vedere meglio
+752	BO020	2037.555	2040.938	3.383	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	[sì (più) distribuiti per a:mbiti] e comun[que più]:,	[sì (più) distribuiti per a:mbiti] e comun[que più]:,	sì più distribuiti per ambiti e comunque più
+753	BO026	2037.556	2039.85	2.294	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[quali sarà l' articolazione del tema.]	[quali sarà l' articolazione del tema.]	quali sarà l' articolazione del tema
+754	BO026	2040.205	2040.598	0.393	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[mh.]	[mh.]	mh
+755	BO020	2041.746	2044.326	2.58	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	organizzate e questo in riferimento,	organizzate e questo in riferimento,	organizzate e questo in riferimento
+756	BO026	2044.463	2044.785	0.322	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh.	mh.	mh
+757	BO020	2044.867	2045.306	0.439	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	alle,	alle,	alle
+758	BO020	2045.801	2047.489	1.688	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	risposte su::,	risposte su::,	risposte su
+759	BO020	2048.126	2049.316	1.19	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e::h,	e::h,	eh
+760	BO020	2049.45	2050.785	1.335	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	le s[ingole] lingue.	le s[ingole] lingue.	le singole lingue
+761	BO026	2049.8	2050.203	0.403	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+762	BO020	2051.971	2055.112	3.141	True	0	0	0	0	0	0	False	False	False	False	True	763=1.326,764=0.968,765=0.024	0	0	0	10	e::h [(l' ho preso da) un s]ito de[gli istitu]ti sì.	e::h [(l' ho preso da) un s]ito de[gli istitu]ti sì.	eh l' ho preso da un sito degli istituti sì
+763	BO026	2052.265	2053.591	1.326	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[allora lei ha preso:,]	[allora lei ha preso:,]	allora lei ha preso
+764	BO026	2053.766	2054.734	0.968	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[sì (sulla) sì.]	[sì (sulla) sì.]	sì sulla sì
+765	BO026	2055.088	2061.091	6.003	True	0	0	0	0	0	0	False	False	False	False	True	762=0.024	0	0	0	13	però interessa:: la: la mail no della segreteria o del dirigente nel caso.	però interessa:: la: la mail no della segreteria o del dirigente nel caso.	però interessa la la mail no della segreteria o del dirigente nel caso
+766	BO020	2061.091	2070.357	9.266	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	25	ah sì no no io mi sono segnata così:[: poi è chiaro] che scrive[: scrivo] la lettera alla segreteria, chiedendo [l' auto]rizzazione della dirigente scolastico,	ah sì no no io mi sono segnata così:[: poi è chiaro] che scrive[: scrivo] la lettera alla segreteria, chiedendo [l' auto]rizzazione della dirigente scolastico,	ah sì no no io mi sono segnata così poi è chiaro che scrive scrivo la lettera alla segreteria chiedendo l' autorizzazione della dirigente scolastico
+767	BO026	2063.08	2064.236	1.156	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[solo quali sono.]	[solo quali sono.]	solo quali sono
+768	BO026	2064.928	2065.5	0.572	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[okay.]	[okay.]	okay
+769	BO026	2067.306	2067.668	0.362	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+770	BO020	2070.556	2071.581	1.025	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e::h,	e::h,	eh
+771	BO020	2071.791	2074.306	2.515	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	eh rivolta agli insegnant[i di,]	eh rivolta agli insegnant[i di,]	eh rivolta agli insegnanti di
+772	BO026	2073.905	2074.555	0.65	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[va be]ne.	[va be]ne.	va bene
+773	BO020	2074.646	2076.275	1.629	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	eh=elle esse ed elle due.	eh=elle esse ed elle due.	eh elle esse ed elle due
+774	BO020	2076.715	2077.367	0.652	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e[:h,]	e[:h,]	eh
+775	BO026	2076.826	2079.622	2.796	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[noi possia]mo aggiornarci anche a:=m:h,	[noi possia]mo aggiornarci anche a:=m:h,	noi possiamo aggiornarci anche a mh
+776	BO026	2079.886	2084.28	4.394	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	a metà giugno a fine giugno se lei adesso sta lavorando:: su questo.	a metà giugno a fine giugno se lei adesso sta lavorando:: su questo.	a metà giugno a fine giugno se lei adesso sta lavorando su questo
+777	BO026	2084.51	2084.853	0.343	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh,	mh,	mh
+778	BO020	2084.965	2085.285	0.32	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+779	BO020	2085.41	2086.926	1.516	True	0	0	0	0	0	0	False	False	False	False	True	780=0.001	0	0	0	2	e::h=m:h,	e::h=m:h,	eh mh
+780	BO026	2086.925	2089.867	2.942	True	0	0	0	0	0	0	False	False	False	False	True	779=0.001	0	0	0	8	anche fra due settimane mi dice che cosa:,	anche fra due settimane mi dice che cosa:,	anche fra due settimane mi dice che cosa
+781	BO020	2090.086	2095.408	5.322	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	bene sì °nella:° periodo degli esami perché n~ quest' anno sono interna comunque agli esami.	bene sì °nella:° periodo degli esami perché n~ quest' anno sono interna comunque agli esami.	bene sì nella periodo degli esami perché n~ quest' anno sono interna comunque agli esami
+782	BO020	2095.613	2096.888	1.275	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+783	BO020	2096.98	2101.704	4.724	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	sì comunque avrò la possibilità di[::] qua[ndo: se fa] ricevimento:,	sì comunque avrò la possibilità di[::] qua[ndo: se fa] ricevimento:,	sì comunque avrò la possibilità di quando se fa ricevimento
+784	BO026	2098.871	2099.258	0.387	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+785	BO026	2099.575	2100.408	0.833	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[io sono qui.]	[io sono qui.]	io sono qui
+786	BO020	2101.973	2104.204	2.231	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e:h sì [xx ricevimenti:,]	e:h sì [xx ricevimenti:,]	eh sì xx ricevimenti
+787	BO026	2102.59	2109.714	7.124	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	22	[sì sì metterò mh ho gli esa]mi la prossima settimana il dieci comincio gli esami e saranno degli appelli molto lunghi quindi,	[sì sì metterò mh ho gli esa]mi la prossima settimana il dieci comincio gli esami e saranno degli appelli molto lunghi quindi,	sì sì metterò mh ho gli esami la prossima settimana il dieci comincio gli esami e saranno degli appelli molto lunghi quindi
+788	BO026	2109.885	2111.459	1.574	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	metter[ò il ricev]imento sì.	metter[ò il ricev]imento sì.	metterò il ricevimento sì
+789	BO020	2110.24	2110.723	0.483	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[<sì.>]	[<sì.>]	sì
+790	BO020	2111.681	2114.428	2.747	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	e:h senta rispetto a questo rispetto agli esami,	e:h senta rispetto a questo rispetto agli esami,	eh senta rispetto a questo rispetto agli esami
+791	BO020	2114.605	2119.361	4.756	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	eh volevo chiederle se:=mh mh io facessi l' esame il quattordici,	eh volevo chiederle se:=mh mh io facessi l' esame il quattordici,	eh volevo chiederle se mh mh io facessi l' esame il quattordici
+792	BO020	2119.431	2120.38	0.949	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	lo scritto.	lo scritto.	lo scritto
+793	BO020	2120.895	2121.916	1.021	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh,	e::h=mh,	eh mh
+794	BO026	2122.16	2123.938	1.778	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	di didattca delle lingue moder[ne?]	di didattca delle lingue moder[ne?]	di didattca delle lingue moderne
+795	BO020	2123.77	2124.985	1.215	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[de]lle lingue moderne.	[de]lle lingue moderne.	delle lingue moderne
+796	BO020	2125.915	2131.01	5.095	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e::h=mh io non so quanti saranno gli studenti >se dovessi far l' orale,<	e::h=mh io non so quanti saranno gli studenti >se dovessi far l' orale,<	eh mh io non so quanti saranno gli studenti se dovessi far l' orale
+797	BO020	2131.808	2132.875	1.067	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::h=mh	e::h=mh	eh mh
+798	BO020	2133.275	2135.112	1.837	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	mi potrebbe mettere in coda?	mi potrebbe mettere in coda?	mi potrebbe mettere in coda
+799	BO020	2135.75	2138.423	2.673	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	non lo so il lunedì pomeriggio ad esemp[io.]	non lo so il lunedì pomeriggio ad esemp[io.]	non lo so il lunedì pomeriggio ad esempio
+800	BO026	2138.271	2140.11	1.839	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[il] quat[tordici abbiamo detto che] cos' è?	[il] quat[tordici abbiamo detto che] cos' è?	il quattordici abbiamo detto che cos' è
+801	BO020	2138.573	2139.763	1.19	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[è una possibilità,]	[è una possibilità,]	è una possibilità
+802	BO020	2140.118	2141.543	1.425	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	il quattordici::,	il quattordici::,	il quattordici
+803	BO020	2141.906	2144.094	2.188	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	è venerdì mi semb~ [no no è me~]	è venerdì mi semb~ [no no è me~]	è venerdì mi semb~ no no è me~
+804	BO026	2142.928	2144.086	1.158	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e::=mh,]	[e::=mh,]	e mh
+805	BO020	2144.676	2145.929	1.253	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<mer[coledì.>]	<mer[coledì.>]	mercoledì
+806	BO026	2145.145	2146.0	0.855	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[è mercoled]ì.	[è mercoled]ì.	è mercoledì
+807	BO020	2146.045	2146.986	0.941	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	mercoledì sì.	mercoledì sì.	mercoledì sì
+808	BO026	2147.261	2153.908	6.647	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	14	quindi eh (.) e::h=due giorni do:po: cominciando venerdì lei andrebbe a lunedì (.) diciannove no?	quindi eh {P} e::h=due giorni do:po: cominciando venerdì lei andrebbe a lunedì {P} diciannove no?	quindi eh {P} eh due giorni dopo cominciando venerdì lei andrebbe a lunedì {P} diciannove no
+809	BO020	2154.271	2155.266	0.995	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	potrebbe ess[ere.]	potrebbe ess[ere.]	potrebbe essere
+810	BO026	2154.895	2159.289	4.394	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	[va be]ne °xx [xx° non s~ non cr]edo che sarete in tanti al primo appello.	[va be]ne °xx [xx° non s~ non cr]edo che sarete in tanti al primo appello.	va bene xx xx non s~ non credo che sarete in tanti al primo appello
+811	BO020	2155.766	2157.178	1.412	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e:::h se~]	[e:::h se~]	eh se~
+812	BO026	2159.756	2164.688	4.932	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	17	>comunque adesso (.) lo dica lei in segreteria poi quando ho finito ricevimento v~ ci vado anch' io.<	>comunque adesso {P} lo dica lei in segreteria poi quando ho finito ricevimento v~ ci vado anch' io.<	comunque adesso {P} lo dica lei in segreteria poi quando ho finito ricevimento v~ ci vado anch' io
+813	BO026	2164.845	2166.445	1.6	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	per la questione dell' iscrizi[one.]	per la questione dell' iscrizi[one.]	per la questione dell' iscrizione
+814	BO020	2166.256	2171.871	5.615	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	19	[per]ché se:=mh (.) [se possibile far~ eh] a~ anche perché io il lunedì mattina credo ci sia la riunione,	[per]ché se:=mh {P} [se possibile far~ eh] a~ anche perché io il lunedì mattina credo ci sia la riunione,	perché se mh {P} se possibile far~ eh a~ anche perché io il lunedì mattina credo ci sia la riunione
+815	BO026	2167.341	2168.477	1.136	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[allora lunedì,]	[allora lunedì,]	allora lunedì
+816	BO020	2172.145	2175.357	3.212	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	e:h=mh cioè il primo incontro per gli esami di maturità.	e:h=mh cioè il primo incontro per gli esami di maturità.	eh mh cioè il primo incontro per gli esami di maturità
+817	BO020	2175.765	2177.486	1.721	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	eh=mh quindi al mattino,	eh=mh quindi al mattino,	eh mh quindi al mattino
+818	BO020	2177.623	2179.266	1.643	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	avrei quello come impegno.	avrei quello come impegno.	avrei quello come impegno
+819	BO020	2179.614	2183.793	4.179	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	quindi se fosse possibile o se no le chiedo s[e io facessi lo scritto,]	quindi se fosse possibile o se no le chiedo s[e io facessi lo scritto,]	quindi se fosse possibile o se no le chiedo se io facessi lo scritto
+820	BO026	2182.198	2186.972	4.774	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	[mi manda una mail mi manda] una mail quando io faccio preparo le liste [e:h,]	[mi manda una mail mi manda] una mail quando io faccio preparo le liste [e:h,]	mi manda una mail mi manda una mail quando io faccio preparo le liste eh
+821	BO020	2186.475	2189.367	2.892	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	7	[sì (.) p]er ricord[arle] questa [cosa magari sì.]	[sì {P} p]er ricord[arle] questa [cosa magari sì.]	sì {P} per ricordarle questa cosa magari sì
+822	BO026	2187.461	2187.853	0.392	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[l(e)~]	[l(e)~]	le~
+823	BO026	2188.396	2192.275	3.879	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	[che metterò onli]ne lei mi manda una mail subito dopo lo scritto,	[che metterò onli]ne lei mi manda una mail subito dopo lo scritto,	che metterò online lei mi manda una mail subito dopo lo scritto
+824	BO020	2192.275	2192.663	0.388	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì.	sì.	sì
+825	BO026	2192.855	2200.0	7.145	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	19	e:::h=mh e io la colloco <nella> pomeriggio o mattina del giorno:: (.) che non coincide con il suo lavoro.	e:::h=mh e io la colloco <nella> pomeriggio o mattina del giorno:: {P} che non coincide con il suo lavoro.	eh mh e io la colloco nella pomeriggio o mattina del giorno {P} che non coincide con il suo lavoro
+826	BO020	2200.0	2203.8	3.8	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	sì o nel caso non ci fosse la possibilità di far questa cosa,	sì o nel caso non ci fosse la possibilità di far questa cosa,	sì o nel caso non ci fosse la possibilità di far questa cosa
+827	BO020	2204.108	2207.378	3.27	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	io perdo lo scritto o [potrei venire: a,]	io perdo lo scritto o [potrei venire: a,]	io perdo lo scritto o potrei venire a
+828	BO026	2205.975	2210.733	4.758	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	[no non lo perde perché] può fare [può completarlo ne]lla stessa sessione,	[no non lo perde perché] può fare [può completarlo ne]lla stessa sessione,	no non lo perde perché può fare può completarlo nella stessa sessione
+829	BO020	2207.878	2209.089	1.211	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[alla discussione,]	[alla discussione,]	alla discussione
+830	BO026	2210.975	2212.876	1.901	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	all' ap[pello di di luglio.]	all' ap[pello di di luglio.]	all' appello di di luglio
+831	BO020	2211.256	2214.807	3.551	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[quindi potrei (a luglio) nel ca]s[o n]on [fosse] proprio possibi[le.]	[quindi potrei (a luglio) nel ca]s[o n]on [fosse] proprio possibi[le.]	quindi potrei a luglio nel caso non fosse proprio possibile
+832	BO026	2212.993	2213.331	0.338	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+833	BO026	2213.526	2213.841	0.315	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì.]	[sì.]	sì
+834	BO026	2214.715	2219.678	4.963	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	[però] lei mi manda una mail come [promemoria] per quanto riguarda: gli esami gli appelli d' accordo?	[però] lei mi manda una mail come [promemoria] per quanto riguarda: gli esami gli appelli d' accordo?	però lei mi manda una mail come promemoria per quanto riguarda gli esami gli appelli d' accordo
+835	BO020	2216.003	2216.533	0.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[°okay.°]	[°okay.°]	okay
+836	BO020	2220.143	2224.811	4.668	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	va bene e:: poi:: gua[rderò i suoi ricevimenti prossimamente.]	va bene e:: poi:: gua[rderò i suoi ricevimenti prossimamente.]	va bene e poi guarderò i suoi ricevimenti prossimamente
+837	BO026	2222.7	2225.122	2.422	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[ci risentiamo presto. va be]ne.	[ci risentiamo presto. va be]ne.	ci risentiamo presto va bene
+838	BO020	2225.2	2227.098	1.898	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	la [ringrazio.] arrivederci.	la [ringrazio.] arrivederci.	la ringrazio arrivederci
+839	BO026	2225.325	2226.155	0.83	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[buon lavoro.]	[buon lavoro.]	buon lavoro
+840	BO026	2238.403	2239.443	1.04	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ar[rivederci.]	ar[rivederci.]	arrivederci
+841	BO020	2238.51	2239.461	0.951	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[arrivederci.]	[arrivederci.]	arrivederci

@@ -1,0 +1,1013 @@
+tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	annotation	correct	text
+0	PKP048	0.85	2.93	2.08	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	madonna sto diventa~ sto diventando una lagna	madonna sto diventa~ sto diventando una lagna	madonna sto diventa~ sto diventando una lagna
+1	PKP040	3.36	3.97	0.61	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	no no è	no no è	no no è
+2	PKP040	4.27	4.713	0.443	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	è co[sì]	è co[sì]	è così
+3	PKP048	4.464	6.3	1.836	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[ah vabbè] meno male son contenta allora	[ah vabbè] meno male son contenta allora	ah vabbè meno male son contenta allora
+4	PKP040	8.94	9.28	0.34	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	tieni	tieni	tieni
+5	PKP040	11.333	12.333	1.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	papi il tuo piatto	papi il tuo piatto	papi il tuo piatto
+6	PKP048	14.338	16.56	2.222	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	laura tu vuoi qua? prima che lo chiudo?	laura tu vuoi qua? prima che lo chiudo?	laura tu vuoi qua prima che lo chiudo
+7	PKP041	16.58	16.87	0.29	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì	sì	sì
+8	PKP048	16.88	18.71	1.83	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	o pec[ori:no c'è anche il pecorino eh]	o pec[ori:no c'è anche il pecorino eh]	o pecorino c'è anche il pecorino eh
+9	PKP040	17.33	18.62	1.29	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[scusa che ti passo davanti]	[scusa che ti passo davanti]	scusa che ti passo davanti
+10	PKP041	18.465	19.06	0.595	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[no] no no	[no] no no	no no no
+11	PKP048	21.25	25.7	4.45	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	13	certo che (d~ devo) vedere quella caciottina che m'ha portato paolo devo ancora farla	certo che (d~ devo) vedere quella caciottina che m'ha portato paolo devo ancora farla	certo che d~ devo vedere quella caciottina che m'ha portato paolo devo ancora farla
+12	PKP040	27.606	28.8	1.194	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	noi ce la siamo mangia[ta]	noi ce la siamo mangia[ta]	noi ce la siamo mangiata
+13	PKP048	28.6	30.08	1.48	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	[l'a]vete mangiata o grattugiata,	[l'a]vete mangiata o grattugiata,	l'avete mangiata o grattugiata
+14	PKP040	30.4	33.02	2.62	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	abbiamo iniziato a grattugia:rla [poi] ce la siamo mangia[ta]	abbiamo iniziato a grattugia:rla [poi] ce la siamo mangia[ta]	abbiamo iniziato a grattugiarla poi ce la siamo mangiata
+15	PKP048	31.98	32.26	0.28	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[eh]	[eh]	eh
+16	PKP048	32.76	33.8	1.04	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[man]giata eh	[man]giata eh	mangiata eh
+17	PKP048	43.51	44.42	0.91	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	buon appetito	buon appetito	buon appetito
+18	PKP040	44.7	45.529	0.829	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	buon appetito:	buon appetito:	buon appetito
+19	PKP048	45.8	46.71	0.91	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	piatto pulito	piatto pulito	piatto pulito
+20	PKP048	48.6	51.04	2.44	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	8	non so chi dice~ eh questo di[cevi tu: ]	non so chi dice~ eh questo di[cevi tu:]	non so chi dice~ eh questo dicevi tu
+21	PKP040	50.2	53.4	3.2	True	0	0	0	0	0	0	False	False	False	False	True	20=0.840,22=0.340,23=0.698	0	0	0	8	[la:: no] la [sua:] maestra:: della scuola materna	[la:: no] la [sua:] maestra:: della scuola materna	la no la sua maestra della scuola materna
+22	PKP041	51.2	51.54	0.34	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì]	[sì]	sì
+23	PKP039	51.75	52.448	0.698	True	0	0	0	0	0	0	False	False	False	False	True	21=0.698	0	1	0	0	((ride))	{ride}	{ride}
+24	PKP040	53.9	55.05	1.15	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	la bianchini	la bianchini	la bianchini
+25	PKP040	56.09	58.03	1.94	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	buon appetito: piatto pulito:	buon appetito: piatto pulito:	buon appetito piatto pulito
+26	PKP040	60.0	61.29	1.29	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e fa~ e si faceva:::	e fa~ e si faceva:::	e fa~ e si faceva
+27	PKP040	61.55	62.51	0.96	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	(e) mangiavano tutto	(e) mangiavano tutto	e mangiavano tutto
+28	PKP040	63.33	64.94	1.61	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	con questa::: frase magica,	con questa::: frase magica,	con questa frase magica
+29	PKP048	66.0	66.76	0.76	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	come::	come::	come
+30	PKP048	67.75	70.21	2.46	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	valentina: (.) cosa fai a scuola? >pappa<	valentina: {P} cosa fai a scuola? >pappa<	valentina {P} cosa fai a scuola pappa
+31	PKP040	70.34	71.46	1.12	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	2	la merenda ((ride))	la merenda {ride}	la merenda {ride}
+32	PKP048	71.47	72.33	0.86	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	1	((ride)) gio:ia:	{ride} gio:ia:	{ride} gioia
+33	PKP039	73.41	74.41	1.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	#è pigghiato (vedi) eh (il fuoco)	#è pigghiato (vedi) eh (il fuoco)	#è pigghiato vedi eh il fuoco
+34	PKP040	74.57	75.38	0.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	è andato	è andato	è andato
+35	PKP040	77.337	79.05	1.713	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	mh:: ha preso il fuo[co]	mh:: ha preso il fuo[co]	mh ha preso il fuoco
+36	PKP048	78.984	83.06	4.076	True	0	0	0	0	0	0	False	False	False	False	True	35=0.066,37=0.274	0	0	1	16	[ma] sto cristiano non capisco se non c'ha co:llo se ha le spalle (più alte del) collo	[ma] sto cristiano non capisco se non c'ha co:llo se ha le spalle (più alte del) collo	ma sto cristiano non capisco se non c'ha collo se ha le spalle più alte del collo
+37	PKP041	82.786	83.2	0.414	True	0	0	0	0	0	0	False	False	False	False	True	36=0.274	0	1	0	0	((ride))	{ride}	{ride}
+38	PKP040	83.335	84.56	1.225	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sembra piccoli:no	sembra piccoli:no	sembra piccolino
+39	PKP040	89.55	93.08	3.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	questa è fanatica eh si fa fare tutte le:: cose: come il vestito	questa è fanatica eh si fa fare tutte le:: cose: come il vestito	questa è fanatica eh si fa fare tutte le cose come il vestito
+40	PKP048	95.53	96.72	1.19	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	ne hai fatto tanto	ne hai fatto tanto	ne hai fatto tanto
+41	PKP048	97.24	98.96	1.72	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	dopo [mi dici do]po mi dici a me	dopo [mi dici do]po mi dici a me	dopo mi dici dopo mi dici a me
+42	PKP040	97.44	98.1	0.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[apposta]	[apposta]	apposta
+43	PKP040	98.99	100.04	1.05	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	no l'ho fatta apposta	no l'ho fatta apposta	no l'ho fatta apposta
+44	PKP048	100.187	101.187	1.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	ah basta allora	ah basta allora	ah basta allora
+45	PKP041	101.99	103.41	1.42	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	4	cosa, n~ (.) fatto tanto?	cosa, n~ {P} fatto tanto?	cosa n~ {P} fatto tanto
+46	PKP040	103.41	103.65	0.24	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+47	PKP040	105.89	107.21	1.32	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	stasera fallo rimanere beppe	stasera fallo rimanere beppe	stasera fallo rimanere beppe
+48	PKP048	107.64	109.19	1.55	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	x xx [xxx] dai	x xx [xxx] dai	x xx xxx dai
+49	PKP040	108.36	108.98	0.62	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	1	[sta l'insalatona]	[sta l'insalatona]	sta l'insalatona
+50	PKP041	109.19	110.38	1.19	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	ma' e che deve rimanere,	ma' e che deve rimanere,	ma' e che deve rimanere
+51	PKP040	110.74	112.52	1.78	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	10	beh ieri sera alle nove e mezzo se n'è andato vi[a]	beh ieri sera alle nove e mezzo se n'è andato vi[a]	beh ieri sera alle nove e mezzo se n'è andato via
+52	PKP041	112.2	114.02	1.82	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[e inf]atti ieri gli è costato	[e inf]atti ieri gli è costato	e infatti ieri gli è costato
+53	PKP040	114.07	115.22	1.15	True	0	0	1	0	0	0	False	False	False	False	False		0	0	1	2	perchè? l'hanno fermato?	perchè? l'hanno fermato?	perché l'hanno fermato
+54	PKP041	115.84	119.5	3.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	no: però n~ n~ [n~] non gli fa piacere dover andare velocemente a casa	no: però n~ n~ [n~] non gli fa piacere dover andare velocemente a casa	no però n~ n~ n~ non gli fa piacere dover andare velocemente a casa
+55	PKP040	116.69	116.9	0.21	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[ah,]	[ah,]	ah
+56	PKP040	120.65	121.12	0.47	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°vabbè°	°vabbè°	vabbè
+57	PKP041	121.88	124.51	2.63	True	0	0	1	0	0	0	False	False	False	False	False		0	0	1	8	anche perchè a quell'ora vanno tutti velocemente a casa	anche perchè a quell'ora vanno tutti velocemente a casa	anche perché a quell'ora vanno tutti velocemente a casa
+58	PKP048	130.45	133.36	2.91	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	certo xxxx che quel tacchino a tre euro al chilo eh	certo xxxx che quel tacchino a tre euro al chilo eh	certo xxxx che quel tacchino a tre euro al chilo eh
+59	PKP040	134.2	134.45	0.25	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+60	PKP048	134.594	136.34	1.746	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	era un peccato non comprarlo	era un peccato non comprarlo	era un peccato non comprarlo
+61	PKP040	137.74	138.026	0.286	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+62	PKP040	138.65	141.23	2.58	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	quella volta lo facesti al forno (.) era buonissimo	quella volta lo facesti al forno {P} era buonissimo	quella volta lo facesti al forno {P} era buonissimo
+63	PKP048	142.99	144.08	1.09	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	quello che avevo fatto i[o?]	quello che avevo fatto i[o?]	quello che avevo fatto io
+64	PKP040	143.95	144.95	1.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	[a]l for[no l'avevi f~]	[a]l for[no l'avevi f~]	al forno l'avevi f~
+65	PKP048	144.48	145.35	0.87	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[nel sacc]otto	[nel sacc]otto	nel saccotto
+66	PKP040	145.77	150.22	4.45	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	18	la prima la seconda volta nel saccotto la prima volta non so come l'avevi fa:tto se sempre nel saccotto	la prima la seconda volta nel saccotto la prima volta non so come l'avevi fa:tto se sempre nel saccotto	la prima la seconda volta nel saccotto la prima volta non so come l'avevi fatto se sempre nel saccotto
+67	PKP040	150.22	152.29	2.07	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	4	so che venne (.) buonissimo	so che venne {P} buonissimo	so che venne {P} buonissimo
+68	PKP048	152.408	155.29	2.882	True	0	0	1	0	0	0	False	False	False	False	False		0	0	0	11	non mi dite perchè cambio sempre hai visto ieri le fettine?	non mi dite perchè cambio sempre hai visto ieri le fettine?	non mi dite perché cambio sempre hai visto ieri le fettine
+69	PKP040	155.549	156.22	0.671	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	buo:ne	buo:ne	buone
+70	PKP041	157.26	157.5	0.24	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh:	mh:	mh
+71	PKP048	158.37	158.91	0.54	True	0	0	1	0	0	0	False	False	False	False	False		0	0	0	1	perchè:	perchè:	perché
+72	PKP041	159.07	160.51	1.44	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	3	<fari:na di (.) riso>	<fari:na di {P} riso>	farina di {P} riso
+73	PKP041	160.945	161.248	0.303	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	n[o]	n[o]	no
+74	PKP048	161.03	163.33	2.3	True	0	0	0	0	0	0	False	False	False	False	True	73=0.218,75=0.010	1	0	0	5	[n]o no (.) il pane grattuggiato:	[n]o no {P} il pane grattuggiato:	no no {P} il pane grattuggiato
+75	PKP041	163.32	163.61	0.29	True	0	0	0	0	0	0	False	False	False	False	True	74=0.010	0	0	0	1	ah	ah	ah
+76	PKP048	163.793	167.8	4.007	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	7	ho messo dentro: (.) il:: (.) parmigia:no, pepe, sale,	ho messo dentro: {P} il:: {P} parmigia:no, pepe, sale,	ho messo dentro {P} il {P} parmigiano pepe sale
+77	PKP048	168.88	171.46	2.58	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	un poco de:::mh di o:lio:,	un poco de:::mh di o:lio:,	un poco demh di olio
+78	PKP040	171.75	172.25	0.5	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh:	mh:	mh
+79	PKP040	173.52	175.05	1.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	farina non ce n'era proprio?	farina non ce n'era proprio?	farina non ce n'era proprio
+80	PKP041	175.214	175.56	0.346	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	a[h]	a[h]	ah
+81	PKP040	175.43	175.81	0.38	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[ok]ay	[ok]ay	okay
+82	PKP048	176.39	177.48	1.09	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	un po' di:: di a[glio]	un po' di:: di a[glio]	un po' di di aglio
+83	PKP040	177.387	180.02	2.633	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	7	[(>sembri<)] l'antonietta buzzi guarda quando era più giovane	[(>sembri<)] l'antonietta buzzi guarda quando era più giovane	sembri l'antonietta buzzi guarda quando era più giovane
+84	PKP041	180.214	181.02	0.806	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	2	è vero ((ride))	è vero {ride}	è vero {ride}
+85	PKP048	182.17	182.98	0.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	questa chi è?	questa chi è?	questa chi è
+86	PKP040	183.54	184.54	1.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	la: [mi]nistr[a::]	la: [mi]nistr[a::]	la ministra
+87	PKP041	183.78	184.23	0.45	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[no]	[no]	no
+88	PKP039	184.44	185.31	0.87	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[se]rracchiani	[se]rracchiani	serracchiani
+89	PKP048	186.16	188.46	2.3	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	no è una faccia:: a mbeh x[x politica]	no è una faccia:: a mbeh x[x politica]	no è una faccia a mbeh xx politica
+90	PKP040	187.69	188.43	0.74	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[no ministra]	[no ministra]	no ministra
+91	PKP039	189.49	190.23	0.74	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	(deputato) del p[d]	(deputato) del p[d]	deputato del pd
+92	PKP040	190.13	191.72	1.59	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[de]puta:to sì una deputata	[de]puta:to sì una deputata	deputato sì una deputata
+93	PKP048	195.42	199.12	3.7	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	9	cos'ha fatto la xxxx, che sentivo al telegiorna:le che [dicevano::]	cos'ha fatto la xxxx, che sentivo al telegiorna:le che [dicevano::]	cos'ha fatto la xxxx che sentivo al telegiornale che dicevano
+94	PKP041	198.365	199.371	1.006	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[°xx non lo] so°	[°xx non lo] so°	xx non lo so
+95	PKP040	223.24	224.0	0.76	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	vuoi [coca cola?]	vuoi [coca cola?]	vuoi coca cola
+96	PKP041	223.54	224.16	0.62	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[ma secondo vo]i	[ma secondo vo]i	ma secondo voi
+97	PKP041	225.04	226.63	1.59	True	0	0	1	0	0	0	False	False	False	False	False		0	0	0	4	perchè alcune case abbandona:te	perchè alcune case abbandona:te	perché alcune case abbandonate
+98	PKP040	226.72	227.014	0.294	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+99	PKP041	227.37	229.57	2.2	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	hanno <i vesti:ti de:ntro tutto>	hanno <i vesti:ti de:ntro tutto>	hanno i vestiti dentro tutto
+100	PKP040	231.59	232.2	0.61	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e come?	e come?	e come
+101	PKP040	232.73	234.04	1.31	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	queste qua che:: mh	queste qua che:: mh	queste qua che mh
+102	PKP041	234.049	236.24	2.191	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	que::ste xx [xx alcune]	que::ste xx [xx alcune]	queste xx xx alcune
+103	PKP040	235.272	237.57	2.298	True	0	0	0	0	0	0	False	False	False	False	True	102=0.968,104=0.010	0	0	1	8	[beh magari chi se n'è anda]to via di co:rsa	[beh magari chi se n'è anda]to via di co:rsa	beh magari chi se n'è andato via di corsa
+104	PKP041	237.56	238.01	0.45	True	0	0	0	0	0	0	False	False	False	False	True	103=0.010	0	0	0	1	e::h	e::h	eh
+105	PKP040	239.96	240.42	0.46	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[oppure]	[oppure]	oppure
+106	PKP041	239.97	241.7	1.73	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[io mi rico]rdo una volta a (mitra:no)	[io mi rico]rdo una volta a (mitra:no)	io mi ricordo una volta a mitrano
+107	PKP040	241.79	242.09	0.3	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+108	PKP041	242.91	247.61	4.7	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	11	che:: caterina:: entrò dentro un co:so dovevamo andarla a recupera:re e c'erano	che:: caterina:: entrò dentro un co:so dovevamo andarla a recupera:re e c'erano	che caterina entrò dentro un coso dovevamo andarla a recuperare e c'erano
+109	PKP041	248.26	251.22	2.96	True	0	0	0	0	0	0	False	False	False	False	True	110+111=0.130	1	0	0	7	nella tovaglia messe le tazzine (.) [sul tavo][lo]	nella tovaglia messe le tazzine {P} [sul tavo][lo]	nella tovaglia messe le tazzine {P} sul tavolo
+110	PKP039	250.45	252.43	1.98	True	0	0	0	0	0	0	False	False	False	False	True	109+111=0.130	0	0	0	3	[xx] [xx] [xxxxx]	[xx] [xx] [xxxxx]	xx xx xxxxx
+111	PKP040	251.09	253.36	2.27	True	0	0	0	0	0	0	False	False	False	False	True	109+110=0.130	0	0	1	4	[va][bbè qualcuno l'avrà fa]tto apposta	[va][bbè qualcuno l'avrà fa]tto apposta	vabbè qualcuno l'avrà fatto apposta
+112	PKP040	254.38	256.94	2.56	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	8	o magari gente che abusivamente l'ha occupa:ta e po:i	o magari gente che abusivamente l'ha occupa:ta e po:i	o magari gente che abusivamente l'ha occupata e poi
+113	PKP041	257.19	261.28	4.09	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	però dico questo qua mo stava vedendo questa questa:: casa abbandona:ta:,	però dico questo qua mo stava vedendo questa questa:: casa abbandona:ta:,	però dico questo qua mo stava vedendo questa questa casa abbandonata
+114	PKP041	261.8	265.44	3.64	True	0	0	0	0	0	0	False	False	False	False	True	115=0.756,116=0.010	1	0	1	8	e c'erano i vestiti negli arma:di:, (.) [residui di] rosse:tto	e c'erano i vestiti negli arma:di:, {P} [residui di] rosse:tto	e c'erano i vestiti negli armadi {P} residui di rossetto
+115	PKP040	263.734	264.49	0.756	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[metti che qualcuno]	[metti che qualcuno]	metti che qualcuno
+116	PKP040	265.43	267.24	1.81	True	0	0	0	0	0	0	False	False	False	False	True	114=0.010	0	0	0	8	ho capito metti che uno vive solo no	ho capito metti che uno vive solo no	ho capito metti che uno vive solo no
+117	PKP040	268.02	269.14	1.12	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	va in ospedale e muore	va in ospedale e muore	va in ospedale e muore
+118	PKP041	269.237	271.32	2.083	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	no: infa:tti pure io ho pensato questa cosa	no: infa:tti pure io ho pensato questa cosa	no infatti pure io ho pensato questa cosa
+119	PKP041	272.393	275.3	2.907	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	9	però quella è una vi[llona] (.) quella era una villona	però quella è una vi[llona] {P} quella era una villona	però quella è una villona {P} quella era una villona
+120	PKP040	273.17	274.38	1.21	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[chi si occupa di:::]	[chi si occupa di:::]	chi si occupa di
+121	PKP041	278.248	280.57	2.322	True	0	0	0	0	0	0	False	False	False	False	True	122=1.810,123=0.020	0	0	1	6	[mi da sempre l'idea che qualcuno sia]::	[mi da sempre l'idea che qualcuno sia]::	mi da sempre l'idea che qualcuno sia
+122	PKP040	278.26	280.07	1.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[può darsi pure che era: xx]	[può darsi pure che era: xx]	può darsi pure che era xx
+123	PKP040	280.55	282.33	1.78	True	0	0	0	0	0	0	False	False	False	False	True	121=0.020,124=0.950	0	0	0	8	può darsi che le lascia[no pure per folklo]re	può darsi che le lascia[no pure per folklo]re	può darsi che le lasciano pure per folklore
+124	PKP041	281.24	282.19	0.95	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[scappato via]	[scappato via]	scappato via
+125	PKP039	285.66	287.12	1.46	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	io penso che sia stato un delitto	io penso che sia stato un delitto	io penso che sia stato un delitto
+126	PKP041	288.38	291.78	3.4	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	sì (.) una una villa di:: venti persone forse,	sì {P} una una villa di:: venti persone forse,	sì {P} una una villa di venti persone forse
+127	PKP040	291.99	292.99	1.0	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	agatha christie	agatha christie	agatha christie
+128	PKP041	294.99	295.77	0.78	True	0	0	0	0	0	0	False	False	False	False	True	129=0.015	0	0	0	1	veramente	veramente	veramente
+129	PKP039	295.755	296.59	0.835	True	0	0	0	0	0	0	False	False	False	False	True	128=0.015	0	0	0	5	(è aperta da un po')	(è aperta da un po')	è aperta da un po'
+130	PKP040	304.857	307.6	2.743	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	mi sto vedendo su netflix una se:rie è iniziata così	mi sto vedendo su netflix una se:rie è iniziata così	mi sto vedendo su netflix una serie è iniziata così
+131	PKP040	309.057	309.813	0.756	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	>come< si chiama:?	>come< si chiama:?	come si chiama
+132	PKP040	310.03	312.058	2.028	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	am:::bili::ved	am:::bili::ved	ambilived
+133	PKP040	312.089	312.812	0.723	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	°come si dice?°	°come si dice?°	come si dice
+134	PKP041	312.885	313.71	0.825	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	unbelievab[le]	unbelievab[le]	unbelievable
+135	PKP039	313.61	314.05	0.44	True	0	0	0	0	0	0	False	False	False	False	True	134=0.100,136=0.020	0	0	0	1	[un]believ~	[un]believ~	unbeliev~
+136	PKP040	314.03	315.597	1.567	True	0	0	0	0	0	0	False	False	False	False	True	135=0.020	0	0	0	3	unbeliev~ a:h anbelievable	unbeliev~ a:h anbelievable	unbeliev~ ah anbelievable
+137	PKP040	315.645	316.128	0.483	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xx[:]	xx[:]	xx
+138	PKP041	316.0	316.855	0.855	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[è] un delitto no?	[è] un delitto no?	è un delitto no
+139	PKP040	317.007	317.367	0.36	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+140	PKP039	317.412	317.729	0.317	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+141	PKP040	318.385	319.321	0.936	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	no è una ragaz[za che]	no è una ragaz[za che]	no è una ragazza che
+142	PKP041	319.01	320.105	1.095	True	0	0	0	0	0	0	False	False	False	False	True	141=0.311,143=0.007	0	0	0	2	[in tribu]na::le	[in tribu]na::le	in tribunale
+143	PKP039	320.098	320.884	0.786	True	0	0	0	0	0	0	False	False	False	False	True	142=0.007	0	0	0	1	incredibile	incredibile	incredibile
+144	PKP040	321.066	323.12	2.054	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	una ragazza che: (.) subisce uno stupro,	una ragazza che: {P} subisce uno stupro,	una ragazza che {P} subisce uno stupro
+145	PKP040	324.732	328.402	3.67	True	0	0	0	0	0	0	False	False	False	False	True	146=0.011	0	0	0	15	però poi viene talmente inquisi::ta, fatto, che lei alla fine dice che era una bugia	però poi viene talmente inquisi::ta, fatto, che lei alla fine dice che era una bugia	però poi viene talmente inquisita fatto che lei alla fine dice che era una bugia
+146	PKP041	328.391	328.636	0.245	True	0	0	0	0	0	0	False	False	False	False	True	145=0.011,147=0.234	0	0	0	1	[mh]	[mh]	mh
+147	PKP040	328.402	329.523	1.121	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	[se l']era inve[nta:to]	[se l']era inve[nta:to]	se l'era inventato
+148	PKP041	329.017	330.056	1.039	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[xxx] giusto	[xxx] giusto	xxx giusto
+149	PKP040	330.541	332.032	1.491	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	perché::: nel cioè	perché::: nel cioè	perché nel cioè
+150	PKP040	332.191	334.55	2.359	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	come al solito da vi:ttima passi per:	come al solito da vi:ttima passi per:	come al solito da vittima passi per
+151	PKP041	335.982	337.018	1.036	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	tedesco è mi sa	tedesco è mi sa	tedesco è mi sa
+152	PKP040	337.235	337.614	0.379	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì:	sì:	sì
+153	PKP040	338.539	340.033	1.494	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	pensavo (f)osse ingle:se invece no	pensavo (f)osse ingle:se invece no	pensavo fosse inglese invece no
+154	PKP048	341.27	343.08	1.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	8	tu lo [vuo]:i: già che ce l'ho in mano?	tu lo [vuo]:i: già che ce l'ho in mano?	tu lo vuoi già che ce l'ho in mano
+155	PKP040	341.441	341.809	0.368	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[x]	[x]	x
+156	PKP041	343.09	343.498	0.408	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(°tieni°)	(°tieni°)	tieni
+157	PKP040	343.719	344.379	0.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:[::h]	e:[::h]	eh
+158	PKP048	343.924	344.903	0.979	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[uh e:]cco ho fatto	[uh e:]cco ho fatto	uh ecco ho fatto
+159	PKP040	345.07	346.248	1.178	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[fa nie:nte non fa niente]	[fa nie:nte non fa niente]	fa niente non fa niente
+160	PKP048	345.078	346.629	1.551	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[faccio tanto la campa]:ta:,	[faccio tanto la campa]:ta:,	faccio tanto la campata
+161	PKP040	346.974	347.46	0.486	True	0	0	0	0	0	0	False	False	False	False	True	162=0.002	0	0	0	2	fa niente	fa niente	fa niente
+162	PKP048	347.458	348.784	1.326	True	0	0	0	0	0	0	False	False	False	False	True	161=0.002	0	0	0	5	e poi ho perso (agliofa)	e poi ho perso (agliofa)	e poi ho perso agliofa
+163	PKP040	348.98	350.544	1.564	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	(non) fa nie:n[te que]llo si asciuga	(non) fa nie:n[te que]llo si asciuga	non fa niente quello si asciuga
+164	PKP048	349.57	349.853	0.283	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[eh]	[eh]	eh
+165	PKP048	350.685	351.503	0.818	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ti conosco:	ti conosco:	ti conosco
+166	PKP040	352.049	353.76	1.711	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	questa tovaglia si pulisce facile	questa tovaglia si pulisce facile	questa tovaglia si pulisce facile
+167	PKP040	354.859	355.638	0.779	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e::hm::	e::hm::	ehm
+168	PKP040	355.793	357.606	1.813	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	poi invece a distanza di::: m::h	poi invece a distanza di::: m::h	poi invece a distanza di mh
+169	PKP040	359.274	362.113	2.839	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	isola:ti di zo:na così ne succede un a:ltro,	isola:ti di zo:na così ne succede un a:ltro,	isolati di zona così ne succede un altro
+170	PKP048	375.928	377.667	1.739	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	non c'abbiamo neanche la giulia no?	non c'abbiamo neanche la giulia no?	non c'abbiamo neanche la giulia no
+171	PKP040	378.522	378.8	0.278	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+172	PKP040	379.884	384.8	4.916	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	fra paolo stamattina mi ha mandato gli auguri cia:o: giuli~ auguri giuli:a:[::,]	fra paolo stamattina mi ha mandato gli auguri cia:o: giuli~ auguri giuli:a:[::,]	fra paolo stamattina mi ha mandato gli auguri ciao giuli~ auguri giulia
+173	PKP048	384.531	385.152	0.621	True	0	0	0	0	0	0	False	False	False	False	True	172=0.269,174=0.006	0	0	0	3	[eh beh] sì	[eh beh] sì	eh beh sì
+174	PKP040	385.146	385.92	0.774	True	0	0	0	0	0	0	False	False	False	False	True	173=0.006	0	1	0	0	((ride))	{ride}	{ride}
+175	PKP040	386.316	387.627	1.311	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	è che gli mando sempre::	è che gli mando sempre::	è che gli mando sempre
+176	PKP039	388.086	389.991	1.905	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ma lo dice perché è xxxxx della luce?	ma lo dice perché è xxxxx della luce?	ma lo dice perché è xxxxx della luce
+177	PKP040	390.213	390.787	0.574	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	no:[:]	no:[:]	no
+178	PKP041	390.525	391.685	1.16	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[no o]ggi è santa lucia	[no o]ggi è santa lucia	no oggi è santa lucia
+179	PKP040	391.9	392.923	1.023	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	oggi è santa lucia	oggi è santa lucia	oggi è santa lucia
+180	PKP040	393.74	396.367	2.627	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	ah può darsi che hanno poi detto no ma è capitato di domenica	ah può darsi che hanno poi detto no ma è capitato di domenica	ah può darsi che hanno poi detto no ma è capitato di domenica
+181	PKP041	396.753	397.224	0.471	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	eh no	eh no	eh no
+182	PKP041	397.503	402.87	5.367	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	13	però:: nel::: nell'episodio:: della bibbia santa lucia (per legge) è la patrona dei ciechi	però:: nel::: nell'episodio:: della bibbia santa lucia (per legge) è la patrona dei ciechi	però nel nell'episodio:: della bibbia santa lucia per legge è la patrona dei ciechi
+183	PKP040	403.091	405.051	1.96	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	non è vero che le hanno tolto gli occhi eh	non è vero che le hanno tolto gli occhi eh	non è vero che le hanno tolto gli occhi eh
+184	PKP040	405.156	406.66	1.504	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	l'ha scr[itto ieri fra p]a[olo]	l'ha scr[itto ieri fra p]a[olo]	l'ha scritto ieri fra paolo
+185	PKP041	405.393	406.317	0.924	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[no: me lo ricordo]	[no: me lo ricordo]	no me lo ricordo
+186	PKP041	406.47	407.823	1.353	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[no] lo dice [ogni anno]	[no] lo dice [ogni anno]	no lo dice ogni anno
+187	PKP048	407.133	408.78	1.647	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ogni anno che va] qua[ndo xxx]	[ogni anno che va] qua[ndo xxx]	ogni anno che va quando xxx
+188	PKP040	408.04	409.039	0.999	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	['STA STO:RIA] CHE	['STA STO:RIA] CHE	'sta storia che
+189	PKP040	409.064	410.65	1.586	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	3	((ride)) dice deve [finire]	{ride} dice deve [finire]	{ride} dice deve finire
+190	PKP039	410.001	410.889	0.888	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[perché dà la l]uce	[perché dà la l]uce	perché dà la luce
+191	PKP040	412.16	415.06	2.9	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	perché:: le::: le:: [il: solsti]zio vabbè	perché:: le::: le:: [il: solsti]zio vabbè	perché le le il solstizio vabbè
+192	PKP039	413.689	414.478	0.789	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[x xx]	[x xx]	x xx
+193	PKP039	415.06	417.14	2.08	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	che altro giorno x[xx (andare) via]	che altro giorno x[xx (andare) via]	che altro giorno xxx andare via
+194	PKP040	415.916	417.093	1.177	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[equino:zio (dice anzi)]	[equino:zio (dice anzi)]	equinozio dice anzi
+195	PKP041	417.175	418.592	1.417	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	sicuramente un:: collegamento c'è	sicuramente un:: collegamento c'è	sicuramente un collegamento c'è
+196	PKP039	418.618	419.31	0.692	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sì (cre[do)]	sì (cre[do)]	sì credo
+197	PKP040	418.989	421.96	2.971	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[sì:] con la: cosa del: che vi chiude la:: m[:h]	[sì:] con la: cosa del: che vi chiude la:: m[:h]	sì con la cosa del che vi chiude la mh
+198	PKP041	421.82	424.409	2.589	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[e ho] scoperto che al nor[d si feste]ggia sa[nta lucia]	[e ho] scoperto che al nor[d si feste]ggia sa[nta lucia]	e ho scoperto che al nord si festeggia santa lucia
+199	PKP040	422.8	423.47	0.67	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[(come si di~)]	[(come si di~)]	come si di~
+200	PKP040	423.829	424.422	0.593	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì:::]	[sì:::]	sì
+201	PKP048	424.505	425.231	0.726	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	sì: ha(i) voglia	sì: ha(i) voglia	sì hai voglia
+202	PKP048	427.329	427.647	0.318	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(qual)	(qual)	qual
+203	PKP040	430.263	432.31	2.047	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ma perché è legato alla civiltà contadina no?	ma perché è legato alla civiltà contadina no?	ma perché è legato alla civiltà contadina no
+204	PKP048	432.456	437.024	4.568	True	0	0	0	0	0	0	False	False	False	False	False		1	0	1	13	(c'era:) (.) il (detto) in veneto santa lucia è la giornata più corta che sia	(c'era:) {P} il (detto) in veneto santa lucia è la giornata più corta che sia	c'era: {P} il detto in veneto santa lucia è la giornata più corta che sia
+205	PKP048	437.423	439.94	2.517	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e invece no la g~ più corta che sia doma:ni:	e invece no la g~ più corta che sia doma:ni:	e invece no la g~ più corta che sia domani
+206	PKP039	440.226	440.56	0.334	True	0	0	0	0	0	0	False	False	False	False	True	207=0.007	0	0	0	1	xx?	xx?	xx
+207	PKP040	440.553	442.0	1.447	True	0	0	0	0	0	0	False	False	False	False	True	206=0.007	0	0	0	4	vabbè::perché poi si sposta	vabbè::perché poi si sposta	vabbèperché poi si sposta
+208	PKP040	442.03	443.169	1.139	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	il sole non è mica [x:x]	il sole non è mica [x:x]	il sole non è mica xx
+209	PKP041	442.739	445.464	2.725	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[ho letto ch]e in veneto è: la: festa dei fidanzati	[ho letto ch]e in veneto è: la: festa dei fidanzati	ho letto che in veneto è la festa dei fidanzati
+210	PKP048	445.896	446.398	0.502	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ah sì:?	ah sì:?	ah sì
+211	PKP048	447.556	448.89	1.334	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	e allora vai x pae:se [(vai là) e:h]	e allora vai x pae:se [(vai là) e:h]	e allora vai x paese vai là eh
+212	PKP040	448.37	451.48	3.11	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	12	#[invece qua] si dice santa lucia tanta la notte e tanta la dia	#[invece qua] si dice santa lucia tanta la notte e tanta la dia	#invece qua si dice santa lucia tanta la notte e tanta la dia
+213	PKP040	457.407	459.45	2.043	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	allora siccome gli mando il pupazzo::	allora siccome gli mando il pupazzo::	allora siccome gli mando il pupazzo
+214	PKP040	459.583	460.65	1.067	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	allora giuli:a::	allora giuli:a::	allora giulia
+215	PKP040	461.18	462.84	1.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e lui auguri giuli:a::	e lui auguri giuli:a::	e lui auguri giulia
+216	PKP040	462.889	464.03	1.141	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	2	((ride)) che bello	{ride} che bello	{ride} che bello
+217	PKP048	467.338	469.512	2.174	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	non potrebbero mandarlo qua tanto sta bene?	non potrebbero mandarlo qua tanto sta bene?	non potrebbero mandarlo qua tanto sta bene
+218	PKP048	470.71	472.51	1.8	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	xxxxxx gio:[vane >(aveva)<]	xxxxxx gio:[vane >(aveva)<]	xxxxxx giovane aveva
+219	PKP041	471.922	473.291	1.369	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[lui là sta] ancora meglio	[lui là sta] ancora meglio	lui là sta ancora meglio
+220	PKP048	473.575	473.85	0.275	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+221	PKP040	474.063	475.45	1.387	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	non l'ho staccato il (gas)?	non l'ho staccato il (gas)?	non l'ho staccato il gas
+222	PKP041	475.641	476.361	0.72	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	ma è xx?	ma è xx?	ma è xx
+223	PKP041	477.276	479.34	2.064	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	dove stava stava sicuramente xx[x qua]	dove stava stava sicuramente xx[x qua]	dove stava stava sicuramente xxx qua
+224	PKP040	478.83	479.701	0.871	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[stava be:]ne sì	[stava be:]ne sì	stava bene sì
+225	PKP048	480.5	481.416	0.916	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	(sai) ma quando io	(sai) ma quando io	sai ma quando io
+226	PKP039	481.543	483.472	1.929	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	con le categorie professionali del (tennis)?	con le categorie professionali del (tennis)?	con le categorie professionali del tennis
+227	PKP039	483.712	485.697	1.985	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	tutta sta ripre:sa sto anno sabba:tico	tutta sta ripre:sa sto anno sabba:tico	tutta sta ripresa sto anno sabbatico
+228	PKP039	486.209	486.853	0.644	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	(ma non vuole)?	(ma non vuole)?	ma non vuole
+229	PKP040	486.856	487.765	0.909	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	sta ma:le pa'::	sta ma:le pa'::	sta male pa'
+230	PKP040	487.955	489.489	1.534	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	deve fare un'altra operazio:ne:	deve fare un'altra operazio:ne:	deve fare un'altra operazione
+231	PKP040	491.027	493.24	2.213	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	ma lui stava::: non stava::: m:h	ma lui stava::: non stava::: m:h	ma lui stava non stava mh
+232	PKP040	493.31	495.58	2.27	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	2	l'hanno messo:: all'ospedale xxx	l'hanno messo:: all'ospedale xxx	l'hanno messo all'ospedale xxx
+233	PKP040	498.39	499.67	1.28	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	solo che mo si doveva operare:,	solo che mo si doveva operare:,	solo che mo si doveva operare
+234	PKP040	500.532	502.77	2.238	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e col co:vid x: [siamo xxxx]	e col co:vid x: [siamo xxxx]	e col covid x siamo xxxx
+235	PKP041	501.718	503.357	1.639	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	[io (ho capito) che stava a san]ta (para)	[io (ho capito) che stava a san]ta (para)	io ho capito che stava a santa para
+236	PKP040	504.022	504.77	0.748	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e insiste	e insiste	e insiste
+237	PKP040	504.801	507.21	2.409	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	però sta: in un ospedale non sta a santa (para)	però sta: in un ospedale non sta a santa (para)	però sta in un ospedale non sta a santa para
+238	PKP040	507.637	509.517	1.88	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	va a fare il coso in un ospedale di (bari)	va a fare il coso in un ospedale di (bari)	va a fare il coso in un ospedale di bari
+239	PKP040	512.152	513.046	0.894	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	fa[tto il da:nno:]	fa[tto il da:nno:]	fatto il danno
+240	PKP041	512.357	513.486	1.129	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[non distru]ggerlo	[non distru]ggerlo	non distruggerlo
+241	PKP040	513.744	514.041	0.297	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	no	no	no
+242	PKP040	515.144	516.147	1.003	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	x (l)e zucchi:ne	x (l)e zucchi:ne	x le zucchine
+243	PKP039	518.1	519.345	1.245	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	3	xx (.) i zucchini	xx {P} i zucchini	xx {P} i zucchini
+244	PKP040	521.117	521.77	0.653	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ancora?	ancora?	ancora
+245	PKP040	522.185	522.59	0.405	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	scusa ma	scusa ma	scusa ma
+246	PKP039	522.594	523.873	1.279	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	3	sì (.) anche me:zzi	sì {P} anche me:zzi	sì {P} anche mezzi
+247	PKP039	524.078	525.077	0.999	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	per ora x grazie	per ora x grazie	per ora x grazie
+248	PKP040	528.63	529.925	1.295	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	io penso che [xxxx]	io penso che [xxxx]	io penso che xxxx
+249	PKP041	529.132	530.37	1.238	True	0	0	0	0	0	0	False	False	False	False	True	248=0.793,250=0.002	0	0	0	5	[no: no: questo è] america	[no: no: questo è] america	no no questo è america
+250	PKP039	530.368	531.25	0.882	True	0	0	0	0	0	0	False	False	False	False	True	249=0.002	0	0	0	4	x questo è america	x questo è america	x questo è america
+251	PKP040	532.054	532.417	0.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	a:h	a:h	ah
+252	PKP048	532.91	534.08	1.17	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	ma qua non è italia	ma qua non è italia	ma qua non è italia
+253	PKP040	534.31	534.87	0.56	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[no è] america	[no è] america	no è america
+254	PKP041	534.32	534.52	0.2	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[no:]	[no:]	no
+255	PKP048	534.881	535.202	0.321	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+256	PKP048	536.845	537.83	0.985	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	prima (che x ci arrivo)	prima (che x ci arrivo)	prima che x ci arrivo
+257	PKP041	540.162	542.458	2.296	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	mado' di spalle alla televisione l'abbiamo vista	mado' di spalle alla televisione l'abbiamo vista	mado' di spalle alla televisione l'abbiamo vista
+258	PKP040	542.866	543.684	0.818	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x[xxx]	x[xxx]	xxxx
+259	PKP039	543.005	543.68	0.675	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[(in castigo)]	[(in castigo)]	in castigo
+260	PKP040	545.88	547.019	1.139	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	possiamo pure spegnere	possiamo pure spegnere	possiamo pure spegnere
+261	PKP048	552.92	554.24	1.32	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	sarebbero puli:ti i pia:tti?	sarebbero puli:ti i pia:tti?	sarebbero puliti i piatti
+262	PKP048	554.29	555.335	1.045	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	ma son pure caldi?	ma son pure caldi?	ma son pure caldi
+263	PKP048	557.547	558.804	1.257	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	(o) il nonno diceva così	(o) il nonno diceva così	o il nonno diceva così
+264	PKP048	558.96	560.883	1.923	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	non mi cambiare il piatto che mo è caldo	non mi cambiare il piatto che mo è caldo	non mi cambiare il piatto che mo è caldo
+265	PKP040	561.446	562.291	0.845	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	sì questo è vero	sì questo è vero	sì questo è vero
+266	PKP040	563.033	563.692	0.659	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	0	d'inverno	d'inverno	d'inverno
+267	PKP048	565.637	567.697	2.06	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	oddio il mio faceva presto a raffreddar:si eh	oddio il mio faceva presto a raffreddar:si eh	oddio il mio faceva presto a raffreddarsi eh
+268	PKP040	568.152	572.669	4.517	True	0	0	0	0	0	0	False	False	False	False	True	269=0.530	0	0	0	15	mi dispiace facio quando viene ieri appena entrato <a::h che bel caldo in questa casa>	mi dispiace facio quando viene ieri appena entrato <a::h che bel caldo in questa casa>	mi dispiace facio quando viene ieri appena entrato ah che bel caldo in questa casa
+269	PKP039	571.67	572.2	0.53	True	0	0	0	0	0	0	False	False	False	False	True	268=0.530	0	1	0	0	((ride))	{ride}	{ride}
+270	PKP048	572.745	573.571	0.826	True	0	0	0	0	0	0	False	False	False	False	True	271=0.251	0	0	0	2	fabio questo?	fabio questo?	fabio questo
+271	PKP041	573.32	573.899	0.579	True	0	0	0	0	0	0	False	False	False	False	True	270=0.251	0	1	0	0	((ride))	{ride}	{ride}
+272	PKP048	574.57	575.615	1.045	True	0	0	0	0	0	0	False	False	False	False	True	273=0.008	0	0	0	5	perché (è) il camino no:?	perché (è) il camino no:?	perché è il camino no
+273	PKP040	575.607	577.63	2.023	True	0	0	0	0	0	0	False	False	False	False	True	272=0.008	0	0	1	8	no:: perché c'ha la casa sua che è fre:dda	no:: perché c'ha la casa sua che è fre:dda	no perché c'ha la casa sua che è fredda
+274	PKP040	577.63	581.51	3.88	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e i::: la la caldaia non funzio:[na, il camino: ma:]nco	e i::: la la caldaia non funzio:[na, il camino: ma:]nco	e i la la caldaia non funziona il camino manco
+275	PKP048	579.785	580.991	1.206	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[a:::h (beh okay)]	[a:::h (beh okay)]	ah beh okay
+276	PKP048	582.82	584.384	1.564	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	com'è che si chia[ma xxx]	com'è che si chia[ma xxx]	com'è che si chiama xxx
+277	PKP041	583.357	586.79	3.433	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	[è più gra:nde della no]stra no gli spazi son più gra:ndi °secondo [me°]	[è più gra:nde della no]stra no gli spazi son più gra:ndi °secondo [me°]	è più grande della nostra no gli spazi son più grandi secondo me
+278	PKP040	586.581	589.254	2.673	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[beh] laura noi abbiamo fatto tante (accorte[zze)]	[beh] laura noi abbiamo fatto tante (accorte[zze)]	beh laura noi abbiamo fatto tante accortezze
+279	PKP048	588.85	594.97	6.12	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	22	[poi lau]ra se non cucini ta:nto quando tua mamma >tante volte viene da me< com'è calda la cucina e per forza quando cucini:	[poi lau]ra se non cucini ta:nto quando tua mamma >tante volte viene da me< com'è calda la cucina e per forza quando cucini:	poi laura se non cucini tanto quando tua mamma tante volte viene da me com'è calda la cucina e per forza quando cucini
+280	PKP048	595.383	596.69	1.307	True	0	0	0	0	0	0	False	False	False	False	True	281=0.010	0	0	0	2	<il vapo:re:::>	<il vapo:re:::>	il vapore
+281	PKP040	596.68	598.6	1.92	True	0	0	0	0	0	0	False	False	False	False	True	280=0.010,282=0.805,283=0.676	0	0	0	6	[vabbè ma noi abbiamo] cambiat[o le:::]	[vabbè ma noi abbiamo] cambiat[o le:::]	vabbè ma noi abbiamo cambiato le
+282	PKP048	596.718	597.523	0.805	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[<le fia:mme>]	[<le fia:mme>]	le fiamme
+283	PKP041	597.895	598.571	0.676	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[le fiamme?]	[le fiamme?]	le fiamme
+284	PKP048	599.168	599.88	0.712	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	fuoco fiamme	fuoco fiamme	fuoco fiamme
+285	PKP040	600.635	602.237	1.602	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	abbiamo cambiato gli infi:ssi	abbiamo cambiato gli infi:ssi	abbiamo cambiato gli infissi
+286	PKP048	605.095	605.432	0.337	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x	x	x
+287	PKP048	606.348	607.781	1.433	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	dice no non xxxxx	dice no non xxxxx	dice no non xxxxx
+288	PKP041	608.529	610.002	1.473	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	quest'inverno stiamo proprio bene	quest'inverno stiamo proprio bene	quest'inverno stiamo proprio bene
+289	PKP041	610.58	611.198	0.618	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	a freddo	a freddo	a freddo
+290	PKP040	611.784	614.0	2.216	True	0	0	0	0	0	0	False	False	False	False	False		1	0	2	8	°sì (.) vabbè quest'a[nno non c'è poi ne]anche tanto freddo eh°	°sì {P} vabbè quest'a[nno non c'è poi ne]anche tanto freddo eh°	sì {P} vabbè quest'anno non c'è poi neanche tanto freddo eh
+291	PKP039	612.587	613.117	0.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[(un po')]	[(un po')]	un po'
+292	PKP041	614.167	617.146	2.979	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	be:h rispetto agli altri anni: io non sto soffrendo tanto il fre[ddo]	be:h rispetto agli altri anni: io non sto soffrendo tanto il fre[ddo]	beh rispetto agli altri anni io non sto soffrendo tanto il freddo
+293	PKP048	616.837	619.17	2.333	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	[e mo le] devo fare un regalo per natale [e xxx]	[e mo le] devo fare un regalo per natale [e xxx]	e mo le devo fare un regalo per natale e xxx
+294	PKP041	618.458	620.024	1.566	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[GLI AMICI MIE:I (mo] [che son tornati)]	[GLI AMICI MIE:I (mo] [che son tornati)]	gli amici miei mo che son tornati
+295	PKP048	619.195	622.187	2.992	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	8	[l'anno scorso c'ho fatt]o le pantofoline e mole porta sempre:	[l'anno scorso c'ho fatt]o le pantofoline e mole porta sempre:	l'anno scorso c'ho fatto le pantofoline e mole porta sempre
+296	PKP048	622.396	626.72	4.324	True	0	0	0	0	0	0	False	False	False	False	True	297=0.897,298=0.060	0	0	0	12	col col ta:cco schia~ col calcagno schiacciato [a modi ciabatta sta] fessacchiotta	col col ta:cco schia~ col calcagno schiacciato [a modi ciabatta sta] fessacchiotta	col col tacco schia~ col calcagno schiacciato a modi ciabatta sta fessacchiotta
+297	PKP040	625.136	626.033	0.897	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[xx:x]	[xx:x]	xxx
+298	PKP040	626.66	629.482	2.822	True	0	0	0	0	0	0	False	False	False	False	True	296=0.060,299=0.565	1	0	0	10	che sono di (.) tu gliele hai prese per stare [sicu:ra?]	che sono di {P} tu gliele hai prese per stare [sicu:ra?]	che sono di {P} tu gliele hai prese per stare sicura
+299	PKP048	628.917	631.261	2.344	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[madonna che s]i vo:la con quel (mondo) fuo[ri xxx]	[madonna che s]i vo:la con quel (mondo) fuo[ri xxx]	madonna che si vola con quel mondo fuori xxx
+300	PKP040	630.68	632.43	1.75	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[per stare si]cura sulle sca:le,	[per stare si]cura sulle sca:le,	per stare sicura sulle scale
+301	PKP040	632.439	635.73	3.291	True	0	0	0	0	0	0	False	False	False	False	True	302=1.881,303=0.030	0	0	0	15	e lei se le mette in quella manie[ra che non ho ancora capito questa (roba)]	e lei se le mette in quella manie[ra che non ho ancora capito questa (roba)]	e lei se le mette in quella maniera che non ho ancora capito questa roba
+302	PKP048	633.759	635.64	1.881	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[adesso ci sto facendo le scarpi:ne]	[adesso ci sto facendo le scarpi:ne]	adesso ci sto facendo le scarpine
+303	PKP048	635.7	638.485	2.785	True	0	0	0	0	0	0	False	False	False	False	True	301=0.030	0	0	1	9	che quando è seduta così che c'ha le calzette fine::	che quando è seduta così che c'ha le calzette fine::	che quando è seduta così che c'ha le calzette fine
+304	PKP040	639.45	640.597	1.147	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	non se le metterà mamma	non se le metterà mamma	non se le metterà mamma
+305	PKP040	640.669	641.969	1.3	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	(non [se le me~ ma]) no::	(non [se le me~ ma]) no::	non se le me~ ma no
+306	PKP048	640.82	641.499	0.679	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[ah no::?]	[ah no::?]	ah no
+307	PKP048	642.404	643.341	0.937	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	come fai a sa[(pe)~]	come fai a sa[(pe)~]	come fai a sape~
+308	PKP040	642.977	644.18	1.203	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[mia suoce]ra è vanito:sa	[mia suoce]ra è vanito:sa	mia suocera è vanitosa
+309	PKP040	644.292	646.11	1.818	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	perché non si poteva mettere i panta::~	perché non si poteva mettere i panta::~	perché non si poteva mettere i panta::~
+310	PKP040	646.648	648.21	1.562	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	i p[antalo]ni quando s'[è (rotta la sì)]	i p[antalo]ni quando s'[è (rotta la sì)]	i pantaloni quando s'è rotta la sì
+311	PKP048	646.724	647.16	0.436	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì::]	[sì::]	sì
+312	PKP048	647.603	648.174	0.571	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[come no]	[come no]	come no
+313	PKP041	648.223	648.55	0.327	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:::h	e:::h	eh
+314	PKP040	648.573	648.883	0.31	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+315	PKP040	650.947	651.805	0.858	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	per uno ba[sta]	per uno ba[sta]	per uno basta
+316	PKP041	651.581	652.88	1.299	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	>[stavo di]cendo< gli amici mie:i	>[stavo di]cendo< gli amici mie:i	stavo dicendo gli amici miei
+317	PKP041	653.82	657.316	3.496	True	0	0	0	0	0	0	False	False	False	False	True	318=0.386	0	0	1	9	#quando sono tornati da milano, (samo sentito) <un fre:ddo> assurdo	#quando sono tornati da milano, (samo sentito) <un fre:ddo> assurdo	#quando sono tornati da milano samo sentito un freddo assurdo
+318	PKP039	656.93	657.751	0.821	True	0	0	0	0	0	0	False	False	False	False	True	317=0.386	0	1	0	0	((ride))	{ride}	{ride}
+319	PKP040	657.85	660.64	2.79	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	beh che le case di milano sono più calde e::: [>le case< (lo:ro)]	beh che le case di milano sono più calde e::: [>le case< (lo:ro)]	beh che le case di milano sono più calde e le case loro
+320	PKP048	659.95	661.642	1.692	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[senti: te ne ho] fatt(o) abbastanza?	[senti: te ne ho] fatt(o) abbastanza?	senti te ne ho fatto abbastanza
+321	PKP048	663.6	666.39	2.79	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	tua madre te lo fa i zucchino e ti ha xxxxxxx[x]	tua madre te lo fa i zucchino e ti ha xxxxxxx[x]	tua madre te lo fa i zucchino e ti ha xxxxxxxx
+322	PKP041	666.271	666.979	0.708	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[i] zucchini?	[i] zucchini?	i zucchini
+323	PKP039	671.94	672.894	0.954	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	xx come (lo) trascri:vi?	xx come (lo) trascri:vi?	xx come lo trascrivi
+324	PKP048	673.082	675.64	2.558	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	poi alla fine alla (mamma e do:) do [da mangiare ca:rne]	poi alla fine alla (mamma e do:) do [da mangiare ca:rne]	poi alla fine alla mamma e do do da mangiare carne
+325	PKP039	674.673	675.599	0.926	True	0	0	0	0	0	0	False	False	False	False	True	324=0.926	0	1	0	0	((ride))	{ride}	{ride}
+326	PKP041	675.64	677.018	1.378	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	non non non trascriverò io	non non non trascriverò io	non non non trascriverò io
+327	PKP048	679.04	681.391	2.351	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	guarda che cosa mi basta le zucchi[ne (almeno)]	guarda che cosa mi basta le zucchi[ne (almeno)]	guarda che cosa mi basta le zucchine almeno
+328	PKP040	680.78	681.698	0.918	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[questo è x:]x sì	[questo è x:]x sì	questo è xx sì
+329	PKP040	688.07	688.5	0.43	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	lo vuoi?	lo vuoi?	lo vuoi
+330	PKP040	689.673	690.095	0.422	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	lo vuoi?	lo vuoi?	lo vuoi
+331	PKP048	690.229	691.247	1.018	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	un pezze:tto:	un pezze:tto:	un pezzetto
+332	PKP048	691.773	692.78	1.007	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	ce n'è: per tutti?	ce n'è: per tutti?	ce n'è: per tutti
+333	PKP040	692.981	693.219	0.238	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sì	sì	sì
+334	PKP048	693.245	693.93	0.685	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	allora sì:	allora sì:	allora sì
+335	PKP048	700.874	703.513	2.639	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e mo laura ritornando a quelle di ie:ri: a (soccio),	e mo laura ritornando a quelle di ie:ri: a (soccio),	e mo laura ritornando a quelle di ieri a soccio
+336	PKP048	704.618	705.814	1.196	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	scaldo la padella	scaldo la padella	scaldo la padella
+337	PKP048	706.481	707.844	1.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	>calda calda calda calda<	>calda calda calda calda<	calda calda calda calda
+338	PKP048	708.232	709.593	1.361	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e metto un po' di sale:,	e metto un po' di sale:,	e metto un po' di sale
+339	PKP048	710.377	711.106	0.729	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sulla padella	sulla padella	sulla padella
+340	PKP048	711.546	712.837	1.291	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e calo con le fettine	e calo con le fettine	e calo con le fettine
+341	PKP048	713.016	714.416	1.4	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e le facc[io tutte (impanate bene)]	e le facc[io tutte (impanate bene)]	e le faccio tutte impanate bene
+342	PKP040	713.381	716.3	2.919	True	0	0	0	0	0	0	False	False	False	False	True	341=1.035,344=0.004,343=1.191	0	0	0	10	[così impanate <nel] [pan gratta:to con i>] gli aro:mi no?	[così impanate <nel] [pan gratta:to con i>] gli aro:mi no?	così impanate nel pan grattato con i gli aromi no
+343	PKP048	714.47	715.661	1.191	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[(pia:no piano piano)]	[(pia:no piano piano)]	piano piano piano
+344	PKP048	716.296	720.409	4.113	True	0	0	0	0	0	0	False	False	False	False	True	342=0.004,345=0.708	0	0	2	12	<SENZA O:LIO SENZA> no metto l'a:glio dent~ cioè l'aglio quell[o sì ogni ta]nto sì	<SENZA O:LIO SENZA> no metto l'a:glio dent~ cioè l'aglio quell[o sì ogni ta]nto sì	senza olio senza no metto l'a:glio dent~ cioè l'aglio quello sì ogni tanto sì
+345	PKP040	719.1	719.808	0.708	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[vabbè sì]	[vabbè sì]	vabbè sì
+346	PKP040	720.619	721.829	1.21	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	ma ho visto pure:::	ma ho visto pure:::	ma ho visto pure
+347	PKP040	721.969	723.6	1.631	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	le erbette stavano cos'erano?	le erbette stavano cos'erano?	le erbette stavano cos'erano?
+348	PKP048	723.667	724.495	0.828	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sì: prezz[emolo]	sì: prezz[emolo]	sì prezzemolo
+349	PKP041	724.076	724.9	0.824	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[sarà pre]zzemolo	[sarà pre]zzemolo	sarà prezzemolo
+350	PKP048	724.9	725.856	0.956	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	>prezzemolo< fresco	>prezzemolo< fresco	prezzemolo fresco
+351	PKP040	726.283	727.251	0.968	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	ho >(aiutato)< a spelarlo	ho >(aiutato)< a spelarlo	ho aiutato a spelarlo
+352	PKP048	729.903	730.352	0.449	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[(e poi)]	[(e poi)]	e poi
+353	PKP041	729.91	730.727	0.817	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[>(madonna)< che] buone	[>(madonna)< che] buone	madonna che buone
+354	PKP048	731.063	732.06	0.997	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ho guardato:	ho guardato:	ho guardato
+355	PKP041	732.078	732.38	0.302	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ma	ma	ma
+356	PKP048	733.524	736.13	2.606	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	ho guardato:: un attimino il giornale nuovo	ho guardato:: un attimino il giornale nuovo	ho guardato un attimino il giornale nuovo
+357	PKP048	736.217	738.608	2.391	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	7	c'è una ricetta per: la v[igilia di nat]ale	c'è una ricetta per: la v[igilia di nat]ale	c'è una ricetta per la vigilia di natale
+358	PKP041	737.437	738.262	0.825	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[°una ricetta?°]	[°una ricetta?°]	una ricetta
+359	PKP048	761.974	763.959	1.985	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	ti ho detto che ieri sera alle nove e un quarto,	ti ho detto che ieri sera alle nove e un quarto,	ti ho detto che ieri sera alle nove e un quarto
+360	PKP048	764.511	765.505	0.994	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	mi suona il telefono	mi suona il telefono	mi suona il telefono
+361	PKP048	766.383	768.97	2.587	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	non volevo rispondere perché avevo paura fosse zia maria	non volevo rispondere perché avevo paura fosse zia maria	non volevo rispondere perché avevo paura fosse zia maria
+362	PKP048	769.411	772.37	2.959	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	perché lei alle nove e mezza:: alle nove nove e mezza lei tele:fona	perché lei alle nove e mezza:: alle nove nove e mezza lei tele:fona	perché lei alle nove e mezza alle nove nove e mezza lei telefona
+363	PKP041	772.39	772.974	0.584	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(ise:a)	(ise:a)	isea
+364	PKP048	773.017	773.393	0.376	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	m:h	m:h	mh
+365	PKP048	773.54	776.564	3.024	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	sì sì xxx, finito tu:tto e:: bom	sì sì xxx, finito tu:tto e:: bom	sì sì xxx finito tutto e bom
+366	PKP048	777.337	778.468	1.131	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e invece era eleonora	e invece era eleonora	e invece era eleonora
+367	PKP048	779.667	781.99	2.323	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ha detto sono passa:ta davanti a ca:sa eh	ha detto sono passa:ta davanti a ca:sa eh	ha detto sono passata davanti a casa eh
+368	PKP048	781.99	784.134	2.144	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	mado:nna che be:lla la casa vo:stra	mado:nna che be:lla la casa vo:stra	madonna che bella la casa vostra
+369	PKP048	784.587	786.495	1.908	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ha detto sta bene da fare un filmino:	ha detto sta bene da fare un filmino:	ha detto sta bene da fare un filmino
+370	PKP041	786.566	789.54	2.974	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	anche: i miei amici hanno detto che le tue luci sono molto belle	anche: i miei amici hanno detto che le tue luci sono molto belle	anche i miei amici hanno detto che le tue luci sono molto belle
+371	PKP040	789.549	790.397	0.848	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	x x belle	x x belle	x x belle
+372	PKP048	791.018	791.324	0.306	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	oh	oh	oh
+373	PKP041	792.556	793.451	0.895	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	I MIEI AMICI	I MIEI AMICI	i miei amici
+374	PKP048	793.568	793.887	0.319	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:h	e:h	eh
+375	PKP041	794.002	796.923	2.921	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	9	HANNO DETTO (.) CHE LE TUE LUCI (.) SONO MOLTO BELLE	HANNO DETTO {P} CHE LE TUE LUCI {P} SONO MOLTO BELLE	hanno detto {P} che le tue luci {P} sono molto belle
+376	PKP048	796.927	798.032	1.105	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	u[:::h]	u[:::h]	uh
+377	PKP040	797.06	799.07	2.01	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	[quelle del balcone o] quelle dell'arche[tto?]	[quelle del balcone o] quelle dell'arche[tto?]	quelle del balcone o quelle dell'archetto?
+378	PKP041	798.99	799.77	0.78	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[de]l balco:n[e]	[de]l balco:n[e]	del balcone
+379	PKP048	799.66	800.531	0.871	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[so]no tutte uguali	[so]no tutte uguali	sono tutte uguali
+380	PKP040	800.77	801.18	0.41	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	belle	belle	belle
+381	PKP048	801.918	803.54	1.622	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	ma allora mi sono servita xxx	ma allora mi sono servita xxx	ma allora mi sono servita xxx
+382	PKP041	803.734	804.115	0.381	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh?	eh?	eh
+383	PKP040	804.149	805.38	1.231	True	0	0	0	0	0	0	False	False	False	False	True	384=1.231	0	1	0	0	((ride))	{ride}	{ride}
+384	PKP048	804.149	805.96	1.811	True	0	0	0	0	0	0	False	False	False	False	True	383=1.231	0	1	0	2	((ride)) alla boutique	{ride} alla boutique	{ride} alla boutique
+385	PKP040	806.146	806.642	0.496	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+386	PKP048	808.139	809.265	1.126	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxx[xx]	xxxx[xx]	xxxxxx
+387	PKP040	808.639	809.97	1.331	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[si vedono da] lontano poi	[si vedono da] lontano poi	si vedono da lontano poi
+388	PKP048	811.87	812.844	0.974	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	>sul tetto ho messo la xx<	>sul tetto ho messo la xx<	sul tetto ho messo la xx
+389	PKP048	814.022	817.062	3.04	True	0	0	0	0	0	0	False	True	False	False	False		0	0	0	6	<mamma mia xxx (spazio libero) laura	<mamma mia xxx (spazio libero) laura	mamma mia xxx spazio libero laura
+390	PKP041	817.357	817.844	0.487	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	m::h	m::h	mh
+391	PKP040	820.085	821.404	1.319	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	l'altro giorno è venuto stefano	l'altro giorno è venuto stefano	l'altro giorno è venuto stefano
+392	PKP039	821.41	823.05	1.64	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	(chi quello che teneva [il bar de]ll'università?)	(chi quello che teneva [il bar de]ll'università?)	chi quello che teneva il bar dell'università?
+393	PKP040	822.004	822.493	0.489	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[(mi si è)]	[(mi si è)]	mi si è
+394	PKP040	823.415	824.85	1.435	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	tua zi:a l'hanno fregata	tua zi:a l'hanno fregata	tua zia l'hanno fregata
+395	PKP040	826.027	829.26	3.233	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	15	che quello di sopra HA GIA' (IN) MESSO LA MESSO LA STE:LLA PRIMA DI LE:I	che quello di sopra HA GIA' (IN) MESSO LA MESSO LA STE:LLA PRIMA DI LE:I	che quello di sopra ha gia' in messo la messo la stella prima di lei
+396	PKP040	829.309	830.984	1.675	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	3	O:::H ((ride)) ha detto	O:::H {ride} ha detto	oh {ride} ha detto
+397	PKP048	831.451	832.712	1.261	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	ha detto [xxxx]	ha detto [xxxx]	ha detto xxxx
+398	PKP040	831.726	833.86	2.134	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ha lanciato il gua:]nto della sfida	[ha lanciato il gua:]nto della sfida	ha lanciato il guanto della sfida
+399	PKP048	834.61	841.569	6.959	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	14	ma dappertu:tto le batterie er~r~r~r~rano nelle sca::le, (niel del) la po::rta, ma anche tro::ppo esagera:ta::	ma dappertu:tto le batterie er~r~r~r~rano nelle sca::le, (niel del) la po::rta, ma anche tro::ppo esagera:ta::	ma dappertutto le batterie er~r~r~r~rano nelle scale niel del la porta ma anche troppo esagerata
+400	PKP040	842.014	842.943	0.929	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	(lo) è sempre stata	(lo) è sempre stata	lo è sempre stata
+401	PKP048	843.053	844.275	1.222	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	se:mpre sì sempre stata	se:mpre sì sempre stata	sempre sì sempre stata
+402	PKP048	844.539	845.81	1.271	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e mia ma:dre era così	e mia ma:dre era così	e mia madre era così
+403	PKP048	846.279	848.291	2.012	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	oh mia madre a quei te:mpi laura:	oh mia madre a quei te:mpi laura:	oh mia madre a quei tempi laura
+404	PKP048	848.83	854.349	5.519	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	21	mi metteva la la la l: la xx come si chiama la mamma tua la conosce la casa mia dove vivevo	mi metteva la la la l: la xx come si chiama la mamma tua la conosce la casa mia dove vivevo	mi metteva la la la l la xx come si chiama la mamma tua la conosce la casa mia dove vivevo
+405	PKP048	855.294	857.33	2.036	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	la tavola che si faceva x: il bucato	la tavola che si faceva x: il bucato	la tavola che si faceva x il bucato
+406	PKP048	857.33	858.19	0.86	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	quella di xx	quella di xx	quella di xx
+407	PKP048	858.575	864.3	5.725	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	22	e poi ci mandava a noi a raccogliere il muschio perché lì c'era già il mus[chio] x (in campa:gna), dentro i fo:ssi, così	e poi ci mandava a noi a raccogliere il muschio perché lì c'era già il mus[chio] x (in campa:gna), dentro i fo:ssi, così	e poi ci mandava a noi a raccogliere il muschio perché lì c'era già il muschio x in campagna dentro i fossi così
+408	PKP040	861.902	862.24	0.338	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e:h]	[e:h]	eh
+409	PKP048	864.772	868.124	3.352	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	poi con le pie::tre, il tutto ma era bra:va bra:va brava	poi con le pie::tre, il tutto ma era bra:va bra:va brava	poi con le pietre il tutto ma era brava brava brava
+410	PKP048	868.313	869.19	0.877	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	a quei tempi	a quei tempi	a quei tempi
+411	PKP040	880.023	881.078	1.055	True	0	0	0	0	0	0	False	False	True	False	False		0	0	0	4	(conta che è xx	(conta che è xx	conta che è xx
+412	PKP048	882.275	885.61	3.335	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	11	xx (giuliana) che s'è persa per strada lì non so perché (qua)	xx (giuliana) che s'è persa per strada lì non so perché (qua)	xx giuliana che s'è persa per strada lì non so perché qua
+413	PKP040	886.327	887.501	1.174	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	beh zia michela era brava	beh zia michela era brava	beh zia michela era brava
+414	PKP040	888.04	890.1	2.06	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	>quand'era ragazza< dipingeva le botti:glie	>quand'era ragazza< dipingeva le botti:glie	quand'era ragazza dipingeva le bottiglie
+415	PKP048	890.113	890.582	0.469	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	m::h	m::h	mh
+416	PKP040	891.952	893.631	1.679	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	DIPINGEVA LE BOTTIGLIE LAURA:	DIPINGEVA LE BOTTIGLIE LAURA:	dipingeva le bottiglie laura
+417	PKP048	893.856	894.981	1.125	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxx	xxxx	xxxx
+418	PKP048	898.747	900.362	1.615	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	na:sci con l'istinto	na:sci con l'istinto	nasci con l'istinto
+419	PKP040	900.539	901.865	1.326	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	no:: è che xx	no:: è che xx	no è che xx
+420	PKP048	902.487	904.15	1.663	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxxxxxxxxx	xxxxxxxxxxx	xxxxxxxxxxx
+421	PKP048	917.378	919.766	2.388	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	che se vedi quella scatola che deve regala:re	che se vedi quella scatola che deve regala:re	che se vedi quella scatola che deve regalare
+422	PKP048	922.4	925.797	3.397	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	14	>ho detto chi te l'ha da:ta< la sca:tola dice la merceri:a ho levato un pigiama:,	>ho detto chi te l'ha da:ta< la sca:tola dice la merceri:a ho levato un pigiama:,	ho detto chi te l'ha data la scatola dice la merceria ho levato un pigiama
+423	PKP041	925.983	926.376	0.393	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+424	PKP048	926.464	929.669	3.205	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	12	per dare (.) la sca:tola >metà dentro poi< con la ca:rta che co:pre	per dare {P} la sca:tola >metà dentro poi< con la ca:rta che co:pre	per dare {P} la scatola metà dentro poi con la carta che copre
+425	PKP048	929.691	930.978	1.287	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	poi c'è una bamboli:na:	poi c'è una bamboli:na:	poi c'è una bambolina
+426	PKP048	931.459	933.341	1.882	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	xxxxx quelle di cera:mica	xxxxx quelle di cera:mica	xxxxx quelle di ceramica
+427	PKP048	933.635	936.314	2.679	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	>ha detto< una vecchia bomboniera che conserva:vo:,	>ha detto< una vecchia bomboniera che conserva:vo:,	ha detto una vecchia bomboniera che conservavo
+428	PKP048	936.919	940.302	3.383	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	11	e l'ha messa assieme ai sei gioielli che ha fatto guarda laura:	e l'ha messa assieme ai sei gioielli che ha fatto guarda laura:	e l'ha messa assieme ai sei gioielli che ha fatto guarda laura
+429	PKP048	941.565	943.299	1.734	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	io riconosco quando uno è bravo	io riconosco quando uno è bravo	io riconosco quando uno è bravo
+430	PKP041	947.76	949.89	2.13	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ieri mi è uscito il ricordo che: m::h	ieri mi è uscito il ricordo che: m::h	ieri mi è uscito il ricordo che mh
+431	PKP041	951.41	953.756	2.346	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e:: duemilequattordici quindi quanti anni fa?	e:: duemilequattordici quindi quanti anni fa?	e duemilequattordici quindi quanti anni fa
+432	PKP040	954.638	955.067	0.429	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sei	sei	sei
+433	PKP040	955.797	956.502	0.705	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxx	xxxx	xxxx
+434	PKP041	956.76	957.047	0.287	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+435	PKP041	957.395	958.325	0.93	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	(fa venire l'invidia)	(fa venire l'invidia)	fa venire l'invidia
+436	PKP040	959.835	961.894	2.059	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	che il giorno dopo c'avevate una xxx	che il giorno dopo c'avevate una xxx	che il giorno dopo c'avevate una xxx
+437	PKP040	962.85	963.887	1.037	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e a te non andò bene	e a te non andò bene	e a te non andò bene
+438	PKP041	964.023	964.959	0.936	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	matema:tica	matema:tica	matematica
+439	PKP041	965.856	967.283	1.427	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	IL GIORNO DOPO O IL GIORNO STE:SSO?	IL GIORNO DOPO O IL GIORNO STE:SSO?	il giorno dopo o il giorno stesso
+440	PKP040	967.484	968.157	0.673	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	il giorno dopo	il giorno dopo	il giorno dopo
+441	PKP041	969.705	971.34	1.635	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	beh la matematica del biennio::	beh la matematica del biennio::	beh la matematica del biennio
+442	PKP040	971.346	971.606	0.26	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	oh	oh	oh
+443	PKP041	972.858	973.649	0.791	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	bella tosta	bella tosta	bella tosta
+444	PKP040	973.7	975.243	1.543	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	no >(mo io lo ricordo che aveva) tiz[iano<]	no >(mo io lo ricordo che aveva) tiz[iano<]	no mo io lo ricordo che aveva tiziano
+445	PKP041	974.956	978.82	3.864	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	16	[eh b]eh non è che la matema~ la professoressa del bienno era (anch[e quella) era] to[sta]	[eh b]eh non è che la matema~ la professoressa del bienno era (anch[e quella) era] to[sta]	eh beh non è che la matema~ la professoressa del bienno era anche quella era tosta
+446	PKP040	977.559	978.138	0.579	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e::h]	[e::h]	eh
+447	PKP040	978.413	979.041	0.628	True	0	0	0	0	0	0	False	False	False	False	True	445=0.407,448=0.168	0	0	0	1	[bra:v]a	[bra:v]a	brava
+448	PKP041	978.873	980.223	1.35	True	0	0	0	0	0	0	False	False	False	False	True	447=0.168,449=0.040	0	1	0	0	((ride))	{ride}	{ride}
+449	PKP040	980.183	982.064	1.881	True	0	0	0	0	0	0	False	False	False	False	True	448=0.040	0	0	0	6	xxxx miche(le) che (non) lo conosce:,	xxxx miche(le) che (non) lo conosce:,	xxxx michele che non lo conosce
+450	PKP040	982.138	984.124	1.986	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	e poi gli devo dire: (.) lo devi invitare:,	e poi gli devo dire: {P} lo devi invitare:,	e poi gli devo dire {P} lo devi invitare
+451	PKP048	986.316	987.702	1.386	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	poi fra poco è [xxx]	poi fra poco è [xxx]	poi fra poco è xxx
+452	PKP040	986.924	987.714	0.79	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[(a lubbiana)]	[(a lubbiana)]	a lubbiana
+453	PKP040	988.304	989.124	0.82	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e finia:mo	e finia:mo	e finiamo
+454	PKP048	989.349	990.18	0.831	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ovviame:nte	ovviame:nte	ovviamente
+455	PKP041	990.319	991.45	1.131	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e:::h [m:h]	e:::h [m:h]	eh mh
+456	PKP040	990.989	994.42	3.431	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	14	[l'ho detto] pure a quella della x:x ho detto >signora< poi quando finisce la pandemia	[l'ho detto] pure a quella della x:x ho detto >signora< poi quando finisce la pandemia	l'ho detto pure a quella della xx ho detto signora poi quando finisce la pandemia
+457	PKP040	994.96	996.359	1.399	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	il firmaco::pie ho detto	il firmaco::pie ho detto	il firmacopie ho detto
+458	PKP048	996.574	998.225	1.651	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	fra poco saran qua che (staran)	fra poco saran qua che (staran)	fra poco saran qua che staran
+459	PKP041	998.269	1000.864	2.595	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	sempre a le:cce e a ba:ri e a brindisi xxxxxx	sempre a le:cce e a ba:ri e a brindisi xxxxxx	sempre a lecce e a bari e a brindisi xxxxxx
+460	PKP039	1000.991	1002.24	1.249	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	sa della xxx?	sa della xxx?	sa della xxx
+461	PKP039	1003.87	1004.786	0.916	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ieri massimo	ieri massimo	ieri massimo
+462	PKP040	1005.353	1005.67	0.317	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh?	mh?	mh
+463	PKP040	1007.808	1008.69	0.882	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	come se lo sa massimo?	come se lo sa massimo?	come se lo sa massimo
+464	PKP039	1008.743	1009.497	0.754	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	marcella	marcella	marcella
+465	PKP040	1010.28	1010.715	0.435	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	a::h	a::h	ah
+466	PKP039	1010.752	1011.469	0.717	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xx::	xx::	xx
+467	PKP039	1011.725	1013.132	1.407	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e giampaolo non doveva (venire)	e giampaolo non doveva (venire)	e giampaolo non doveva venire
+468	PKP040	1015.86	1016.216	0.356	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x?	x?	x
+469	PKP041	1017.463	1022.49	5.027	True	0	0	0	0	0	0	False	False	False	False	False		1	0	3	17	eh la nonna ha detto l'(astate) ah m'è venuta un'ideona (per il) (.) il secret santa che devo fare ad elena	eh la nonna ha detto l'(astate) ah m'è venuta un'ideona (per il) {P} il secret santa che devo fare ad elena	eh la nonna ha detto l'astate ah m'è venuta un'ideona per il {P} il secret santa che devo fare ad elena
+470	PKP040	1023.218	1023.535	0.317	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+471	PKP040	1024.951	1025.997	1.046	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxxxx	xxxxxx	xxxxxx
+472	PKP041	1026.229	1027.438	1.209	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	devo fare una sca:tola	devo fare una sca:tola	devo fare una scatola
+473	PKP040	1027.468	1028.308	0.84	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	tanto non la (se[nti])	tanto non la (se[nti])	tanto non la senti
+474	PKP041	1027.993	1028.3	0.307	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[no]	[no]	no
+475	PKP041	1030.24	1034.226	3.986	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	13	devo fare siccome xxx dice che dev'essere divertente ma che conosce la: la person[a:]	devo fare siccome xxx dice che dev'essere divertente ma che conosce la: la person[a:]	devo fare siccome xxx dice che dev'essere divertente ma che conosce la la persona
+476	PKP040	1033.868	1034.45	0.582	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[cer]to	[cer]to	certo
+477	PKP041	1035.95	1040.55	4.6	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	15	devo fare una scatola (.) e invece di chiamarla scatola di pando:ra, devo chiamarla scatola [di:]	devo fare una scatola {P} e invece di chiamarla scatola di pando:ra, devo chiamarla scatola [di:]	devo fare una scatola {P} e invece di chiamarla scatola di pandora devo chiamarla scatola di
+478	PKP039	1040.255	1040.88	0.625	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[di pan]doro	[di pan]doro	di pandoro
+479	PKP041	1041.111	1042.575	1.464	True	0	0	0	0	0	0	False	False	False	False	True	480=0.757	0	0	0	4	ivando:ra qualcosa del genere	ivando:ra qualcosa del genere	ivandora qualcosa del genere
+480	PKP039	1041.818	1042.596	0.778	True	0	0	0	0	0	0	False	False	False	False	True	479=0.757	0	1	0	0	((ride))	{ride}	{ride}
+481	PKP041	1042.608	1043.28	0.672	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	che è un si:to,	che è un si:to,	che è un sito
+482	PKP041	1043.309	1043.99	0.681	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	dove marta:	dove marta:	dove marta
+483	PKP041	1044.019	1046.624	2.605	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	9	ha bagliato a co~ a:: s'è fatto un: un xxx	ha bagliato a co~ a:: s'è fatto un: un xxx	ha bagliato a co~ a s'è fatto un un xxx
+484	PKP040	1046.656	1047.387	0.731	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+485	PKP041	1047.486	1050.58	3.094	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	che ha comprato cento euro di (agnello) che (gli) le hanno rubato [vabbè]	che ha comprato cento euro di (agnello) che (gli) le hanno rubato [vabbè]	che ha comprato cento euro di agnello che gli le hanno rubato vabbè
+486	PKP040	1050.268	1051.57	1.302	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[x <a]m[o:::re>]	[x <a]m[o:::re>]	x amore
+487	PKP041	1050.76	1051.682	0.922	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[la devo chiamare cos]ì	[la devo chiamare cos]ì	la devo chiamare così
+488	PKP040	1051.916	1052.831	0.915	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<pecca:::[to]>	<pecca:::[to]>	peccato
+489	PKP041	1052.478	1054.851	2.373	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	[e poi devo] dire (perché solo) una scatola di pandora può	[e poi devo] dire (perché solo) una scatola di pandora può	e poi devo dire perché solo una scatola di pandora può
+490	PKP041	1055.398	1057.691	2.293	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e:: <contene:re una personalità>	e:: <contene:re una personalità>	e contenere una personalità
+491	PKP041	1058.079	1058.949	0.87	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	così importante	così importante	così importante
+492	PKP041	1058.949	1059.656	0.707	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	perché le:i	perché le:i	perché lei
+493	PKP041	1059.937	1061.57	1.633	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	una volta marco: stava::	una volta marco: stava::	una volta marco stava
+494	PKP041	1061.938	1064.586	2.648	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	9	vicino al ba:gno e sentì elena che di:~ che disse	vicino al ba:gno e sentì elena che di:~ che disse	vicino al bagno e sentì elena che di:~ che disse
+495	PKP041	1065.457	1066.621	1.164	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	no certo che: una::	no certo che: una::	no certo che una
+496	PKP041	1066.814	1068.421	1.607	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	una personalità come la mia::	una personalità come la mia::	una personalità come la mia
+497	PKP041	1068.502	1070.228	1.726	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	cioè ci stava: [xxxx]ndo	cioè ci stava: [xxxx]ndo	cioè ci stava xxxxndo
+498	PKP040	1069.07	1069.998	0.928	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[A:: HA HA]	[A:: HA HA]	a ha ha
+499	PKP040	1070.249	1071.349	1.1	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	stava incensando	stava incensando	stava incensando
+500	PKP041	1071.674	1073.067	1.393	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	poi dentro devo metterle	poi dentro devo metterle	poi dentro devo metterle
+501	PKP041	1074.3	1077.026	2.726	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	le:: due pillole per fare la ca:cca	le:: due pillole per fare la ca:cca	le due pillole per fare la cacca
+502	PKP040	1077.026	1077.895	0.869	True	0	0	0	0	0	0	False	False	False	False	True	503=0.658	0	1	0	0	((ride))	{ride}	{ride}
+503	PKP041	1077.088	1077.746	0.658	True	0	0	0	0	0	0	False	False	False	False	True	502=0.658	0	0	0	1	perché	perché	perché
+504	PKP041	1078.46	1080.183	1.723	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	perché: c'ha [un po' di proble]:mi	perché: c'ha [un po' di proble]:mi	perché c'ha un po' di problemi
+505	PKP040	1078.975	1080.19	1.215	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	2	[è stitica] ((ride))	[è stitica] {ride}	è stitica {ride}
+506	PKP041	1081.01	1082.05	1.04	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	i pop co::rn	i pop co::rn	i pop corn
+507	PKP041	1082.075	1083.58	1.505	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	perché una volta fece una figura:ccia	perché una volta fece una figura:ccia	perché una volta fece una figuraccia
+508	PKP041	1083.58	1088.22	4.64	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	che sbagliò gru:ppo di whatsapp e scrisse nel guppo di whatsapp della persona di cui stava sparla[:ndo]	che sbagliò gru:ppo di whatsapp e scrisse nel guppo di whatsapp della persona di cui stava sparla[:ndo]	che sbagliò gruppo di whatsapp e scrisse nel guppo di whatsapp della persona di cui stava sparlando
+509	PKP040	1087.885	1088.949	1.064	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[U:::H] GESU':::	[U:::H] GESU':::	uh gesu'
+510	PKP041	1089.122	1092.5	3.378	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	e[: <mi vado a prendere] i pop co:rn così gl~ glieli butto in te:sta>	e[: <mi vado a prendere] i pop co:rn così gl~ glieli butto in te:sta>	e mi vado a prendere i pop corn così gl~ glieli butto in testa
+511	PKP040	1089.292	1090.108	0.816	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[xxx]	[xxx]	xxx
+512	PKP041	1092.5	1097.19	4.69	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	17	a vabbè devo mettere tante:: tante cosette così che: sono tutte le caratteristiche che ci fanno ridere	a vabbè devo mettere tante:: tante cosette così che: sono tutte le caratteristiche che ci fanno ridere	a vabbè devo mettere tante tante cosette così che sono tutte le caratteristiche che ci fanno ridere
+513	PKP041	1098.051	1098.631	0.58	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	che po:i	che po:i	che poi
+514	PKP040	1098.65	1101.16	2.51	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e lo zainetto:: di:: [xxx que]llo amore	e lo zainetto:: di:: [xxx que]llo amore	e lo zainetto di xxx quello amore
+515	PKP041	1099.941	1100.606	0.665	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[e:::]	[e:::]	e
+516	PKP041	1102.161	1102.93	0.769	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:::h	e:::h	eh
+517	PKP041	1102.988	1108.187	5.199	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	20	ho avuto il compito più difficile perché: elena è quella con le aspettative più a:lte di tutti sul secret santa	ho avuto il compito più difficile perché: elena è quella con le aspettative più a:lte di tutti sul secret santa	ho avuto il compito più difficile perché elena è quella con le aspettative più alte di tutti sul secret santa
+518	PKP040	1110.7	1112.024	1.324	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	chissà a te cosa ti faranno	chissà a te cosa ti faranno	chissà a te cosa ti faranno
+519	PKP041	1112.663	1113.537	0.874	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	chissà chi mi ca:pita	chissà chi mi ca:pita	chissà chi mi capita
+520	PKP039	1124.705	1125.841	1.136	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	(l'han fatto prima loro)	(l'han fatto prima loro)	l'han fatto prima loro
+521	PKP039	1126.188	1127.682	1.494	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxxxxxxxxx	xxxxxxxxxxx	xxxxxxxxxxx
+522	PKP039	1127.79	1129.149	1.359	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	(c'ha provato) giulio dei xx	(c'ha provato) giulio dei xx	c'ha provato giulio dei xx
+523	PKP039	1129.624	1130.614	0.99	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	è crollato un mito	è crollato un mito	è crollato un mito
+524	PKP040	1130.854	1131.408	0.554	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+525	PKP039	1131.554	1132.344	0.79	True	0	0	0	0	0	0	False	False	False	False	True	526=0.590	0	1	0	0	((ride))	{ride}	{ride}
+526	PKP048	1131.584	1132.174	0.59	True	0	0	0	0	0	0	False	False	False	False	True	525=0.590	0	0	0	1	(a:nche)	(a:nche)	anche
+527	PKP048	1137.572	1139.601	2.029	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	paolo è xxxx a casa di tiziano:	paolo è xxxx a casa di tiziano:	paolo è xxxx a casa di tiziano
+528	PKP048	1142.511	1143.838	1.327	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	ha detto no~ non c'è	ha detto no~ non c'è	ha detto no~ non c'è
+529	PKP048	1143.989	1146.378	2.389	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	non c'è ve:rso di sconfiggere il coronavi:rus:	non c'è ve:rso di sconfiggere il coronavi:rus:	non c'è verso di sconfiggere il coronavirus
+530	PKP041	1146.778	1147.257	0.479	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(no:?)	(no:?)	no
+531	PKP048	1147.322	1150.435	3.113	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	ha detto quella vecchie:tta non so quale vecchie:tta che andava (pe:r) non lo so	ha detto quella vecchie:tta non so quale vecchie:tta che andava (pe:r) non lo so	ha detto quella vecchietta non so quale vecchietta che andava per non lo so
+532	PKP048	1150.813	1151.982	1.169	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	(ho detto) è morta pro:prio?	(ho detto) è morta pro:prio?	ho detto è morta proprio
+533	PKP040	1155.12	1155.431	0.311	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	boh	boh	boh
+534	PKP048	1156.561	1158.656	2.095	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	penso che non lo (prenoteranno) non lo s[o io]	penso che non lo (prenoteranno) non lo s[o io]	penso che non lo prenoteranno non lo so io
+535	PKP040	1158.273	1159.06	0.787	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[eh be:h] eh	[eh be:h] eh	eh beh eh
+536	PKP040	1160.683	1161.27	0.587	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	che dici?	che dici?	che dici
+537	PKP048	1172.482	1173.714	1.232	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	poi mi ha fatto vedere il figlio	poi mi ha fatto vedere il figlio	poi mi ha fatto vedere il figlio
+538	PKP048	1175.44	1178.04	2.6	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	io lo conosco quando vado quelle poche volte da sergio	io lo conosco quando vado quelle poche volte da sergio	io lo conosco quando vado quelle poche volte da sergio
+539	PKP048	1178.211	1179.536	1.325	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	c'è un gatto bianco e nero	c'è un gatto bianco e nero	c'è un gatto bianco e nero
+540	PKP040	1179.898	1180.208	0.31	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+541	PKP048	1180.538	1182.027	1.489	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	eh e io gli porto da mangiare:,	eh e io gli porto da mangiare:,	eh e io gli porto da mangiare
+542	PKP048	1182.617	1183.159	0.542	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	0	l'umido	l'umido	l'umido
+543	PKP048	1183.953	1184.967	1.014	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	le metto l'acqua	le metto l'acqua	le metto l'acqua
+544	PKP048	1185.925	1187.67	1.745	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e:: ha fatto il video ieri,	e:: ha fatto il video ieri,	e ha fatto il video ieri
+545	PKP048	1187.772	1188.799	1.027	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	o ieri quando (è entrata)	o ieri quando (è entrata)	o ieri quando è entrata
+546	PKP040	1188.84	1189.86	1.02	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	sì l'ab[biamo vi:sto]	sì l'ab[biamo vi:sto]	sì l'abbiamo visto
+547	PKP041	1189.13	1189.9	0.77	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	1	[l'abbiamo visto]	[l'abbiamo visto]	l'abbiamo visto
+548	PKP048	1189.9	1190.16	0.26	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+549	PKP048	1190.36	1192.56	2.2	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	che lei chiama:va e lui la seguiva:	che lei chiama:va e lui la seguiva:	che lei chiamava e lui la seguiva
+550	PKP048	1192.855	1195.445	2.59	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	12	con sto (vi~ ha fatto il video) di que:sto di que:llo e quell'al(tro)	con sto (vi~ ha fatto il video) di que:sto di que:llo e quell'al(tro)	con sto vi~ ha fatto il video di questo di quello e quell'altro
+551	PKP048	1195.975	1197.796	1.821	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	per forza l'ha consuma:to (il telefono)	per forza l'ha consuma:to (il telefono)	per forza l'ha consumato il telefono
+552	PKP048	1203.63	1206.47	2.84	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e tutti i pe:sci la fotografia con (to) il pe:sce	e tutti i pe:sci la fotografia con (to) il pe:sce	e tutti i pesci la fotografia con to il pesce
+553	PKP040	1206.47	1209.306	2.836	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	ma ma non parla' sempre se no non ci spicci più di mangiare	ma ma non parla' sempre se no non ci spicci più di mangiare	ma ma non parla' sempre se no non ci spicci più di mangiare
+554	PKP041	1209.96	1210.57	0.61	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+555	PKP048	1210.82	1211.867	1.047	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<io sono lenta>	<io sono lenta>	io sono lenta
+556	PKP048	1212.308	1213.136	0.828	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	poi tu quanto c'[hai (da fare)]	poi tu quanto c'[hai (da fare)]	poi tu quanto c'hai da fare
+557	PKP040	1212.767	1216.403	3.636	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	17	[(ti pa]re) che pure antonio è lento (.) ma non è che è lento (.) è che parla sempre	[(ti pa]re) che pure antonio è lento {P} ma non è che è lento {P} è che parla sempre	ti pare che pure antonio è lento {P} ma non è che è lento {P} è che parla sempre
+558	PKP040	1217.46	1219.061	1.601	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	4	e l'altra sera papà l'ha frega:to	e l'altra sera papà l'ha frega:to	e l'altra sera papà l'ha fregato
+559	PKP040	1219.185	1219.952	0.767	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+560	PKP041	1220.063	1220.42	0.357	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	perché?	perché?	perché
+561	PKP040	1220.42	1221.478	1.058	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	perché lui parla:va	perché lui parla:va	perché lui parlava
+562	PKP040	1221.774	1223.097	1.323	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e papà man[gia:va][:]	e papà man[gia:va][:]	e papà mangiava
+563	PKP041	1222.42	1222.892	0.472	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[a::h]	[a::h]	ah
+564	PKP041	1222.961	1225.604	2.643	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[xx]xx xxxx mangiava tutta quella roba lui	[xx]xx xxxx mangiava tutta quella roba lui	xxxx xxxx mangiava tutta quella roba lui
+565	PKP041	1226.997	1228.571	1.574	True	0	0	0	0	0	0	False	False	False	False	False		1	0	1	2	mo: (.) gliel'abbiamo fa:tto	mo: {P} gliel'abbiamo fa:tto	mo {P} gliel'abbiamo fatto
+566	PKP041	1229.939	1231.605	1.666	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e:: nel duemila::: e	e:: nel duemila::: e	e nel duemila e
+567	PKP040	1231.917	1232.605	0.688	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ven[tuno]	ven[tuno]	ventuno
+568	PKP041	1232.186	1233.586	1.4	True	0	0	0	0	0	0	False	False	False	False	True	567=0.419,569=0.515	0	0	0	1	[quaranta]:::sette	[quaranta]:::sette	quarantasette
+569	PKP040	1233.071	1233.689	0.618	True	0	0	0	0	0	0	False	False	False	False	True	568=0.515	0	1	0	0	((ride))	{ride}	{ride}
+570	PKP041	1237.43	1238.725	1.295	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	io avrò quarantott'anni	io avrò quarantott'anni	io avrò quarantott'anni
+571	PKP040	1238.762	1240.423	1.661	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	xx::: io non ci sarò::	xx::: io non ci sarò::	xx io non ci sarò
+572	PKP041	1240.987	1241.855	0.868	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	è xx	è xx	è xx
+573	PKP041	1242.876	1243.821	0.945	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	quanto ci passiamo?	quanto ci passiamo?	quanto ci passiamo
+574	PKP040	1244.773	1245.36	0.587	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	trentadue	trentadue	trentadue
+575	PKP041	1252.163	1253.354	1.191	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	trentadue a:[nni avrai?]	trentadue a:[nni avrai?]	trentadue anni avrai
+576	PKP040	1252.813	1253.729	0.916	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[x:x]x	[x:x]x	xxx
+577	PKP040	1254.016	1254.49	0.474	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x:	x:	x
+578	PKP040	1255.193	1255.49	0.297	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x	x	x
+579	PKP041	1261.59	1262.316	0.726	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	°(per il) xx?°	°(per il) xx?°	per il xx
+580	PKP039	1264.238	1269.447	5.209	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	13	pomeriggio mi metto nel le:tto (.) con la coper:ta (.) con xxx il materasso caldo	pomeriggio mi metto nel le:tto {P} con la coper:ta {P} con xxx il materasso caldo	pomeriggio mi metto nel letto {P} con la coperta {P} con xxx il materasso caldo
+581	PKP041	1269.757	1271.372	1.615	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	e la candela non te l'accendi?	e la candela non te l'accendi?	e la candela non te l'accendi?
+582	PKP048	1271.589	1273.977	2.388	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	9	hai visto che bel regalo che t'ha fatto la s[uocera]	hai visto che bel regalo che t'ha fatto la s[uocera]	hai visto che bel regalo che t'ha fatto la suocera
+583	PKP039	1273.328	1275.359	2.031	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[xxxx] non ce sta (la candela)	[xxxx] non ce sta (la candela)	xxxx non ce sta la candela
+584	PKP041	1275.777	1276.575	0.798	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	che gli hai regalato?	che gli hai regalato?	che gli hai regalato
+585	PKP040	1276.76	1278.17	1.41	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	>xxxxxx (ha preso i fiori)<	>xxxxxx (ha preso i fiori)<	xxxxxx ha preso i fiori
+586	PKP048	1278.5	1280.553	2.053	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x[xxxxxxxxxxxxx]	x[xxxxxxxxxxxxx]	xxxxxxxxxxxxxx
+587	PKP040	1278.59	1281.038	2.448	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[xxx I:O  invece a tua ma]dre °uguale°	[xxx I:O invece a tua ma]dre °uguale°	xxx io invece a tua madre uguale
+588	PKP040	1281.86	1282.493	0.633	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(madun)	(madun)	madun
+589	PKP048	1282.881	1284.771	1.89	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	(paolo è andato a posare la ca~) matrimonia:le?	(paolo è andato a posare la ca~) matrimonia:le?	paolo è andato a posare la ca~ matrimoniale
+590	PKP041	1286.001	1287.154	1.153	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ma:mma stanotte	ma:mma stanotte	mamma stanotte
+591	PKP040	1287.41	1288.198	0.788	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	1	°ch'è successo°	°ch'è successo°	ch'è successo
+592	PKP041	1289.41	1291.902	2.492	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	la coperta mi:a s'era tol[ta da:::]	la coperta mi:a s'era tol[ta da:::]	la coperta mia s'era tolta da
+593	PKP040	1290.861	1291.913	1.052	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[u:::h]	[u:::h]	uh
+594	PKP041	1292.631	1294.824	2.193	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	da da da giù:: da di la::to::	da da da giù:: da di la::to::	da da da giù da di lato
+595	PKP040	1295.608	1296.632	1.024	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	da [xxx]	da [xxx]	da xxx
+596	PKP041	1295.72	1297.272	1.552	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[a un certo punto mi sono al]za:ta	[a un certo punto mi sono al]za:ta	a un certo punto mi sono alzata
+597	PKP041	1297.387	1299.38	1.993	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	mi so' alzata (.) e: ho rifatto il letto	mi so' alzata {P} e: ho rifatto il letto	mi so' alzata {P} e ho rifatto il letto
+598	PKP040	1299.411	1300.67	1.259	True	0	0	0	0	0	0	False	False	False	False	True	599=0.004	0	0	0	5	e giu:sto hai fatto bene	e giu:sto hai fatto bene	e giusto hai fatto bene
+599	PKP041	1300.666	1302.141	1.475	True	0	0	0	0	0	0	False	False	False	False	True	598=0.004	0	0	0	6	se no: non prendevo più sonno	se no: non prendevo più sonno	se no non prendevo più sonno
+600	PKP040	1303.188	1306.208	3.02	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	mo vediamo che se no gli faccio una prolunga così te lo ribbalto	mo vediamo che se no gli faccio una prolunga così te lo ribbalto	mo vediamo che se no gli faccio una prolunga così te lo ribbalto
+601	PKP041	1308.3	1309.455	1.155	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	no:: è che::	no:: è che::	no è che
+602	PKP041	1309.472	1310.75	1.278	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	son scomoda nel letto xxx	son scomoda nel letto xxx	son scomoda nel letto xxx
+603	PKP048	1310.755	1312.316	1.561	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	io ce n'ho una bianca:	io ce n'ho una bianca:	io ce n'ho una bianca
+604	PKP048	1313.01	1316.72	3.71	True	0	0	0	0	0	0	False	False	False	False	True	605=0.007	0	0	1	10	se tu c'hai: u:n sacchetto da: una piazza e: qualche cosa	se tu c'hai: u:n sacchetto da: una piazza e: qualche cosa	se tu c'hai: un sacchetto da una piazza e qualche cosa
+605	PKP040	1316.713	1318.95	2.237	True	0	0	0	0	0	0	False	False	False	False	True	604=0.007	1	0	1	7	e ma (.) mi tengo: cose che c'ho tutto	e ma {P} mi tengo: cose che c'ho tutto	e ma {P} mi tengo cose che c'ho tutto
+606	PKP040	1319.003	1320.82	1.817	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	2	c'ho piumo:ni, trapu:nte, (co[:~])	c'ho piumo:ni, trapu:nte, (co[:~])	c'ho piumoni trapunte co:~
+607	PKP041	1320.666	1321.185	0.519	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[gra]zie	[gra]zie	grazie
+608	PKP040	1321.776	1323.73	1.954	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	mo po(i) che andiamo a svuotare:::	mo po(i) che andiamo a svuotare:::	mo poi che andiamo a svuotare
+609	PKP040	1324.068	1325.852	1.784	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	bolo:gna altra roba arri[va]	bolo:gna altra roba arri[va]	bologna altra roba arriva
+610	PKP041	1325.595	1326.109	0.514	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[no:] no	[no:] no	no no
+611	PKP041	1326.287	1327.626	1.339	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	solo:: lenzuo:la:,	solo:: lenzuo:la:,	solo lenzuola
+612	PKP041	1327.89	1329.6	1.71	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[e: cope:]rte, piumo:ni,	[e: cope:]rte, piumo:ni,	e coperte piumoni
+613	PKP040	1327.928	1328.698	0.77	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e piumo:ni]	[e piumo:ni]	e piumoni
+614	PKP041	1329.657	1331.455	1.798	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	no: dico solo roba così ci sarà	no: dico solo roba così ci sarà	no dico solo roba così ci sarà
+615	PKP041	1332.261	1333.087	0.826	True	0	0	0	0	0	0	False	False	False	False	True	616=0.018	0	0	0	1	asciugama:ni,	asciugama:ni,	asciugamani
+616	PKP040	1333.069	1336.654	3.585	True	0	0	0	0	0	0	False	False	False	False	True	615=0.018	0	0	0	12	comunque fa ho pensato parliamo con mau:ra se possiamo lasciarle da le:i	comunque fa ho pensato parliamo con mau:ra se possiamo lasciarle da le:i	comunque fa ho pensato parliamo con maura se possiamo lasciarle da lei
+617	PKP040	1338.076	1342.13	4.054	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	qualcosa possiamo pure fa:re il pacchetto e mandare ha detto:::	qualcosa possiamo pure fa:re il pacchetto e mandare ha detto:::	qualcosa possiamo pure fare il pacchetto e mandare ha detto
+618	PKP040	1342.452	1343.94	1.488	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	giuseppe (so') quindici euro	giuseppe (so') quindici euro	giuseppe so' quindici euro
+619	PKP040	1344.05	1344.769	0.719	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	trenta chili	trenta chili	trenta chili
+620	PKP039	1346.06	1346.615	0.555	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	va bene	va bene	va bene
+621	PKP039	1346.87	1347.514	0.644	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	eh sì	eh sì	eh sì
+622	PKP048	1347.827	1349.399	1.572	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	per la xx[xx no:?]	per la xx[xx no:?]	per la xxxx no
+623	PKP039	1348.461	1349.411	0.95	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[xxxx]	[xxxx]	xxxx
+624	PKP040	1350.198	1352.68	2.482	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	[chiedere:mo anche vah se] telefoniamo già da qua	[chiedere:mo anche vah se] telefoniamo già da qua	chiederemo anche vah se telefoniamo già da qua
+625	PKP039	1350.21	1351.546	1.336	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[(un servizio) xxxx?]	[(un servizio) xxxx?]	un servizio xxxx
+626	PKP041	1359.11	1361.399	2.289	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	#ma sono stati quiddro xxx la crepa	#ma sono stati quiddro xxx la crepa	#ma sono stati quiddro xxx la crepa
+627	PKP041	1361.579	1363.85	2.271	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	4	ti ricordi la cre~ ((ride))	ti ricordi la cre~ {ride}	ti ricordi la cre~ {ride}
+628	PKP041	1363.959	1366.88	2.921	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	NO: NON QUELLA CHE SI FECE DA SOLA (eh vah) quella quando:::	NO: NON QUELLA CHE SI FECE DA SOLA (eh vah) quella quando:::	no non quella che si fece da sola eh vah quella quando
+629	PKP040	1366.926	1367.953	1.027	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	sbattuto la porta	sbattuto la porta	sbattuto la porta
+630	PKP041	1368.65	1373.2	4.55	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	16	eh no non sto un po' a ridere il (cagone) però (.) x quando certe volte xxx	eh no non sto un po' a ridere il (cagone) però {P} x quando certe volte xxx	eh no non sto un po' a ridere il cagone però {P} x quando certe volte xxx
+631	PKP040	1373.47	1373.993	0.523	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ma va:	ma va:	ma va
+632	PKP041	1374.27	1375.79	1.52	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e::h nel fondo sbagliato	e::h nel fondo sbagliato	eh nel fondo sbagliato
+633	PKP039	1375.795	1376.777	0.982	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	chi lo fece col trapano?	chi lo fece col trapano?	chi lo fece col trapano
+634	PKP041	1376.822	1377.485	0.663	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:::h	e:::h	eh
+635	PKP041	1377.508	1379.34	1.832	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	tipo: che poi l'hai riempito di::	tipo: che poi l'hai riempito di::	tipo che poi l'hai riempito di
+636	PKP041	1379.744	1380.51	0.766	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	di stucco	di stucco	di stucco
+637	PKP039	1380.652	1381.003	0.351	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x	x	x
+638	PKP039	1381.822	1382.904	1.082	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	che cosa stavano mettendo?	che cosa stavano mettendo?	che cosa stavano mettendo
+639	PKP041	1383.148	1384.319	1.171	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e:: il poggiate:sta	e:: il poggiate:sta	e il poggiatesta
+640	PKP040	1390.03	1391.417	1.387	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	quello glielo possiamo pur lasci[a:re]	quello glielo possiamo pur lasci[a:re]	quello glielo possiamo pur lasciare
+641	PKP041	1391.15	1392.182	1.032	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	2	[(c'è un po'][di verdura?)]	[(c'è un po'][di verdura?)]	c'è un po'di verdura
+642	PKP040	1391.488	1393.35	1.862	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[prendiamo solam]ente i:::	[prendiamo solam]ente i:::	prendiamo solamente i
+643	PKP041	1394.384	1395.42	1.036	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sì: c[erto]	sì: c[erto]	sì certo
+644	PKP040	1394.769	1397.177	2.408	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	[xxx] e: l'asta gliela lasciamo	[xxx] e: l'asta gliela lasciamo	xxx e l'asta gliela lasciamo
+645	PKP040	1402.599	1403.444	0.845	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	deve passare:	deve passare:	deve passare
+646	PKP040	1403.876	1404.576	0.7	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	massimo	massimo	massimo
+647	PKP039	1405.091	1407.73	2.639	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	ma tanto se gli lasci qualche cosa lui te lo farà pesare come	ma tanto se gli lasci qualche cosa lui te lo farà pesare come	ma tanto se gli lasci qualche cosa lui te lo farà pesare come
+648	PKP039	1408.265	1410.259	1.994	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	se: gli stai lasciando un (i~) un impiccio	se: gli stai lasciando un (i~) un impiccio	se gli stai lasciando un i~ un impiccio
+649	PKP040	1410.917	1412.685	1.768	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	deve passare massimo alle tre emmezzo	deve passare massimo alle tre emmezzo	deve passare massimo alle tre emmezzo
+650	PKP048	1413.146	1413.936	0.79	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	(cosa dev[e fare?)]	(cosa dev[e fare?)]	cosa deve fare
+651	PKP040	1413.536	1417.966	4.43	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	[che aveva] no: che aveva messo la (ma:dre) una lotteri:a con tutti i prodotti:	[che aveva] no: che aveva messo la (ma:dre) una lotteri:a con tutti i prodotti:	che aveva no che aveva messo la madre una lotteria con tutti i prodotti
+652	PKP040	1418.436	1419.46	1.024	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	del:::	del:::	del
+653	PKP040	1420.05	1420.733	0.683	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(bust)	(bust)	bust
+654	PKP040	1421.988	1423.699	1.711	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e:: un biglietto due e:uro	e:: un biglietto due e:uro	e un biglietto due euro
+655	PKP040	1424.836	1427.43	2.594	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	un biglietto tre e:uro due biglietti cinque euro	un biglietto tre e:uro due biglietti cinque euro	un biglietto tre euro due biglietti cinque euro
+656	PKP041	1427.593	1427.973	0.38	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	mh	mh	mh
+657	PKP040	1428.668	1430.96	2.292	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	allora ho detto guarda io non com[pro xxx]	allora ho detto guarda io non com[pro xxx]	allora ho detto guarda io non compro xxx
+658	PKP041	1430.126	1430.976	0.85	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[che affaro:ne]	[che affaro:ne]	che affarone
+659	PKP040	1431.052	1432.79	1.738	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	però: ho detto un biglietto te lo compro	però: ho detto un biglietto te lo compro	però ho detto un biglietto te lo compro
+660	PKP040	1433.66	1435.205	1.545	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e quindi passa alle tre e mezzo	e quindi passa alle tre e mezzo	e quindi passa alle tre e mezzo
+661	PKP040	1435.452	1436.56	1.108	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	(mi lass) [xxx]	(mi lass) [xxx]	mi lass xxx
+662	PKP048	1436.191	1439.582	3.391	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	11	[io perché] non c'ho so:ldi se no potevo [(poi) dare un contributo anch'io]	[io perché] non c'ho so:ldi se no potevo [(poi) dare un contributo anch'io]	io perché non c'ho soldi se no potevo poi dare un contributo anch'io
+663	PKP041	1437.95	1439.525	1.575	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[no: ma prendi xxx]	[no: ma prendi xxx]	no ma prendi xxx
+664	PKP048	1442.96	1444.532	1.572	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	una volta vince[vo se:mpre]	una volta vince[vo se:mpre]	una volta vincevo sempre
+665	PKP040	1443.73	1444.972	1.242	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[(la collana) è mi]a no?	[(la collana) è mi]a no?	la collana è mia no
+666	PKP041	1445.026	1445.909	0.883	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	no: questa è mia	no: questa è mia	no questa è mia
+667	PKP040	1446.372	1447.422	1.05	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	per che cos'è (allo[ra)?]	per che cos'è (allo[ra)?]	per che cos'è allora
+668	PKP041	1447.172	1447.956	0.784	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[no for]se è tua	[no for]se è tua	no forse è tua
+669	PKP040	1447.986	1448.68	0.694	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	°è mi:a:°	°è mi:a:°	è mia
+670	PKP040	1448.738	1451.2	2.462	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	la regalai: ai:: venticinque anni di >matrimonio<	la regalai: ai:: venticinque anni di >matrimonio<	la regalai ai venticinque anni di matrimonio
+671	PKP040	1451.227	1451.922	0.695	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	a me e a papà	a me e a papà	a me e a papà
+672	PKP041	1452.664	1453.07	0.406	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ma chi?	ma chi?	ma chi
+673	PKP040	1453.482	1454.396	0.914	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	zia mariella chi	zia mariella chi	zia mariella chi
+674	PKP040	1455.044	1456.401	1.357	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	#a papà (lu) bracciale[:tto]	#a papà (lu) bracciale[:tto]	#a papà lu braccialetto
+675	PKP041	1455.935	1457.152	1.217	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[°ma che stai] dic[e:ndo?°]	[°ma che stai] dic[e:ndo?°]	ma che stai dicendo
+676	PKP039	1456.667	1457.633	0.966	True	0	0	0	0	0	0	False	False	False	False	True	675+677=0.004	0	0	0	4	[a me il brac][cialetto?]	[a me il brac][cialetto?]	a me il braccialetto
+677	PKP040	1457.148	1457.635	0.487	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[sì::]	[sì::]	sì
+678	PKP039	1457.66	1458.47	0.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxxxx	xxxxx	xxxxx
+679	PKP040	1458.47	1460.69	2.22	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	11	a lei (.) a lui il braccialetto e a me la collani[na]	a lei {P} a lui il braccialetto e a me la collani[na]	a lei {P} a lui il braccialetto e a me la collanina
+680	PKP041	1460.518	1463.268	2.75	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	12	[ma io] c'ho sia un braccialetto di oro che una collanina di o[ro]	[ma io] c'ho sia un braccialetto di oro che una collanina di o[ro]	ma io c'ho sia un braccialetto di oro che una collanina di oro
+681	PKP040	1463.058	1465.159	2.101	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[eh] forse:: che sono quelli:	[eh] forse:: che sono quelli:	eh forse che sono quelli
+682	PKP048	1466.89	1468.52	1.63	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	pure il bracciale xx [la zia,]	pure il bracciale xx [la zia,]	pure il bracciale xx la zia
+683	PKP039	1467.932	1470.03	2.098	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	[anzi adesso che] lo vedo mi sembra che sia proprio il mio	[anzi adesso che] lo vedo mi sembra che sia proprio il mio	anzi adesso che lo vedo mi sembra che sia proprio il mio
+684	PKP041	1470.405	1470.766	0.361	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	veh	veh	veh
+685	PKP040	1472.33	1472.754	0.424	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x[x]	x[x]	xx
+686	PKP041	1472.54	1474.39	1.85	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	[tu non] te li me:tti i: gioielli ma	[tu non] te li me:tti i: gioielli ma	tu non te li metti i gioielli ma
+687	PKP040	1474.437	1475.063	0.626	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	°infatti sì°	°infatti sì°	infatti sì
+688	PKP048	1475.24	1478.71	3.47	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	per la zia pure i braccialetti [xxx] il braccialetto di sergio	per la zia pure i braccialetti [xxx] il braccialetto di sergio	per la zia pure i braccialetti xxx il braccialetto di sergio
+689	PKP040	1476.616	1477.57	0.954	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[xxxx]	[xxxx]	xxxx
+690	PKP048	1479.228	1482.175	2.947	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	9	e l'ha porta:to a far allarga:re per ste:fano, fare la	e l'ha porta:to a far allarga:re per ste:fano, fare la	e l'ha portato a far allargare per stefano fare la
+691	PKP048	1482.366	1484.27	1.904	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	là dove sei andata tu [(hanno spiegato)]	là dove sei andata tu [(hanno spiegato)]	là dove sei andata tu hanno spiegato
+692	PKP040	1483.426	1486.723	3.297	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[e:h ma: in]fatti è garba:to [(come) xxxxxxx]	[e:h ma: in]fatti è garba:to [(come) xxxxxxx]	eh ma infatti è garbato come xxxxxxx
+693	PKP048	1485.299	1487.22	1.921	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	[(un po' ma:) (.) (hai fa]tto tre?)	[(un po' ma:) {P} (hai fa]tto tre?)	un po' ma {P} hai fatto tre
+694	PKP048	1487.564	1489.51	1.946	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	(deve anda:re con le cose [sue) xxx]	(deve anda:re con le cose [sue) xxx]	deve andare con le cose sue xxx
+695	PKP040	1488.742	1489.49	0.748	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[(eh andrà da lei,)]	[(eh andrà da lei,)]	eh andrà da lei
+696	PKP048	1492.09	1493.05	0.96	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	(ma la fasc::)	(ma la fasc::)	ma la fasc
+697	PKP040	1494.19	1495.85	1.66	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	parcheggiare in ce:ntro, fa:re,	parcheggiare in ce:ntro, fa:re,	parcheggiare in centro fare
+698	PKP040	1495.892	1496.436	0.544	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m::h]	[m::h]	mh
+699	PKP048	1495.892	1496.436	0.544	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[m::h]	[m::h]	mh
+700	PKP040	1496.499	1497.683	1.184	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	m'han dato io:: il xx	m'han dato io:: il xx	m'han dato io il xx
+701	PKP048	1498.269	1500.52	2.251	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	6	a::h m'ha detto quando (a) sono andati dall'oculi:sta	a::h m'ha detto quando (a) sono andati dall'oculi:sta	ah m'ha detto quando a sono andati dall'oculi:sta
+702	PKP041	1500.937	1501.77	0.833	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	a:::h può essere	a:::h può essere	ah può essere
+703	PKP048	1501.784	1503.75	1.966	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	hanno fatto (.) messo la macchina in un garage	hanno fatto {P} messo la macchina in un garage	hanno fatto {P} messo la macchina in un garage
+704	PKP040	1504.807	1505.656	0.849	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°(figu:rati)°	°(figu:rati)°	figurati
+705	PKP040	1507.6	1509.22	1.62	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ma lei me la poteva pure di:re no?	ma lei me la poteva pure di:re no?	ma lei me la poteva pure dire no
+706	PKP040	1509.264	1513.653	4.389	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	15	t'accompagna~ beh che: qua~ a quante volte va:do ve:ngo va:do e una volta di più che dev'e:ssere?	t'accompagna~ beh che: qua~ a quante volte va:do ve:ngo va:do e una volta di più che dev'e:ssere?	t'accompagna~ beh che qua~ a quante volte vado vengo vado e una volta di più che dev'e:ssere?
+707	PKP040	1514.583	1514.848	0.265	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+708	PKP040	1515.11	1516.881	1.771	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	glielo devo dire (io) e zi' scusa e:h	glielo devo dire (io) e zi' scusa e:h	glielo devo dire io e zi' scusa eh
+709	PKP040	1519.12	1520.83	1.71	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	prima quante volte uscivo per laura	prima quante volte uscivo per laura	prima quante volte uscivo per laura
+710	PKP040	1520.966	1524.111	3.145	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	portala di qua:, prendila di là:, a me non non non mi co:sta molto	portala di qua:, prendila di là:, a me non non non mi co:sta molto	portala di qua prendila di là a me non non non mi costa molto
+711	PKP041	1525.373	1525.87	0.497	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e mo	e mo	e mo
+712	PKP040	1526.925	1527.863	0.938	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	e mo niente più	e mo niente più	e mo niente più
+713	PKP048	1529.259	1531.464	2.205	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e mo datti una regolata anche a te a uscire	e mo datti una regolata anche a te a uscire	e mo datti una regolata anche a te a uscire
+714	PKP039	1533.106	1533.501	0.395	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh	eh	eh
+715	PKP048	1536.658	1537.945	1.287	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	visto che fai le::	visto che fai le::	visto che fai le
+716	PKP040	1538.136	1538.798	0.662	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xx	xx	xx
+717	???	1539.771	1541.185	1.414	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((telegiornale))	{telegiornale}	{telegiornale}
+718	PKP040	1541.292	1542.28	0.988	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	°ah a ginosa°	°ah a ginosa°	ah a ginosa
+719	PKP040	1542.64	1543.27	0.63	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°(cambia)°	°(cambia)°	cambia
+720	PKP040	1544.85	1546.704	1.854	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	(a)bbiamo:: i mandarini buonissimi,	(a)bbiamo:: i mandarini buonissimi,	abbiamo i mandarini buonissimi
+721	PKP039	1555.452	1556.789	1.337	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	guarda OHI >GGIOVANE::<	guarda OHI >GGIOVANE::<	guarda ohi ggiovane
+722	PKP039	1557.025	1557.712	0.687	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	°ecco qui°	°ecco qui°	ecco qui
+723	PKP040	1557.713	1558.911	1.198	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	e::h giovane sì	e::h giovane sì	eh giovane sì
+724	PKP041	1559.645	1560.172	0.527	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+725	PKP041	1560.533	1562.36	1.827	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	stava guar[dando ancora xxx]	stava guar[dando ancora xxx]	stava guardando ancora xxx
+726	PKP048	1560.831	1562.555	1.724	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[<ma:mma che ba:rba che] s~>	[<ma:mma che ba:rba che] s~>	mamma che barba che s~
+727	PKP048	1562.838	1564.432	1.594	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	ma non si guarda allo specchio?	ma non si guarda allo specchio?	ma non si guarda allo specchio
+728	PKP048	1565.4	1566.856	1.456	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	come quando vedo (che cha:rly)	come quando vedo (che cha:rly)	come quando vedo che charly
+729	PKP048	1567.663	1571.823	4.16	True	0	0	0	0	0	0	False	False	False	False	False		3	0	1	9	un scienziato (.) com'è: (.) tutto (.) ah mamma mi sembra un giudeo	un scienziato {P} com'è: {P} tutto {P} ah mamma mi sembra un giudeo	un scienziato {P} com'è: {P} tutto {P} ah mamma mi sembra un giudeo
+730	PKP048	1573.468	1574.75	1.282	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	(por)ca miseria	(por)ca miseria	porca miseria
+731	PKP040	1575.374	1575.95	0.576	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	x dire:	x dire:	x dire
+732	PKP040	1576.46	1576.82	0.36	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	no	no	no
+733	PKP041	1578.947	1580.015	1.068	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	vabbé se (son pi:ccoli)	vabbé se (son pi:ccoli)	vabbé se son piccoli
+734	PKP040	1580.806	1582.304	1.498	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	°si può mangia:re xx°	°si può mangia:re xx°	si può mangiare xx
+735	PKP040	1582.64	1583.024	0.384	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xx?	xx?	xx
+736	PKP041	1584.145	1586.164	2.019	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	mh xxxx xx frutta	mh xxxx xx frutta	mh xxxx xx frutta
+737	PKP040	1587.649	1589.258	1.609	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	ehi:: che belli quei piccini	ehi:: che belli quei piccini	ehi che belli quei piccini
+738	PKP048	1589.558	1593.901	4.343	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	11	che be:lla quante (.) quante chicchette che ave[va fa:tto teso]:ro (.) (quelle) esaggera:te:	che be:lla quante {P} quante chicchette che ave[va fa:tto teso]:ro {P} (quelle) esaggera:te:	che bella quante {P} quante chicchette che aveva fatto tesoro {P} quelle esaggerate
+739	PKP041	1591.494	1592.363	0.869	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e:::h sì]	[e:::h sì]	eh sì
+740	PKP041	1594.504	1597.38	2.876	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	no: eh loro per tradizione così se li [fa:nno (andar] bene)	no: eh loro per tradizione così se li [fa:nno (andar] bene)	no eh loro per tradizione così se li fanno andar bene
+741	PKP048	1596.324	1596.982	0.658	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[eh lo so]	[eh lo so]	eh lo so
+742	PKP040	1597.81	1600.59	2.78	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	a::h mo ti devo fare vedere un video della figlia di (cos~)	a::h mo ti devo fare vedere un video della figlia di (cos~)	ah mo ti devo fare vedere un video della figlia di cos~
+743	PKP040	1600.669	1602.82	2.151	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	mo è vecchio quel video che lei canta:,	mo è vecchio quel video che lei canta:,	mo è vecchio quel video che lei canta
+744	PKP041	1604.7	1605.034	0.334	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x	x	x
+745	PKP039	1605.856	1607.239	1.383	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	quando vedemmo quel (mat[rimonio)]	quando vedemmo quel (mat[rimonio)]	quando vedemmo quel matrimonio
+746	PKP040	1606.692	1608.476	1.784	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	7	[che c'è la can]zone you make me feel	[che c'è la can]zone you make me feel	che c'è la canzone you make me feel
+747	PKP041	1608.609	1609.383	0.774	True	0	0	0	0	0	0	False	False	False	False	True	748=0.684	0	0	0	3	sì: per~ x	sì: per~ x	sì per~ x
+748	PKP040	1608.699	1610.45	1.751	True	0	0	0	0	0	0	False	False	False	False	True	747=0.684,749=0.379	0	1	0	0	((canta you make me feel))	{canta_you_make_me_feel}	{canta_you_make_me_feel}
+749	PKP041	1610.071	1612.18	2.109	True	0	0	0	0	0	0	False	False	False	False	True	748=0.379	0	0	0	6	quando la cantava normale era ve:cchio	quando la cantava normale era ve:cchio	quando la cantava normale era vecchio
+750	PKP041	1612.269	1614.5	2.231	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	7	però ora (.) la can[ta (.) aggiungen]do le parole	però ora {P} la can[ta {P} aggiungen]do le parole	però ora {P} la canta {P} aggiungendo le parole
+751	PKP039	1613.362	1613.984	0.622	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[(mh mh)]	[(mh mh)]	mh mh
+752	PKP040	1614.529	1616.876	2.347	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	NON VOGLIO ANDARE ALL'ASILO IO COSì [CAPISCO]	NON VOGLIO ANDARE ALL'ASILO IO COSì [CAPISCO]	non voglio andare ALL'ASILO io così capisco
+753	PKP041	1616.047	1618.89	2.843	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	8	[(mamma) io ho cap]ito: la signora ci porta all'asi[lo]	[(mamma) io ho cap]ito: la signora ci porta all'asi[lo]	mamma io ho capito la signora ci porta all'asilo
+754	PKP040	1618.693	1621.34	2.647	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	8	[no:] io invece ho capito NON VOGLIO ANDARE ALL'ASILO	[no:] io invece ho capito NON VOGLIO ANDARE ALL'ASILO	no io invece ho capito non voglio andare ALL'ASILO
+755	PKP040	1621.661	1626.4	4.739	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	12	siccome ha detto che ultimamente:: all'asilo:: (non) tanto che ci vuole anda[re:, xxx]	siccome ha detto che ultimamente:: all'asilo:: (non) tanto che ci vuole anda[re:, xxx]	siccome ha detto che ultimamente all'asilo:: non tanto che ci vuole andare xxx
+756	PKP041	1625.455	1627.873	2.418	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[no ma è proprio dal primo] giorno non è ultimam[ente]	[no ma è proprio dal primo] giorno non è ultimam[ente]	no ma è proprio dal primo giorno non è ultimamente
+757	PKP040	1627.549	1630.418	2.869	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	6	[sì NO]: DI QUEST'ANNO l'anno scorso andava vole[ntie:ri]	[sì NO]: DI QUEST'ANNO l'anno scorso andava vole[ntie:ri]	sì no di QUEST'ANNO l'anno scorso andava volentieri
+758	PKP041	1629.928	1630.883	0.955	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[mi spo]:s[(to)?]	[mi spo]:s[(to)?]	mi sposto
+759	PKP048	1630.64	1632.716	2.076	True	0	0	0	0	0	0	False	False	False	False	True	761=0.628,758+760=0.233	0	0	0	4	[x][xxxx a]ndare la te[levisione]	[x][xxxx a]ndare la te[levisione]	xxxxx andare la televisione
+760	PKP040	1630.65	1631.48	0.83	True	0	0	0	0	0	0	False	False	False	False	True	758+759=0.233	0	0	0	2	[sì] [spo:stat(e:)]	[sì] [spo:stat(e:)]	sì spostate
+761	PKP040	1632.088	1633.328	1.24	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[ti faccio veder 's]ta cosa	[ti faccio veder 's]ta cosa	ti faccio veder 'sta cosa
+762	PKP041	1633.573	1634.52	0.947	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	su instagram? x	su instagram? x	su instagram x
+763	PKP040	1635.233	1636.243	1.01	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	no su facebook	no su facebook	no su facebook
+764	PKP048	1636.263	1637.982	1.719	True	0	0	0	0	0	0	False	False	False	False	True	765=0.005	0	0	0	4	siamo troppo vicine lau::?	siamo troppo vicine lau::?	siamo troppo vicine lau
+765	PKP040	1637.977	1638.63	0.653	True	0	0	0	0	0	0	False	False	False	False	True	764=0.005	0	0	0	2	eh insomma	eh insomma	eh insomma
+766	PKP048	1638.686	1638.99	0.304	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xx	xx	xx
+767	PKP048	1639.334	1640.893	1.559	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	sì (sembra quello del) x uh	sì (sembra quello del) x uh	sì sembra quello del x uh
+768	PKP040	1642.27	1644.2	1.93	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	6	allora vediamo papà: (.) togli un attimo	allora vediamo papà: {P} togli un attimo	allora vediamo papà {P} togli un attimo
+769	PKP048	1644.219	1644.822	0.603	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	0	l'audio	l'audio	l'audio
+770	PKP048	1647.375	1648.96	1.585	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	xx che (ho) sonno però:	xx che (ho) sonno però:	xx che ho sonno però
+771	PKP040	1649.244	1651.082	1.838	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	°giulia (bianchini) vediamo°	°giulia (bianchini) vediamo°	giulia bianchini vediamo
+772	PKP040	1652.908	1655.21	2.302	True	0	0	0	0	0	0	False	False	False	False	True	773=0.266	0	0	0	12	qua se (se) si to:cca (le) le immagini che è un xx	qua se (se) si to:cca (le) le immagini che è un xx	qua se se si tocca le le immagini che è un xx
+773	???	1654.944	1660.18	5.236	True	0	0	0	0	0	0	False	False	False	False	True	772=0.266,774=0.631,775=0.565	0	1	0	0	((riproduzione video))	{riproduzione_video}	{riproduzione_video}
+774	PKP040	1655.334	1655.965	0.631	True	0	0	0	0	0	0	False	False	False	False	True	773=0.631	0	0	0	2	guarda ma:	guarda ma:	guarda ma
+775	PKP040	1659.605	1660.17	0.565	True	0	0	0	0	0	0	False	False	False	False	True	773=0.565	0	0	0	1	aspett~	aspett~	aspett~
+776	PKP040	1660.432	1660.9	0.468	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	aspetta	aspetta	aspetta
+777	PKP041	1660.94	1662.78	1.84	True	0	0	0	0	0	0	False	True	False	False	False		0	0	0	6	[ma non capirà nie:nte ma>] (no:)	[ma non capirà nie:nte ma>] (no:)	ma non capirà niente ma no
+778	PKP040	1660.95	1662.3	1.35	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[come si fa a ingrandir(lo)?]	[come si fa a ingrandir(lo)?]	come si fa a ingrandirlo
+779	PKP040	1663.15	1664.385	1.235	True	0	0	0	0	0	0	False	False	False	False	True	780=0.629	0	0	0	5	come si fa a ingrandirlo?	come si fa a ingrandirlo?	come si fa a ingrandirlo
+780	???	1663.756	1700.93	37.174	True	0	0	0	0	0	0	False	False	False	False	True	779=0.629,781=1.218,782=2.437,783=1.250,784=4.104,785=5.050,786=0.430	0	1	0	0	((riproduzione video))	{riproduzione_video}	{riproduzione_video}
+781	PKP040	1665.402	1666.62	1.218	True	0	0	0	0	0	0	False	False	False	False	True	780=1.218	0	0	0	1	s:::h	s:::h	sh
+782	PKP041	1676.66	1679.097	2.437	True	0	0	0	0	0	0	False	False	False	False	True	780=2.437	0	0	1	6	ha detto il signore sta portando all'asilo	ha detto il signore sta portando all'asilo	ha detto il signore sta portando all'asilo
+783	PKP040	1684.81	1686.06	1.25	True	0	0	0	0	0	0	False	False	False	False	True	780=1.250	0	0	0	3	(sentila) che canta	(sentila) che canta	sentila che canta
+784	PKP040	1686.38	1690.484	4.104	True	0	0	0	0	0	0	False	False	False	False	True	780=4.104	0	1	1	14	LEI CANTA IN INGLESE E LEI FA NO NO NO NO ALL'ASILO NO NO NO ((ride))	LEI CANTA IN INGLESE E LEI FA NO NO NO NO ALL'ASILO NO NO NO {ride}	lei canta in inglese e lei fa no no no no ALL'ASILO no no no {ride}
+785	PKP048	1693.08	1698.13	5.05	True	0	0	0	0	0	0	False	False	False	False	True	780=5.050	1	0	0	20	no ha detto che per natale voleva venire a (bari) ma (.) di sti tempi non lo so se potrà venire	no ha detto che per natale voleva venire a (bari) ma {P} di sti tempi non lo so se potrà venire	no ha detto che per natale voleva venire a bari ma {P} di sti tempi non lo so se potrà venire
+786	PKP041	1700.5	1701.86	1.36	True	0	0	0	0	0	0	False	False	False	False	True	780=0.430	0	0	0	4	(che) paglia:ccia che è	(che) paglia:ccia che è	che pagliaccia che è
+787	???	1701.863	1737.416	35.553	True	0	0	0	0	0	0	False	False	False	False	True	788=0.961,789=0.997,790=0.815,793=2.633,796=1.322,791+792=1.083,794+795=1.178,797+798=0.551	0	1	0	0	((riproduzione video))	{riproduzione_video}	{riproduzione_video}
+788	PKP041	1705.32	1706.281	0.961	True	0	0	0	0	0	0	False	False	False	False	True	787=0.961	0	0	0	2	vedila vedila	vedila vedila	vedila vedila
+789	PKP040	1712.172	1713.169	0.997	True	0	0	0	0	0	0	False	False	False	False	True	787=0.997	0	0	0	1	°paglia:cc(ia)°	°paglia:cc(ia)°	pagliaccia
+790	PKP048	1714.855	1715.67	0.815	True	0	0	0	0	0	0	False	False	False	False	True	787=0.815	0	0	0	2	<che ro:ba>	<che ro:ba>	che roba
+791	PKP040	1720.767	1721.85	1.083	True	0	0	0	0	0	0	False	False	False	False	True	787+792=1.083	0	1	0	0	((ride))	{ride}	{ride}
+792	PKP041	1720.767	1721.86	1.093	True	0	0	0	0	0	0	False	False	False	False	True	787+791=1.083	0	1	0	0	((ride))	{ride}	{ride}
+793	PKP040	1722.686	1725.319	2.633	True	0	0	0	0	0	0	False	False	False	False	True	787=2.633	0	0	0	5	i maschietti sempre più addormenta:ti	i maschietti sempre più addormenta:ti	i maschietti sempre più addormentati
+794	PKP040	1730.757	1733.21	2.453	True	0	0	0	0	0	0	False	False	False	False	False		0	2	0	4	((ride)) chi ci ricorda [laura?] ((ride))	{ride} chi ci ricorda [laura?] {ride}	{ride} chi ci ricorda laura {ride}
+795	PKP041	1732.032	1733.244	1.212	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[(anto:]nio?)	[(anto:]nio?)	antonio
+796	PKP040	1733.248	1734.57	1.322	True	0	0	0	0	0	0	False	False	False	False	True	787=1.322	0	0	0	4	NO ANTONIO E' BE:PPE	NO ANTONIO E' BE:PPE	no antonio e' beppe
+797	PKP040	1734.591	1735.823	1.232	True	0	0	0	0	0	0	False	False	False	False	True	787+798=0.551	0	1	0	0	((ride))	{ride}	{ride}
+798	PKP041	1735.013	1735.564	0.551	True	0	0	0	0	0	0	False	False	False	False	True	787+797=0.551	0	0	0	1	anche	anche	anche
+799	PKP040	1737.66	1739.37	1.71	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	<che ca:ro che è beppe>	<che ca:ro che è beppe>	che caro che è beppe
+800	PKP040	1739.37	1742.423	3.053	True	0	0	0	0	0	0	False	False	False	False	False		0	2	0	7	((ride)) doveva (e) alla fine ci ha rinuncia:to ((ride))	{ride} doveva (e) alla fine ci ha rinuncia:to {ride}	{ride} doveva e alla fine ci ha rinunciato {ride}
+801	PKP041	1742.661	1743.615	0.954	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	tutte fe:mmine poi	tutte fe:mmine poi	tutte femmine poi
+802	PKP040	1743.923	1744.746	0.823	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	<bello mi:o>	<bello mi:o>	bello mio
+803	PKP048	1747.81	1748.28	0.47	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	lo vuoi?	lo vuoi?	lo vuoi
+804	PKP040	1748.673	1749.09	0.417	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	1	°ce l'ho°	°ce l'ho°	ce l'ho
+805	PKP040	1750.311	1751.457	1.146	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°xxxxx?°	°xxxxx?°	xxxxx
+806	PKP048	1753.339	1754.49	1.151	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	ho mangiato troppo	ho mangiato troppo	ho mangiato troppo
+807	PKP041	1755.38	1756.061	0.681	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	pizza	pizza	pizza
+808	PKP039	1757.6	1758.53	0.93	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	hai mangiato veloce	hai mangiato veloce	hai mangiato veloce
+809	PKP040	1759.209	1761.129	1.92	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+810	PKP040	1761.414	1763.493	2.079	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	hai mangiato velo:ce °ha detto (paolo)°	hai mangiato velo:ce °ha detto (paolo)°	hai mangiato veloce ha detto paolo
+811	PKP040	1763.493	1764.657	1.164	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+812	PKP048	1764.98	1766.089	1.109	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	io l'altra sera:	io l'altra sera:	io l'altra sera
+813	PKP048	1767.67	1771.028	3.358	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	13	>avevo finito< di mangiare la fri:tta e tutto alle nove e un qua:rto	>avevo finito< di mangiare la fri:tta e tutto alle nove e un qua:rto	avevo finito di mangiare la fritta e tutto alle nove e un quarto
+814	PKP039	1771.294	1772.12	0.826	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	(a) che ora hai iniziato?	(a) che ora hai iniziato?	a che ora hai iniziato
+815	PKP040	1772.357	1773.96	1.603	True	0	0	0	0	0	0	False	False	False	False	True	816=1.192	0	1	0	0	((ride))	{ride}	{ride}
+816	PKP041	1772.768	1774.54	1.772	True	0	0	0	0	0	0	False	False	False	False	True	815=1.192,817=0.579	0	1	0	0	((ride))	{ride}	{ride}
+817	PKP040	1773.961	1774.972	1.011	True	0	0	0	0	0	0	False	False	False	False	True	816=0.579	0	0	0	4	alle sette e mezza	alle sette e mezza	alle sette e mezza
+818	PKP040	1774.972	1775.715	0.743	True	0	0	0	0	0	0	False	False	False	False	True	819=0.738	0	1	0	0	((ride))	{ride}	{ride}
+819	PKP048	1774.977	1776.223	1.246	True	0	0	0	0	0	0	False	False	False	False	True	818=0.738	0	0	1	4	x me l'ha portata lei	x me l'ha portata lei	x me l'ha portata lei
+820	PKP048	1776.445	1778.88	2.435	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	9	tanto (.) qua ho fa~ finito >quello che dovevo fare:<	tanto {P} qua ho fa~ finito >quello che dovevo fare:<	tanto {P} qua ho fa~ finito quello che dovevo fare
+821	PKP048	1779.96	1782.056	2.096	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	poi ho detto bo:h non so (quando) xx	poi ho detto bo:h non so (quando) xx	poi ho detto boh non so quando xx
+822	PKP048	1782.383	1784.92	2.537	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	beni:ssimo ho proprio mangiato be:ne (e tanto)	beni:ssimo ho proprio mangiato be:ne (e tanto)	benissimo ho proprio mangiato bene e tanto
+823	PKP040	1785.526	1787.603	2.077	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	O::H PURE A MIO MARITO è andata benissimo	O::H PURE A MIO MARITO è andata benissimo	oh pure a mio marito è andata benissimo
+824	PKP040	1787.989	1789.267	1.278	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	e (l')ha mangiato veloce	e (l')ha mangiato veloce	e l'ha mangiato veloce
+825	PKP039	1793.91	1795.229	1.319	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	tua figlia se l'era portata no?	tua figlia se l'era portata no?	tua figlia se l'era portata no
+826	PKP039	1796.582	1796.889	0.307	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	no	no	no
+827	PKP048	1796.938	1798.972	2.034	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	6	tu::: x a me l'ha portat[a le:i]	tu::: x a me l'ha portat[a le:i]	tu x a me l'ha portata lei
+828	PKP039	1798.37	1800.11	1.74	True	0	0	0	0	0	0	False	False	True	False	False		0	1	0	4	[devi li]tigare con me?) ((ride))	[devi li]tigare con me?) {ride}	devi litigare con me {ride}
+829	PKP040	1800.11	1801.74	1.63	True	0	0	0	0	0	0	False	False	False	False	True	830=0.720	0	1	0	0	((ride))	{ride}	{ride}
+830	PKP048	1801.02	1803.803	2.783	True	0	0	0	0	0	0	False	False	False	False	True	829=0.720	0	0	1	8	ma io te l'ho detto gra:zie mi stai vizia:ndo::	ma io te l'ho detto gra:zie mi stai vizia:ndo::	ma io te l'ho detto grazie mi stai viziando
+831	PKP048	1804.056	1805.01	0.954	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	lo ricono:sc[o]	lo ricono:sc[o]	lo riconosco
+832	PKP040	1804.91	1807.44	2.53	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	9	[e] pensa che a sua madre non gliel'ha manco porta[(ta)]	[e] pensa che a sua madre non gliel'ha manco porta[(ta)]	e pensa che a sua madre non gliel'ha manco portata
+833	PKP048	1807.255	1808.04	0.785	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[x]:: se?	[x]:: se?	x se
+834	PKP040	1808.248	1809.13	0.882	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	x: non [c'era]:	x: non [c'era]:	x non c'era:
+835	PKP039	1808.61	1809.067	0.457	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[x:]	[x:]	x
+836	PKP040	1809.13	1811.78	2.65	True	0	0	0	0	0	0	False	False	False	False	True	837=0.376,838=0.355	0	1	0	0	((ride))	{ride}	{ride}
+837	PKP039	1809.724	1810.1	0.376	True	0	0	0	0	0	0	False	False	False	False	True	836=0.376	0	0	0	1	(mh)	(mh)	mh
+838	PKP039	1810.773	1811.128	0.355	True	0	0	0	0	0	0	False	False	False	False	True	836=0.355	0	0	0	1	(mh)	(mh)	mh
+839	PKP048	1811.785	1814.843	3.058	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	non ce lo diciamo a nonna paola se no si offende no::	non ce lo diciamo a nonna paola se no si offende no::	non ce lo diciamo a nonna paola se no si offende no
+840	PKP040	1814.918	1816.261	1.343	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	ma non c'e:ra era chiuso	ma non c'e:ra era chiuso	ma non c'e:ra era chiuso
+841	PKP048	1818.63	1820.191	1.561	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	paola dove [ma:ngi::?]	paola dove [ma:ngi::?]	paola dove mangi
+842	PKP041	1819.265	1821.895	2.63	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	[m:h non si offe:nde] se xxx casa [xx la] zia	[m:h non si offe:nde] se xxx casa [xx la] zia	mh non si offende se xxx casa xx la zia
+843	PKP048	1821.005	1821.601	0.596	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[(senti)]	[(senti)]	senti
+844	PKP048	1822.198	1822.734	0.536	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	paolo:	paolo:	paolo
+845	PKP048	1822.901	1824.345	1.444	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	ormai è barzelletta:	ormai è barzelletta:	ormai è barzelletta
+846	PKP048	1824.528	1825.81	1.282	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	quando c'ho portato i fiori:,	quando c'ho portato i fiori:,	quando c'ho portato i fiori
+847	PKP048	1826.358	1827.8	1.442	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	paola dove ma:ngi::?	paola dove ma:ngi::?	paola dove mangi
+848	PKP048	1828.448	1829.77	1.322	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	vado su da fabri:zia	vado su da fabri:zia	vado su da fabrizia
+849	PKP048	1829.79	1831.6	1.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	vado su per stare con fabri:zia	vado su per stare con fabri:zia	vado su per stare con fabrizia
+850	PKP048	1831.6	1833.09	1.49	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	perché io non mica ma:ngio	perché io non mica ma:ngio	perché io non mica mangio
+851	PKP048	1833.158	1834.95	1.792	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	fosse per me non mangerei pro:prio	fosse per me non mangerei pro:prio	fosse per me non mangerei proprio
+852	PKP048	1834.965	1835.585	0.62	True	0	0	0	0	0	0	False	False	False	False	True	853=0.470	0	1	0	0	((ride))	{ride}	{ride}
+853	PKP040	1834.97	1835.44	0.47	True	0	0	0	0	0	0	False	False	False	False	True	852=0.470	0	0	0	2	no no	no no	no no
+854	PKP048	1835.6	1836.42	0.82	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ormai è::	ormai è::	ormai è
+855	PKP048	1837.123	1837.64	0.517	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°bella°	°bella°	bella
+856	PKP040	1845.31	1846.81	1.5	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	oh ma è tutto (english) questo (qua)	oh ma è tutto (english) questo (qua)	oh ma è tutto english questo qua
+857	PKP048	1846.83	1847.858	1.028	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	°mado:nna mia°	°mado:nna mia°	madonna mia
+858	PKP040	1849.485	1850.259	0.774	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:::h	e:::h	eh
+859	PKP048	1850.507	1852.182	1.675	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	è ancora vi:vo que:sto (cirillo)	è ancora vi:vo que:sto (cirillo)	è ancora vivo questo cirillo
+860	PKP040	1855.329	1857.31	1.981	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	ve:h quanti sono quelli che non giocano oggi?	ve:h quanti sono quelli che non giocano oggi?	veh quanti sono quelli che non giocano oggi
+861	PKP039	1859.664	1860.131	0.467	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xx	xx	xx
+862	PKP040	1860.412	1860.735	0.323	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	eh?	eh?	eh
+863	PKP040	1861.268	1861.93	0.662	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	uno solo:?	uno solo:?	uno solo
+864	PKP040	1862.074	1863.049	0.975	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	gli altri stanno bene?	gli altri stanno bene?	gli altri stanno bene
+865	PKP048	1865.196	1868.035	2.839	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	hanno fatto meno chia:sso per::: coso:	hanno fatto meno chia:sso per::: coso:	hanno fatto meno chiasso per coso
+866	PKP048	1868.56	1869.727	1.167	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	rispetto a marado:na	rispetto a marado:na	rispetto a maradona
+867	PKP040	1871.058	1871.507	0.449	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	beh ma	beh ma	beh ma
+868	PKP040	1872.837	1873.4	0.563	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	era proprio:	era proprio:	era proprio
+869	PKP040	1873.4	1874.6	1.2	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	5	a parte ch'è il suo sti:le	a parte ch'è il suo sti:le	a parte ch'è il suo stile
+870	PKP040	1874.6	1876.02	1.42	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	è una persona silenzio:sa	è una persona silenzio:sa	è una persona silenziosa
+871	PKP048	1876.068	1876.44	0.372	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	°e:h°	°e:h°	eh
+872	PKP041	1876.749	1879.254	2.505	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	sì ma gli hanno svaligiato ca:sa [durante i funerali]	sì ma gli hanno svaligiato ca:sa [durante i funerali]	sì ma gli hanno svaligiato casa durante i funerali
+873	PKP040	1878.126	1879.818	1.692	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[mado::: x (lo]so:)	[mado::: x (lo]so:)	mado x loso
+874	PKP048	1880.797	1882.296	1.499	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	5	purtroppo (.) la vita è così	purtroppo {P} la vita è così	purtroppo {P} la vita è così
+875	PKP048	1882.831	1883.792	0.961	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	approfittano no?	approfittano no?	approfittano no
+876	PKP040	1884.371	1886.163	1.792	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	xxx secondo me li prendono eh	xxx secondo me li prendono eh	xxx secondo me li prendono eh
+877	PKP048	1887.032	1887.608	0.576	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	perché?	perché?	perché
+878	PKP040	1890.555	1892.08	1.525	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	come si può da:i mamma	come si può da:i mamma	come si può dai mamma
+879	PKP040	1892.102	1893.63	1.528	True	0	0	1	0	0	0	False	False	False	False	False		0	0	0	9	che poi non è che hanno rubato un granché	che poi non è che hanno rubato un granché	che poi non è che hanno rubato un granché
+880	PKP040	1893.63	1895.633	2.003	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	ma speriamo non abbiano rubato cose::	ma speriamo non abbiano rubato cose::	ma speriamo non abbiano rubato cose
+881	PKP048	1895.986	1898.298	2.312	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	e::h [(ma infatti quelle cose) ecco] ap[punto]	e::h [(ma infatti quelle cose) ecco] ap[punto]	eh ma infatti quelle cose ecco appunto
+882	PKP040	1896.3	1897.665	1.365	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[affetti:ve dico no?]	[affetti:ve dico no?]	affettive dico no
+883	PKP039	1897.787	1898.36	0.573	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	0	[(l'orologio)]	[(l'orologio)]	l'orologio
+884	PKP040	1899.767	1900.34	0.573	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	sì ho le:tto	sì ho le:tto	sì ho letto
+885	PKP040	1900.34	1902.193	1.853	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	un orologio, cen[to e:uro,]	un orologio, cen[to e:uro,]	un orologio cento euro
+886	PKP048	1901.411	1903.43	2.019	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[cose sto:]:riche, cose:::	[cose sto:]:riche, cose:::	cose storiche cose
+887	PKP039	1903.505	1904.278	0.773	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	xxx	xxx	xxx
+888	PKP048	1906.31	1909.357	3.047	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	8	io c'ho portato il xx e il (giornale) [xxxx]	io c'ho portato il xx e il (giornale) [xxxx]	io c'ho portato il xx e il giornale xxxx
+889	PKP041	1908.45	1910.249	1.799	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	[(anche des)ca:lci]o c'ha il covid	[(anche des)ca:lci]o c'ha il covid	anche descalcio c'ha il covid
+890	PKP041	1910.264	1911.244	0.98	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	non il basket	non il basket	non il basket
+891	PKP040	1911.659	1912.41	0.751	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	x il bas[(ket)]	x il bas[(ket)]	x il basket
+892	PKP039	1912.139	1912.811	0.672	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[basket] xx	[basket] xx	basket xx
+893	PKP041	1913.62	1914.9	1.28	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	ah eh il calcio ta:nti però	ah eh il calcio ta:nti però	ah eh il calcio tanti però
+894	PKP039	1915.119	1915.613	0.494	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	cinque	cinque	cinque
+895	PKP048	1916.49	1920.337	3.847	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	ho portato anche a xxx ancora due euro xx per i giorna:li::	ho portato anche a xxx ancora due euro xx per i giorna:li::	ho portato anche a xxx ancora due euro xx per i giornali
+896	PKP048	1921.078	1922.825	1.747	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	e::: xxxxxx	e::: xxxxxx	e xxxxxx
+897	PKP048	1923.398	1925.13	1.732	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<gli speteguless de:l>	<gli speteguless de:l>	gli speteguless del
+898	PKP048	1925.348	1926.065	0.717	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	<trono::>	<trono::>	trono
+899	PKP048	1926.481	1927.424	0.943	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[<dei raga:zzi>]	[<dei raga:zzi>]	dei ragazzi
+900	PKP039	1926.507	1929.041	2.534	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	[ti sembra ti sembra] una notizia da darci ques[ta?]	[ti sembra ti sembra] una notizia da darci ques[ta?]	ti sembra ti sembra una notizia da darci questa
+901	PKP048	1928.839	1929.96	1.121	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[de]i raga:zzi	[de]i raga:zzi	dei ragazzi
+902	PKP048	1931.581	1936.162	4.581	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	11	eh (.) quello lì tutto ricciolino sembra tanto se~ (.) fesso è: fisioterapi:sta	eh {P} quello lì tutto ricciolino sembra tanto se~ {P} fesso è: fisioterapi:sta	eh {P} quello lì tutto ricciolino sembra tanto se~ {P} fesso è fisioterapista
+903	PKP040	1936.509	1936.763	0.254	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	ah	ah	ah
+904	PKP039	1936.991	1937.637	0.646	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x[x]	x[x]	xx
+905	PKP048	1937.319	1937.656	0.337	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[eh]	[eh]	eh
+906	PKP048	1939.212	1941.916	2.704	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	e invece:: davide quello del salento::	e invece:: davide quello del salento::	e invece davide quello del salento
+907	PKP048	1942.069	1943.725	1.656	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	è ris~ ristoratore (è)	è ris~ ristoratore (è)	è ris~ ristoratore è
+908	PKP048	1945.522	1946.749	1.227	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	la vedo xxxx	la vedo xxxx	la vedo xxxx
+909	PKP048	1947.69	1948.5	0.81	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	l'hai visto xx?	l'hai visto xx?	l'hai visto xx
+910	PKP041	1948.51	1950.1	1.59	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	no:nna non l'ho vi:sto	no:nna non l'ho vi:sto	nonna non l'ho visto
+911	PKP040	1950.13	1951.55	1.42	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sembra antonio	sembra antonio	sembra antonio
+912	PKP040	1952.81	1956.45	3.64	True	0	0	0	0	0	0	False	False	False	False	True	913=2.190	0	1	1	3	BEH IO L'HO DETTO ((ride))	BEH IO L'HO DETTO {ride}	beh io L'HO detto {ride}
+913	PKP048	1954.26	1956.509	2.249	True	0	0	0	0	0	0	False	False	False	False	True	912=2.190	0	1	0	0	((ride))	{ride}	{ride}
+914	PKP040	1956.59	1957.948	1.358	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	E BEN TI STA::	E BEN TI STA::	e ben ti sta
+915	PKP040	1958.068	1959.703	1.635	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+916	PKP048	1960.049	1960.697	0.648	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	e:cco	e:cco	ecco
+917	PKP041	1961.838	1963.11	1.272	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	quanto (vinuccio) t'ha dato	quanto (vinuccio) t'ha dato	quanto vinuccio t'ha dato
+918	PKP039	1963.229	1964.164	0.935	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	no è proprio così	no è proprio così	no è proprio così
+919	PKP041	1964.339	1965.21	0.871	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+920	PKP048	1966.02	1970.828	4.808	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	16	deve informarsi (e allora) c'ho portato il giorna:le [a zia mariella] mannaggia che non c'h(a) tempo di le::ggere::	deve informarsi (e allora) c'ho portato il giorna:le [a zia mariella] mannaggia che non c'h(a) tempo di le::ggere::	deve informarsi e allora c'ho portato il giornale a zia mariella mannaggia che non c'ha tempo di leggere
+921	PKP040	1967.979	1968.73	0.751	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[e::h sì]	[e::h sì]	eh sì
+922	PKP048	1970.828	1973.139	2.311	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	verame:n(te) io non so come fa a fa' tutte quelle co:se	verame:n(te) io non so come fa a fa' tutte quelle co:se	veramente io non so come fa a fa' tutte quelle cose
+923	PKP048	1973.94	1978.911	4.971	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	16	si sta facendo una maglietta per ca:sa (.) con lane che le erano rimaste un golfi:no così	si sta facendo una maglietta per ca:sa {P} con lane che le erano rimaste un golfi:no così	si sta facendo una maglietta per casa {P} con lane che le erano rimaste un golfino così
+924	PKP048	1979.17	1982.632	3.462	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	12	finisce le coperti:ne. fa li scarpe:tti, mamma mia io non lo so	finisce le coperti:ne. fa li scarpe:tti, mamma mia io non lo so	finisce le copertine fa li scarpetti mamma mia io non lo so
+925	PKP048	1984.95	1987.31	2.36	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	la casa che le sembra il negozio di (lili)	la casa che le sembra il negozio di (lili)	la casa che le sembra il negozio di lili
+926	PKP048	1990.335	1992.75	2.415	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	giu(sto) tu non sai chi è (lili) ma tua madre sa	giu(sto) tu non sai chi è (lili) ma tua madre sa	giusto tu non sai chi è lili ma tua madre sa
+927	PKP048	1993.111	1994.28	1.169	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	3	siamo andate sta[mattina ]	siamo andate sta[mattina]	siamo andate stamattina
+928	PKP040	1993.807	1994.28	0.473	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[ecco]	[ecco]	ecco
+929	PKP048	1994.545	1995.17	0.625	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((ride))	{ride}	{ride}
+930	PKP040	1997.142	1998.82	1.678	True	0	0	0	0	0	0	False	False	False	False	True	931=1.012	0	1	0	0	((canta you make me feel))	{canta_you_make_me_feel}	{canta_you_make_me_feel}
+931	PKP039	1997.226	1998.238	1.012	True	0	0	0	0	0	0	False	False	False	False	True	930=1.012	1	0	0	3	beh (.) sappiamo noi	beh {P} sappiamo noi	beh {P} sappiamo noi
+932	PKP040	2001.307	2003.38	2.073	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	5	adesso il caffè: (.) lo farai,	adesso il caffè: {P} lo farai,	adesso il caffè {P} lo farai
+933	PKP039	2003.654	2003.968	0.314	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	laura	laura	laura
+934	PKP040	2004.116	2004.998	0.882	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	1	tu ((ride))	tu {ride}	tu {ride}
+935	PKP040	2005.542	2008.85	3.308	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[O]:[:]:H TU	[O]:[:]:H TU	oh tu
+936	PKP039	2005.543	2005.97	0.427	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[anzi]	[anzi]	anzi
+937	PKP039	2006.351	2006.659	0.308	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[tu]	[tu]	tu
+938	PKP041	2008.851	2009.934	1.083	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	no: non vi conviene	no: non vi conviene	no non vi conviene
+939	PKP040	2010.037	2011.109	1.072	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	da::i:[::]	da::i:[::]	dai
+940	PKP039	2010.638	2011.853	1.215	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	[alla nonna] invece lo fai	[alla nonna] invece lo fai	alla nonna invece lo fai
+941	PKP040	2011.95	2013.077	1.127	True	0	0	0	0	0	0	False	False	False	False	True	942=0.299	0	0	0	3	x ccata sì	x ccata sì	x ccata sì
+942	PKP048	2012.778	2016.55	3.772	True	0	0	0	0	0	0	False	False	False	False	True	941=0.299,943=0.830	0	0	0	12	non so come facevamo la co:nta quando eravamo tutti m[essi in fi:la]	non so come facevamo la co:nta quando eravamo tutti m[essi in fi:la]	non so come facevamo la conta quando eravamo tutti messi in fila
+943	PKP040	2015.72	2016.952	1.232	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[a:h è ve:ro] dai	[a:h è ve:ro] dai	ah è vero dai
+944	PKP048	2017.051	2018.12	1.069	True	0	0	0	0	0	0	False	False	False	False	False		1	0	1	1	eh (.) com'[e:ra?]	eh {P} com'[e:ra?]	eh {P} com'e:ra?
+945	PKP040	2017.616	2018.466	0.85	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[parti da] te:	[parti da] te:	parti da te
+946	PKP048	2018.52	2020.242	1.722	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	quando andavamo a scuola no[:i:]	quando andavamo a scuola no[:i:]	quando andavamo a scuola noi
+947	PKP041	2019.809	2021.979	2.17	True	0	0	0	0	0	0	False	False	False	False	True	946=0.433,948=0.510	0	0	0	8	[ma es]cludi me e la nonna dalla conta:	[ma es]cludi me e la nonna dalla conta:	ma escludi me e la nonna dalla conta
+948	PKP040	2021.469	2022.82	1.351	True	0	0	0	0	0	0	False	False	False	False	True	947=0.510	0	1	0	2	((ride)) che escludi	{ride} che escludi	{ride} che escludi
+949	PKP040	2023.129	2024.392	1.263	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	una cosa [non la puoi fare]	una cosa [non la puoi fare]	una cosa non la puoi fare
+950	PKP048	2023.675	2025.566	1.891	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	[ai miei tempi] [quello e]ra paolo	[ai miei tempi] [quello e]ra paolo	ai miei tempi quello era paolo
+951	PKP041	2024.516	2024.88	0.364	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[no]	[no]	no
+952	PKP048	2026.125	2028.303	2.178	True	0	0	0	0	0	0	False	False	False	False	False		0	0	2	4	non c'era televisione non c'era niente	non c'era televisione non c'era niente	non c'era televisione non c'era niente
+953	PKP048	2029.019	2029.973	0.954	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	neanche i giornali	neanche i giornali	neanche i giornali
+954	PKP040	2030.041	2031.46	1.419	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	devi andare a farti la do::[ccia]	devi andare a farti la do::[ccia]	devi andare a farti la doccia
+955	PKP039	2031.234	2031.68	0.446	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[po:]i	[po:]i	poi
+956	PKP039	2032.015	2032.68	0.665	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	sor[se]	sor[se]	sorse
+957	PKP041	2032.181	2035.748	3.567	True	0	0	0	0	0	0	False	False	False	False	True	956=0.499,958=0.556,959=1.169	0	0	0	10	[oh no] xx selezione [il xx delle m]ie sopracciglia (santa)	[oh no] xx selezione [il xx delle m]ie sopracciglia (santa)	oh no xx selezione il xx delle mie sopracciglia santa
+958	PKP039	2033.6	2034.156	0.556	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	[di più]	[di più]	di più
+959	PKP040	2034.579	2037.111	2.532	True	0	0	0	0	0	0	False	False	False	False	True	957=1.169	0	1	0	0	((ride))	{ride}	{ride}
+960	PKP040	2037.23	2037.98	0.75	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	è perché tu:	è perché tu:	è perché tu
+961	PKP040	2038.53	2041.33	2.8	True	0	0	0	0	0	0	False	False	False	False	False		1	0	1	3	rei:teri capito (.) nel~ n[ell'erro]:re	rei:teri capito {P} nel~ n[ell'erro]:re	reiteri capito {P} nel~ nell'erro:re
+962	PKP041	2040.295	2040.827	0.532	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[x::]	[x::]	x
+963	PKP040	2043.715	2045.4	1.685	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	e questo me lo spiega(te)	e questo me lo spiega(te)	e questo me lo spiegate
+964	PKP048	2045.722	2047.93	2.208	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	a:h quanto mi piace questo qua:	a:h quanto mi piace questo qua:	ah quanto mi piace questo qua
+965	PKP048	2048.158	2050.17	2.012	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	5	quando cammina nel tappe:to laggi[ù]	quando cammina nel tappe:to laggi[ù]	quando cammina nel tappeto laggiù
+966	PKP040	2050.06	2052.189	2.129	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	7	[non] l'ho mai vi:sto chi è? i sofficini::	[non] l'ho mai vi:sto chi è? i sofficini::	non l'ho mai visto chi è i sofficini
+967	PKP048	2052.274	2053.369	1.095	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	non l'hai visto mai:?	non l'hai visto mai:?	non l'hai visto mai
+968	PKP040	2056.766	2057.111	0.345	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	no	no	no
+969	PKP040	2057.649	2058.8	1.151	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	è la prima volta che lo ve[do]	è la prima volta che lo ve[do]	è la prima volta che lo vedo
+970	PKP048	2058.62	2060.938	2.318	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	7	[eh] eh eh allora: sei indietro figlia	[eh] eh eh allora: sei indietro figlia	eh eh eh allora sei indietro figlia
+971	PKP040	2064.17	2064.533	0.363	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x	x	x
+972	PKP039	2064.706	2065.007	0.301	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	x	x	x
+973	PKP039	2065.281	2065.773	0.492	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	2	dove l'ha visto?	dove l'ha visto?	dove l'ha visto
+974	PKP041	2066.312	2066.825	0.513	True	0	0	0	0	0	0	False	False	False	False	True	975=0.002	0	0	0	1	eccolo	eccolo	eccolo
+975	PKP040	2066.823	2068.222	1.399	True	0	0	0	0	0	0	False	False	False	False	True	974=0.002	1	0	0	3	e:ccolo (.) alla televisione	e:ccolo {P} alla televisione	eccolo {P} alla televisione
+976	PKP048	2068.807	2072.947	4.14	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	14	dappertutto io adesso è un periodo alla sera quando mi vedo rosa:rio alle sei	dappertutto io adesso è un periodo alla sera quando mi vedo rosa:rio alle sei	dappertutto io adesso è un periodo alla sera quando mi vedo rosario alle sei
+977	PKP048	2073.332	2076.151	2.819	True	1	0	0	0	0	0	False	False	False	False	False		0	0	0	10	poi mi vedo: il: tele~  cioè sono che lavoro eh	poi mi vedo: il: tele~ cioè sono che lavoro eh	poi mi vedo il tele~ cioè sono che lavoro eh
+978	PKP048	2076.606	2077.463	0.857	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	sono seduta	sono seduta	sono seduta
+979	PKP048	2078.379	2081.499	3.12	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	e poi mi vedo il telegiornale s~ sempre su duemila:,	e poi mi vedo il telegiornale s~ sempre su duemila:,	e poi mi vedo il telegiornale s~ sempre su duemila
+980	PKP048	2081.684	2083.365	1.681	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	3	c'è pure questa pubblicità:,	c'è pure questa pubblicità:,	c'è pure questa pubblicità
+981	PKP048	2084.579	2087.288	2.709	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	dopo il telegiornale passo mi faccio la messa,	dopo il telegiornale passo mi faccio la messa,	dopo il telegiornale passo mi faccio la messa
+982	PKP040	2088.158	2088.896	0.738	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((tossisce))	{tossisce}	{tossisce}
+983	PKP048	2089.752	2091.323	1.571	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	cambiano sempre:::	cambiano sempre:::	cambiano sempre
+984	PKP048	2092.292	2093.112	0.82	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	cattedrale	cattedrale	cattedrale
+985	PKP040	2095.755	2097.06	1.305	True	0	0	0	0	0	0	False	False	False	False	True	986=0.070	0	1	0	0	((canticchia pubblicità))	{canticchia_pubblicità}	{canticchia_pubblicità}
+986	PKP048	2096.99	2098.62	1.63	True	0	0	0	0	0	0	False	False	False	False	True	985=0.070,987+988=0.520	0	0	0	4	ieri sera no x[xx]	ieri sera no x[xx]	ieri sera no xxx
+987	PKP040	2097.723	2098.857	1.134	True	0	0	0	0	0	0	False	False	False	False	True	986+988=0.520	0	1	0	0	((canticchia pubblicità))	{canticchia_pubblicità}	{canticchia_pubblicità}
+988	PKP039	2098.035	2098.555	0.52	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[>pi ri pi<]	[>pi ri pi<]	pi ri pi
+989	PKP048	2099.865	2102.045	2.18	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	avevo altro da fa:re ieri sera	avevo altro da fa:re ieri sera	avevo altro da fare ieri sera
+990	PKP041	2105.39	2105.831	0.441	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	(m)beh	(m)beh	mbeh
+991	PKP040	2106.42	2107.235	0.815	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	ba:sta dai	ba:sta dai	basta dai
+992	PKP040	2107.475	2108.53	1.055	True	0	0	0	0	0	0	False	False	False	False	False		0	0	1	4	caffè (io non c'ho voglia)	caffè (io non c'ho voglia)	caffè io non c'ho voglia
+993	PKP048	2109.069	2109.886	0.817	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	2	faccio i[o?]	faccio i[o?]	faccio io
+994	PKP040	2109.57	2111.03	1.46	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[xx]xxx questo (no: no:)	[xx]xxx questo (no: no:)	xxxxx questo no no
+995	PKP048	2113.065	2115.029	1.964	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	6	impara almeno a fare un caffè::	impara almeno a fare un caffè::	impara almeno a fare un caffè
+996	PKP041	2115.282	2117.22	1.938	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	10	lo so fa:re i caffè: è che non ho v[o:glia]	lo so fa:re i caffè: è che non ho v[o:glia]	lo so fare i caffè è che non ho voglia
+997	PKP040	2116.787	2119.66	2.873	True	0	0	0	0	0	0	False	False	False	False	False		2	0	0	8	[lei non ha] voglia (.) nonna (.) è molto: (evi[dente)]	[lei non ha] voglia {P} nonna {P} è molto: (evi[dente)]	lei non ha voglia {P} nonna {P} è molto evidente
+998	PKP039	2119.296	2120.23	0.934	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[e lo be]ve anche	[e lo be]ve anche	e lo beve anche
+999	PKP040	2120.438	2123.33	2.892	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	lo sa anche bere be:ne eh come lo beve bene lei:,	lo sa anche bere be:ne eh come lo beve bene lei:,	lo sa anche bere bene eh come lo beve bene lei
+1000	PKP048	2124.114	2126.43	2.316	True	0	0	0	0	0	0	False	False	False	False	False		1	0	0	8	beh laura con~ (.) son conte:nta beve il c[affè:]	beh laura con~ {P} son conte:nta beve il c[affè:]	beh laura con~ {P} son contenta beve il caffè
+1001	PKP039	2126.09	2126.72	0.63	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	[(sì pur][e io)]	[(sì pur][e io)]	sì pure io
+1002	PKP048	2126.43	2128.56	2.13	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	[rispe]tto a antonio: laura:	[rispe]tto a antonio: laura:	rispetto a antonio laura
+1003	PKP048	2132.503	2133.68	1.177	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	4	(mo su) zia lara:?	(mo su) zia lara:?	mo su zia lara
+1004	PKP048	2135.676	2139.231	3.555	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	9	<chissà chi ha vinto i cen[tomila] euro ieri sera:>	<chissà chi ha vinto i cen[tomila] euro ieri sera:>	chissà chi ha vinto i centomila euro ieri sera
+1005	PKP039	2137.14	2137.607	0.467	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	1	[OH]	[OH]	oh
+1006	PKP040	2140.718	2142.588	1.87	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	8	io non ho visto [perché non mi pia~]	io non ho visto [perché non mi pia~]	io non ho visto perché non mi pia~
+1007	PKP039	2141.519	2142.6	1.081	True	0	0	0	0	0	0	False	False	True	False	False		0	0	1	2	[(non m'importa niente]	[(non m'importa niente]	non m'importa niente
+1008	PKP048	2142.718	2143.89	1.172	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	3	<non vi pia:ce:?>	<non vi pia:ce:?>	non vi piace
+1009	PKP040	2162.758	2163.624	0.866	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((sbadiglia))	{sbadiglia}	{sbadiglia}
+1010	PKP039	2167.256	2169.679	2.423	True	0	0	0	0	0	0	False	False	False	False	False		0	1	0	0	((fischietta))	{fischietta}	{fischietta}
+1011	PKP041	2169.782	2171.9	2.118	True	0	0	0	0	0	0	False	False	False	False	False		0	0	0	11	VEH MA IO MI STO alzando che devo andare in bagno	VEH MA IO MI STO alzando che devo andare in bagno	veh ma io mi sto alzando che devo andare in bagno

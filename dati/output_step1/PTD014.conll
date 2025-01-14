@@ -1,0 +1,2141 @@
+speaker	tu_id	token	orig_token	span	type	align	intonation	unknown	interruption	truncation	prosodicLink	prolongations	slow_pace	fast_pace	volume	guesses	overlaps
+TOR010	0	adesso	adesso	adesso	linguistic	Begin=1.79	_	False	False	False	False				_		
+TOR010	0	sta	sta	sta	linguistic		_	False	False	False	False				_		
+TOR010	0	registrando	registrando	registrando	linguistic		_	False	False	False	False				_		
+TOR010	0	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOR010	0	in	in	in	linguistic		_	False	False	False	False				_		
+TOR010	0	quale	quale	quale	linguistic		_	False	False	False	False				_		
+TOR010	0	paese	paese	paese	linguistic		_	False	False	False	False				_		
+TOR010	0	vive	vive?	vive?	linguistic	End=5.8	ascending	False	False	False	False				_		
+TOI112	1	io	io	io	linguistic	Begin=7.95	_	False	False	False	False				_		
+TOI112	1	vivo	vivo	vivo	linguistic		_	False	False	False	False				_		
+TOI112	1	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	1	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	1	comune	comune:	comune:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	1	al	al	al	linguistic		_	False	False	False	False				_		
+TOI112	1	confine	confine	confine	linguistic		_	False	False	False	False				_		
+TOI112	1	della	della	della	linguistic		_	False	False	False	False				_		
+TOI112	1	provincia	provincia	provincia	linguistic		_	False	False	False	False				_		
+TOI112	1	fra	fra	fra	linguistic		_	False	False	False	False				_		
+TOI112	1	torino	torino	torino	linguistic		_	False	False	False	False				_		
+TOI112	1	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	1	cuneo	cuneo	cuneo	linguistic		_	False	False	False	False				_		
+TOI112	1	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	1	cin~	cin~	cin~	linguistic		_	False	True	False	False				_		
+TOI112	1	circa	circa	circa	linguistic		_	False	False	False	False				_		
+TOI112	1	cinquemila	cinquemila	cinquemila	linguistic		_	False	False	False	False				_		
+TOI112	1	abitanti	abitanti	abitanti	linguistic		_	False	False	False	False				_		
+TOI112	1	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	1	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	1	chiama	chiama	chiama	linguistic		_	False	False	False	False				_		
+TOI112	1	villafranca	villafranca	villafranca	linguistic		_	False	False	False	False				_		
+TOI112	1	piemonte	piemonte	piemonte	linguistic	End=15.32	_	False	False	False	False				_		
+TOR010	2	okay	okay	okay	linguistic	Begin=16.21	_	False	False	False	False				_		
+TOR010	2	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOR010	2	è	è	è	linguistic		_	False	False	False	False				_		
+TOR010	2	cambiato	cambiato	cambiato	linguistic		_	False	False	False	False				_		
+TOR010	2	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOR010	2	nel	nel	nel	linguistic		_	False	False	False	False				_		
+TOR010	2	corso	corso	corso	linguistic		_	False	False	False	False				_		
+TOR010	2	degli	degli	degli	linguistic		_	False	False	False	False				_		
+TOR010	2	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOR010	2	questo	questo	questo	linguistic		_	False	False	False	False				_		
+TOR010	2	paese	paese?	paese?	linguistic		ascending	False	False	False	False				_		
+TOR010	2	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOR010	2	se	se	se	linguistic		_	False	False	False	False				_		
+TOR010	2	sì	sì	sì	linguistic		_	False	False	False	False				_		
+TOR010	2	come	come?	come?	linguistic	End=21.73	ascending	False	False	False	False				_		
+TOI112	3	mah	mah	mah	linguistic	Begin=22.28	_	False	False	False	False				_		
+TOI112	3	questo	questo	questo	linguistic		_	False	False	False	False				_		
+TOI112	3	paese	paese	paese	linguistic		_	False	False	False	False				_		
+TOI112	3	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	3	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	3	rimasto	rimasto::	rimasto::	linguistic		_	False	False	False	False	6x2			_		
+TOI112	3	com'era	com'era	com'era	error		_	False	False	False	False				_		
+TOI112	3	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	3	volta	volta	volta	linguistic		_	False	False	False	False				_		
+TOI112	3	agricolo	agricolo	agricolo	linguistic		_	False	False	False	False				_		
+TOI112	3	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	3	l'agricoltura	l'agricoltura	l'agricoltura	error		_	False	False	False	False				_		
+TOI112	3	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	3	cambiata	cambiata	cambiata	linguistic		_	False	False	False	False				_		
+TOI112	3	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	3	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	3	diventata	diventata	diventata	linguistic		_	False	False	False	False				_		
+TOI112	3	intensiva	intensiva	intensiva	linguistic		_	False	False	False	False				_		
+TOI112	3	invece	invece	invece	linguistic		_	False	False	False	False				_		
+TOI112	3	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	3	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	3	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	3	un'agricoltura	un'agricoltura	un'agricoltura	error		_	False	False	False	False				_		
+TOI112	3	più	più:::	più:::	linguistic		_	False	False	False	False	2x3			_		
+TOI112	3	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	3	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	3	piccole	piccole	piccole	linguistic		_	False	False	False	False				_		
+TOI112	3	realtà	realtà	realtà	linguistic	End=35.45	_	False	False	False	False				_		
+TOR010	4	okay	okay	°okay°	linguistic	End=36.554	_	False	False	False	False				low		
+TOR010	5	eh	e:h	e:h	linguistic	Begin=38.31	_	False	False	False	False	0x1			_		
+TOR010	5	come	come	come	linguistic		_	False	False	False	False				_		
+TOR010	5	si	si	si	linguistic		_	False	False	False	False				_		
+TOR010	5	trova	trova	trova	linguistic		_	False	False	False	False				_		
+TOR010	5	in	in	in	linguistic		_	False	False	False	False				_		
+TOR010	5	questo	questo	questo	linguistic		_	False	False	False	False				_		
+TOR010	5	paese	paese?	paese?	linguistic		ascending	False	False	False	False				_		
+TOR010	5	le	le	le	linguistic		_	False	False	False	False				_		
+TOR010	5	piace	piace?	piace?	linguistic	End=40.48	ascending	False	False	False	False				_		
+TOI112	6	mah	mah	mah	linguistic	Begin=42.04	_	False	False	False	False				_		
+TOI112	6	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	6	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	6	nato	nato	nato	linguistic		_	False	False	False	False				_		
+TOI112	6	qua	qua:	qua:	linguistic		_	False	False	False	False	2x1			_		
+TOI112	6	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
+TOI112	6	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	6	abituato	abituato	abituato	linguistic		_	False	False	False	False				_		
+TOI112	6	qua	qua	qua	linguistic		_	False	False	False	False				_		
+TOI112	6	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	6	sto	sto	sto	linguistic		_	False	False	False	False				_		
+TOI112	6	bene	bene	bene	linguistic		_	False	False	False	False				_		
+TOI112	6	qua	qua	qua	linguistic		_	False	False	False	False				_		
+TOI112	6	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	6	sicuramente	sicuramente	sicuramente	linguistic		_	False	False	False	False				_		
+TOI112	6	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	6	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	6	posti	posti	posti	linguistic		_	False	False	False	False				_		
+TOI112	6	migliori	migliori	migliori	linguistic		_	False	False	False	False				_		
+TOI112	6	però	però::	però::	linguistic	End=50.43	_	False	False	False	False	3x2			_		
+TOI112	7	essendo	essendo::	essendo::	linguistic	Begin=52.36	_	False	False	False	False	6x2			_		
+TOI112	7	nato	nato	nato	linguistic		_	False	False	False	False				_		
+TOI112	7	qua	qua	qua	linguistic		_	False	False	False	False				_		
+TOI112	7	ehm	e::hm	e::hm	linguistic	End=56.108	_	False	False	False	False	0x2			_		
+TOI112	8	va	va	va	linguistic	Begin=57.535	_	False	False	False	False				_		
+TOI112	8	bene	bene	bene	linguistic		_	False	False	False	False				_		
+TOI112	8	così	così	così	linguistic	End=58.235	_	False	False	False	False				_		
+TOR010	9	sono	sono	sono	linguistic	Begin=60.68	_	False	False	False	False				_		
+TOR010	9	cambiate	cambiate	cambiate	linguistic		_	False	False	False	False				_		
+TOR010	9	le	le	le	linguistic		_	False	False	False	False				_		
+TOR010	9	persone	persone	persone	linguistic		_	False	False	False	False				_		
+TOR010	9	che	che	che	linguistic		_	False	False	False	False				_		
+TOR010	9	vivono	vivono	vivono	linguistic		_	False	False	False	False				_		
+TOR010	9	nel	nel	nel	linguistic		_	False	False	False	False				_		
+TOR010	9	paese	paese?	paese?	linguistic	End=62.76	ascending	False	False	False	False				_		
+TOI112	10	persone	persone	persone	linguistic	Begin=64.565	_	False	False	False	False				_		
+TOI112	10	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	10	vivono	vivono	vivono	linguistic		_	False	False	False	False				_		
+TOI112	10	nel	nel	nel	linguistic		_	False	False	False	False				_		
+TOI112	10	paese	paese:::	paese:::	linguistic		_	False	False	False	False	4x3			_		
+TOI112	10	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	10	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	10	più	più:::	più:::	linguistic		_	False	False	False	False	2x3			_		
+TOI112	10	sulle	sulle	sulle	linguistic		_	False	False	False	False				_		
+TOI112	10	sue	sue	sue	linguistic		_	False	False	False	False				_		
+TOI112	10	rispetto	rispetto	rispetto	linguistic		_	False	False	False	False				_		
+TOI112	10	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	10	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	10	volta	volta	volta	linguistic		_	False	False	False	False				_		
+TOI112	10	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
+TOI112	10	basta	basta	basta	linguistic		_	False	False	False	False				_		
+TOI112	10	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	10	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	10	esempio	esempio	esempio	linguistic	End=71.891	_	False	False	False	False				_		
+TOI112	11	cioè	cioè:	cioè:	linguistic	Begin=72.614	_	False	False	False	False	3x1			_		
+TOI112	11	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	11	vengo	vengo	vengo	linguistic		_	False	False	False	False				_		
+TOI112	11	dalla	dalla	dalla	linguistic		_	False	False	False	False				_		
+TOI112	11	campagna	campagna:	campagna:	linguistic		_	False	False	False	False	7x1			_		
+TOI112	11	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
+TOI112	11	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	11	ancora	ancora	ancora	linguistic		_	False	False	False	False				_		
+TOI112	11	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
+TOI112	11	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	11	campagna	campagna	campagna	linguistic		_	False	False	False	False				_		
+TOI112	11	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
+TOI112	11	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	11	volta	volta	volta	linguistic		_	False	False	False	False				_		
+TOI112	11	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	11	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	11	esempio	esempio	esempio	linguistic		_	False	False	False	False				_		
+TOI112	11	quando	quando	quando	linguistic		_	False	False	False	False				_		
+TOI112	11	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	11	aveva	aveva	aveva	linguistic		_	False	False	False	False				_		
+TOI112	11	bisogno	bisogno	bisogno	linguistic		_	False	False	False	False				_		
+TOI112	11	di	di::	di::	linguistic		_	False	False	False	False	1x2			_		
+TOI112	11	un'attrezzatura	un'attrezzatura	un'attrezzatura	error		_	False	False	False	False				_		
+TOI112	11	agricola	agricola	agricola	linguistic		_	False	False	False	False				_		
+TOI112	11	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	11	andava	andava:	andava:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	11	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	11	chieder~	chieder~	chieder~	linguistic		_	False	True	False	False				_		
+TOI112	11	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	11	richiederla	richiederla	richiederla	linguistic		_	False	False	False	False				_		
+TOI112	11	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	11	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	11	vicino	vicino	vicino	linguistic		_	False	False	False	False				_		
+TOI112	11	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	11	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	11	te	te	te	linguistic		_	False	False	False	False				_		
+TOI112	11	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	11	dava	dava	dava	linguistic		_	False	False	False	False				_		
+TOI112	11	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	11	prestito	prestito	prestito	linguistic		_	False	False	False	False				_		
+TOI112	11	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	11	poi	poi	poi	linguistic		_	False	False	False	False				_		
+TOI112	11	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	11	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	11	vicino	vicino	vicino	linguistic		_	False	False	False	False				_		
+TOI112	11	veniva	veniva	veniva	linguistic		_	False	False	False	False				_		
+TOI112	11	a	a::	a::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	11	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	11	prenderla	prenderla	prenderla	linguistic		_	False	False	False	False				_		
+TOI112	11	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	11	te	te	te	linguistic		_	False	False	False	False				_		
+TOI112	11	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	11	tu	tu	tu	linguistic		_	False	False	False	False				_		
+TOI112	11	gliela	gliela	gliela	linguistic		_	False	False	False	False				_		
+TOI112	11	davi	davi	davi	linguistic		_	False	False	False	False				_		
+TOI112	11	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	11	prestito	prestito	prestito	linguistic	End=95.915	_	False	False	False	False				_		
+TOI112	12	mh	m::h	m::h	linguistic	Begin=97.012	_	False	False	False	False	0x2			_		
+TOI112	12	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	12	era	era	era	linguistic		_	False	False	False	False				_		
+TOI112	12	raro	raro	raro	linguistic		_	False	False	False	False				_		
+TOI112	12	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	12	gente	gente	gente	linguistic		_	False	False	False	False				_		
+TOI112	12	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	12	andava	andava	andava	linguistic		_	False	False	False	False				_		
+TOI112	12	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	12	chiedere	chiedere	chiedere	linguistic		_	False	False	False	False				_		
+TOI112	12	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	12	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	12	un'attrezzatura	un'attrezzatura	un'attrezzatura	error		_	False	False	False	False				_		
+TOI112	12	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	12	prestito	prestito	prestito	linguistic		_	False	False	False	False				_		
+TOI112	12	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	12	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	12	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	12	chilometro	chilometro	chilometro	linguistic		_	False	False	False	False				_		
+TOI112	12	due	due	due	linguistic		_	False	False	False	False				_		
+TOI112	12	chilomentri	chilomentri	chilomentri	linguistic		_	False	False	False	False				_		
+TOI112	12	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	12	distanza	distanza	distanza	linguistic		_	False	False	False	False				_		
+TOI112	12	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
+TOI112	12	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	12	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
+TOI112	12	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	12	succede	succede	succede	linguistic		_	False	False	False	False				_		
+TOI112	12	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	12	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	12	piuttosto	piuttosto	piuttosto	linguistic		_	False	False	False	False				_		
+TOI112	12	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	12	andare	andare	andare	linguistic		_	False	False	False	False				_		
+TOI112	12	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	12	prendere	prendere	prendere	linguistic		_	False	False	False	False				_		
+TOI112	12	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	12	prestito	prestito	prestito	linguistic		_	False	False	False	False				_		
+TOI112	12	un'attrezzatura	un'attrezzatura	un'attrezzatura	error		_	False	False	False	False				_		
+TOI112	12	uno	uno	uno	linguistic		_	False	False	False	False				_		
+TOI112	12	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	12	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	12	compera	compera	compera	linguistic		_	False	False	False	False				_		
+TOI112	12	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	12	poi	poi::	poi::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	12	ehm	e:hm	e:hm	linguistic	End=116.312	_	False	False	False	False	0x1			_		
+TOI112	13	ehm	e:hm	e:hm	linguistic	Begin=117.012	_	False	False	False	False	0x1			_		
+TOI112	13	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	13	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	13	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	13	gente	gente	gente	linguistic		_	False	False	False	False				_		
+TOI112	13	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	13	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	13	chiusa	chiusa	chiusa	linguistic		_	False	False	False	False				_		
+TOI112	13	maggiormente	maggiormente	maggiormente	linguistic		_	False	False	False	False				_		
+TOI112	13	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	13	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
+TOI112	13	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	13	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	13	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
+TOI112	13	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	13	po'	po'	po'	linguistic		_	False	False	True	False				_		
+TOI112	13	reciproca	reciproca	reciproca	linguistic		_	False	False	False	False				_		
+TOI112	13	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	13	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	13	vado	vado	vado	linguistic		_	False	False	False	False				_		
+TOI112	13	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	13	prendere	prendere	prendere	linguistic		_	False	False	False	False				_		
+TOI112	13	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	13	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
+TOI112	13	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	13	presito	presito	presito	linguistic		_	False	False	False	False				_		
+TOI112	13	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	13	te	te	te	linguistic		_	False	False	False	False				_		
+TOI112	13	e	e:::	e:::	linguistic		_	False	False	False	False	0x3			_		
+TOI112	13	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	13	mi	mi	mi	linguistic		_	False	False	False	False				_		
+TOI112	13	dà	dà	dà	linguistic		_	False	False	False	False				_		
+TOI112	13	fastidio	fastidio	fastidio	linguistic		_	False	False	False	False				_		
+TOI112	13	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	13	tu	tu	tu	linguistic		_	False	False	False	False				_		
+TOI112	13	vieni	vieni	vieni	linguistic		_	False	False	False	False				_		
+TOI112	13	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	13	prenderla	prenderla	prenderla	linguistic		_	False	False	False	False				_		
+TOI112	13	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	13	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	13	solo	solo	solo	linguistic		_	False	False	False	False				_		
+TOI112	13	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
+TOI112	13	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	13	casi	casi	casi	linguistic		_	False	False	False	False				_		
+TOI112	13	no	no?	no?	linguistic	End=131.53	ascending	False	False	False	False				_		
+TOI112	14	quindi	quindi	quindi	linguistic	Begin=132.011	_	False	False	False	False				_		
+TOI112	14	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	14	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	14	raro	raro	raro	linguistic		_	False	False	False	False				_		
+TOI112	14	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	14	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	14	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	14	questa	questa	questa	linguistic		_	False	False	False	False				_		
+TOI112	14	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	14	stata	stata	stata	linguistic		_	False	False	False	False				_		
+TOI112	14	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	14	chiusura	chiusura	chiusura	linguistic		_	False	False	False	False				_		
+TOI112	14	delle	delle	delle	linguistic		_	False	False	False	False				_		
+TOI112	14	persone	persone	persone	linguistic		_	False	False	False	False				_		
+TOI112	14	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	14	ognuno	ognuno	ognuno	linguistic		_	False	False	False	False				_		
+TOI112	14	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	14	fa	fa	fa	linguistic		_	False	False	False	False				_		
+TOI112	14	gli	gli	gli	linguistic		_	False	False	False	False				_		
+TOI112	14	affari	affari	affari	linguistic		_	False	False	False	False				_		
+TOI112	14	suoi	suoi	suoi	linguistic		_	False	False	False	False				_		
+TOI112	14	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	14	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	14	meno	meno	meno	linguistic		_	False	False	False	False				_		
+TOI112	14	espansiva	espansiva	espansiva	linguistic		_	False	False	False	False				_		
+TOI112	14	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	14	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	14	meno	meno::	meno::	linguistic		_	False	False	False	False	3x2			_		
+TOI112	14	socializza	socializza	socializza	linguistic		_	False	False	False	False				_		
+TOI112	14	meno	meno	meno	linguistic		_	False	False	False	False				_		
+TOI112	14	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	14	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	14	volta	volta	volta	linguistic	End=143.53	_	False	False	False	False				_		
+TOI112	15	mh	mh	mh	linguistic	End=145.17	_	False	False	False	False				_		
+TOR010	16	e	e	e	linguistic	Begin=145.585	_	False	False	False	False				_		
+TOR010	16	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOR010	16	piace	piace	piace	linguistic		_	False	False	False	False				_		
+TOR010	16	questo	questo:	questo:	linguistic		_	False	False	False	False	5x1			_		
+TOR010	16	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
+TOR010	16	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOR010	16	piaceva	piaceva	piaceva	linguistic		_	False	False	False	False				_		
+TOR010	16	più	più	più	linguistic		_	False	False	False	False				_		
+TOR010	16	prima	prima	prima	linguistic		_	False	False	False	False				_		
+TOR010	16	o	o::?	o::?	linguistic	End=148.955	ascending	False	False	False	False	0x2			_		
+TOI112	17	mah	mah	mah	linguistic	Begin=149.85	_	False	False	False	False				_		
+TOI112	17	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	17	volta	volta:	volta:	linguistic		_	False	False	False	False	4x1			_		
+TOI112	17	era	era	era	linguistic		_	False	False	False	False				_		
+TOI112	17	così	così	così	linguistic		_	False	False	False	False				_		
+TOI112	17	e	e::	e::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	17	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	17	po'	po'	po'	linguistic		_	False	False	True	False				_		
+TOI112	17	per	pe:r	pe:r	linguistic		_	False	False	False	False	1x1			_		
+TOI112	17	mancanza	mancanza	mancanza	linguistic		_	False	False	False	False				_		
+TOI112	17	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	17	disponibilità	disponibilità	disponibilità	linguistic		_	False	False	False	False				_		
+TOI112	17	finanziaria	finanziaria	finanziaria	linguistic		_	False	False	False	False				_		
+TOI112	17	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	17	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	17	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	17	aiutava	aiutava	aiutava	linguistic		_	False	False	False	False				_		
+TOI112	17	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	17	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	17	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
+TOI112	17	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	17	con	con	con	linguistic		_	False	False	False	False				_		
+TOI112	17	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	17	benessere	benessere	benessere	linguistic		_	False	False	False	False				_		
+TOI112	17	provato	provato	provato	linguistic		_	False	False	False	False				_		
+TOI112	17	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	17	benessere	benessere	benessere	linguistic		_	False	False	False	False				_		
+TOI112	17	ha	ha	ha	linguistic		_	False	False	False	False				_		
+TOI112	17	provocato	provocato	provocato	linguistic		_	False	False	False	False				_		
+TOI112	17	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	17	meno	meno::	meno::	linguistic		_	False	False	False	False	3x2			_		
+TOI112	17	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	17	problema	problema	problema	linguistic		_	False	False	False	False				_		
+TOI112	17	finanziari	finanziari	finanziari	linguistic		_	False	False	False	False				_		
+TOI112	17	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	17	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	17	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	17	gente	gente	gente	linguistic		_	False	False	False	False				_		
+TOI112	17	e	e::	e::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	17	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	17	ha	ha	ha	linguistic		_	False	False	False	False				_		
+TOI112	17	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	17	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	17	abituata	abituata	abituata	linguistic		_	False	False	False	False				_		
+TOI112	17	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	17	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	17	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	17	sè	sè	sè	linguistic	End=171.397	_	False	False	False	False				_		
+TOI112	18	ehm	e:::hm	e:::hm	linguistic	Begin=172.468	_	False	False	False	False	0x3			_		
+TOI112	18	insomma	insomma	insomma	linguistic		_	False	False	False	False				_		
+TOI112	18	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	18	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	18	va	va	va	linguistic		_	False	False	False	False				_		
+TOI112	18	bene	bene	bene	linguistic		_	False	False	False	False				_		
+TOI112	18	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	18	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	18	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
+TOI112	18	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	18	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	18	che	che:	che:	linguistic	End=179.313	_	False	False	False	False	2x1			_		
+TOR010	19	okay	okay	°okay°	linguistic	End=181.91	_	False	False	False	False				low		
+TOR010	20	ehm	e:hm	e:hm	linguistic	Begin=183.005	_	False	False	False	False	0x1			_		
+TOR010	20	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOR010	20	ricordi	ricordi	ricordi	linguistic		_	False	False	False	False				_		
+TOR010	20	come	come	come	linguistic		_	False	False	False	False				_		
+TOR010	20	hai	hai	hai	linguistic		_	False	False	False	False				_		
+TOR010	20	conosciuto	conosciuto	conosciuto	linguistic		_	False	False	False	False				_		
+TOR010	20	tua	tua	tua	linguistic		_	False	False	False	False				_		
+TOR010	20	moglie	moglie?	moglie?	linguistic	End=185.745	ascending	False	False	False	False				_		
+TOI112	21	certo	certo	>certo	linguistic	Begin=187.28	_	False	False	False	False			0-5(0)	_		
+TOI112	21	che	che	che	linguistic		_	False	False	False	False			0-3(0)	_		
+TOI112	21	mi	mi	mi	linguistic		_	False	False	False	False			0-2(0)	_		
+TOI112	21	ricordo	ricordo	ricordo	linguistic		_	False	False	False	False			0-7(0)	_		
+TOI112	21	come	come	come	linguistic		_	False	False	False	False			0-4(0)	_		
+TOI112	21	l'ho	l'ho	l'ho	error		_	False	False	False	False			0-4(0)	_		
+TOI112	21	conosciuta	conosciuta	conosciuta	linguistic		_	False	False	False	False			0-10(0)	_		
+TOI112	21	mia	mia	mia	linguistic		_	False	False	False	False			0-3(0)	_		
+TOI112	21	moglie	moglie	moglie<	linguistic		_	False	False	False	False			0-6(0)	_		
+TOI112	21	mia	mia	mia	linguistic		_	False	False	False	False			0-1(0)	_		
+TOI112	21	moglie	moglie	moglie	linguistic		_	False	False	False	False				_		
+TOI112	21	l'ho	l'ho	l'ho	error		_	False	False	False	False				_		
+TOI112	21	conosciuta	conosciuta	conosciuta	linguistic		_	False	False	False	False				_		
+TOI112	21	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	21	discoteca	discoteca	discoteca	linguistic		_	False	False	False	False				_		
+TOI112	21	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	21	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	21	faceva	faceva	faceva	linguistic		_	False	False	False	False				_		
+TOI112	21	negli	negli	negli	linguistic		_	False	False	False	False				_		
+TOI112	21	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOI112	21	settanta	settanta	settanta	linguistic		_	False	False	False	False				_		
+TOI112	21	ottanta	ottanta	ottanta	linguistic		_	False	False	False	False				_		
+TOI112	21	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	21	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	21	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	21	maggiore	maggiore	maggiore	linguistic		_	False	False	False	False				_		
+TOI112	21	di	di:	di:	linguistic		_	False	False	False	False	1x1			_		
+TOI112	21	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	21	posto	posto::	posto::	linguistic		_	False	False	False	False	4x2			_		
+TOI112	21	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	21	probabile	probabile	probabile	linguistic		_	False	False	False	False				_		
+TOI112	21	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	21	incontrare	incontrare	incontrare	linguistic		_	False	False	False	False				_		
+TOI112	21	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	21	ragazza	ragazza	ragazza	linguistic		_	False	False	False	False				_		
+TOI112	21	era	era	era	linguistic		_	False	False	False	False				_		
+TOI112	21	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	21	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	21	discoteca	discoteca	discoteca	linguistic		_	False	False	False	False				_		
+TOI112	21	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	21	quegli	quegli	quegli	linguistic		_	False	False	False	False				_		
+TOI112	21	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOI112	21	là	là	là	linguistic		_	False	False	False	False				_		
+TOI112	21	poi	poi	poi	linguistic		_	False	False	False	False				_		
+TOI112	21	le	le	le	linguistic		_	False	False	False	False				_		
+TOI112	21	discoteche	discoteche	discoteche	linguistic		_	False	False	False	False				_		
+TOI112	21	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	21	cambiate	cambiate	cambiate	linguistic		_	False	False	False	False				_		
+TOI112	21	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	21	diventate	diventate	diventate	linguistic		_	False	False	False	False				_		
+TOI112	21	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	21	ritrovo	ritrovo	ritrovo	linguistic		_	False	False	False	False				_		
+TOI112	21	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	21	matti	matti	matti	linguistic	End=205.4	_	False	False	False	False				_		
+TOI112	22	cioè	cioè	cioè	linguistic	Begin=206.57	_	False	False	False	False				_		
+TOI112	22	aumentando	aumentando	aumentando	linguistic		_	False	False	False	False				_		
+TOI112	22	le	le	le	linguistic		_	False	False	False	False				_		
+TOI112	22	musiche	musiche	musiche	linguistic		_	False	False	False	False				_		
+TOI112	22	facevano	facevano	facevano	linguistic		_	False	False	False	False				_		
+TOI112	22	delle	delle	delle	linguistic		_	False	False	False	False				_		
+TOI112	22	musiche	musiche	musiche	linguistic		_	False	False	False	False				_		
+TOI112	22	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	22	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	22	ballabili	ballabili	ballabili	linguistic		_	False	False	False	False				_		
+TOI112	22	queste	queste	queste	linguistic		_	False	False	False	False				_		
+TOI112	22	cose	cose	cose	linguistic		_	False	False	False	False				_		
+TOI112	22	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	22	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	22	quindi	quindi::	quindi::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	22	penso	penso	penso	linguistic		_	False	False	False	False				_		
+TOI112	22	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	22	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	22	giovani	giovani	giovani	linguistic		_	False	False	False	False				_		
+TOI112	22	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	22	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	22	incontrano	incontrano	incontrano	linguistic		_	False	False	False	False				_		
+TOI112	22	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	22	discoteca	discoteca	discoteca	linguistic		_	False	False	False	False				_		
+TOI112	22	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
+TOI112	22	siano	siano	siano	linguistic		_	False	False	False	False				_		
+TOI112	22	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	22	pochi	pochi	pochi	linguistic		_	False	False	False	False				_		
+TOI112	22	o	o	o	linguistic		_	False	False	False	False				_		
+TOI112	22	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	22	nessuno	nessuno	nessuno	linguistic	End=219.15	_	False	False	False	False				_		
+TOR010	23	okay	okay	okay	linguistic	End=221.32	_	False	False	False	False				_		
+TOI112	24	{ride}	{ride}	{ride}	metalinguistic	End=221.32	_	False	False	False	False				_		
+TOR010	25	mh	mh	mh	linguistic	Begin=222.03	_	False	False	False	False				_		
+TOR010	25	hai	hai	hai	linguistic		_	False	False	False	False				_		
+TOR010	25	figli	figli?	figli?	linguistic		ascending	False	False	False	False				_		
+TOR010	25	com'è	com'è	com'è	error		_	False	False	False	False				_		
+TOR010	25	cambiata	cambiata	cambiata	linguistic		_	False	False	False	False				_		
+TOR010	25	la	la	la	linguistic		_	False	False	False	False				_		
+TOR010	25	tua	tua	tua	linguistic		_	False	False	False	False				_		
+TOR010	25	vita	vita	vita	linguistic		_	False	False	False	False				_		
+TOR010	25	dopo	dopo	dopo	linguistic		_	False	False	False	False				_		
+TOR010	25	la	la	la	linguistic		_	False	False	False	False				_		
+TOR010	25	loro	loro	loro	linguistic		_	False	False	False	False				_		
+TOR010	25	nascita	nascita?	nascita?	linguistic	End=226.11	ascending	False	False	False	False				_		
+TOI112	26	sì	sì	sì	linguistic	Begin=227.03	_	False	False	False	False				_		
+TOI112	26	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	26	due	due	due	linguistic		_	False	False	False	False				_		
+TOI112	26	figli	figli:	figli:	linguistic		_	False	False	False	False	4x1			_		
+TOI112	26	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	26	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	26	vita	vita	vita	linguistic		_	False	False	False	False				_		
+TOI112	26	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	26	cambiata	cambiata	cambiata	linguistic		_	False	False	False	False				_		
+TOI112	26	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	26	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	26	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	26	cambiata	cambiata	cambiata	linguistic		_	False	False	False	False				_		
+TOI112	26	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	26	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	26	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	26	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	26	invecchiato	invecchiato	invecchiato	linguistic		_	False	False	False	False				_		
+TOI112	26	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	26	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	26	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	26	penso	penso	penso	linguistic		_	False	False	False	False				_		
+TOI112	26	sia	sia	sia	linguistic		_	False	False	False	False				_		
+TOI112	26	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	26	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
+TOI112	26	naturale	naturale	naturale	linguistic	End=234.879	_	False	False	False	False				_		
+TOI112	27	eh	eh	eh	linguistic	Begin=235.578	_	False	False	False	False				_		
+TOI112	27	avere	avere	avere	linguistic		_	False	False	False	False				_		
+TOI112	27	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	27	figli	figli	figli	linguistic		_	False	False	False	False				_		
+TOI112	27	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	27	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	27	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
+TOI112	27	bellissima	bellissima	bellissima	linguistic		_	False	False	False	False				_		
+TOI112	27	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	27	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	27	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOI112	27	lascia	lascia	lascia	linguistic		_	False	False	False	False				_		
+TOI112	27	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	27	qualcosa	qualcosa:	qualcosa:	linguistic		_	False	False	False	False	7x1			_		
+TOI112	27	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOI112	27	lascia	lascia	lascia	linguistic		_	False	False	False	False				_		
+TOI112	27	un	u::n	u::n	linguistic		_	False	False	False	False	0x2			_		
+TOI112	27	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	27	dire	dire?	dire?	linguistic		ascending	False	False	False	False				_		
+TOI112	27	u~	u~	u~	linguistic		_	False	True	False	False				_		
+TOI112	27	una	una::	una::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	27	mh	m::h	m::h	linguistic	End=247.288	_	False	False	False	False	0x2			_		
+TOI112	28	ehm	e::hm	e::hm	linguistic	Begin=248.661	_	False	False	False	False	0x2			_		
+TOI112	28	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	28	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOI112	28	lascia	lascia:	lascia:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	28	mh	mh	mh	linguistic	End=251.216	_	False	False	False	False				_		
+TOI112	29	ehm	e:hm	e:hm	linguistic	Begin=253.397	_	False	False	False	False	0x1			_		
+TOI112	29	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	29	cert~	cert~	cert~	linguistic		_	False	True	False	False				_		
+TOI112	29	un'importanza	un'importanza	un'importanza	error		_	False	False	False	False				_		
+TOI112	29	no	no?	no?	linguistic		ascending	False	False	False	False				_		
+TOI112	29	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
+TOI112	29	almeno	almeno	almeno	linguistic		_	False	False	False	False				_		
+TOI112	29	hai	hai	hai	linguistic		_	False	False	False	False				_		
+TOI112	29	vissuto	vissuto	vissuto	linguistic		_	False	False	False	False				_		
+TOI112	29	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	29	qualcosa	qualcosa	qualcosa	linguistic		_	False	False	False	False				_		
+TOI112	29	almeno	almeno	almeno	linguistic		_	False	False	False	False				_		
+TOI112	29	sai	sai	sai	linguistic		_	False	False	False	False				_		
+TOI112	29	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	29	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	29	sarà	sarà	sarà	linguistic		_	False	False	False	False				_		
+TOI112	29	qualcuno	qualcuno	qualcuno	linguistic		_	False	False	False	False				_		
+TOI112	29	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	29	viene	viene	viene	linguistic		_	False	False	False	False				_		
+TOI112	29	dopo	dopo	dopo	linguistic		_	False	False	False	False				_		
+TOI112	29	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	29	te	te	te	linguistic		_	False	False	False	False				_		
+TOI112	29	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	29	poi	poi	poi	linguistic		_	False	False	False	False				_		
+TOI112	29	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	29	te	te	te	linguistic	End=262.8	_	False	False	False	False				_		
+TOI112	30	cioè	cioè	cioè	linguistic	Begin=264.21	_	False	False	False	False				_		
+TOI112	30	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	30	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	30	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	30	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	30	figli	figli	figli	linguistic		_	False	False	False	False				_		
+TOI112	30	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	30	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	30	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	30	resto	resto	resto	linguistic		_	False	False	False	False				_		
+TOI112	30	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	30	senso	senso	senso	linguistic		_	False	False	False	False				_		
+TOI112	30	ha	ha?	ha?	linguistic		ascending	False	False	False	False				_		
+TOI112	30	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	30	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	30	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	30	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	30	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	30	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	30	figli	figli	figli	linguistic		_	False	False	False	False				_		
+TOI112	30	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	30	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	30	vita	vita	vita	linguistic	End=271.38	_	False	False	False	False				_		
+TOI112	31	invece	invece	invece	linguistic	Begin=272.31	_	False	False	False	False				_		
+TOI112	31	con	con	con	linguistic		_	False	False	False	False				_		
+TOI112	31	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	31	figli	figli:	figli:	linguistic		_	False	False	False	False	4x1			_		
+TOI112	31	sai	sai	sai	linguistic		_	False	False	False	False				_		
+TOI112	31	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	31	bene	bene	bene	linguistic		_	False	False	False	False				_		
+TOI112	31	o	o	o	linguistic		_	False	False	False	False				_		
+TOI112	31	male	male	male	linguistic		_	False	False	False	False				_		
+TOI112	31	fanno	fanno	fanno	linguistic		_	False	False	False	False				_		
+TOI112	31	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	31	loro	loro	loro	linguistic		_	False	False	False	False				_		
+TOI112	31	vita	vita	vita	linguistic		_	False	False	False	False				_		
+TOI112	31	ma	ma	ma	linguistic		_	False	False	False	False				_		
+TOI112	31	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	31	pensiero	pensiero	pensiero	linguistic		_	False	False	False	False				_		
+TOI112	31	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	31	te	te	te	linguistic		_	False	False	False	False				_		
+TOI112	31	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	31	dedicano	dedicano	dedicano	linguistic	End=280.0	_	False	False	False	False				_		
+TOI112	32	no	no?	no?	linguistic	End=281.366	ascending	False	False	False	False				_		
+TOI112	33	invece	invece	invece	linguistic	Begin=282.51	_	False	False	False	False				_		
+TOI112	33	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	33	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	33	già	già	già	linguistic		_	False	False	False	False				_		
+TOI112	33	nipoti	nipoti	nipoti	linguistic		_	False	False	False	False				_		
+TOI112	33	o	o	o	linguistic		_	False	False	False	False				_		
+TOI112	33	cugini	cugini	cugini	linguistic		_	False	False	False	False				_		
+TOI112	33	vabbè	vabbè::	vabbè::	linguistic	End=286.662	_	False	False	False	False	4x2			_		
+TOI112	34	cioè	cioè	c(io)è	linguistic	Begin=287.686	_	False	False	False	False				_	1-4(0)	
+TOI112	34	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	34	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	34	pensano	pensano	pensano	linguistic		_	False	False	False	False				_		
+TOI112	34	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	34	ma	ma	ma	linguistic		_	False	False	False	False				_		
+TOI112	34	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	34	solitamente	solitamente	solitamente	linguistic		_	False	False	False	False				_		
+TOI112	34	solo	solo	solo	linguistic		_	False	False	False	False				_		
+TOI112	34	per	pe::r	pe::r	linguistic		_	False	False	False	False	1x2			_		
+TOI112	34	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	34	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	34	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	34	interesse	interesse	interesse	linguistic		_	False	False	False	False				_		
+TOI112	34	{ride}	{ride}	{ride}	metalinguistic		_	False	False	False	False				_		
+TOI112	34	finanziario	finanziario	finanziario	linguistic		_	False	False	False	False				_		
+TOI112	34	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	34	interesse	interesse	interesse	linguistic		_	False	False	False	False				_		
+TOI112	34	interess~	interess~	interess~	linguistic		_	False	True	False	False				_		
+TOI112	34	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	34	interesse	interesse	interesse	linguistic		_	False	False	False	False				_		
+TOI112	34	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	34	soldi	soldi	soldi	linguistic		_	False	False	False	False				_		
+TOI112	34	diversamente	diversamente	diversamente	linguistic		_	False	False	False	False				_		
+TOI112	34	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	34	figli	figli	figli	linguistic		_	False	False	False	False				_		
+TOI112	34	almeno	almeno	almeno	linguistic		_	False	False	False	False				_		
+TOI112	34	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	34	nati	nati	nati	linguistic		_	False	False	False	False				_		
+TOI112	34	lì	lì	lì	linguistic		_	False	False	False	False				_		
+TOI112	34	li	li	li	linguistic		_	False	False	False	False				_		
+TOI112	34	hai	hai	hai	linguistic		_	False	False	False	False				_		
+TOI112	34	cresciuti	cresciuti	cresciuti	linguistic		_	False	False	False	False				_		
+TOI112	34	tu	tu	tu	linguistic	End=305.267	_	False	False	False	False				_		
+TOI112	35	hanno	hanno	hanno	linguistic	Begin=305.999	_	False	False	False	False				_		
+TOI112	35	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	35	ricordo	ricordo	ricordo	linguistic		_	False	False	False	False				_		
+TOI112	35	no	no?	no?	linguistic		ascending	False	False	False	False				_		
+TOI112	35	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	35	può	può	può	linguistic		_	False	False	False	False				_		
+TOI112	35	essere	essere	essere	linguistic		_	False	False	False	False				_		
+TOI112	35	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	35	bello	bello	bello	linguistic		_	False	False	False	False				_		
+TOI112	35	o	o	o	linguistic		_	False	False	False	False				_		
+TOI112	35	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	35	po'	po'	po'	linguistic		_	False	False	True	False				_		
+TOI112	35	meno	meno	meno	linguistic		_	False	False	False	False				_		
+TOI112	35	bello	bello	bello	linguistic		_	False	False	False	False				_		
+TOI112	35	dipende	dipende	dipende	linguistic		_	False	False	False	False				_		
+TOI112	35	dalle	dalle	dalle	linguistic		_	False	False	False	False				_		
+TOI112	35	famiglie	famiglie	famiglie	linguistic		_	False	False	False	False				_		
+TOI112	35	però	però	però	linguistic	End=313.661	_	False	False	False	False				_		
+TOR010	36	okay	okay	okay	linguistic	End=316.12	_	False	False	False	False				_		
+TOR010	37	ehm	e:hm	e:hm	linguistic	End=317.59	_	False	False	False	False	0x1			_		
+TOR010	38	{ride}	{ride}	{ride}	metalinguistic	Begin=319.32	_	False	False	False	False				_		
+TOR010	38	queste	queste	queste	linguistic		_	False	False	False	False				_		
+TOR010	38	domande	domande	domande	linguistic		_	False	False	False	False				_		
+TOR010	38	non	non	non	linguistic		_	False	False	False	False				_		
+TOR010	38	le	le	le	linguistic		_	False	False	False	False				_		
+TOR010	38	faccio	faccio	faccio	linguistic		_	False	False	False	False				_		
+TOR010	38	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOR010	38	non	non	non	linguistic		_	False	False	False	False				_		
+TOR010	38	si	si	si	linguistic		_	False	False	False	False				_		
+TOR010	38	riferiscono	riferiscono	riferiscono	linguistic		_	False	False	False	False				_		
+TOR010	38	a	a	a	linguistic		_	False	False	False	False				_		
+TOR010	38	te	te:	te:	linguistic		_	False	False	False	False	1x1			_		
+TOR010	38	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOR010	38	che	che	che	linguistic		_	False	False	False	False				_		
+TOR010	38	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOR010	38	fa	fa?	fa?	linguistic	End=324.09	ascending	False	False	False	False				_		
+TOI112	39	allora	allora	allora	linguistic	Begin=325.13	_	False	False	False	False				_		
+TOI112	39	io	io:::	io:::	linguistic		_	False	False	False	False	1x3			_		
+TOI112	39	faccio	faccio	faccio	linguistic		_	False	False	False	False				_		
+TOI112	39	due	due	due	linguistic		_	False	False	False	False				_		
+TOI112	39	lavori	lavori	lavori	linguistic		_	False	False	False	False				_		
+TOI112	39	perché	perchè:	perchè:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	39	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	39	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	39	s~	s~	s~	linguistic		_	False	True	False	False				_		
+TOI112	39	{tossisce}	{tossisce}	{tossisce}	metalinguistic		_	False	False	False	False				_		
+TOI112	39	vengo	vengo	vengo	linguistic		_	False	False	False	False				_		
+TOI112	39	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	39	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	39	famiglia	famiglia	famiglia	linguistic		_	False	False	False	False				_		
+TOI112	39	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	39	agricoltori	agricoltori	agricoltori	linguistic		_	False	False	False	False				_		
+TOI112	39	coltivatori	coltivatori	coltivatori	linguistic		_	False	False	False	False				_		
+TOI112	39	diretti	diretti	diretti	linguistic	End=332.95	_	False	False	False	False				_		
+TOI112	40	ehm	e::hm	e::hm	linguistic	Begin=333.84	_	False	False	False	False	0x2			_		
+TOI112	40	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	40	poi	poi::	poi::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	40	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	40	negli	negli	negli	linguistic		_	False	False	False	False				_		
+TOI112	40	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOI112	40	le	le	le	linguistic		_	False	False	False	False				_		
+TOI112	40	aziende	aziende:	aziende:	linguistic		_	False	False	False	False	6x1			_		
+TOI112	40	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	40	state	state	state	linguistic		_	False	False	False	False				_		
+TOI112	40	divise	divise	divise	linguistic		_	False	False	False	False				_		
+TOI112	40	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	40	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	40	xx	xx	xx	linguistic		_	True	False	False	False				_		
+TOI112	40	un'azienda	un'azienda	un'azienda	error		_	False	False	False	False				_		
+TOI112	40	piccola	piccola	piccola	linguistic		_	False	False	False	False				_		
+TOI112	40	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	40	dovuto	dovuto	dovuto	linguistic		_	False	False	False	False				_		
+TOI112	40	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	40	una	una:	una:	linguistic		_	False	False	False	False	2x1			_		
+TOI112	40	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	40	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	40	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	40	dire	dire	dire	linguistic		_	False	False	False	False				_		
+TOI112	40	aprire	aprire	aprire	linguistic		_	False	False	False	False				_		
+TOI112	40	un'altra	un'altra	un'altra	error		_	False	False	False	False				_		
+TOI112	40	attività	attività	attività	linguistic		_	False	False	False	False				_		
+TOI112	40	che	che::	che::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	40	n~	n~	n~	linguistic		_	False	True	False	False				_		
+TOI112	40	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	40	secondaria	secondaria	secondaria	linguistic		_	False	False	False	False				_		
+TOI112	40	rispetto	rispetto	rispetto	linguistic		_	False	False	False	False				_		
+TOI112	40	all'agricoltura	all'agricoltura	all'agricoltura	error		_	False	False	False	False				_		
+TOI112	40	che	che:	che:	linguistic		_	False	False	False	False	2x1			_		
+TOI112	40	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	40	una	una:	una:	linguistic		_	False	False	False	False	2x1			_		
+TOI112	40	agric~	agric~	agric~	linguistic		_	False	True	False	False				_		
+TOI112	40	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	40	un'attività	un'attività	un'attività	error		_	False	False	False	False				_		
+TOI112	40	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	40	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	40	muratore	muratore	muratore	linguistic		_	False	False	False	False				_		
+TOI112	40	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	40	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	40	posatore	posatore	posatore	linguistic		_	False	False	False	False				_		
+TOI112	40	pavimenti	pavimenti::	pavimenti::	linguistic		_	False	False	False	False	8x2			_		
+TOI112	40	e	e:	e:	linguistic		_	False	False	False	False	0x1			_		
+TOI112	40	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	40	scale	scale	scale	linguistic		_	False	False	False	False				_		
+TOI112	40	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	40	lavori	lavori	lavori	linguistic		_	False	False	False	False				_		
+TOI112	40	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	40	edilizia	edilizia::	edilizia::	linguistic		_	False	False	False	False	7x2			_		
+TOI112	40	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	40	genere	genere	genere	linguistic	End=364.56	_	False	False	False	False				_		
+TOR010	41	le	le	le	linguistic	Begin=366.4	_	False	False	False	False				_		
+TOR010	41	piace	piace?	piace?	linguistic		ascending	False	False	False	False				_		
+TOR010	41	il	i:l	i:l	linguistic		_	False	False	False	False	0x1			_		
+TOR010	41	entramb~	entramb~	entramb~	linguistic		_	False	True	False	False				_		
+TOR010	41	le	le	le	linguistic		_	False	False	False	False				_		
+TOR010	41	piacciono	piacciono	piacciono	linguistic		_	False	False	False	False				_		
+TOR010	41	entrambi	entrambi	entrambi	linguistic		_	False	False	False	False				_		
+TOR010	41	i	i	i	linguistic		_	False	False	False	False				_		
+TOR010	41	lavori	lavori?	lavori?	linguistic	End=370.06	ascending	False	False	False	False				_		
+TOI112	42	allora	allora	allora	linguistic	Begin=371.02	_	False	False	False	False				_		
+TOI112	42	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	42	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	42	da	da:	da:	linguistic		_	False	False	False	False	1x1			_		
+TOI112	42	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	42	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	42	edilizia	edilizia	edilizia	linguistic		_	False	False	False	False				_		
+TOI112	42	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	42	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	42	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	42	essendo	essendo	essendo	linguistic		_	False	False	False	False				_		
+TOI112	42	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
+TOI112	42	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	42	mio	mio	mio	linguistic		_	False	False	False	False				_		
+TOI112	42	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	42	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	42	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	42	mai	mai	mai	linguistic		_	False	False	False	False				_		
+TOI112	42	visto	visto	visto	linguistic		_	False	False	False	False				_		
+TOI112	42	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	42	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	42	lavoro	lavoro:	lavoro:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	42	l'ho	l'ho	l'ho	error		_	False	False	False	False				_		
+TOI112	42	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	42	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	42	dall'inizio	dall'inizio	dall'inizio	error		_	False	False	False	False				_		
+TOI112	42	l'ho	l'ho	l'ho	error		_	False	False	False	False				_		
+TOI112	42	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	42	visto	visto	visto	linguistic		_	False	False	False	False				_		
+TOI112	42	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	42	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	42	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	42	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	42	l'avrei	l'avrei	l'avrei	error		_	False	False	False	False				_		
+TOI112	42	fatto	fatto	fatto	linguistic		_	False	False	False	False				_		
+TOI112	42	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	42	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	42	po'	po'	po'	linguistic		_	False	False	True	False				_		
+TOI112	42	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	42	tempo	tempo	tempo	linguistic		_	False	False	False	False				_		
+TOI112	42	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	42	necessità	necessità	necessità	linguistic		_	False	False	False	False				_		
+TOI112	42	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	42	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	42	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	42	era	era	era	linguistic		_	False	False	False	False				_		
+TOI112	42	un'azienda	un'azienda	un'azienda	error		_	False	False	False	False				_		
+TOI112	42	piccola	piccola	piccola	linguistic		_	False	False	False	False				_		
+TOI112	42	quindi	quindi	quindi	linguistic	End=387.64	_	False	False	False	False				_		
+TOI112	43	ehm	e:hm	e:hm	linguistic	Begin=388.29	_	False	False	False	False	0x1			_		
+TOI112	43	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	43	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	43	poteva	poteva	poteva	linguistic		_	False	False	False	False				_		
+TOI112	43	darmi	darmi	darmi	linguistic		_	False	False	False	False				_		
+TOI112	43	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
+TOI112	43	sufficiente	sufficiente	sufficiente	linguistic		_	False	False	False	False				_		
+TOI112	43	sussistenza	sussistenza	sussistenza	linguistic		_	False	False	False	False				_		
+TOI112	43	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	43	andare	andare	andare	linguistic		_	False	False	False	False				_		
+TOI112	43	avanti	avanti	avanti	linguistic	End=395.132	_	False	False	False	False				_		
+TOI112	44	però	però	però	linguistic	Begin=396.144	_	False	False	False	False				_		
+TOI112	44	poi	poi:::	poi:::	linguistic		_	False	False	False	False	2x3			_		
+TOI112	44	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		
+TOI112	44	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	44	questa	questa	questa	linguistic		_	False	False	False	False				_		
+TOI112	44	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
+TOI112	44	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	44	andata	andata	andata	linguistic		_	False	False	False	False				_		
+TOI112	44	avanti	avanti	avanti	linguistic		_	False	False	False	False				_		
+TOI112	44	negli	negli	negli	linguistic		_	False	False	False	False				_		
+TOI112	44	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOI112	44	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	44	senza	senza	senza	linguistic		_	False	False	False	False				_		
+TOI112	44	accorgermene	accorgermene	accorgermene	linguistic		_	False	False	False	False				_		
+TOI112	44	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	44	l'ho	l'ho	l'ho	error		_	False	False	False	False				_		
+TOI112	44	fatto	fatto	fatto	linguistic		_	False	False	False	False				_		
+TOI112	44	tutta	tutta	tutta	linguistic		_	False	False	False	False				_		
+TOI112	44	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	44	vita	vita	vita	linguistic	End=404.626	_	False	False	False	False				_		
+TOR010	45	okay	okay	okay	linguistic	End=407.5	_	False	False	False	False				_		
+TOR010	46	ehm	e::hm	e::hm	linguistic	End=409.82	_	False	False	False	False	0x2			_		
+TOR010	47	ti	ti	ti	linguistic	Begin=413.63	_	False	False	False	False				_		
+TOR010	47	viene	viene	viene	linguistic		_	False	False	False	False				_		
+TOR010	47	in	in	in	linguistic		_	False	False	False	False				_		
+TOR010	47	mente	mente	mente	linguistic		_	False	False	False	False				_		
+TOR010	47	un	un	un	linguistic		_	False	False	False	False				_		
+TOR010	47	bel	bel	bel	linguistic		_	False	False	False	False				_		
+TOR010	47	ricordo	ricordo	ricordo	linguistic		_	False	False	False	False				_		
+TOR010	47	legato	legato	legato	linguistic		_	False	False	False	False				_		
+TOR010	47	al	al	al	linguistic		_	False	False	False	False				_		
+TOR010	47	lavoro	lavoro?	lavoro?	linguistic	End=416.15	ascending	False	False	False	False				_		
+TOI112	48	mah	mah	mah	linguistic	Begin=418.37	_	False	False	False	False				_		
+TOI112	48	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	48	tanti	tanti	tanti	linguistic		_	False	False	False	False				_		
+TOI112	48	bei	bei	bei	linguistic		_	False	False	False	False				_		
+TOI112	48	ricordi	ricordi	ricordi	linguistic		_	False	False	False	False				_		
+TOI112	48	legati	legati	legati	linguistic		_	False	False	False	False				_		
+TOI112	48	al	al	al	linguistic		_	False	False	False	False				_		
+TOI112	48	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	48	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	48	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	48	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	48	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	48	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	48	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	48	fai	fai	fai	linguistic		_	False	False	False	False				_		
+TOI112	48	con	co::n	co::n	linguistic		_	False	False	False	False	1x2			_		
+TOI112	48	un	u:n	u:n	linguistic	End=422.95	_	False	False	False	False	0x1			_		
+TOI112	49	se	se	se	linguistic	Begin=424.94	_	False	False	False	False				_		
+TOI112	49	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	49	fai	fai	fai	linguistic		_	False	False	False	False				_		
+TOI112	49	co~	co~	co~	linguistic		_	False	True	False	False				_		
+TOI112	49	un	u::n	u::n	linguistic		_	False	False	False	False	0x2			_		
+TOI112	49	piacere	piacere	piacere	linguistic		_	False	False	False	False				_		
+TOI112	49	co	co	co	linguistic		_	False	False	False	False				_		
+TOI112	49	un	u:n	u:n	linguistic		_	False	False	False	False	0x1			_		
+TOI112	49	passione	passione	passione	linguistic		_	False	False	False	False				_		
+TOI112	49	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOI112	49	lascia	lascia	lascia	linguistic		_	False	False	False	False				_		
+TOI112	49	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	49	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	49	bei	bei	bei	linguistic		_	False	False	False	False				_		
+TOI112	49	ricordi	ricordi	ricordi	linguistic	End=431.626	_	False	False	False	False				_		
+TOI112	50	bei	bei	bei	linguistic	Begin=432.156	_	False	False	False	False				_		
+TOI112	50	ricordi	ricordi:	ricordi:	linguistic		_	False	False	False	False	6x1			_		
+TOI112	50	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	50	miei	miei	miei	linguistic		_	False	False	False	False				_		
+TOI112	50	bei	bei	bei	linguistic		_	False	False	False	False				_		
+TOI112	50	ricordi	ricordi	ricordi	linguistic		_	False	False	False	False				_		
+TOI112	50	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	50	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	50	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	50	legati	legati	legati	linguistic		_	False	False	False	False				_		
+TOI112	50	a	a:::	a:::	linguistic		_	False	False	False	False	0x3			_		
+TOI112	50	ai	ai	ai	linguistic		_	False	False	False	False				_		
+TOI112	50	miei	miei	miei	linguistic		_	False	False	False	False				_		
+TOI112	50	campi	campi	campi	linguistic		_	False	False	False	False				_		
+TOI112	50	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	50	mais	mais	mais	linguistic		_	False	False	False	False				_		
+TOI112	50	quando	quando	quando	linguistic		_	False	False	False	False				_		
+TOI112	50	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	50	mais	mais	mais	linguistic		_	False	False	False	False				_		
+TOI112	50	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	50	bello	bello	bello	linguistic		_	False	False	False	False				_		
+TOI112	50	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	50	rigoglioso	rigoglioso	rigoglioso	linguistic		_	False	False	False	False				_		
+TOI112	50	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	50	fa	fa	fa	linguistic		_	False	False	False	False				_		
+TOI112	50	delle	delle	delle	linguistic		_	False	False	False	False				_		
+TOI112	50	belle	belle	belle	linguistic		_	False	False	False	False				_		
+TOI112	50	produzioni	produzioni	produzioni	linguistic		_	False	False	False	False				_		
+TOI112	50	quando	quando	quando	linguistic		_	False	False	False	False				_		
+TOI112	50	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	50	raccolti	raccolti	raccolti	linguistic		_	False	False	False	False				_		
+TOI112	50	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	50	belli	belli	belli	linguistic		_	False	False	False	False				_		
+TOI112	50	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	50	legati	legati	legati	linguistic		_	False	False	False	False				_		
+TOI112	50	all'orto	all'orto	all'orto	error		_	False	False	False	False				_		
+TOI112	50	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
+TOI112	50	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	50	l'orto	l'orto	l'orto	error		_	False	False	False	False				_		
+TOI112	50	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	50	faccio	faccio	faccio	linguistic		_	False	False	False	False				_		
+TOI112	50	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	50	personalmente	personalmente	personalmente	linguistic		_	False	False	False	False				_		
+TOI112	50	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	50	avere	avere	avere	linguistic		_	False	False	False	False				_		
+TOI112	50	l'orto	l'orto	l'orto	error		_	False	False	False	False				_		
+TOI112	50	bello	bello	bello	linguistic		_	False	False	False	False				_		
+TOI112	50	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	50	mi	mi	mi	linguistic		_	False	False	False	False				_		
+TOI112	50	rende	rende	rende	linguistic		_	False	False	False	False				_		
+TOI112	50	felice	felice	felice	linguistic	End=453.939	_	False	False	False	False				_		
+TOI112	51	poi	poi	poi	linguistic	Begin=454.688	_	False	False	False	False				_		
+TOI112	51	legati	legati	legati	linguistic		_	False	False	False	False				_		
+TOI112	51	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	51	so	so	so	linguistic		_	False	False	False	False				_		
+TOI112	51	a	a::	a::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	51	mh	m::h	m::h	linguistic		_	False	False	False	False	0x2			_		
+TOI112	51	agli	agli	agli	linguistic		_	False	False	False	False				_		
+TOI112	51	animaletti	animaletti	animaletti	linguistic		_	False	False	False	False				_		
+TOI112	51	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	51	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	51	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	51	cortile	cortile	cortile	linguistic		_	False	False	False	False				_		
+TOI112	51	che	che::	che::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	51	vedendoli	vedendoli	vedendoli	linguistic		_	False	False	False	False				_		
+TOI112	51	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	51	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	51	degli	degli	degli	linguistic		_	False	False	False	False				_		
+TOI112	51	amici	amici	amici	linguistic		_	False	False	False	False				_		
+TOI112	51	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	51	mi	mi	mi	linguistic		_	False	False	False	False				_		
+TOI112	51	danno	danno	danno	linguistic		_	False	False	False	False				_		
+TOI112	51	soddisfazione	soddisfazione	soddisfazione	linguistic	End=464.787	_	False	False	False	False				_		
+TOI112	52	poi	poi:	poi:	linguistic	Begin=465.859	_	False	False	False	False	2x1			_		
+TOI112	52	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	52	rigua~	rigua~	rigua~	linguistic		_	False	True	False	False				_		
+TOI112	52	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	52	riguardo	riguardo	riguardo	linguistic		_	False	False	False	False				_		
+TOI112	52	all'edilizia	all'edilizia	all'edilizia	error		_	False	False	False	False				_		
+TOI112	52	sicuramente	sicuramente	sicuramente	linguistic		_	False	False	False	False				_		
+TOI112	52	tante	tante	tante	linguistic		_	False	False	False	False				_		
+TOI112	52	tante	tante	tante	linguistic		_	False	False	False	False				_		
+TOI112	52	belle	belle	belle	linguistic		_	False	False	False	False				_		
+TOI112	52	soddisfazioni	soddisfazioni	soddisfazioni	linguistic		_	False	False	False	False				_		
+TOI112	52	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	52	soddisfazione	soddisfazione	soddisfazione	linguistic		_	False	False	False	False				_		
+TOI112	52	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	52	vedere	vedere	vedere	linguistic		_	False	False	False	False				_		
+TOI112	52	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	52	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	52	ben	ben	ben	linguistic		_	False	False	False	False				_		
+TOI112	52	riuscito	riuscito,	riuscito,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	52	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	52	vedere	vedere	vedere	linguistic		_	False	False	False	False				_		
+TOI112	52	che	che:	che:	linguistic		_	False	False	False	False	2x1			_		
+TOI112	52	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	52	cliente	cliente	cliente	linguistic		_	False	False	False	False				_		
+TOI112	52	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	52	col~	col~	col~	linguistic		_	False	True	False	False				_		
+TOI112	52	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	52	contento	contento	contento	linguistic		_	False	False	False	False				_		
+TOI112	52	del	del	del	linguistic		_	False	False	False	False				_		
+TOI112	52	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	52	fatto	fatto,	fatto,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	52	che	che::	che::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	52	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		
+TOI112	52	parlano	parlano	parlano	linguistic		_	False	False	False	False				_		
+TOI112	52	bene	bene	bene	linguistic		_	False	False	False	False				_		
+TOI112	52	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	52	te	te	te	linguistic		_	False	False	False	False				_		
+TOI112	52	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	52	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	52	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	52	grande	grande	grande	linguistic		_	False	False	False	False				_		
+TOI112	52	soddisfazione	soddisfazione	soddisfazione	linguistic	End=484.79	_	False	False	False	False				_		
+TOR010	53	cosa	cosa	cosa	linguistic	Begin=487.62	_	False	False	False	False				_		
+TOR010	53	fai	fai	fai	linguistic		_	False	False	False	False				_		
+TOR010	53	durante	durante	durante	linguistic		_	False	False	False	False				_		
+TOR010	53	il	il	il	linguistic		_	False	False	False	False				_		
+TOR010	53	tuo	tuo	tuo	linguistic		_	False	False	False	False				_		
+TOR010	53	tempo	tempo	tempo	linguistic		_	False	False	False	False				_		
+TOR010	53	libero	libero?	libero?	linguistic	End=489.57	ascending	False	False	False	False				_		
+TOI112	54	oh	oh	oh	linguistic	Begin=489.95	_	False	False	False	False				_		
+TOI112	54	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	54	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	54	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	54	sacco	sacco	sacco	linguistic		_	False	False	False	False				_		
+TOI112	54	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	54	cose	cose	cose	linguistic		_	False	False	False	False				_		
+TOI112	54	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	54	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	54	nel	nel	nel	linguistic		_	False	False	False	False				_		
+TOI112	54	mio	mio	mio	linguistic		_	False	False	False	False				_		
+TOI112	54	tempo	tempo	tempo	linguistic		_	False	False	False	False				_		
+TOI112	54	libero	libero	libero	linguistic		_	False	False	False	False				_		
+TOI112	54	{ride}	{ride}	{ride}	metalinguistic		_	False	False	False	False				_		
+TOI112	54	eh	e:::h	e:::h	linguistic		_	False	False	False	False	0x3			_		
+TOI112	54	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	54	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	54	quelle	quelle	quelle	linguistic		_	False	False	False	False				_		
+TOI112	54	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	54	faccio	faccio	faccio	linguistic		_	False	False	False	False				_		
+TOI112	54	sono	sono:	sono:	linguistic		_	False	False	False	False	3x1			_		
+TOI112	54	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	54	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	54	niente	niente	niente	linguistic		_	False	False	False	False				_		
+TOI112	54	rispetto	rispetto	rispetto	linguistic		_	False	False	False	False				_		
+TOI112	54	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	54	quello	quello	quello	linguistic		_	False	False	False	False				_		
+TOI112	54	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	54	potrei	potrei	potrei	linguistic		_	False	False	False	False				_		
+TOI112	54	fare	fare	fare	linguistic	End=499.94	_	False	False	False	False				_		
+TOI112	55	{ride}	{ride}	{ride}	metalinguistic	Begin=500.76	_	False	False	False	False				_		
+TOI112	55	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	55	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	55	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	55	sacco	sacco	sacco	linguistic		_	False	False	False	False				_		
+TOI112	55	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	55	passioni	passioni	passioni	linguistic		_	False	False	False	False				_		
+TOI112	55	no	no?	no?	linguistic	End=505.012	ascending	False	False	False	False				_		
+TOI112	56	ho	ho	ho	linguistic	Begin=505.515	_	False	False	False	False				_		
+TOI112	56	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	56	passione	passione	passione	linguistic		_	False	False	False	False				_		
+TOI112	56	del	del	del	linguistic		_	False	False	False	False				_		
+TOI112	56	canto	canto,	canto,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	56	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	56	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	56	passione	passione	passione	linguistic		_	False	False	False	False				_		
+TOI112	56	della	della	della	linguistic		_	False	False	False	False				_		
+TOI112	56	musica	musica,	musica,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	56	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	56	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	56	passione	passione	passione	linguistic		_	False	False	False	False				_		
+TOI112	56	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	56	delle	delle	delle	linguistic		_	False	False	False	False				_		
+TOI112	56	moto	moto	moto	linguistic		_	False	False	False	False				_		
+TOI112	56	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	56	delle	delle	delle	linguistic		_	False	False	False	False				_		
+TOI112	56	auto	auto	auto	linguistic		_	False	False	False	False				_		
+TOI112	56	vecchie	vecchie,	vecchie,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	56	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	56	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	56	passione	passione	passione	linguistic		_	False	False	False	False				_		
+TOI112	56	di	di::	di::	linguistic		_	False	False	False	False	1x2			_		
+TOI112	56	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	56	mh	m::h	m::h	linguistic		_	False	False	False	False	0x2			_		
+TOI112	56	riparare	riparare:	riparare:	linguistic		_	False	False	False	False	7x1			_		
+TOI112	56	qualsiasi	qualsiasi	qualsiasi	linguistic		_	False	False	False	False				_		
+TOI112	56	tipo	tipo	tipo	linguistic		_	False	False	False	False				_		
+TOI112	56	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	56	riparazione	riparazione	riparazione	linguistic		_	False	False	False	False				_		
+TOI112	56	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	56	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	56	piace	piace	piace	linguistic		_	False	False	False	False				_		
+TOI112	56	farla	farla	farla	linguistic	End=519.107	_	False	False	False	False				_		
+TOI112	57	mh	m::h	m::h	linguistic	Begin=519.802	_	False	False	False	False	0x2			_		
+TOI112	57	poi	poi	poi	linguistic		_	False	False	False	False				_		
+TOI112	57	avrei	avrei	avrei	linguistic		_	False	False	False	False				_		
+TOI112	57	a~	a~	a~	linguistic		_	False	True	False	False				_		
+TOI112	57	mh	m::h	m::h	linguistic		_	False	False	False	False	0x2			_		
+TOI112	57	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	57	mucchio	mucchio	mucchio	linguistic		_	False	False	False	False				_		
+TOI112	57	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	57	passioni	passioni	passioni	linguistic		_	False	False	False	False				_		
+TOI112	57	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	57	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	fatto	fatto	fatto	linguistic		_	False	False	False	False				_		
+TOI112	57	poco	poco	poco	linguistic		_	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	fatto	fatto	fatto	linguistic		_	False	False	False	False				_		
+TOI112	57	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	57	giovane	giovane	giovane	linguistic		_	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	scritto	scritto	scritto	linguistic		_	False	False	False	False				_		
+TOI112	57	poesie	poesie,	poesie,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	{ride}	{ride}	{ride}	metalinguistic		_	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	57	dipinto	dipinto,	dipinto,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	disegnato	disegnato,	disegnato,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	57	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	57	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	57	tutte	tutte	tutte	linguistic		_	False	False	False	False				_		
+TOI112	57	passioni	passioni	passioni	linguistic		_	False	False	False	False				_		
+TOI112	57	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	57	che	che::	che::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	57	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	57	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	57	accantonate	accantonate	accantonate	linguistic		_	False	False	False	False				_		
+TOI112	57	lì	lì	lì	linguistic		_	False	False	False	False				_		
+TOI112	57	perche	perche	perche	linguistic		_	False	False	False	False				_		
+TOI112	57	manca	manca	manca	linguistic		_	False	False	False	False				_		
+TOI112	57	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	57	tempo	tempo	tempo	linguistic	End=539.867	_	False	False	False	False				_		
+TOI112	58	ehm	e:hm	e:hm	linguistic	End=542.55	_	False	False	False	False	0x1			_		
+TOR010	59	ehm	e::hm	e::hm	linguistic	End=547.809	_	False	False	False	False	0x2			_		
+TOR010	60	come	come	come	linguistic	Begin=548.86	_	False	False	False	False				_		
+TOR010	60	trascorri	trascorri	trascorri	linguistic		_	False	False	False	False				_		
+TOR010	60	di	di	di	linguistic		_	False	False	False	False				_		
+TOR010	60	solito	solito	solito	linguistic		_	False	False	False	False				_		
+TOR010	60	le	le	le	linguistic		_	False	False	False	False				_		
+TOR010	60	vacanze	vacanze?	vacanze?	linguistic	End=550.54	ascending	False	False	False	False				_		
+TOI112	61	le	le	le	linguistic	Begin=552.77	_	False	False	False	False				_		
+TOI112	61	vacanze	vacanze::	vacanze::	linguistic		_	False	False	False	False	6x2			_		
+TOI112	61	le	le	le	linguistic		_	False	False	False	False				_		
+TOI112	61	mie	mie	mie	linguistic		_	False	False	False	False				_		
+TOI112	61	vacanze	vacanze	vacanze	linguistic		_	False	False	False	False				_		
+TOI112	61	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	61	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	61	poche	poche	poche	linguistic		_	False	False	False	False				_		
+TOI112	61	le	le	le	linguistic		_	False	False	False	False				_		
+TOI112	61	trascorro	trascorro	trascorro	linguistic		_	False	False	False	False				_		
+TOI112	61	con	con	con	linguistic		_	False	False	False	False				_		
+TOI112	61	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	61	moglie	moglie,	moglie,	linguistic		weakly_ascending	False	False	False	False				_		
+TOI112	61	con	con	con	linguistic		_	False	False	False	False				_		
+TOI112	61	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	61	figli	figli	figli	linguistic		_	False	False	False	False				_		
+TOI112	61	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	61	possibile	possibile	possibile	linguistic		_	False	False	False	False				_		
+TOI112	61	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	61	e	e::	e::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	61	qualche	qualche	qualche	linguistic		_	False	False	False	False				_		
+TOI112	61	viaggio	viaggio	viaggio	linguistic	End=562.92	_	False	False	False	False				_		
+TOI112	62	qualche	qualche:::	qualche:::	linguistic	Begin=564.12	_	False	False	False	False	6x3			_		
+TOI112	62	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	62	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	62	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	62	mai	mai	mai	linguistic		_	False	False	False	False				_		
+TOI112	62	lungo	lungo	lungo	linguistic		_	False	False	False	False				_		
+TOI112	62	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	62	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	62	viaggi	viaggi	viaggi	linguistic		_	False	False	False	False				_		
+TOI112	62	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	62	s~	s~	s~	linguistic		_	False	True	False	False				_		
+TOI112	62	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	62	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	62	mai	mai	mai	linguistic		_	False	False	False	False				_		
+TOI112	62	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	62	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	62	tre	tre	tre	linguistic		_	False	False	False	False				_		
+TOI112	62	quattro	quattro	quattro	linguistic		_	False	False	False	False				_		
+TOI112	62	cinque	cinque	cinque	linguistic		_	False	False	False	False				_		
+TOI112	62	giorni	giorni	giorni	linguistic		_	False	False	False	False				_		
+TOI112	62	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	62	settimana	settimana	settimana	linguistic		_	False	False	False	False				_		
+TOI112	62	al	al	al	linguistic		_	False	False	False	False				_		
+TOI112	62	massimo	massimo	massimo	linguistic	End=572.13	_	False	False	False	False				_		
+TOI112	63	e	e	e	linguistic	Begin=573.92	_	False	False	False	False				_		
+TOI112	63	poi	poi::	poi::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	63	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	63	magari	magari	magari	linguistic		_	False	False	False	False				_		
+TOI112	63	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	63	settimana	settimana	settimana	linguistic		_	False	False	False	False				_		
+TOI112	63	al	al	al	linguistic		_	False	False	False	False				_		
+TOI112	63	mare	mare	mare	linguistic	End=577.11	_	False	False	False	False				_		
+TOI112	64	ehm	e:hm	e:hm	linguistic	Begin=578.77	_	False	False	False	False	0x1			_		
+TOI112	64	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	64	dove	dove	dove	linguistic		_	False	False	False	False				_		
+TOI112	64	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOI112	64	abbiamo	abbiamo	abbiamo	linguistic		_	False	False	False	False				_		
+TOI112	64	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	64	proprietà	proprietà	proprietà	linguistic		_	False	False	False	False				_		
+TOI112	64	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	64	casetta	casetta	casetta	linguistic		_	False	False	False	False				_		
+TOI112	64	con	con	con	linguistic		_	False	False	False	False				_		
+TOI112	64	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	64	uliveto	uliveto	uliveto	linguistic		_	False	False	False	False				_		
+TOI112	64	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	64	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	64	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	64	lì	lì	lì	linguistic		_	False	False	False	False				_		
+TOI112	64	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	64	po'	po'	po'	linguistic		_	False	False	True	False				_		
+TOI112	64	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	64	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	64	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	64	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	64	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	64	lì	lì	lì	linguistic		_	False	False	False	False				_		
+TOI112	64	dà	dà	dà	linguistic		_	False	False	False	False				_		
+TOI112	64	dà	dà	dà	linguistic		_	False	False	False	False				_		
+TOI112	64	soddisfazione	soddisfazione	soddisfazione	linguistic		_	False	False	False	False				_		
+TOI112	64	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	64	sembra	sembra	sembra	linguistic		_	False	False	False	False				_		
+TOI112	64	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	64	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	64	soddisfazone	soddisfazone	soddisfazone	linguistic		_	False	False	False	False				_		
+TOI112	64	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	64	grossa	grossa	grossa	linguistic		_	False	False	False	False				_		
+TOI112	64	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	64	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	64	sia	sia	sia	linguistic		_	False	False	False	False				_		
+TOI112	64	lavorare	lavorare	lavorare	linguistic		_	False	False	False	False				_		
+TOI112	64	{ride}	{ride}	{ride}	metalinguistic	End=594.72	_	False	False	False	False				_		
+TOR010	65	ehm	ehm	ehm	linguistic	End=599.04	_	False	False	False	False				_		
+TOR010	66	oltre	oltre	oltre	linguistic	Begin=600.49	_	False	False	False	False				_		
+TOR010	66	la	la	la	linguistic		_	False	False	False	False				_		
+TOR010	66	cri~	cri~	cri~	linguistic		_	False	True	False	False				_		
+TOR010	66	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOR010	66	oltre	oltre	oltre	linguistic		_	False	False	False	False				_		
+TOR010	66	la	la	la	linguistic		_	False	False	False	False				_		
+TOR010	66	crisi	crisi	crisi	linguistic		_	False	False	False	False				_		
+TOR010	66	degli	degli	degli	linguistic		_	False	False	False	False				_		
+TOR010	66	ultimi	ultimi	ultimi	linguistic		_	False	False	False	False				_		
+TOR010	66	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOR010	66	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOR010	66	ricordi	ricordi	ricordi	linguistic		_	False	False	False	False				_		
+TOR010	66	altri	altri	altri	linguistic		_	False	False	False	False				_		
+TOR010	66	periodi	periodi	periodi	linguistic		_	False	False	False	False				_		
+TOR010	66	di	di	di	linguistic		_	False	False	False	False				_		
+TOR010	66	crisi	crisi	crisi	linguistic		_	False	False	False	False				_		
+TOR010	66	economica	economica?	economica?	linguistic	End=606.183	ascending	False	False	False	False				_		
+TOI112	67	mah	mah	mah	linguistic	Begin=608.17	_	False	False	False	False				_		
+TOI112	67	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	67	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	67	crisi	crisi	crisi	linguistic		_	False	False	False	False				_		
+TOI112	67	economica	economica	economica	linguistic		_	False	False	False	False				_		
+TOI112	67	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	67	eh	e::h	e::h	linguistic		_	False	False	False	False	0x2			_		
+TOI112	67	questa	questa	questa	linguistic		_	False	False	False	False				_		
+TOI112	67	degli	degli	degli	linguistic		_	False	False	False	False				_		
+TOI112	67	ultimi	ultimi	ultimi	linguistic		_	False	False	False	False				_		
+TOI112	67	anni	anni	anni	linguistic		_	False	False	False	False				_		
+TOI112	67	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	67	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	67	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	67	stata	stata	stata	linguistic		_	False	False	False	False				_		
+TOI112	67	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	67	crisi	crisi::	crisi::	linguistic		_	False	False	False	False	4x2			_		
+TOI112	67	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	67	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	67	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	67	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	67	avvertita	avvertita	avvertita	linguistic		_	False	False	False	False				_		
+TOI112	67	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	67	specialmente	specialmente	specialmente	linguistic		_	False	False	False	False				_		
+TOI112	67	nell'edilizia	nell'edilizia	nell'edilizia	error		_	False	False	False	False				_		
+TOI112	67	perché	perché::	perché::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	67	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	67	agricoltura	agricoltura	agricoltura	linguistic		_	False	False	False	False				_		
+TOI112	67	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	67	crisi	crisi	crisi	linguistic		_	False	False	False	False				_		
+TOI112	67	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	67	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	67	avverte	avverte	avverte	linguistic		_	False	False	False	False				_		
+TOI112	67	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	67	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	67	siamo	siamo	siamo	linguistic		_	False	False	False	False				_		
+TOI112	67	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	67	stati	stati	stati	linguistic		_	False	False	False	False				_		
+TOI112	67	perennermente	perennermente	perennermente	linguistic		_	False	False	False	False				_		
+TOI112	67	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	67	crisi	crisi	crisi	linguistic	End=622.5	_	False	False	False	False				_		
+TOI112	68	io	io	io	linguistic	Begin=623.49	_	False	False	False	False				_		
+TOI112	68	ne~	ne~	ne~	linguistic		_	False	True	False	False				_		
+TOI112	68	nell'agricoltura	nell'agricoltura	nell'agricoltura	error		_	False	False	False	False				_		
+TOI112	68	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_	1-4(0)	
+TOI112	68	tran~	tran~	tran~	linguistic		_	False	True	False	False				_		
+TOI112	68	tranne	tranne::	tranne::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	68	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	68	spor~	spor~	spor~	linguistic		_	False	True	False	False				_		
+TOI112	68	ehm	ehm	ehm	linguistic		_	False	False	False	False				_		
+TOI112	68	piccoli	piccoli::	piccoli::	linguistic		_	False	False	False	False	6x2			_		
+TOI112	68	periodi	periodi	periodi	linguistic		_	False	False	False	False				_		
+TOI112	68	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	68	cui	cui	cui	linguistic		_	False	False	False	False				_		
+TOI112	68	cerea~	cerea~	cerea~	linguistic		_	False	True	False	False				_		
+TOI112	68	io	io::	io::	linguistic		_	False	False	False	False	1x2			_		
+TOI112	68	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	68	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	68	azienda	azienda	azienda	linguistic		_	False	False	False	False				_		
+TOI112	68	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	68	un'azienda	un'azienda	un'azienda	error		_	False	False	False	False				_		
+TOI112	68	cerealicola	cerealicola	cerealicola	linguistic		_	False	False	False	False				_		
+TOI112	68	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	68	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	68	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	68	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	68	prezzi	prezzi	prezzi	linguistic		_	False	False	False	False				_		
+TOI112	68	erano	erano	erano	linguistic		_	False	False	False	False				_		
+TOI112	68	lievitati	lievitati	lievitati	linguistic		_	False	False	False	False				_		
+TOI112	68	ma	ma	ma	linguistic		_	False	False	False	False				_		
+TOI112	68	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	68	cose	cose	cose	linguistic		_	False	False	False	False				_		
+TOI112	68	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	68	po'	po'	po'	linguistic		_	False	False	True	False				_		
+TOI112	68	rare	rare	rare	linguistic	End=639.76	_	False	False	False	False				_		
+TOI112	69	diversamente	diversamente	diversamente	linguistic	Begin=640.35	_	False	False	False	False				_		
+TOI112	69	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	69	agricoltura	agricoltura	agricoltura	linguistic		_	False	False	False	False				_		
+TOI112	69	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	69	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	69	noi	noi	noi	linguistic		_	False	False	False	False				_		
+TOI112	69	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	69	crisi	crisi	crisi	linguistic		_	False	False	False	False				_		
+TOI112	69	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	69	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	69	stata	stata:	stata:	linguistic		_	False	False	False	False	4x1			_		
+TOI112	69	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	69	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	69	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	69	stata	stata	stata	linguistic		_	False	False	False	False				_		
+TOI112	69	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	69	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	69	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	69	stata	stata	stata	linguistic		_	False	False	False	False				_		
+TOI112	69	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	69	lotta	lotta	lotta	linguistic		_	False	False	False	False				_		
+TOI112	69	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	69	riuscire	riuscire	riuscire	linguistic		_	False	False	False	False				_		
+TOI112	69	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	69	far	far	far	linguistic		_	False	False	False	False				_		
+TOI112	69	quadrare	quadrare	quadrare	linguistic		_	False	False	False	False				_		
+TOI112	69	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	69	bilanci	bilanci	bilanci	linguistic		_	False	False	False	False				_		
+TOI112	69	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	69	riuscire	riuscire	riuscire	linguistic		_	False	False	False	False				_		
+TOI112	69	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	69	guadagnare	guadagnare	guadagnare	linguistic		_	False	False	False	False				_		
+TOI112	69	qualcosa	qualcosa	qualcosa	linguistic		_	False	False	False	False				_		
+TOI112	69	lavorando	lavorando	lavorando	linguistic	End=653.25	_	False	False	False	False				_		
+TOI112	70	e	e:::	e:::	linguistic	Begin=653.96	_	False	False	False	False	0x3			_		
+TOI112	70	comunque	comunque::	comunque::	linguistic		_	False	False	False	False	7x2			_		
+TOI112	70	m~	m~	m~	linguistic		_	False	True	False	False				_		
+TOI112	70	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	70	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	70	esperienza	esperienza	esperienza	linguistic		_	False	False	False	False				_		
+TOI112	70	mi	mi	mi	linguistic		_	False	False	False	False				_		
+TOI112	70	ha	ha	ha	linguistic		_	False	False	False	False				_		
+TOI112	70	detto	detto	detto	linguistic		_	False	False	False	False				_		
+TOI112	70	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	70	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	70	guadagnare	guadagnare	guadagnare	linguistic		_	False	False	False	False				_		
+TOI112	70	qualcosa	qualcosa	qualcosa	linguistic		_	False	False	False	False				_		
+TOI112	70	bisogna	bisogna	bisogna	linguistic		_	False	False	False	False				_		
+TOI112	70	saper	saper	saper	linguistic		_	False	False	False	False				_		
+TOI112	70	spendere	spendere	spendere	linguistic		_	False	False	False	False				_		
+TOI112	70	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	70	poco	poco	poco	linguistic		_	False	False	False	False				_		
+TOI112	70	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	70	nelle	nelle	nelle	linguistic		_	False	False	False	False				_		
+TOI112	70	attrezzature	attrezzature:	attrezzature:	linguistic		_	False	False	False	False	11x1			_		
+TOI112	70	bisogna	bisogna	bisogna	linguistic		_	False	False	False	False				_		
+TOI112	70	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	70	molta	molta	molta	linguistic		_	False	False	False	False				_		
+TOI112	70	attenzione	attenzione	attenzione	linguistic		_	False	False	False	False				_		
+TOI112	70	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	70	quello	quello	quello	linguistic		_	False	False	False	False				_		
+TOI112	70	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	70	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	70	spende	spende	spende	linguistic		_	False	False	False	False				_		
+TOI112	70	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	70	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	70	uno	uno	uno	linguistic		_	False	False	False	False				_		
+TOI112	70	spende	spende	spende	linguistic		_	False	False	False	False				_		
+TOI112	70	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	70	spande	spande	spande	linguistic		_	False	False	False	False				_		
+TOI112	70	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	70	no~	no~	no~	linguistic		_	False	True	False	False				_		
+TOI112	70	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	70	ha	ha	ha	linguistic		_	False	False	False	False				_		
+TOI112	70	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	70	senso	senso	senso	linguistic		_	False	False	False	False				_		
+TOI112	70	lavorare	lavorare	lavorare	linguistic	End=669.54	_	False	False	False	False				_		
+TOI112	71	e	e	e	linguistic	Begin=670.379	_	False	False	False	False				_		
+TOI112	71	ne~	ne~	ne~	linguistic		_	False	True	False	False				_		
+TOI112	71	invece	invece	invece	linguistic		_	False	False	False	False				_		
+TOI112	71	nella	nella	nella	linguistic		_	False	False	False	False				_		
+TOI112	71	nell'edilizia	nell'edilizia	nell'edilizia	error		_	False	False	False	False				_		
+TOI112	71	negli	negli	negli	linguistic		_	False	False	False	False				_		
+TOI112	71	ultimi	ultimi	ultimi	linguistic		_	False	False	False	False				_		
+TOI112	71	dal	dal	dal	linguistic		_	False	False	False	False				_		
+TOI112	71	duemilaotto	duemilaotto	duemilaotto	linguistic		_	False	False	False	False				_		
+TOI112	71	ai	ai	ai	linguistic		_	False	False	False	False				_		
+TOI112	71	novanta	novanta	novanta	linguistic		_	False	False	False	False				_		
+TOI112	71	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	71	stata	stata	stata	linguistic		_	False	False	False	False				_		
+TOI112	71	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	71	crisi	crisi	crisi	linguistic		_	False	False	False	False				_		
+TOI112	71	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	71	profonda	profonda	profonda	linguistic		_	False	False	False	False				_		
+TOI112	71	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	71	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	71	forte	forte	forte	linguistic		_	False	False	False	False				_		
+TOI112	71	che	che::	che::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	71	ha	ha	ha	linguistic		_	False	False	False	False				_		
+TOI112	71	limitato	limitato	limitato	linguistic		_	False	False	False	False				_		
+TOI112	71	molto	molto:	molto:	linguistic		_	False	False	False	False	4x1			_		
+TOI112	71	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	71	lavoro	lavoro	lavoro	linguistic	End=680.816	_	False	False	False	False				_		
+TOI112	72	eh	e::h	e::h	linguistic	Begin=681.619	_	False	False	False	False	0x2			_		
+TOI112	72	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_	3-4(0)	
+TOI112	72	proprio	proprio	proprio	linguistic		_	False	False	False	False				_	0-2(0)	
+TOI112	72	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	72	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	72	qualità	qualità	qualità	linguistic		_	False	False	False	False				_		
+TOI112	72	del	del	del	linguistic		_	False	False	False	False				_		
+TOI112	72	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
+TOI112	72	prima	prima	prima	linguistic		_	False	False	False	False				_		
+TOI112	72	c'erano	c'erano	c'erano	error		_	False	False	False	False				_		
+TOI112	72	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	72	bei	bei	bei	linguistic		_	False	False	False	False				_		
+TOI112	72	lavori	lavori	lavori	linguistic		_	False	False	False	False				_		
+TOI112	72	dopo	dopo	dopo	linguistic		_	False	False	False	False				_		
+TOI112	72	c'erano	c'erano	c'erano	error		_	False	False	False	False				_		
+TOI112	72	solo	solo	solo	linguistic		_	False	False	False	False				_		
+TOI112	72	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	72	lavoretti	lavoretti	lavoretti	linguistic		_	False	False	False	False				_		
+TOI112	72	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	72	lavori	lavori	lavori	linguistic		_	False	False	False	False				_		
+TOI112	72	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	72	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	72	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	72	di	di:::	di:::	linguistic		_	False	False	False	False	1x3			_		
+TOI112	72	piccoli	piccoli	piccoli	linguistic		_	False	False	False	False				_		
+TOI112	72	lavori	lavori	lavori	linguistic		_	False	False	False	False				_		
+TOI112	72	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	72	ristrutturazione	ristrutturazione	ristrutturazione	linguistic		_	False	False	False	False				_		
+TOI112	72	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	72	ehm	ehm	ehm	linguistic		_	False	False	False	False				_		
+TOI112	72	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	72	legati	legati	legati	linguistic		_	False	False	False	False				_		
+TOI112	72	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	72	a	a::	a::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	72	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	72	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	72	parti	parti	parti	linguistic		_	False	False	False	False				_		
+TOI112	72	di	di:	di:	linguistic		_	False	False	False	False	1x1			_		
+TOI112	72	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	72	immobili	immobili	immobili	linguistic		_	False	False	False	False				_		
+TOI112	72	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	72	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	72	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	72	usurano	usurano	usurano	linguistic		_	False	False	False	False				_		
+TOI112	72	quali	quali	quali	linguistic		_	False	False	False	False				_		
+TOI112	72	bagni	bagni	bagni	linguistic		_	False	False	False	False				_		
+TOI112	72	o	o	o	linguistic		_	False	False	False	False				_		
+TOI112	72	o	o:	o:	linguistic		_	False	False	False	False	0x1			_		
+TOI112	72	balconi	balconi	balconi	linguistic		_	False	False	False	False				_		
+TOI112	72	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	72	quindi	quindi::	quindi::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	72	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	72	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	72	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	72	avvertita	avvertita	avvertita	linguistic		_	False	False	False	False				_		
+TOI112	72	molto	molto	molto	linguistic	End=707.216	_	False	False	False	False				_		
+TOI112	73	eh	e::h	e::h	linguistic	Begin=707.999	_	False	False	False	False	0x2			_		
+TOI112	73	nella	nella	nella	linguistic		_	False	False	False	False				_		
+TOI112	73	mia	mia	mia	linguistic		_	False	False	False	False				_		
+TOI112	73	vita	vita	vita	linguistic		_	False	False	False	False				_		
+TOI112	73	altri	altri	altri	linguistic		_	False	False	False	False				_		
+TOI112	73	periodi	periodi	periodi	linguistic		_	False	False	False	False				_		
+TOI112	73	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	73	crisi	crisi	crisi	linguistic	End=711.012	_	False	False	False	False				_		
+TOI112	74	io	io	io	linguistic	Begin=711.613	_	False	False	False	False				_		
+TOI112	74	ricordo	ricordo	ricordo	linguistic		_	False	False	False	False				_		
+TOI112	74	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	74	bene	bene	bene	linguistic		_	False	False	False	False				_		
+TOI112	74	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	74	crisi	crisi::	crisi::	linguistic		_	False	False	False	False	4x2			_		
+TOI112	74	petrolifera	petrolifera	petrolifera	linguistic		_	False	False	False	False				_		
+TOI112	74	del	del	del	linguistic		_	False	False	False	False				_		
+TOI112	74	settantatrè	settantatrè	settantatrè	linguistic		_	False	False	False	False				_		
+TOI112	74	quando	quando	quando	linguistic		_	False	False	False	False				_		
+TOI112	74	quando	quando	quando	linguistic		_	False	False	False	False				_		
+TOI112	74	si	si:::	si:::	linguistic		_	False	False	False	False	1x3			_		
+TOI112	74	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	74	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	74	c'era	c'era	c'era	error		_	False	False	False	False				_		
+TOI112	74	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	74	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	74	poteva	poteva	poteva	linguistic		_	False	False	False	False				_		
+TOI112	74	usare	usare	usare	linguistic		_	False	False	False	False				_		
+TOI112	74	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	74	macchina	macchina	macchina	linguistic		_	False	False	False	False				_		
+TOI112	74	dal	dal	dal	linguistic		_	False	False	False	False				_		
+TOI112	74	sabato	sabato	sabato	linguistic		_	False	False	False	False				_		
+TOI112	74	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	74	mezzanotte	mezzanotte	mezzanotte	linguistic		_	False	False	False	False				_		
+TOI112	74	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	74	lunedì	lunedì	lunedì	linguistic		_	False	False	False	False				_		
+TOI112	74	alla	alla	alla	linguistic		_	False	False	False	False				_		
+TOI112	74	domenica	domenica	domenica	linguistic		_	False	False	False	False				_		
+TOI112	74	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	74	mezzanotte	mezzanotte	mezzanotte	linguistic	End=726.577	_	False	False	False	False				_		
+TOI112	75	eh	e:h	e:h	linguistic	Begin=728.097	_	False	False	False	False	0x1			_		
+TOI112	75	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	75	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	75	andava	andava	andava	linguistic		_	False	False	False	False				_		
+TOI112	75	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	75	giro	giro	giro	linguistic		_	False	False	False	False				_		
+TOI112	75	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	75	bici	bici	bici	linguistic		_	False	False	False	False				_		
+TOI112	75	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	75	domenica	domenica	domenica	linguistic	End=730.745	_	False	False	False	False				_		
+TOI112	76	quando	quando::	quando::	linguistic	Begin=731.532	_	False	False	False	False	5x2			_		
+TOI112	76	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
+TOI112	76	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	76	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	76	riusciva	riusciva	riusciva	linguistic		_	False	False	False	False				_		
+TOI112	76	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	76	trovare	trovare::	trovare::	linguistic		_	False	False	False	False	6x2			_		
+TOI112	76	c'erano	c'erano	c'erano	error		_	False	False	False	False				_		
+TOI112	76	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	76	periodi	periodi	periodi	linguistic		_	False	False	False	False				_		
+TOI112	76	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	76	cui	cui	cui	linguistic		_	False	False	False	False				_		
+TOI112	76	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	76	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	76	riusciva	riusciva	riusciva	linguistic		_	False	False	False	False				_		
+TOI112	76	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	76	trovare	trovare	trovare	linguistic		_	False	False	False	False				_		
+TOI112	76	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	76	gasolio	gasolio	gasolio	linguistic		_	False	False	False	False				_		
+TOI112	76	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	76	far	far	far	linguistic		_	False	False	False	False				_		
+TOI112	76	funzionare	funzionare	funzionare	linguistic		_	False	False	False	False				_		
+TOI112	76	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	76	trattori	trattori	trattori	linguistic		_	False	False	False	False				_		
+TOI112	76	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	76	l'azienda	l'azienda	l'azienda	error		_	False	False	False	False				_		
+TOI112	76	agricola	agricola	agricola	linguistic	End=741.217	_	False	False	False	False				_		
+TOI112	77	quindi	quindi	quindi	linguistic	Begin=741.774	_	False	False	False	False				_		
+TOI112	77	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	77	andava	andava	andava	linguistic		_	False	False	False	False				_		
+TOI112	77	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	77	prendere	prendere	prendere	linguistic		_	False	False	False	False				_		
+TOI112	77	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	77	gasolio	gasolio	gasolio	linguistic		_	False	False	False	False				_		
+TOI112	77	al	al	al	linguistic		_	False	False	False	False				_		
+TOI112	77	consorzio	consorzio	consorzio	linguistic		_	False	False	False	False				_		
+TOI112	77	agrario	agrario	agrario	linguistic		_	False	False	False	False				_		
+TOI112	77	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	77	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	77	prendevano	prendevano	prendevano	linguistic		_	False	False	False	False				_		
+TOI112	77	duecen~	duecen~	duecen~	linguistic		_	False	True	False	False				_		
+TOI112	77	duecento	duecento	duecento	linguistic		_	False	False	False	False				_		
+TOI112	77	litri	litri	litri	linguistic		_	False	False	False	False				_		
+TOI112	77	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	77	volta	volta	volta	linguistic		_	False	False	False	False				_		
+TOI112	77	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	77	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	77	andava	andava	andava	linguistic		_	False	False	False	False				_		
+TOI112	77	avanti	avanti	avanti	linguistic		_	False	False	False	False				_		
+TOI112	77	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	77	faceva	faceva	faceva	linguistic		_	False	False	False	False				_		
+TOI112	77	molta	molta	molta	linguistic		_	False	False	False	False				_		
+TOI112	77	attenzione	attenzione	attenzione	linguistic		_	False	False	False	False				_		
+TOI112	77	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	77	consumare	consumare	consumare	linguistic		_	False	False	False	False				_		
+TOI112	77	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	77	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	77	c'era	c'era	c'era	error		_	False	False	False	False				_		
+TOI112	77	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	77	c'era	c'era	c'era	error		_	False	False	False	False				_		
+TOI112	77	gasolio	gasolio	gasolio	linguistic		_	False	False	False	False				_		
+TOI112	77	no~	no~	no~	linguistic		_	False	True	False	False				_		
+TOI112	77	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	77	arrivava	arrivava	arrivava	linguistic		_	False	False	False	False				_		
+TOI112	77	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	77	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	77	consegnavano	consegnavano	consegnavano	linguistic	End=753.747	_	False	False	False	False				_		
+TOI112	78	diversamente	diversamente::	diversamente::	linguistic	Begin=755.548	_	False	False	False	False	11x2			_		
+TOI112	78	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
+TOI112	78	periodi	periodi:	periodi:	linguistic		_	False	False	False	False	6x1			_		
+TOI112	78	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	78	crisi	crisi::	crisi::	linguistic	End=759.717	_	False	False	False	False	4x2			_		
+TOI112	79	però	però	però	linguistic	Begin=760.929	_	False	False	False	False				_		
+TOI112	79	quella	quella	quella	linguistic		_	False	False	False	False				_		
+TOI112	79	del	del	del	linguistic		_	False	False	False	False				_		
+TOI112	79	settantatrè	settantatrè	settantatrè	linguistic		_	False	False	False	False				_		
+TOI112	79	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	79	ero	ero	ero	linguistic		_	False	False	False	False				_		
+TOI112	79	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	79	giovane	giovane	giovane	linguistic		_	False	False	False	False				_		
+TOI112	79	quindi	quindi::	quindi::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	79	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	79	avvertiva	avvertiva:	avvertiva:	linguistic		_	False	False	False	False	8x1			_		
+TOI112	79	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_		
+TOI112	79	da	da	da	linguistic		_	False	False	False	False				_	0-2(0)	
+TOI112	79	giovani	giovani	giovani	linguistic		_	False	False	False	False				_		
+TOI112	79	queste	queste	queste	linguistic		_	False	False	False	False				_		
+TOI112	79	cose	cose	cose	linguistic		_	False	False	False	False				_		
+TOI112	79	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	79	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	79	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	79	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	79	avvertono	avvertono	avvertono	linguistic		_	False	False	False	False				_		
+TOI112	79	tanto	tanto	tanto	linguistic	End=768.676	_	False	False	False	False				_		
+TOI112	80	non	non	non	linguistic	Begin=769.555	_	False	False	False	False				_		
+TOI112	80	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	80	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	80	rende	rende	rende	linguistic		_	False	False	False	False				_		
+TOI112	80	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	80	quasi	quasi	quasi	linguistic		_	False	False	False	False				_		
+TOI112	80	neanche	neanche	neanche	linguistic		_	False	False	False	False				_		
+TOI112	80	conto	conto	conto	linguistic		_	False	False	False	False				_		
+TOI112	80	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_	1-4(0)	
+TOI112	80	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	80	va	va	va	linguistic		_	False	False	False	False				_		
+TOI112	80	avanti	avanti	avanti	linguistic	End=773.315	_	False	False	False	False				_		
+TOR010	81	tanto	tanto	ta[nto	linguistic	Begin=775.324	_	False	False	False	False				_		2-5(82)
+TOR010	81	ci	ci	ci]	linguistic		_	False	False	False	False				_		0-2(82)
+TOR010	81	sono	sono	sono	linguistic		_	False	False	False	False				_		0-1(82)
+TOR010	81	i	i	i	linguistic		_	False	False	False	False				_		
+TOR010	81	genitori	genitori:	genitori:	linguistic	End=776.469	_	False	False	False	False	7x1			_		
+TOI112	82	e	e	[e	linguistic	Begin=775.638	_	False	False	False	False				_		0-1(81)
+TOI112	82	basta	basta	basta]	linguistic	End=775.843	_	False	False	False	False				_		0-5(81)
+TOI112	83	eh	eh	eh	linguistic	Begin=776.831	_	False	False	False	False				_		
+TOI112	83	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	83	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	83	altri	altri	altri	linguistic		_	False	False	False	False				_		
+TOI112	83	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	83	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	83	pensano	pensano	pensano	linguistic		_	False	False	False	False				_		
+TOI112	83	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	83	e	e	[e	linguistic		_	False	False	False	False				_		0-1(84)
+TOI112	83	si	si	si	linguistic		_	False	False	False	False				_		0-2(84)
+TOI112	83	va	va	va]	linguistic		_	False	False	False	False				_		0-2(84)
+TOI112	83	avanti	avanti	avanti	linguistic		_	False	False	False	False				_		0-1(84)
+TOI112	83	eh	eh	eh	linguistic	End=780.734	_	False	False	False	False				_		
+TOR010	84	certo	certo	[certo]	linguistic	End=779.747	_	False	False	False	False				_		0-5(83)
+TOR010	85	ehm	e::hm	e::hm	linguistic	End=784.168	_	False	False	False	False	0x2			_		
+TOR010	86	che	che	che	linguistic	Begin=785.951	_	False	False	False	False				_		
+TOR010	86	consigli	consigli	consigli	linguistic		_	False	False	False	False				_		
+TOR010	86	daresti	daresti	daresti	linguistic		_	False	False	False	False				_		
+TOR010	86	ai	ai	ai	linguistic		_	False	False	False	False				_		
+TOR010	86	più	più	più	linguistic		_	False	False	False	False				_		
+TOR010	86	giovani	giovani	giovani	linguistic		_	False	False	False	False				_		
+TOR010	86	per	per	per	linguistic		_	False	False	False	False				_		
+TOR010	86	superare	superare	superare	linguistic		_	False	False	False	False				_		
+TOR010	86	questo	questo	questo	linguistic		_	False	False	False	False				_		
+TOR010	86	periodo	periodo	periodo	linguistic		_	False	False	False	False				_		
+TOR010	86	di	di	di	linguistic		_	False	False	False	False				_		
+TOR010	86	crisi	crisi?	crisi?	linguistic	End=790.638	ascending	False	False	False	False				_		
+TOI112	87	non	non	non	linguistic	Begin=794.277	_	False	False	False	False				_		
+TOI112	87	saprei	saprei	saprei	linguistic		_	False	False	False	False				_		
+TOI112	87	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	87	consigli	consigli	consigli	linguistic		_	False	False	False	False				_		
+TOI112	87	dare	dare	dare	linguistic	End=795.674	_	False	False	False	False				_		
+TOI112	88	comunque	comunque::	comunque::	linguistic	Begin=796.349	_	False	False	False	False	7x2			_		
+TOI112	88	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
+TOI112	88	s~	s~	s~	linguistic		_	False	True	False	False				_		
+TOI112	88	sicuramente	sicuramente	sicuramente	linguistic		_	False	False	False	False				_		
+TOI112	88	rimanere	rimanere	rimanere	linguistic		_	False	False	False	False				_		
+TOI112	88	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	88	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	88	paese	paese	paese	linguistic		_	False	False	False	False				_		
+TOI112	88	come	come	come	linguistic		_	False	False	False	False				_		
+TOI112	88	villafranca	villafranca	villafranca	linguistic		_	False	False	False	False				_		
+TOI112	88	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	88	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
+TOI112	88	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	88	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	88	fare	fare	fare	linguistic		_	False	False	False	False				_		
+TOI112	88	ehm	ehm	ehm	linguistic		_	False	False	False	False				_		
+TOI112	88	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	88	svolgere	svolgere	svolgere	linguistic		_	False	False	False	False				_		
+TOI112	88	un'attività	un'attività	un'attività	error		_	False	False	False	False				_		
+TOI112	88	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	88	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	88	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	88	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_		
+TOI112	88	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	88	sono	sono	sono	linguistic		_	False	False	False	False				_	0-3(0)	
+TOI112	88	degli	degli	degli	linguistic		_	False	False	False	False				_		
+TOI112	88	spazi	spazi	spazi	linguistic		_	False	False	False	False				_		
+TOI112	88	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	88	certe	certe	certe	linguistic		_	False	False	False	False				_		
+TOI112	88	attività	attività	attività	linguistic		_	False	False	False	False				_		
+TOI112	88	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	88	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	88	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	88	rischiose	rischiose	rischiose	linguistic	End=813.131	_	False	False	False	False				_		
+TOI112	89	eh	e:h	e:h	linguistic	Begin=814.112	_	False	False	False	False	0x1			_		
+TOI112	89	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	89	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	89	difficile	difficile	difficile	linguistic		_	False	False	False	False				_		
+TOI112	89	riuscire	riuscire	riuscire	linguistic		_	False	False	False	False				_		
+TOI112	89	a	a::	a::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	89	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	89	ingranare	ingranare	ingranare	linguistic		_	False	False	False	False				_		
+TOI112	89	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	89	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	89	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	89	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	89	riuscire	riuscire	riuscire	linguistic		_	False	False	False	False				_		
+TOI112	89	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	89	lavorare	lavorare	lavorare	linguistic		_	False	False	False	False				_		
+TOI112	89	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	89	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	89	quasi	quasi	quasi	linguistic		_	False	False	False	False				_		
+TOI112	89	sicuramente	sicuramente::	sicuramente::	linguistic		_	False	False	False	False	10x2			_		
+TOI112	89	secondo	secondo	secondo	linguistic		_	False	False	False	False				_		
+TOI112	89	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	89	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	89	maggior	maggior	maggior	linguistic		_	False	False	False	False				_		
+TOI112	89	parte	parte	parte	linguistic		_	False	False	False	False				_		
+TOI112	89	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	89	giovani	giovani	giovani	linguistic		_	False	False	False	False				_		
+TOI112	89	deve	deve	deve	linguistic		_	False	False	False	False				_		
+TOI112	89	spostarsi	spostarsi	spostarsi	linguistic	End=825.619	_	False	False	False	False				_		
+TOI112	90	ehm	ehm	ehm	linguistic	Begin=826.957	_	False	False	False	False				_		
+TOI112	90	o	o	o	linguistic		_	False	False	False	False				_		
+TOI112	90	se	se	se	linguistic		_	False	False	False	False				_		
+TOI112	90	no	no	no	linguistic		_	False	False	False	False				_		
+TOI112	90	anche	anche	anche	linguistic		_	False	False	False	False				_		
+TOI112	90	nell'ambito	nell'ambito	nell'ambito	error		_	False	False	False	False				_		
+TOI112	90	dell'agricoltura	dell'agricoltura	dell'agricoltura	error		_	False	False	False	False				_		
+TOI112	90	riuscire	riuscire	riuscire	linguistic		_	False	False	False	False				_		
+TOI112	90	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	90	avere	avere	avere	linguistic		_	False	False	False	False				_		
+TOI112	90	un'azienda	un'azienda	un'azienda	error		_	False	False	False	False				_		
+TOI112	90	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	90	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOI112	90	ti	ti	ti	linguistic		_	False	False	False	False				_		
+TOI112	90	mantenga	mantenga	mantenga	linguistic		_	False	False	False	False				_		
+TOI112	90	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	90	tenore	tenore	tenore	linguistic		_	False	False	False	False				_		
+TOI112	90	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	90	vita	vita	vita	linguistic		_	False	False	False	False				_		
+TOI112	90	normale	normale	normale	linguistic		_	False	False	False	False				_		
+TOI112	90	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	90	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	90	facile	facile	facile	linguistic		_	False	False	False	False				_		
+TOI112	90	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	90	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	90	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	90	guadagni	guadagni	guadagni	linguistic		_	False	False	False	False				_		
+TOI112	90	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	90	pochi	pochi	pochi	linguistic		_	False	False	False	False				_		
+TOI112	90	eh	e::h	e::h	linguistic		_	False	False	False	False	0x2			_		
+TOI112	90	e	e	e	linguistic		_	False	False	False	False				_		
+TOI112	90	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	90	costi	costi	costi	linguistic		_	False	False	False	False				_		
+TOI112	90	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	90	alti	alti	alti	linguistic	End=843.614	_	False	False	False	False				_		
+TOI112	91	e	e	e	linguistic	Begin=844.758	_	False	False	False	False				_		
+TOI112	91	poi	poi	poi	linguistic		_	False	False	False	False				_		
+TOI112	91	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	91	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	91	il	il	il	linguistic		_	False	False	False	False				_		
+TOI112	91	problema	problema	problema	linguistic		_	False	False	False	False				_		
+TOI112	91	di	di::	di::	linguistic		_	False	False	False	False	1x2			_		
+TOI112	91	trovare	trovare	trovare	linguistic		_	False	False	False	False				_		
+TOI112	91	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	91	terreni	terreni	terreni	linguistic		_	False	False	False	False				_		
+TOI112	91	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	91	lavorare	lavorare	lavorare	linguistic		_	False	False	False	False				_		
+TOI112	91	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	91	cui	cui	cui	linguistic		_	False	False	False	False				_		
+TOI112	91	acquistarli	acquistarli	acquistarli	linguistic		_	False	False	False	False				_		
+TOI112	91	è	è::	è::	linguistic		_	False	False	False	False	0x2			_		
+TOI112	91	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	91	impossibile	impossibile	impossibile	linguistic		_	False	False	False	False				_		
+TOI112	91	affittarli	affittarli	affittarli	linguistic		_	False	False	False	False				_		
+TOI112	91	gli	gli	gli	linguistic		_	False	False	False	False				_		
+TOI112	91	affitti	affitti	affitti	linguistic		_	False	False	False	False				_		
+TOI112	91	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	91	cari	cari	cari	linguistic		_	False	False	False	False				_		
+TOI112	91	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	91	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	91	poi	poi	poi	linguistic		_	False	False	False	False				_		
+TOI112	91	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	91	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	91	terreni	terreni	terreni	linguistic		_	False	False	False	False				_		
+TOI112	91	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	91	affitto	affitto	affitto	linguistic		_	False	False	False	False				_		
+TOI112	91	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	91	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	91	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	91	p~	p~	p~	linguistic		_	False	True	False	False				_		
+TOI112	91	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	91	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	91	remunerativi	remunerativi	remunerativi	linguistic		_	False	False	False	False				_		
+TOI112	91	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	91	un'azienda	un'azienda	un'azienda	error		_	False	False	False	False				_		
+TOI112	91	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	91	gli	gli	gli	linguistic		_	False	False	False	False				_		
+TOI112	91	affitti	affitti	affitti	linguistic		_	False	False	False	False				_		
+TOI112	91	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	91	troppo	troppo	troppo	linguistic		_	False	False	False	False				_		
+TOI112	91	cari	cari	cari	linguistic	End=860.891	_	False	False	False	False				_		
+TOI112	92	e	e::	e::	linguistic	Begin=862.556	_	False	False	False	False	0x2			_		
+TOI112	92	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	92	le	le	le	linguistic		_	False	False	False	False				_		
+TOI112	92	coltivazioni	coltivazioni::	coltivazioni::	linguistic		_	False	False	False	False	11x2			_		
+TOI112	92	intensive	intensive	intensive	linguistic	End=865.88	_	False	False	False	False				_		
+TOI112	93	per	per	per	linguistic	Begin=867.746	_	False	False	False	False				_		
+TOI112	93	gli	gli	gli	linguistic		_	False	False	False	False				_		
+TOI112	93	altri	altri	altri	linguistic		_	False	False	False	False				_		
+TOI112	93	tipo	tipo	tipo	linguistic		_	False	False	False	False				_		
+TOI112	93	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	93	contivazioni	contivazioni::	contivazioni::	linguistic		_	False	False	False	False	11x2			_		
+TOI112	93	villafranca	villafranca	villafranca	linguistic		_	False	False	False	False				_		
+TOI112	93	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	93	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	93	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	93	realtà	realtà	realtà	linguistic		_	False	False	False	False				_		
+TOI112	93	adatta	adatta:	adatta:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	93	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	93	coltivazioni	coltivazioni	coltivazioni	linguistic		_	False	False	False	False				_		
+TOI112	93	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	93	ehm	ehm	ehm	linguistic		_	False	False	False	False				_		
+TOI112	93	tipo	tipo:	tipo:	linguistic		_	False	False	False	False	3x1			_		
+TOI112	93	mh	m:h	m:h	linguistic	End=875.957	_	False	False	False	False	0x1			_		
+TOI112	94	ehm	e:hm	e:hm	linguistic	End=878.823	_	False	False	False	False	0x1			_		
+TOI112	95	come	come	come	linguistic	Begin=881.437	_	False	False	False	False				_		
+TOI112	95	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	95	dice	dice?	dice?	linguistic		ascending	False	False	False	False				_		
+TOI112	95	estensi~	estensi~	estensi~	linguistic	End=882.22	_	False	True	False	False				_		
+TOR010	96	ta~	ta~	ta~	linguistic	End=882.485	_	False	True	False	False				_		
+TOR010	97	eh	eh	eh	linguistic	End=883.46	_	False	False	False	False				_		
+TOI112	98	c~	c~	c~	linguistic	Begin=884.171	_	False	True	False	False				_		
+TOI112	98	coltivazioni	coltivazioni::	coltivazioni::	linguistic	End=885.677	_	False	False	False	False	11x2			_		
+TOI112	99	mh	m:::h	m:::h	linguistic	Begin=886.975	_	False	False	False	False	0x3			_		
+TOI112	99	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	99	possono	possono	possono	linguistic		_	False	False	False	False				_		
+TOI112	99	essere	essere::	essere::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	99	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	99	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	99	so	so	so	linguistic		_	False	False	False	False				_		
+TOI112	99	mh	mh	mh	linguistic	End=890.915	_	False	False	False	False				_		
+TOI112	100	non	non	non	linguistic	Begin=893.047	_	False	False	False	False				_		
+TOI112	100	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	100	adatta	adatta	adatta	linguistic		_	False	False	False	False				_		
+TOI112	100	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	100	non	no::n	no::n	linguistic		_	False	False	False	False	1x2			_		
+TOI112	100	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	100	vedo	vedo::	vedo::	linguistic		_	False	False	False	False	3x2			_		
+TOI112	100	molti	molti	molti	linguistic		_	False	False	False	False				_		
+TOI112	100	sbocchi	sbocchi:	sbocchi:	linguistic		_	False	False	False	False	6x1			_		
+TOI112	100	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	100	almeno	almeno	almeno	linguistic		_	False	False	False	False				_		
+TOI112	100	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	100	questa	questa	questa	linguistic		_	False	False	False	False				_		
+TOI112	100	zona	zona	zona	linguistic	End=900.156	_	False	False	False	False				_		
+TOI112	101	anche	anche	anche	linguistic	Begin=901.65	_	False	False	False	False				_		
+TOI112	101	nell'ambito	nell'ambito	nell'ambito	error		_	False	False	False	False				_		
+TOI112	101	turistico	turistico	turistico	linguistic		_	False	False	False	False				_		
+TOI112	101	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	101	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	101	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	101	zona	zona::	zona::	linguistic		_	False	False	False	False	3x2			_		
+TOI112	101	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	101	vocata	vocata	vocata	linguistic		_	False	False	False	False				_		
+TOI112	101	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_	3-4(0)	
+TOI112	101	per	per	per	linguistic		_	False	False	False	False				_	0-2(0)	
+TOI112	101	carità	carità::	carità::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	101	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	101	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	101	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	101	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	101	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	101	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	101	zona	zona	zona	linguistic		_	False	False	False	False				_		
+TOI112	101	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	101	facendo	facendo::	facendo::	linguistic		_	False	False	False	False	6x2			_		
+TOI112	101	cinquanta	cinquanta	cinquanta	linguistic		_	False	False	False	False				_		
+TOI112	101	chilometri	chilometri	chilometri	linguistic		_	False	False	False	False				_		
+TOI112	101	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	101	c~	c~	c~	linguistic		_	False	True	False	False				_		
+TOI112	101	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	101	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	101	molte	molte	molte	linguistic		_	False	False	False	False				_		
+TOI112	101	cose	cose	cose	linguistic		_	False	False	False	False				_		
+TOI112	101	da	da	da	linguistic		_	False	False	False	False				_		
+TOI112	101	vedere	vedere::	vedere::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	101	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	101	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	101	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	101	altri	altri	altri	linguistic		_	False	False	False	False				_		
+TOI112	101	posti	posti	posti	linguistic		_	False	False	False	False				_		
+TOI112	101	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	101	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	101	vicini	vicini	vicini	linguistic		_	False	False	False	False				_		
+TOI112	101	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	101	molto	molto	molto	linguistic		_	False	False	False	False				_		
+TOI112	101	più	più::	più::	linguistic		_	False	False	False	False	2x2			_		
+TOI112	101	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		
+TOI112	101	comodi	comodi	comodi	linguistic		_	False	False	False	False				_		
+TOI112	101	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
+TOI112	101	più	più	più	linguistic		_	False	False	False	False				_		
+TOI112	101	vocati	vocati	vocati	linguistic		_	False	False	False	False				_		
+TOI112	101	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	101	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	101	mh	mh	mh	linguistic	End=924.59	_	False	False	False	False				_		
+TOR010	102	okay	okay	okay	linguistic	End=926.54	_	False	False	False	False				_		
+TOR010	103	quindi	quindi	quindi	linguistic	Begin=927.734	_	False	False	False	False				_		
+TOR010	103	andare	andare	andare	linguistic		_	False	False	False	False				_		
+TOR010	103	via	via	via	linguistic		_	False	False	False	False				_		
+TOR010	103	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOR010	103	è	è	è	linguistic		_	False	False	False	False				_		
+TOR010	103	il	il	il	linguistic		_	False	False	False	False				_		
+TOR010	103	consiglio	consiglio	consiglio	linguistic	End=929.517	_	False	False	False	False				_		
+TOI112	104	eh	e::h	e::h	linguistic	Begin=929.867	_	False	False	False	False	0x2			_		
+TOI112	104	per	per	per	linguistic		_	False	False	False	False				_		
+TOI112	104	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	104	giovani	giovani::	giovani::	linguistic	End=931.602	_	False	False	False	False	6x2			_		
+TOI112	105	per	per	per	linguistic	Begin=933.144	_	False	False	False	False				_		
+TOI112	105	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	105	giovani	giovani:::	giovani:::	linguistic		_	False	False	False	False	6x3			_		
+TOI112	105	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	105	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_		
+TOI112	105	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_	0-2(0)	
+TOI112	105	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	105	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	105	sempre	sempre::	sempre::	linguistic		_	False	False	False	False	5x2			_		
+TOI112	105	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	105	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	105	qualche	qualche	qualche	linguistic		_	False	False	False	False				_		
+TOI112	105	insediamento	insediamento	insediamento	linguistic		_	False	False	False	False				_		
+TOI112	105	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	105	giovani	giovani:	giovani:	linguistic		_	False	False	False	False	6x1			_		
+TOI112	105	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	105	però	però	però	linguistic		_	False	False	False	False				_		
+TOI112	105	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	105	rari	rari	rari	linguistic		_	False	False	False	False				_		
+TOI112	105	eh	eh	eh	linguistic		_	False	False	False	False				_		
+TOI112	105	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_		
+TOI112	105	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	105	volta	volta	volta	linguistic		_	False	False	False	False				_	1-5(1)	
+TOI112	105	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	105	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	105	i	i	i	linguistic		_	False	False	False	False				_		
+TOI112	105	negozi	negozi	negozi	linguistic		_	False	False	False	False				_		
+TOI112	105	chiudono	chiudono::	chiudono::	linguistic		_	False	False	False	False	7x2			_		
+TOI112	105	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	105	aziende	aziende	aziende	linguistic		_	False	False	False	False				_		
+TOI112	105	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	105	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	105	xxxxx	xxxxx	xxxxx	linguistic		_	True	False	False	False				_		
+TOI112	105	industriali	industriali	industriali	linguistic		_	False	False	False	False				_		
+TOI112	105	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	105	esistono	esistono	esistono	linguistic		_	False	False	False	False				_		
+TOI112	105	sono	sono	sono	linguistic		_	False	False	False	False				_		
+TOI112	105	poche	poche	poche	linguistic		_	False	False	False	False				_		
+TOI112	105	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	105	eh	eh	eh	linguistic		_	False	False	False	False				_		
+TOI112	105	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	105	ci	ci	ci	linguistic		_	False	False	False	False				_		
+TOI112	105	sono	sono::	sono::	linguistic	End=954.349	_	False	False	False	False	3x2			_		
+TOI112	106	non	non	non	linguistic	Begin=956.867	_	False	False	False	False				_		
+TOI112	106	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	106	facile	facile	facile	linguistic		_	False	False	False	False				_		
+TOI112	106	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	106	mh	mh	mh	linguistic	End=959.385	_	False	False	False	False				_		
+TOR010	107	parli	parli	parli	linguistic	Begin=960.602	_	False	False	False	False				_		
+TOR010	107	piemontese	piemontese?	piemontese?	linguistic	End=961.71	ascending	False	False	False	False				_		
+TOI112	108	certo	certo	certo	linguistic	End=962.09	_	False	False	False	False				_		
+TOR010	109	preferisci	preferisci	preferisci	linguistic	Begin=963.421	_	False	False	False	False				_		
+TOR010	109	parlare	parlare:	parlare:	linguistic		_	False	False	False	False	6x1			_		
+TOR010	109	piemontese	piemontese	piemontese	linguistic		_	False	False	False	False				_		
+TOR010	109	o	o	o	linguistic		_	False	False	False	False				_		
+TOR010	109	italiano	italiano	italiano	linguistic		_	False	False	False	False				_		
+TOR010	109	di	di	di	linguistic		_	False	False	False	False				_		
+TOR010	109	solito	solito?	solito?	linguistic	End=966.65	ascending	False	False	False	False				_		
+TOI112	110	ma	ma	ma	linguistic	Begin=966.908	_	False	False	False	False				_		
+TOI112	110	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	110	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	110	generalmente	generalmente	generalmente	linguistic		_	False	False	False	False				_		
+TOI112	110	parlo	parlo	parlo	linguistic		_	False	False	False	False				_		
+TOI112	110	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	110	piemontese	piemontese	piemontese	linguistic	End=969.329	_	False	False	False	False				_		
+TOI112	111	con	con	con	linguistic	Begin=969.795	_	False	False	False	False				_		
+TOI112	111	l'italiano:	l'italiano:	l'italiano:	error		_	False	False	False	False				_		
+TOI112	111	lo	lo	lo	linguistic		_	False	False	False	False				_		
+TOI112	111	parlo	parlo	parlo	linguistic		_	False	False	False	False				_		
+TOI112	111	con	co:n	co:n	linguistic		_	False	False	False	False	1x1			_		
+TOI112	111	qualche	qualche	qualche	linguistic		_	False	False	False	False				_		
+TOI112	111	difficoltà	difficoltà	difficoltà	linguistic		_	False	False	False	False				_		
+TOI112	111	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	111	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	111	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	111	comunque	comunque::	comunque::	linguistic	End=975.782	_	False	False	False	False	7x2			_		
+TOI112	112	parlando	parlando	parlando	linguistic	Begin=978.3	_	False	False	False	False				_		
+TOI112	112	praticamente	praticamente	praticamente	linguistic		_	False	False	False	False				_		
+TOI112	112	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	112	in	in	in	linguistic		_	False	False	False	False				_		
+TOI112	112	piemontese	piemontese	piemontese	linguistic		_	False	False	False	False				_		
+TOI112	112	l'italiano:	l'italiano:	l'italiano:	error		_	False	False	False	False				_		
+TOI112	112	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	112	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
+TOI112	112	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	112	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	112	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	112	si	si	si	linguistic		_	False	False	False	False				_		
+TOI112	112	usano	usano	usano	linguistic		_	False	False	False	False				_		
+TOI112	112	dei	dei	dei	linguistic		_	False	False	False	False				_		
+TOI112	112	termini	termini::	termini::	linguistic		_	False	False	False	False	6x2			_		
+TOI112	112	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	112	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
+TOI112	112	corretti	corretti	corretti	linguistic		_	False	False	False	False				_		
+TOI112	112	o	o::	o::	linguistic	End=988.24	_	False	False	False	False	0x2			_		
+TOR010	113	ti	ti	ti	linguistic	Begin=991.3	_	False	False	False	False				_		
+TOR010	113	dispiace	dispiace	dispiace	linguistic		_	False	False	False	False				_		
+TOR010	113	che	che	che	linguistic		_	False	False	False	False				_		
+TOR010	113	i	i	i	linguistic		_	False	False	False	False				_		
+TOR010	113	giovani	giovani	giovani	linguistic		_	False	False	False	False				_		
+TOR010	113	parlino	parlino	parlino	linguistic		_	False	False	False	False				_		
+TOR010	113	meno	meno:	meno:	linguistic		_	False	False	False	False	3x1			_		
+TOR010	113	in	in	in	linguistic		_	False	False	False	False				_		
+TOR010	113	piemontese	piemontese?	piemontese?	linguistic	End=994.228	ascending	False	False	False	False				_		
+TOI112	114	mah	mah	mah	linguistic	Begin=995.903	_	False	False	False	False				_		
+TOI112	114	no	no	no	linguistic		_	False	False	False	False				_		
+TOI112	114	mh	mh	mh	linguistic		_	False	False	False	False				_		
+TOI112	114	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	114	cioè	cioè	c(io)è	linguistic		_	False	False	False	False				_	1-4(0)	
+TOI112	114	mi	mi	mi	linguistic		_	False	False	False	False				_		
+TOI112	114	fa	fa	fa	linguistic		_	False	False	False	False				_		
+TOI112	114	piacere	piacere	piacere	linguistic		_	False	False	False	False				_		
+TOI112	114	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	114	parlino	parlino	parlino	linguistic		_	False	False	False	False				_		
+TOI112	114	piemontese	piemontese	piemontese	linguistic		_	False	False	False	False				_		
+TOI112	114	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
+TOI112	114	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
+TOI112	114	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	114	va	va	va	linguistic		_	False	False	False	False				_		
+TOI112	114	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	114	perdersi	perdersi	perdersi	linguistic		_	False	False	False	False				_		
+TOI112	114	una	una:::	una:::	linguistic		_	False	False	False	False	2x3			_		
+TOI112	114	una	una	una	linguistic		_	False	False	False	False				_		
+TOI112	114	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	114	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
+TOI112	114	un	un	un	linguistic		_	False	False	False	False				_		
+TOI112	114	dialetto	dialetto	dialetto	linguistic		_	False	False	False	False				_		
+TOI112	114	che	che:::	che:::	linguistic		_	False	False	False	False	2x3			_		
+TOI112	114	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	114	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	114	sempre	sempre	sempre	linguistic		_	False	False	False	False				_		
+TOI112	114	stato	stato	stato	linguistic		_	False	False	False	False				_		
+TOI112	114	dalle	dalle	dalle	linguistic		_	False	False	False	False				_		
+TOI112	114	nostre	nostre	nostre	linguistic		_	False	False	False	False				_		
+TOI112	114	zone	zone	zone	linguistic		_	False	False	False	False				_		
+TOI112	114	fa	fa	fa	linguistic		_	False	False	False	False				_		
+TOI112	114	piacere	piacere	piacere	linguistic		_	False	False	False	False				_		
+TOI112	114	io	io	io	linguistic		_	False	False	False	False				_		
+TOI112	114	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	114	me	me	me	linguistic		_	False	False	False	False				_		
+TOI112	114	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	114	successo	successo	successo	linguistic		_	False	False	False	False				_		
+TOI112	114	di	di	di	linguistic		_	False	False	False	False				_		
+TOI112	114	lavorare	lavorare	lavorare	linguistic		_	False	False	False	False				_		
+TOI112	114	a	a	a	linguistic		_	False	False	False	False				_		
+TOI112	114	volte	volte	volte	linguistic		_	False	False	False	False				_		
+TOI112	114	in	i:n	i:n	linguistic		_	False	False	False	False	0x1			_		
+TOI112	114	torino	torino	torino	linguistic		_	False	False	False	False				_		
+TOI112	114	nelle	nelle	nelle	linguistic		_	False	False	False	False				_		
+TOI112	114	zone	zone	zone	linguistic		_	False	False	False	False				_		
+TOI112	114	di	di:::	di:::	linguistic		_	False	False	False	False	1x3			_		
+TOI112	114	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		
+TOI112	114	della	della	della	linguistic		_	False	False	False	False				_		
+TOI112	114	crocetta	crocetta	crocetta	linguistic		_	False	False	False	False				_		
+TOI112	114	dove	dove	dove	linguistic		_	False	False	False	False				_		
+TOI112	114	senti	senti	senti	linguistic		_	False	False	False	False				_		
+TOI112	114	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
+TOI112	114	la	la	la	linguistic		_	False	False	False	False				_		
+TOI112	114	gente	gente	gente	linguistic		_	False	False	False	False				_		
+TOI112	114	parlare	parlare	parlare	linguistic		_	False	False	False	False				_		
+TOI112	114	piemontese	piemontese	piemontese	linguistic	End=1021.012	_	False	False	False	False				_		
+TOI112	115	questo	questo	questo	linguistic	Begin=1021.457	_	False	False	False	False				_		
+TOI112	115	mi	mi	mi	linguistic		_	False	False	False	False				_		
+TOI112	115	fa	fa	fa	linguistic		_	False	False	False	False				_		
+TOI112	115	piacere	piacere	piacere	linguistic		_	False	False	False	False				_		
+TOI112	115	perché	perchè:	perchè:	linguistic		_	False	False	False	False	5x1			_		
+TOI112	115	c'è	c'è	c'è	error		_	False	False	False	False				_		
+TOI112	115	ancora	ancora	ancora	linguistic		_	False	False	False	False				_		
+TOI112	115	gente	gente	gente	linguistic		_	False	False	False	False				_		
+TOI112	115	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	115	parla	parla	parla	linguistic		_	False	False	False	False				_		
+TOI112	115	piemontese	piemontese	piemontese	linguistic		_	False	False	False	False				_		
+TOI112	115	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	115	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
+TOI112	115	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	115	è	è	è	linguistic		_	False	False	False	False				_		
+TOI112	115	radicata	radicata::	radicata::	linguistic		_	False	False	False	False	7x2			_		
+TOI112	115	che	che	che	linguistic		_	False	False	False	False				_		
+TOI112	115	non	non	non	linguistic		_	False	False	False	False				_		
+TOI112	115	perde	perde	perde	linguistic		_	False	False	False	False				_		
+TOI112	115	queste	queste	queste	linguistic		_	False	False	False	False				_		
+TOI112	115	abitudini	abitudini	abitudini	linguistic	End=1029.324	_	False	False	False	False				_		
+TOR010	116	okay	okay	okay	linguistic	Begin=1032.764	_	False	False	False	False				_		
+TOR010	116	finita	finita	finita	linguistic		_	False	False	False	False				_		
+TOR010	116	l'intervista	l'intervista	l'inter[vista]	error		_	False	False	False	False				_		7-12(117)
+TOR010	116	sì	sì	sì	linguistic		_	False	False	False	False				_		0-1(117)
+TOR010	116	io	io	io	linguistic		_	False	False	False	False				_		
+TOR010	116	ho	ho	ho	linguistic		_	False	False	False	False				_		
+TOR010	116	finito	finito	finito	linguistic		_	False	False	False	False				_		
+TOR010	116	le	le	le	linguistic		_	False	False	False	False				_		
+TOR010	116	domande	domande	domande	linguistic	End=1037.511	_	False	False	False	False				_		
+TOI112	117	finita	finita?	[finita?]	linguistic	End=1034.156	ascending	False	False	False	False				_		0-6(116)
