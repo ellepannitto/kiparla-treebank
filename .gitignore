@@ -172,3 +172,4 @@ cython_debug/
 
 *.pfsx
 *.eaf.001
+*.bak
