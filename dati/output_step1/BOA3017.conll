@@ -90,7 +90,7 @@ BO139	24	apostrofo	apostrofo	apostrofo	linguistic	Begin=28.267	_	False	False	Fal
 BO139	24	{ride}	{ride}	{ride}	metalinguistic	End=29.32	_	False	False	False	False				_		
 BO145	25	sì	sì.	sì.	linguistic	Begin=29.322	descending	False	False	False	False				_		
 BO145	25	apostrofo	apostrofo	apostrofo	linguistic		_	False	False	False	False				_		
-BO145	25	mbare	mbare	mbare	linguistic	End=30.558	_	False	False	False	False				_		
+BO145	25	mbare	mbare	mbare	linguistic	End=30.458	_	False	False	False	False				_		
 BO147	26	mh	mh	mh	linguistic	End=30.977	_	False	False	False	False				_		
 BO147	27	c'	c'	c'	linguistic	Begin=33.412	_	False	False	True	False				_		
 BO147	27	è	è	è	linguistic		_	False	False	False	False				_		
@@ -152,10 +152,10 @@ BO146	41	xxx	xxx	xxx	linguistic		_	True	False	False	False				_	0-3(0)
 BO146	41	le	le	le	linguistic		_	False	False	False	False				_		
 BO146	41	brioche	brioche	brioche	linguistic		_	False	False	False	False				_		
 BO146	41	xxxx	xxxx	[xxxx]	linguistic	End=55.213	_	True	False	False	False				_		
-BO145	42	cristobellotti	cristobellotti	[cristobello]tti	linguistic	End=55.523	_	False	False	False	False				_		0-13(?)
-BO146	43	x	x	x	linguistic	Begin=55.493	_	True	False	False	False				_		
-BO146	43	{P}	{P}	[{P}	shortpause		_	False	False	False	False				_		0-3(?)
-BO146	43	mh	m:h	m]:h	linguistic		_	False	False	False	False	0x1			_		0-2(?)
+BO145	42	cristobellotti	cristobellotti	[cristobello]tti	linguistic	End=55.523	_	False	False	False	False				_		0-13(41)
+BO146	43	x	x	x	linguistic	Begin=55.593	_	True	False	False	False				_		
+BO146	43	{P}	{P}	[{P}	shortpause		_	False	False	False	False				_		0-3(44)
+BO146	43	mh	m:h	m]:h	linguistic		_	False	False	False	False	0x1			_		0-2(44)
 BO146	43	ce	ce	ce	linguistic		_	False	False	False	False				_		
 BO146	43	n'	n'	n'	linguistic		_	False	False	True	False				_		
 BO146	43	ha	ha	ha	linguistic		_	False	False	False	False				_		
@@ -336,7 +336,7 @@ BO139	81	giusto	giusto	giusto	linguistic		_	False	False	False	False			0-1(0)	_
 BO139	81	per	per	per	linguistic		_	False	False	False	False				_		
 BO139	81	essere	essere	essere	linguistic		_	False	False	False	False				_		
 BO139	81	sicuro	sicuro	si[curo]	linguistic	End=122.819	_	False	False	False	False				_		4-6(82)
-BO145	82	bellissimo	bellissimo	[belli]ssimo	linguistic	Begin=122.464	_	False	False	False	False				_		0-7(?)
+BO145	82	bellissimo	bellissimo	[belli]ssimo	linguistic	Begin=122.464	_	False	False	False	False				_		0-7(81)
 BO145	82	qua~	qua~	qua~	linguistic		_	False	True	False	False				_		
 BO145	82	ci	ci	ci	linguistic		_	False	False	False	False				_		
 BO145	82	metti	metti	metti	linguistic		_	False	False	False	False				_		
@@ -345,7 +345,7 @@ BO145	82	secondi	secondi	secondi	linguistic		_	False	False	False	False				_
 BO145	82	a	a	a	linguistic		_	False	False	False	False				_		
 BO145	82	trascrivere	trascrivere	trascrivere	linguistic		_	False	False	False	False				_		
 BO145	82	quella	quella	quella	linguistic		_	False	False	False	False				_		
-BO145	82	cosa	cosa	cosa	linguistic	End=125.19	_	False	False	False	False				_		
+BO145	82	cosa	cosa	cosa	linguistic	End=125.09	_	False	False	False	False				_		
 BO139	83	{ride}	{ride}	{ride}	metalinguistic	End=125.732	_	False	False	False	False				_		
 BO139	84	{ride}	{ride}	{ride}	metalinguistic	End=127.262	_	False	False	False	False				_		
 BO147	85	ma	ma	ma	linguistic	Begin=127.462	_	False	False	False	False				_		
@@ -900,8 +900,8 @@ BO139	193	qui	qui	(qui)	linguistic	Begin=323.367	_	False	False	False	False				_	
 BO139	193	la	la	la	linguistic		_	False	False	False	False				_	0-1(0)	
 BO139	193	sera	sera	sera	linguistic		_	False	False	False	False				_		
 BO139	193	preparati	preparati	preparati	linguistic	End=324.617	_	False	False	False	False				_		
-BO139	194	xx	xx	x[x]	linguistic	End=326.087	_	True	False	False	False				_		1-2(195)
-BO145	195	mh	mh?	[m]h?	linguistic	End=326.317	ascending	False	False	False	False				_		0-2(194)
+BO139	194	xx	xx	x[x]	linguistic	End=326.087	_	True	False	False	False				_		1-2(?)
+BO145	195	mh	mh?	[m]h?	linguistic	End=326.317	ascending	False	False	False	False				_		0-2(?)
 BO139	196	preparati	preparati	preparati	linguistic	Begin=326.762	_	False	False	False	False				_		
 BO139	196	a	a	a	linguistic		_	False	False	False	False				_		
 BO139	196	tante	tante	tante	linguistic		_	False	False	False	False				_		
@@ -927,7 +927,7 @@ BO147	200	lei	lei	lei	linguistic		_	False	False	False	False				_
 BO147	200	da	da	da	linguistic		_	False	False	False	False				_		
 BO147	200	studiare	studiare	studia(re)	linguistic	End=335.027	_	False	False	False	False				_	6-8(0)	
 BO139	201	{ride}	{ride}	{ride}	metalinguistic	End=336.472	_	False	False	False	False				_		
-BO145	202	chi	chi	chi	linguistic	Begin=336.452	_	False	False	False	False				_		
+BO145	202	chi	chi	chi	linguistic	Begin=336.552	_	False	False	False	False				_		
 BO145	202	l'	l'	l'	linguistic		_	False	False	True	False				_		
 BO145	202	ha	ha	ha	linguistic		_	False	False	False	False				_		
 BO145	202	detto	detto	detto	linguistic		_	False	False	False	False				_		
@@ -946,7 +946,7 @@ BO139	207	figlio	figlio?	figlio?	linguistic	End=343.172	ascending	False	False	Fa
 BO145	208	non	non	non	linguistic	Begin=343.952	_	False	False	False	False				_		
 BO145	208	ho	ho	ho	linguistic		_	False	False	False	False				_		
 BO145	208	detto	detto	detto	linguistic		_	False	False	False	False				_		
-BO145	208	questo	questo	questo	linguistic	End=344.942	_	False	False	False	False				_		
+BO145	208	questo	questo	questo	linguistic	End=344.842	_	False	False	False	False				_		
 BO139	209	{ride}	{ride}	{ride}	metalinguistic	End=345.542	_	False	False	False	False				_		
 BO147	210	ah	ah	ah	linguistic	Begin=345.612	_	False	False	False	False				_		
 BO147	210	eh	eh	eh	linguistic		_	False	False	False	False				_		
@@ -1063,7 +1063,7 @@ BO147	234	vincenzo	vincenzo	vincenzo	linguistic		_	False	False	False	False				_
 BO147	234	diventerà	diventerà	diventerà	linguistic		_	False	False	False	False				_		
 BO147	234	papà	papà	papà	linguistic	End=380.88	_	False	False	False	False				_		
 BO147	235	lei	lei	lei	linguistic	Begin=381.076	_	False	False	False	False				_		
-BO147	235	{esclamazione_sorpresa}	{esclamazione_sorpresa}	{esclamazione_sorpresa}	metalinguistic	End=382.206	_	False	False	False	False				_		
+BO147	235	{esclamazione_sorpresa}	{esclamazione_sorpresa}	{esclamazione_sorpresa}	metalinguistic	End=382.106	_	False	False	False	False				_		
 BO146	236	{ride}	{ride}	{ride}	metalinguistic	End=382.186	_	False	False	False	False				_		
 BO139	237	{ride}	{ride}	{ride}	metalinguistic	End=382.731	_	False	False	False	False				_		
 BO145	238	io	io	io	linguistic	Begin=383.146	_	False	False	False	False				_		
@@ -1127,9 +1127,9 @@ BO146	255	per	per	per	linguistic		_	False	False	False	False				_
 BO146	255	quello	quello	[quello]	linguistic	End=403.593	_	False	False	False	False				_		0-6(256)
 BO147	256	cioè	cioè	[>cioè<]	linguistic	End=403.628	_	False	False	False	False			1-4(0)	_		0-4(255)
 BO145	257	xx	xx	xx	linguistic	End=404.618	_	True	False	False	False				_		
-BO146	258	no	no	no	linguistic	Begin=404.603	_	False	False	False	False				_		
+BO146	258	no	no	no	linguistic	Begin=404.70300000000003	_	False	False	False	False				_		
 BO146	258	infatti	infatti	infatti	linguistic		_	False	False	False	False				_		
-BO146	258	xx	xx	[(xx)]	linguistic	End=405.553	_	True	False	False	False				_	1-2(0)	0-2(?)
+BO146	258	xx	xx	[(xx)]	linguistic	End=405.553	_	True	False	False	False				_	1-2(0)	0-2(259+260)
 BO147	259	vabbè	vabbè	[vabbè	linguistic	Begin=405.143	_	False	False	False	False				_		0-5(258+260)
 BO147	259	scusa	scusa	scusa]	linguistic	End=406.143	_	False	False	False	False				_		0-5(258+260)
 BO145	260	se	se	[se	linguistic	Begin=405.148	_	False	False	False	False				_		0-2(?)
@@ -1287,7 +1287,7 @@ BO147	284	la	la	la	linguistic		_	False	False	False	False				_
 BO147	284	gente	gente	gente	linguistic		_	False	False	False	False				_		
 BO147	284	che	che	che	linguistic		_	False	False	False	False				_		
 BO147	284	stavo	stavo	stavo	linguistic		_	False	False	False	False				_		
-BO147	284	zitto	zitto	zitto	linguistic	End=439.342	_	False	False	False	False				_		
+BO147	284	zitto	zitto	zitto	linguistic	End=439.24199999999996	_	False	False	False	False				_		
 BO146	285	no	no	no	linguistic	Begin=439.328	_	False	False	False	False				_		
 BO146	285	capito	capito	capito	linguistic		_	False	False	False	False				_		
 BO146	285	però	però	però	linguistic		_	False	False	False	False				_		
@@ -1675,7 +1675,7 @@ BO145	381	{ride}	{ride}	{ride}	metalinguistic	End=588.287	_	False	False	False	Fa
 BO139	382	{ride}	{ride}	{ride}	metalinguistic	End=586.858	_	False	False	False	False				_		
 BO146	383	{ride}	{ride}	{ride}	metalinguistic	End=588.148	_	False	False	False	False				_		
 BO147	384	{tossisce}	{tossisce}	{tossisce}	metalinguistic	End=590.648	_	False	False	False	False				_		
-BO145	385	non	non	non	linguistic	Begin=590.613	_	False	False	False	False				_		
+BO145	385	non	non	non	linguistic	Begin=590.7130000000001	_	False	False	False	False				_		
 BO145	385	oscurare	oscurare	oscurare	linguistic		_	False	False	False	False				_		
 BO145	385	per	per	per	linguistic		_	False	False	False	False				_		
 BO145	385	favore	favore	favore	linguistic		_	False	False	False	False				_		
@@ -1700,13 +1700,13 @@ BO139	392	bippare	bippare	bippare	linguistic		_	False	False	False	False				_
 BO139	392	l'	l'	l'	linguistic		_	False	False	True	False				_		
 BO139	392	anima	anima	anima	linguistic		_	False	False	False	False				_		
 BO139	392	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
-BO139	392	{ride}	{ride}	{ride}	metalinguistic	End=599.773	_	False	False	False	False				_		
+BO139	392	{ride}	{ride}	{ride}	metalinguistic	End=599.673	_	False	False	False	False				_		
 BO146	393	{ride}	{ride}	{ride}	metalinguistic	End=600.11	_	False	False	False	False				_		
 BO147	394	vabbè	vabbè	vabbè	linguistic	Begin=599.733	_	False	False	False	False				_		
 BO147	394	almeno	almeno	almeno	linguistic	End=600.953	_	False	False	False	False				_		
 BO145	395	{ride}	{ride}	{ride}	metalinguistic	End=600.713	_	False	False	False	False				_		
 BO146	396	{canta}	{canta}	{canta}	metalinguistic	End=601.478	_	False	False	False	False				_		
-BO139	397	cioè	cioè	>cioè<	linguistic	Begin=601.463	_	False	False	False	False			0-4(0)	_		
+BO139	397	cioè	cioè	>cioè<	linguistic	Begin=601.563	_	False	False	False	False			0-4(0)	_		
 BO139	397	però	però	però	linguistic		_	False	False	False	False			0-1(0)	_		
 BO139	397	una	una	una	linguistic		_	False	False	False	False				_		
 BO139	397	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
@@ -1740,7 +1740,7 @@ BO147	405	d	d	d	linguistic		_	False	False	False	False				_
 BO147	405	mammt	mammt	mammt	linguistic	End=612.09	_	False	False	False	False				_		
 BO146	406	{canta}	{canta}	{canta}	metalinguistic	End=612.35	_	False	False	False	False				_		
 BO145	407	{canta}	{canta}	{canta}	metalinguistic	End=613.145	_	False	False	False	False				_		
-BO146	408	xx	xx	xx	linguistic	End=614.475	_	True	False	False	False				_		
+BO146	408	xx	xx	xx	linguistic	End=614.375	_	True	False	False	False				_		
 BO139	409	{ride}	{ride}	{ride}	metalinguistic	End=614.915	_	False	False	False	False				_		
 BO147	410	ma	ma	ma	linguistic	Begin=614.93	_	False	False	False	False				_		
 BO147	410	se	se	se	linguistic		_	False	False	False	False				_		
@@ -1826,17 +1826,17 @@ BO147	420	{ride}	{ride}	{ride}	metalinguistic	End=636.137	_	False	False	False	Fa
 BO139	421	{ride}	{ride}	{ride}	metalinguistic	End=635.312	_	False	False	False	False				_		
 BO145	422	{ride}	{ride}	{ride}	metalinguistic	End=636.962	_	False	False	False	False				_		
 BO147	423	{ride}	{ride}	{ride}	metalinguistic	End=639.197	_	False	False	False	False				_		
-BO139	424	mi	mi	mi	linguistic	Begin=636.952	_	False	False	False	False				_		
+BO139	424	mi	mi	mi	linguistic	Begin=637.052	_	False	False	False	False				_		
 BO139	424	sa	sa	sa	linguistic		_	False	False	False	False				_		
 BO139	424	che	che	che	linguistic		_	False	False	False	False				_		
 BO139	424	dobbiam	dobbiam	dobbiam	linguistic		_	False	False	False	False				_		
 BO139	424	bippare	bippare	bippare	linguistic		_	False	False	False	False				_		
 BO139	424	tutto	tutto	tutto	linguistic	End=638.992	_	False	False	False	False				_		
 BO145	425	{ride}	{ride}	{ride}	metalinguistic	End=639.247	_	False	False	False	False				_		
-BO139	426	tutti	tutti	tutti	linguistic	Begin=639.222	_	False	False	False	False				_		
+BO139	426	tutti	tutti	tutti	linguistic	Begin=639.322	_	False	False	False	False				_		
 BO139	426	i	i	i	linguistic		_	False	False	False	False				_		
 BO139	426	due	due	due	linguistic		_	False	False	False	False				_		
-BO139	426	minuti	minuti	minu[ti]	linguistic	End=640.272	_	False	False	False	False				_		4-6(?)
+BO139	426	minuti	minuti	minu[ti]	linguistic	End=640.272	_	False	False	False	False				_		4-6(427)
 BO145	427	no	no:	[no]:	linguistic	Begin=639.782	_	False	False	False	False	1x1			_		0-2(426)
 BO145	427	perché	perché?	perch[é(?)]	linguistic	End=640.922	ascending	False	False	False	False				_		0-1(426)
 BO147	428	eh	eh?	[eh?]	linguistic	End=640.962	ascending	False	False	False	False				_		0-2(427)
@@ -1888,13 +1888,13 @@ BO139	446	{ride}	{ride}	{ride}	metalinguistic	End=659.628	_	False	False	False	Fa
 BO139	447	va	va	va	linguistic	Begin=659.968	_	False	False	False	False				_		
 BO139	447	bene	bene	bene	linguistic		_	False	False	False	False				_		
 BO139	447	comunque	comunque	comunque	linguistic	End=660.868	_	False	False	False	False				_		
-BO146	448	trascrivi	trascrivi	trascrivi	linguistic	Begin=660.853	_	False	False	False	False				_		
-BO146	448	l'	l'	[l'	linguistic		_	False	False	True	False				_		0-2(?)
-BO146	448	audio	audio	audio	linguistic		_	False	False	False	False				_		0-5(?)
-BO146	448	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
-BO146	448	t'	t'	t'	linguistic		_	False	False	True	False				_		0-2(?)
-BO146	448	ha	ha	ha]	linguistic		_	False	False	False	False				_		0-2(?)
-BO146	448	mandato	mandato	mandato	linguistic		_	False	False	False	False				_		0-1(?)
+BO146	448	trascrivi	trascrivi	trascrivi	linguistic	Begin=660.953	_	False	False	False	False				_		
+BO146	448	l'	l'	[l'	linguistic		_	False	False	True	False				_		0-2(449)
+BO146	448	audio	audio	audio	linguistic		_	False	False	False	False				_		0-5(449)
+BO146	448	che	che	che	linguistic		_	False	False	False	False				_		0-3(449)
+BO146	448	t'	t'	t'	linguistic		_	False	False	True	False				_		0-2(449)
+BO146	448	ha	ha	ha]	linguistic		_	False	False	False	False				_		0-2(449)
+BO146	448	mandato	mandato	mandato	linguistic		_	False	False	False	False				_		0-1(449)
 BO146	448	lei	lei	lei	linguistic		_	False	False	False	False				_		
 BO146	448	oggi	oggi	oggi	linguistic		_	False	False	False	False				_		
 BO146	448	pomeriggio	pomeriggio	pomeriggio	linguistic	End=662.863	_	False	False	False	False				_		
@@ -1959,7 +1959,7 @@ BO147	464	vuoi	vuoi	vuoi	linguistic		_	False	False	False	False				_
 BO147	464	un	un:	un:	linguistic		_	False	False	False	False	1x1			_		
 BO147	464	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO147	464	un	un	un	linguistic		_	False	False	False	False				_		
-BO147	464	dolce	dolce?	dolce?	linguistic	End=687.24	ascending	False	False	False	False				_		
+BO147	464	dolce	dolce?	dolce?	linguistic	End=687.14	ascending	False	False	False	False				_		
 BO145	465	mangia	mangia	mangia	linguistic	Begin=687.235	_	False	False	False	False				_		
 BO145	465	eh	eh	eh	linguistic	End=687.825	_	False	False	False	False				_		
 BO146	466	mh	mh	mh	linguistic	Begin=687.995	_	False	False	False	False				_		
@@ -2139,9 +2139,9 @@ BO147	520	xxx	xxx	xxx]	linguistic	End=756.148	_	True	False	False	False				_		0-3
 BO145	521	non	non	non	linguistic	Begin=757.838	_	False	False	False	False				_		
 BO145	521	è	è	è	linguistic		_	False	False	False	False				_		
 BO145	521	fatta	fatta	fatta	linguistic		_	False	False	False	False				_		
-BO145	521	come	come	[come	linguistic		_	False	False	False	False				_		0-4(522)
-BO145	521	una	una	una	linguistic		_	False	False	False	False				_		0-3(522)
-BO145	521	vanga	vanga	va]ng[a]	linguistic	End=758.86	_	False	False	False	False				_		0-4(522)
+BO145	521	come	come	[come	linguistic		_	False	False	False	False				_		0-4(?)
+BO145	521	una	una	una	linguistic		_	False	False	False	False				_		0-3(?)
+BO145	521	vanga	vanga	va]ng[a]	linguistic	End=758.76	_	False	False	False	False				_		0-4(?)
 BO139	522	una	una	[>una<	linguistic	Begin=758.263	_	False	False	False	False			1-3(0)	_		0-3(521)
 BO139	522	pala	pala	pal(°a°)]	linguistic	End=758.703	_	False	False	False	False			0-2(0)	_		0-4(521)
 BO147	523	pala	pala	[p]ala	linguistic	End=759.433	_	False	False	False	False				_		0-3(?)
@@ -2479,7 +2479,7 @@ BO139	612	xx	xx	xx	linguistic	End=912.657	_	True	False	False	False				_
 BO139	613	oddio	oddio	oddio	linguistic	Begin=913.067	_	False	False	False	False				_		
 BO139	613	sono	sono	sono	linguistic		_	False	False	False	False				_		
 BO139	613	offeso	offeso	offeso	linguistic		_	False	False	False	False				_		
-BO139	613	{ride}	{ride}	{ride}	metalinguistic	End=914.927	_	False	False	False	False				_		
+BO139	613	{ride}	{ride}	{ride}	metalinguistic	End=914.827	_	False	False	False	False				_		
 BO145	614	quanto	quanto	quanto	linguistic	Begin=914.907	_	False	False	False	False				_		
 BO145	614	sei	sei	sei	linguistic		_	False	False	False	False				_		
 BO145	614	stronzo	stronzo	stronzo	linguistic	End=916.127	_	False	False	False	False				_		
@@ -2573,19 +2573,19 @@ BO145	627	essere	essere	(essere)	linguistic		_	False	False	False	False				_	0-6(
 BO145	627	eh	eh	eh	linguistic	End=938.31	_	False	False	False	False				_	0-1(0)	
 BO139	628	chubby	chubby	chubby	linguistic	Begin=938.375	_	False	False	False	False				_		
 BO139	628	bunny	bunny	bunn[y]	linguistic	End=939.04	_	False	False	False	False				_		4-5(629)
-BO145	629	quello	quello	[quello]	linguistic	Begin=938.86	_	False	False	False	False				_		0-6(?)
-BO145	629	più	più	più	linguistic		_	False	False	False	False				_		0-1(?)
+BO145	629	quello	quello	[quello]	linguistic	Begin=938.86	_	False	False	False	False				_		0-6(628)
+BO145	629	più	più	più	linguistic		_	False	False	False	False				_		0-1(628)
 BO145	629	grosso	grosso	grosso	linguistic		_	False	False	False	False				_		
-BO145	629	però	però	però	linguistic	End=939.92	_	False	False	False	False				_		
-BO146	630	quello	quello	[quello	linguistic	Begin=939.905	_	False	False	False	False				_		0-6(?)
-BO146	630	dell'	dell'	dell'	linguistic		_	False	False	True	False				_		0-5(?)
-BO146	630	anno	anno	an]no	linguistic		_	False	False	False	False				_		0-4(?)
+BO145	629	però	però	però	linguistic	End=939.8199999999999	_	False	False	False	False				_		
+BO146	630	quello	quello	[quello	linguistic	Begin=939.905	_	False	False	False	False				_		0-6(631)
+BO146	630	dell'	dell'	dell'	linguistic		_	False	False	True	False				_		0-5(631)
+BO146	630	anno	anno	an]no	linguistic		_	False	False	False	False				_		0-4(631)
 BO146	630	scorso	scorso	scorso	linguistic	End=940.725	_	False	False	False	False				_		
-BO145	631	questo	questo	[questo	linguistic	Begin=940.14	_	False	False	False	False				_		0-6(?)
-BO145	631	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
-BO145	631	quello	quello	quello	linguistic		_	False	False	False	False				_		0-6(?)
-BO145	631	più	più	più	linguistic		_	False	False	False	False				_		0-3(?)
-BO145	631	piccolo	piccolo	pi]ccolo	linguistic	End=941.08	_	False	False	False	False				_		0-4(?)
+BO145	631	questo	questo	[questo	linguistic	Begin=940.14	_	False	False	False	False				_		0-6(630)
+BO145	631	è	è	è	linguistic		_	False	False	False	False				_		0-1(630)
+BO145	631	quello	quello	quello	linguistic		_	False	False	False	False				_		0-6(630)
+BO145	631	più	più	più	linguistic		_	False	False	False	False				_		0-3(630)
+BO145	631	piccolo	piccolo	pi]ccolo	linguistic	End=940.98	_	False	False	False	False				_		0-4(630)
 BO147	632	uno	uno	uno	linguistic	Begin=941.075	_	False	False	False	False				_		
 BO147	632	simile	simile	simile	linguistic	End=941.865	_	False	False	False	False				_		
 BO146	633	{ride}	{ride}	{ride}	metalinguistic	End=942.45	_	False	False	False	False				_		
@@ -2596,14 +2596,14 @@ BO139	634	che	che	che	linguistic		_	False	False	False	False				_	0-3(0)
 BO139	634	non	non	non	linguistic		_	False	False	False	False				_	0-3(0)	
 BO139	634	lo	lo	lo	linguistic		_	False	False	False	False				_	0-2(0)	
 BO139	634	mangio	mangio	ma[ngio])	linguistic	End=943.8	_	False	False	False	False				_	0-6(0)	3-6(635)
-BO145	635	no	no?	([no?])	linguistic	End=943.81	ascending	False	False	False	False				_	0-2(0)	1-2(?)
-BO147	636	mi	mi	(mi	linguistic	Begin=943.8	_	False	False	False	False				_	0-2(0)	
+BO145	635	no	no?	([no?])	linguistic	End=943.81	ascending	False	False	False	False				_	0-2(0)	1-2(634)
+BO147	636	mi	mi	(mi	linguistic	Begin=943.9	_	False	False	False	False				_	0-2(0)	
 BO147	636	sa	sa	sa	linguistic		_	False	False	False	False				_	0-2(0)	
 BO147	636	che	che	che	linguistic		_	False	False	False	False				_	0-3(0)	
 BO147	636	è	è	è	linguistic		_	False	False	False	False				_	0-1(0)	
 BO147	636	un	un	un	linguistic		_	False	False	False	False				_	0-2(0)	
-BO147	636	braccialetto	braccialetto	bracciale[tto	linguistic		_	False	False	False	False				_	0-12(0)	10-12(?)
-BO147	636	xx	xx	xx])	linguistic	End=944.76	_	True	False	False	False				_	0-2(0)	0-2(?)
+BO147	636	braccialetto	braccialetto	bracciale[tto	linguistic		_	False	False	False	False				_	0-12(0)	10-12(637)
+BO147	636	xx	xx	xx])	linguistic	End=944.76	_	True	False	False	False				_	0-2(0)	0-2(637)
 BO145	637	te	te	[te	linguistic	Begin=944.44	_	False	False	False	False				_		0-2(636)
 BO145	637	non	non	non	linguistic		_	False	False	False	False				_		0-3(636)
 BO145	637	mangi	mangi	ma]ngi	linguistic		_	False	False	False	False				_		0-4(636)
@@ -2762,7 +2762,7 @@ BO147	661	vuoi	vuoi	vuoi	linguistic		_	False	False	False	False				_
 BO147	661	un	un	un	linguistic		_	False	False	False	False				_		
 BO147	661	braccialetto	braccialetto?	braccialetto?	linguistic		ascending	False	False	False	False				_		
 BO147	661	{ride}	{ride}	{ride}	metalinguistic	End=995.56	_	False	False	False	False				_		
-BO145	662	pasqua	pasqua	pasqua	linguistic	Begin=995.521	_	False	False	False	False				_		
+BO145	662	pasqua	pasqua	pasqua	linguistic	Begin=995.621	_	False	False	False	False				_		
 BO145	662	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO145	662	vuoi	vuoi	vuoi	linguistic		_	False	False	False	False				_		
 BO145	662	che	che	che	linguistic		_	False	False	False	False				_		
@@ -2956,7 +2956,7 @@ BO145	699	ma	ma	ma	linguistic	End=1107.966	_	False	False	False	False				_
 BO147	700	ma	ma	ma	linguistic	Begin=1108.936	_	False	False	False	False				_		
 BO147	700	che	che	che	linguistic		_	False	False	False	False				_		
 BO147	700	schifo	schifo	schifo	linguistic	End=1109.656	_	False	False	False	False				_		
-BO145	701	è	è	è	linguistic	Begin=1109.646	_	False	False	False	False				_		
+BO145	701	è	è	è	linguistic	Begin=1109.7459999999999	_	False	False	False	False				_		
 BO145	701	là	là	là	linguistic		_	False	False	False	False				_		
 BO145	701	dietro	dietro::	dietro::	linguistic	End=1111.236	_	False	False	False	False	5x2			_		
 BO139	702	è	è	è	linguistic	Begin=1112.72	_	False	False	False	False				_		
@@ -2972,7 +2972,7 @@ BO145	706	ancora	ancora	ancora	linguistic	End=1119.175	_	False	False	False	False
 BO139	707	ah	ah	ah	linguistic	Begin=1119.245	_	False	False	False	False				_		
 BO139	707	sì	sì?	sì?	linguistic	End=1119.745	ascending	False	False	False	False				_		
 BO145	708	sì	sì	sì	linguistic	End=1120.015	_	False	False	False	False				_		
-BO139	709	ah	ah	ah	linguistic	Begin=1120.014	_	False	False	False	False				_		
+BO139	709	ah	ah	ah	linguistic	Begin=1120.1139999999998	_	False	False	False	False				_		
 BO139	709	non	non	non	linguistic		_	False	False	False	False				_		
 BO139	709	l'avevo	l'avevo	l'>avevo<	error		_	False	False	False	False			2-7(0)	_		
 BO139	709	visto	visto	visto	linguistic		_	False	False	False	False			0-1(0)	_		
@@ -3061,7 +3061,7 @@ BO146	736	me	me	me	linguistic		_	False	False	False	False				_		0-2(735)
 BO146	736	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(735)
 BO146	736	prendi	prendi	prendi]	linguistic	End=1156.761	_	False	False	False	False				_		0-6(735)
 BO145	737	{ride}	{ride}	{ride}	metalinguistic	End=1157.829	_	False	False	False	False				_		
-BO146	738	cioè	cioè	>cioè<	linguistic	Begin=1157.82	_	False	False	False	False			0-4(0)	_		
+BO146	738	cioè	cioè	>cioè<	linguistic	Begin=1157.9199999999998	_	False	False	False	False			0-4(0)	_		
 BO146	738	se	se	se	linguistic		_	False	False	False	False			0-1(0)	_		
 BO146	738	me	me	me	linguistic		_	False	False	False	False				_		
 BO146	738	lo	lo	lo	linguistic		_	False	False	False	False				_		
@@ -3077,7 +3077,7 @@ BO145	741	lo	lo	lo	linguistic		_	False	False	False	False				_
 BO145	741	prendi	prendi	prendi	linguistic		_	False	False	False	False				_		
 BO145	741	xxxxx	xxxxx	xxxxx	linguistic	End=1161.851	_	True	False	False	False				_		
 BO139	742	{ride}	{ride}	{ride}	metalinguistic	End=1161.637	_	False	False	False	False				_		
-BO147	743	da	da	da	linguistic	Begin=1161.605	_	False	False	False	False				_		
+BO147	743	da	da	da	linguistic	Begin=1161.705	_	False	False	False	False				_		
 BO147	743	natura	natura	natura	linguistic		_	False	False	False	False				_		
 BO147	743	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO147	743	compraglielo	compraglielo	compraglielo	linguistic		_	False	False	False	False				_		
@@ -3296,16 +3296,16 @@ BO145	788	cazzi	cazzi	cazzi	linguistic		_	False	False	False	False				_
 BO145	788	no	no	no	linguistic	End=1227.257	_	False	False	False	False				_		
 BO147	789	{ride}	{ride}	{ride}	metalinguistic	End=1228.677	_	False	False	False	False				_		
 BO145	790	s'	s'	s'	linguistic	Begin=1228.165	_	False	False	True	False				_		
-BO145	790	aggrappa	aggrappa	aggrappa	linguistic	End=1228.948	_	False	False	False	False				_		
+BO145	790	aggrappa	aggrappa	aggrappa	linguistic	End=1228.8480000000002	_	False	False	False	False				_		
 BO139	791	{ride}	{ride}	{ride}	metalinguistic	End=1229.577	_	False	False	False	False				_		
-BO147	792	{ride}	{ride}	{ride}	metalinguistic	End=1232.144	_	False	False	False	False				_		
+BO147	792	{ride}	{ride}	{ride}	metalinguistic	End=1232.044	_	False	False	False	False				_		
 BO145	793	te	te	te	linguistic	Begin=1232.135	_	False	False	False	False				_		
 BO145	793	sei	sei	sei	linguistic		_	False	False	False	False				_		
 BO145	793	sicuro	sicuro	sicuro	linguistic		_	False	False	False	False				_		
 BO145	793	che	che	che	linguistic		_	False	False	False	False				_		
 BO145	793	vuoi	vuoi	vuoi	linguistic		_	False	False	False	False				_		
 BO145	793	presentare	presentare	(presentare)	linguistic		_	False	False	False	False				_	0-10(0)	
-BO145	793	questa	questa?	questa?	linguistic	End=1233.927	ascending	False	False	False	False				_	0-1(0)	
+BO145	793	questa	questa?	questa?	linguistic	End=1233.827	ascending	False	False	False	False				_	0-1(0)	
 BO139	794	{ride}	{ride}	{ride}	metalinguistic	End=1234.377	_	False	False	False	False				_		
 BO147	795	{ride}	{ride}	{ride}	metalinguistic	End=1235.323	_	False	False	False	False				_		
 BO147	796	eh	eh	eh	linguistic	Begin=1235.365	_	False	False	False	False				_		
@@ -3333,7 +3333,7 @@ BO139	801	bel	bel	bel	linguistic		_	False	False	False	False				_
 BO139	801	bestemmione	bestemmione	bestemmione	linguistic		_	False	False	False	False				_		
 BO139	801	in	in	in	linguistic		_	False	False	False	False				_		
 BO139	801	coro	coro	coro	linguistic		_	False	False	False	False				_		
-BO139	801	{ride}	{ride}	{ride}	metalinguistic	End=1242.714	_	False	False	False	False				_		
+BO139	801	{ride}	{ride}	{ride}	metalinguistic	End=1242.614	_	False	False	False	False				_		
 BO147	802	{ride}	{ride}	{ride}	metalinguistic	End=1243.876	_	False	False	False	False				_		
 BO139	803	{ride}	{ride}	{ride}	metalinguistic	End=1244.226	_	False	False	False	False				_		
 BO147	804	{ride}	{ride}	{ride}	metalinguistic	End=1245.363	_	False	False	False	False				_		
@@ -3399,7 +3399,7 @@ BO139	817	{ride}	{ride}	{ride}	metalinguistic	End=1276.551	_	False	False	False	F
 BO139	818	niente	niente	niente	linguistic	End=1277.326	_	False	False	False	False				_		
 BO139	819	{ride}	{ride}	{ride}	metalinguistic	End=1279.08	_	False	False	False	False				_		
 BO139	820	{ride}	{ride}	{ride}	metalinguistic	End=1280.713	_	False	False	False	False				_		
-BO145	821	me	me	me	linguistic	Begin=1280.709	_	False	False	False	False				_		
+BO145	821	me	me	me	linguistic	Begin=1280.809	_	False	False	False	False				_		
 BO145	821	l'	l'	l'	linguistic		_	False	False	True	False				_		
 BO145	821	hai	hai	hai	linguistic		_	False	False	False	False				_		
 BO145	821	gia	gia	gia	linguistic		_	False	False	False	False				_		
@@ -3430,7 +3430,7 @@ BO139	825	mh	mh	mh	linguistic	End=1289.476	_	False	False	False	False				_
 BO147	826	{ride}	{ride}	{ride}	metalinguistic	End=1290.363	_	False	False	False	False				_		
 BO145	827	che	che	che	linguistic	Begin=1292.28	_	False	False	False	False				_		
 BO145	827	è	è?	è?	linguistic	End=1292.588	ascending	False	False	False	False				_		
-BO145	828	{ride}	{ride}	{ride}	metalinguistic	End=1293.997	_	False	False	False	False				_		
+BO145	828	{ride}	{ride}	{ride}	metalinguistic	End=1293.8970000000002	_	False	False	False	False				_		
 BO139	829	esse	esse	esse	linguistic	Begin=1293.993	_	False	False	False	False				_		
 BO139	829	o	o	o	linguistic		_	False	False	False	False				_		
 BO139	829	esse	esse	esse	linguistic	End=1294.776	_	False	False	False	False				_		
@@ -3460,14 +3460,14 @@ BO147	840	{ride}	{ride}	{ride}	metalinguistic	End=1305.65	_	False	False	False	Fa
 BO139	841	xxx	xxx	xxx	linguistic	End=1306.938	_	True	False	False	False				_		
 BO146	842	{ride}	{ride}	{ride}	metalinguistic	End=1306.963	_	False	False	False	False				_		
 BO139	843	e	e:	e:	linguistic	End=1308.605	_	False	False	False	False	0x1			_		
-BO139	844	pvu	PVU	[PVU]	linguistic	Begin=1308.696	_	False	False	False	False				high		0-3(845)
-BO139	844	la	la	la	linguistic		_	False	False	False	False				_		0-1(845)
+BO139	844	pvu	PVU	[PVU]	linguistic	Begin=1308.696	_	False	False	False	False				high		0-3(?)
+BO139	844	la	la	la	linguistic		_	False	False	False	False				_		0-1(?)
 BO139	844	relazione	relazione	relazione	linguistic		_	False	False	False	False				_		
 BO139	844	in	in	in	linguistic		_	False	False	False	False				_		
-BO139	844	frantumi	frantumi	frantumi	linguistic	End=1310.246	_	False	False	False	False				_		
+BO139	844	frantumi	frantumi	frantumi	linguistic	End=1310.1460000000002	_	False	False	False	False				_		
 BO147	845	{ride}	{ride}	{ride}	metalinguistic	End=1310.825	_	False	False	False	False				_		
 BO145	846	{ride}	{ride}	{ride}	metalinguistic	End=1310.954	_	False	False	False	False				_		
-BO139	847	per	per	per	linguistic	Begin=1310.929	_	False	False	False	False				_		
+BO139	847	per	per	per	linguistic	Begin=1311.029	_	False	False	False	False				_		
 BO139	847	un	un	un	linguistic		_	False	False	False	False				_		
 BO139	847	{ride}	{ride}	{ride}	metalinguistic	End=1311.662	_	False	False	False	False				_		
 BO146	848	{ride}	{ride}	{ride}	metalinguistic	End=1312.266	_	False	False	False	False				_		
@@ -3475,7 +3475,7 @@ BO139	849	{ride}	{ride}	{ride}	metalinguistic	End=1317.9	_	False	False	False	Fal
 BO145	850	cioè	cioè	>cioè<	linguistic	Begin=1315.533	_	False	False	False	False			0-4(0)	_		
 BO145	850	{ride}	{ride}	{ride}	metalinguistic	End=1316.241	_	False	False	False	False			0-1(0)	_		
 BO139	851	{ride}	{ride}	{ride}	metalinguistic	End=1319.875	_	False	False	False	False				_		
-BO145	852	non	non	non	linguistic	Begin=1319.87	_	False	False	False	False				_		
+BO145	852	non	non	non	linguistic	Begin=1319.9699999999998	_	False	False	False	False				_		
 BO145	852	sei	sei	sei	linguistic		_	False	False	False	False				_		
 BO145	852	serio	serio	serio	linguistic		_	False	False	False	False				_		
 BO145	852	con	con	con	linguistic		_	False	False	False	False				_		
@@ -3533,7 +3533,7 @@ BO145	868	più	più	più	linguistic		_	False	False	False	False				_
 BO145	868	brutto	brutto	brutto	linguistic	End=1343.337	_	False	False	False	False				_		
 BO139	869	{ride}	{ride}	{ride}	metalinguistic	End=1345.428	_	False	False	False	False				_		
 BO139	870	{schiocca_un_bacio}	{schiocca_un_bacio}	{schiocca_un_bacio}	metalinguistic	End=1347.161	_	False	False	False	False				_		
-BO145	871	{ride}	{ride}	{ride}	metalinguistic	End=1348.374	_	False	False	False	False				_		
+BO145	871	{ride}	{ride}	{ride}	metalinguistic	End=1348.2740000000001	_	False	False	False	False				_		
 BO139	872	tra	tra	tra	linguistic	Begin=1348.369	_	False	False	False	False				_		
 BO139	872	l'	l'	l'	linguistic		_	False	False	True	False				_		
 BO139	872	altro	altro	altro	linguistic		_	False	False	False	False				_		
@@ -3593,7 +3593,7 @@ BO139	889	persona	persona	persona	linguistic	End=1377.758	_	False	False	False	Fa
 BO145	890	ah	ah	ah	linguistic	Begin=1377.781	_	False	False	False	False				_		
 BO145	890	okay	okay	okay	linguistic		_	False	False	False	False				_		
 BO145	890	fantastico	fantastico	fantastico	linguistic		_	False	False	False	False				_		
-BO145	890	cazzo	cazzo	cazzo	linguistic	End=1379.748	_	False	False	False	False				_		
+BO145	890	cazzo	cazzo	cazzo	linguistic	End=1379.6480000000001	_	False	False	False	False				_		
 BO146	891	{ride}	{ride}	{ride}	metalinguistic	End=1380.699	_	False	False	False	False				_		
 BO139	892	quindi	quindi	>quindi<	linguistic	Begin=1380.01	_	False	False	False	False			0-6(0)	_		
 BO139	892	s~	s~	s~	linguistic		_	False	True	False	False			0-1(0)	_		
@@ -3617,10 +3617,10 @@ BO145	894	posso	posso	posso	linguistic		_	False	False	False	False				_
 BO145	894	censu~	censu~	(censu~	linguistic		_	False	True	False	False				_	0-6(0)	
 BO145	894	censurare	censurare	censurare)	linguistic	End=1384.797	_	False	False	False	False				_	0-9(0)	
 BO139	895	sussus	sussus	(sussus)	linguistic	End=1385.472	_	False	False	False	False				_	0-6(0)	
-BO145	896	come	come	come	linguistic	Begin=1385.459	_	False	False	False	False				_		
+BO145	896	come	come	come	linguistic	Begin=1385.559	_	False	False	False	False				_		
 BO145	896	si	si	si	linguistic		_	False	False	False	False				_		
 BO145	896	fa	fa	fa	linguistic		_	False	False	False	False				_		
-BO145	896	xxxxxx	xxxxxx	x[xxxxx]	linguistic	End=1387.043	_	True	False	False	False				_		1-6(?)
+BO145	896	xxxxxx	xxxxxx	x[xxxxx]	linguistic	End=1387.043	_	True	False	False	False				_		1-6(897)
 BO147	897	dai	da:i	[da:i]	linguistic	End=1387.022	_	False	False	False	False	1x1			_		0-3(896)
 BO139	898	{ride}	{ride}	{ride}	metalinguistic	End=1388.022	_	False	False	False	False				_		
 BO139	899	testa	testa	testa	linguistic	Begin=1388.047	_	False	False	False	False				_		
@@ -3732,7 +3732,7 @@ BO147	922	più	più	più	linguistic		_	False	False	False	False				_
 BO147	922	colorita	colorita	colorita	linguistic	End=1424.323	_	False	False	False	False				_		
 BO139	923	{ride}	{ride}	{ride}	metalinguistic	End=1425.381	_	False	False	False	False				_		
 BO145	924	certo	certo	certo	linguistic	End=1425.406	_	False	False	False	False				_		
-BO139	925	la	la	la	linguistic	Begin=1425.381	_	False	False	False	False				_		
+BO139	925	la	la	la	linguistic	Begin=1425.481	_	False	False	False	False				_		
 BO139	925	prima	prima	prima	linguistic		_	False	False	False	False				_		
 BO139	925	c'	c'	c'	linguistic		_	False	False	True	False				_		
 BO139	925	e~	e~	e~	linguistic		_	False	True	False	False				_		
@@ -3805,7 +3805,7 @@ BO139	933	metti	metti	metti	linguistic		_	False	False	False	False				_
 BO139	933	una	una	una	linguistic		_	False	False	False	False				_		
 BO139	933	roba	roba	roba	linguistic		_	False	False	False	False				_		
 BO139	933	deol	deol	deol	linguistic		_	False	False	False	False				_		
-BO139	933	genere	genere	genere	linguistic	End=1447.631	_	False	False	False	False				_		
+BO139	933	genere	genere	genere	linguistic	End=1447.5310000000002	_	False	False	False	False				_		
 BO145	934	è	è	è	linguistic	Begin=1447.626	_	False	False	False	False				_		
 BO145	934	già	già	già	linguistic		_	False	False	False	False				_		
 BO145	934	pericolosa	pericolosa	pericolosa	linguistic	End=1448.468	_	False	False	False	False				_		
@@ -3969,10 +3969,10 @@ BO139	950	xxxxx	xxxxx	xxxxx	linguistic		_	True	False	False	False				_
 BO139	950	solo	solo	solo	linguistic		_	False	False	False	False				_		
 BO139	950	l'	l'	l'	linguistic		_	False	False	True	False				_		
 BO139	950	informazione	informazione	infor[mazione]	linguistic	End=1489.509	_	False	False	False	False				_		5-12(951)
-BO147	951	mi	mi	[(mi)	linguistic	Begin=1488.763	_	False	False	False	False				_	1-2(0)	0-2(?)
-BO147	951	immagino	immagino	immagino	linguistic		_	False	False	False	False				_	0-2(0)	0-8(?)
-BO147	951	la	la	la]	linguistic		_	False	False	False	False				_		0-2(?)
-BO147	951	madre	madre	madre	linguistic	End=1490.097	_	False	False	False	False				_		0-3(?)
+BO147	951	mi	mi	[(mi)	linguistic	Begin=1488.763	_	False	False	False	False				_	1-2(0)	0-2(950)
+BO147	951	immagino	immagino	immagino	linguistic		_	False	False	False	False				_	0-2(0)	0-8(950)
+BO147	951	la	la	la]	linguistic		_	False	False	False	False				_		0-2(950)
+BO147	951	madre	madre	madre	linguistic	End=1489.997	_	False	False	False	False				_		0-3(950)
 BO139	952	{ride}	{ride}	{ride}	metalinguistic	End=1490.701	_	False	False	False	False				_		
 BO139	953	x	x	[x]	linguistic	End=1491.75	_	True	False	False	False				_		0-1(954)
 BO145	954	x	x	[x	linguistic	Begin=1491.28	_	True	False	False	False				_		0-1(953)
@@ -4127,9 +4127,9 @@ BO139	985	senti	senti	senti	linguistic		_	False	False	False	False				_
 BO139	985	questo	questo	questo	linguistic		_	False	False	False	False				_		
 BO139	985	pezzo	pezzo	pezzo	linguistic		_	False	False	False	False				_		
 BO139	985	xxxxxx	xxxxxx	[xxxxxx]	linguistic		_	True	False	False	False				_		2-6(?)
-BO139	985	{ride}	{ride}	{ride}	metalinguistic	End=1570.305	_	False	False	False	False				_		0-3(?)
+BO139	985	{ride}	{ride}	{ride}	metalinguistic	End=1570.2050000000002	_	False	False	False	False				_		0-3(?)
 BO146	986	{ride}	{ride}	{ride}	metalinguistic	End=1569.266	_	False	False	False	False				_		
-BO146	987	xx	xx	[xx]	linguistic	End=1570.142	_	True	False	False	False				_		0-2(985+988)
+BO146	987	xx	xx	[xx]	linguistic	End=1570.142	_	True	False	False	False				_		0-2(988+985)
 BO145	988	{ride}	{ride}	{ride}	metalinguistic	End=1573.199	_	False	False	False	False				_		
 BO147	989	{ride}	{ride}	{ride}	metalinguistic	End=1571.749	_	False	False	False	False				_		
 BO146	990	{ride}	{ride}	{ride}	metalinguistic	End=1572.112	_	False	False	False	False				_		
@@ -4249,7 +4249,7 @@ BO146	1016	ah	ah	[ah	linguistic	Begin=1608.774	_	False	False	False	False				_		0
 BO146	1016	yes	yes	(yes	linguistic		_	False	False	False	False				_	1-3(0)	0-3(1015)
 BO146	1016	indeed	indeed	indeed)]	linguistic	End=1610.016	_	False	False	False	False				_	0-6(0)	0-6(1015)
 BO145	1017	je	je:	(je:)	linguistic	End=1610.824	_	False	False	False	False	1x1			_	0-2(0)	
-BO147	1018	sì	sì	sì	linguistic	Begin=1610.786	_	False	False	False	False				_		
+BO147	1018	sì	sì	sì	linguistic	Begin=1610.886	_	False	False	False	False				_		
 BO147	1018	ma	ma:	ma:	linguistic		_	False	False	False	True	1x1			_		
 BO147	1018	mh	mh		linguistic	End=1611.891	_	False	False	False	False				_		
 BO146	1019	{ride}	{ride}	{ride}	metalinguistic	End=1611.849	_	False	False	False	False				_		
@@ -4394,30 +4394,30 @@ BO139	1053	ti	ti	ti	linguistic		_	False	False	False	False				_
 BO139	1053	entra	entra	entra	linguistic		_	False	False	False	False				_		
 BO139	1053	{ride}	{ride}	{ride}	metalinguistic	End=1652.071	_	False	False	False	False				_		
 BO139	1054	{ride}	{ride}	{ride}	metalinguistic	End=1653.259	_	False	False	False	False				_		
-BO147	1055	immaginavo	immaginavo	[immaginavo]	linguistic	End=1654.179	_	False	False	False	False				_		0-10(?)
-BO139	1056	no	no	[no	linguistic	Begin=1653.28	_	False	False	False	False				_		0-2(1055+1057)
-BO139	1056	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(1055+1057)
-BO139	1056	era	era	era]	linguistic	End=1654.471	_	False	False	False	False				_		0-3(1055+1057)
-BO145	1057	una	una	[una	linguistic	Begin=1654.133	_	False	False	False	False				_		0-3(1055+1056)
-BO145	1057	cagata	cagata	ca]gata	linguistic		_	False	False	False	False				_		0-4(1055+1056)
+BO147	1055	immaginavo	immaginavo	[immaginavo]	linguistic	End=1654.179	_	False	False	False	False				_		0-10(1056)
+BO139	1056	no	no	[no	linguistic	Begin=1653.28	_	False	False	False	False				_		0-2(?)
+BO139	1056	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
+BO139	1056	era	era	era]	linguistic	End=1654.471	_	False	False	False	False				_		0-3(?)
+BO145	1057	una	una	[una	linguistic	Begin=1654.233	_	False	False	False	False				_		0-3(?)
+BO145	1057	cagata	cagata	ca]gata	linguistic		_	False	False	False	False				_		0-4(?)
 BO145	1057	l	l	l	linguistic		_	False	False	False	False				_		
 BO145	1057	deve	deve	deve	linguistic		_	False	False	False	False				_		
 BO145	1057	sparare	sparare	(sparare)	linguistic		_	False	False	False	False				_	2-7(0)	
 BO145	1057	sempre	sempre	sempre	linguistic		_	False	False	False	False				_	0-3(0)	
 BO145	1057	e	e	e	linguistic		_	False	False	False	False				_		
 BO145	1057	comunque	comunque	comun[que	linguistic		_	False	False	False	False				_		
-BO145	1057	xxx	xxx	xxx]	linguistic	End=1657.341	_	True	False	False	False				_		0-3(1058+1059+1060)
+BO145	1057	xxx	xxx	xxx]	linguistic	End=1657.341	_	True	False	False	False				_		0-3(?)
 BO147	1058	{ride}	{ride}	{ride}	metalinguistic	End=1656.767	_	False	False	False	False				_		
 BO139	1059	{ride}	{ride}	{ride}	metalinguistic	End=1656.346	_	False	False	False	False				_		
-BO146	1060	cos'	cos'	[cos'	linguistic	Begin=1656.325	_	False	False	True	False				_		0-4(1057+1058+1059)
-BO146	1060	è	è	è	linguistic		_	False	False	False	False				_		0-1(1057+1058+1059)
-BO146	1060	che	che	che	linguistic		_	False	False	False	False				_		0-3(1057+1058+1059)
-BO146	1060	ha	ha	ha	linguistic		_	False	False	False	False				_		0-2(1057+1058+1059)
-BO146	1060	detto	detto	detto	linguistic		_	False	False	False	False				_		0-5(1057+1058+1059)
-BO146	1060	scusa	scusa?	scusa?]	linguistic	End=1657.366	ascending	False	False	False	False				_		0-5(1057+1058+1059)
+BO146	1060	cos'	cos'	[cos'	linguistic	Begin=1656.425	_	False	False	True	False				_		0-4(1057+1058)
+BO146	1060	è	è	è	linguistic		_	False	False	False	False				_		0-1(1057+1058)
+BO146	1060	che	che	che	linguistic		_	False	False	False	False				_		0-3(1057+1058)
+BO146	1060	ha	ha	ha	linguistic		_	False	False	False	False				_		0-2(1057+1058)
+BO146	1060	detto	detto	detto	linguistic		_	False	False	False	False				_		0-5(1057+1058)
+BO146	1060	scusa	scusa?	scusa?]	linguistic	End=1657.366	ascending	False	False	False	False				_		0-5(1057+1058)
 BO139	1061	niente	niente	niente	linguistic	Begin=1657.5	_	False	False	False	False				_		
 BO139	1061	{ride}	{ride}	{ride}	metalinguistic	End=1657.983	_	False	False	False	False				_		
-BO146	1062	no	no	no	linguistic	Begin=1657.945	_	False	False	False	False				_		
+BO146	1062	no	no	no	linguistic	Begin=1658.0449999999998	_	False	False	False	False				_		
 BO146	1062	no	no	no	linguistic		_	False	False	False	False				_		
 BO146	1062	vo~	vo~	vo~	linguistic		_	False	True	False	False				_		
 BO146	1062	x	x	x	linguistic		_	True	False	False	False				_		
@@ -4492,7 +4492,7 @@ BO146	1077	uguale	uguale	uguale	linguistic	End=1680.367	_	False	False	False	Fals
 BO139	1078	{ride}	{ride}	{ride}	metalinguistic	End=1680.446	_	False	False	False	False				_		
 BO139	1079	{ride}	{ride}	{ride}	metalinguistic	End=1681.713	_	False	False	False	False				_		
 BO147	1080	{ride}	{ride}	{ride}	metalinguistic	End=1681.742	_	False	False	False	False				_		
-BO145	1081	ma	ma	ma	linguistic	Begin=1681.683	_	False	False	False	False				_		
+BO145	1081	ma	ma	ma	linguistic	Begin=1681.783	_	False	False	False	False				_		
 BO145	1081	adesso	adesso	adesso	linguistic	End=1682.875	_	False	False	False	False				_		
 BO147	1082	xxxxx	xxxxx	xxxxx	linguistic	End=1683.763	_	True	False	False	False				_		
 BO139	1083	ma	ma	ma	linguistic	Begin=1683.963	_	False	False	False	False				_		
@@ -4553,10 +4553,10 @@ BO145	1087	da	da	da	linguistic		_	False	False	False	False		0-2(0)		_
 BO145	1087	quando	quando	quando	linguistic		_	False	False	False	False		0-2(0)		_		
 BO145	1087	sono	sono	(sono)	linguistic		_	False	False	False	False				_		
 BO145	1087	nata	nata	nata	linguistic		_	False	False	False	False				_	1-4(0)	
-BO145	1087	penso	penso	p[enso]	linguistic	End=1696.59	_	False	False	False	False				_	0-2(0)	
+BO145	1087	penso	penso	p[enso]	linguistic	End=1696.49	_	False	False	False	False				_	0-2(0)	
 BO146	1088	xxxx	xxxx	[xxxx]	linguistic	End=1693.123	_	True	False	False	False				_		0-4(1086+1087)
-BO139	1089	mh	mh	[mh	linguistic	Begin=1696.111	_	False	False	False	False				_		0-2(1087+1090)
-BO139	1089	mh	mh	mh]	linguistic	End=1696.694	_	False	False	False	False				_		0-2(1087+1090)
+BO139	1089	mh	mh	[mh	linguistic	Begin=1696.111	_	False	False	False	False				_		0-2(?)
+BO139	1089	mh	mh	mh]	linguistic	End=1696.694	_	False	False	False	False				_		0-2(?)
 BO147	1090	{ride}	{ride}	{ride}	metalinguistic	End=1697.061	_	False	False	False	False				_		
 BO145	1091	e	e	e	linguistic	Begin=1697.119	_	False	False	False	False				_		
 BO145	1091	poi	poi	poi	linguistic		_	False	False	False	False				_		
@@ -4821,7 +4821,7 @@ BO139	1147	xx	xx	xx	linguistic	End=1789.115	_	True	False	False	False				_
 BO145	1148	che	che	che	linguistic	Begin=1789.856	_	False	False	False	False				_		
 BO145	1148	cos'	cos'	cos'	linguistic		_	False	False	True	False				_		
 BO145	1148	è	è	è	linguistic		_	False	False	False	False				_		
-BO145	1148	salato	salato?	salato?	linguistic	End=1790.873	ascending	False	False	False	False				_		
+BO145	1148	salato	salato?	salato?	linguistic	End=1790.7730000000001	ascending	False	False	False	False				_		
 BO139	1149	mh	mh	mh	linguistic	End=1791.51	_	False	False	False	False				_		
 BO139	1150	xx	xx	xx	linguistic	End=1793.148	_	True	False	False	False				_		
 BO139	1151	metti	metti	metti	linguistic	Begin=1793.21	_	False	False	False	False				_		
@@ -4896,8 +4896,8 @@ BO139	1165	qua	qua	qua	linguistic	End=1815.021	_	False	False	False	False				_
 BO145	1166	ah	ah	[ah]	linguistic	End=1814.646	_	False	False	False	False				_		0-2(1165)
 BO145	1167	mh	mh	mh	linguistic	End=1815.621	_	False	False	False	False				_		
 BO139	1168	le	le	le	linguistic	Begin=1815.8	_	False	False	False	False				_		
-BO139	1168	comunicazioni	comunicazioni	comunicazion[i]	linguistic	End=1816.758	_	False	False	False	False				_		12-13(1169)
-BO145	1169	a	a	a	linguistic	Begin=1816.708	_	False	False	False	False				_		
+BO139	1168	comunicazioni	comunicazioni	comunicazion[i]	linguistic	End=1816.758	_	False	False	False	False				_		12-13(?)
+BO145	1169	a	a	a	linguistic	Begin=1816.808	_	False	False	False	False				_		
 BO145	1169	quanti	quanti	quanti	linguistic		_	False	False	False	False				_		
 BO145	1169	minuti	minuti	minuti	linguistic		_	False	False	False	False				_		
 BO145	1169	siamo	siamo?	siamo?	linguistic	End=1817.683	ascending	False	False	False	False				_		

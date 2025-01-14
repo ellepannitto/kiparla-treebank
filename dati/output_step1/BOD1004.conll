@@ -219,7 +219,7 @@ BO093	15	atrocitoma	atrocitoma	atrocitoma	linguistic		_	False	False	False	False	
 BO093	15	aliomi	aliomi	aliomi	linguistic		_	False	False	False	False				_		
 BO093	15	di	di	di	linguistic		_	False	False	False	False				_		
 BO093	15	microgliomi	microgliomi,	microgliomi,	linguistic	End=119.647	weakly_ascending	False	False	False	False				_		
-BO093	16	e	e:	e:)	linguistic	Begin=119.995	_	False	False	False	False	0x1			_		
+BO093	16	e	e:	e:	linguistic	Begin=119.995	_	False	False	False	False	0x1			_		
 BO093	16	e	e	e	linguistic		_	False	False	False	False				_		
 BO093	16	così	così	così	linguistic		_	False	False	False	False				_		
 BO093	16	via	via.	via.	linguistic	End=121.024	descending	False	False	False	False				_		

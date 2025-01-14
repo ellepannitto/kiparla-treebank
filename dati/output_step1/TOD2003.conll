@@ -491,8 +491,8 @@ TO083	70	a	a	a	linguistic		_	False	False	False	False				_
 TO083	70	torino	torino	torino	linguistic		_	False	False	False	False				_		
 TO083	70	solo	solo	solo	linguistic		_	False	False	False	False				_		
 TO083	70	che	che	c[he	linguistic		_	False	False	False	False				_		
-TO083	70	ho	ho	ho]	linguistic		_	False	False	False	False				_		0-2(?)
-TO083	70	cambiato	cambiato	cambiato	linguistic		_	False	False	False	False				_		0-4(?)
+TO083	70	ho	ho	ho]	linguistic		_	False	False	False	False				_		0-2(71)
+TO083	70	cambiato	cambiato	cambiato	linguistic		_	False	False	False	False				_		0-4(71)
 TO083	70	tante	tante	tante	linguistic		_	False	False	False	False				_		
 TO083	70	case	case	case	linguistic		_	False	False	False	False				_		
 TO083	70	da	da	da	linguistic		_	False	False	False	False				_		
@@ -500,7 +500,7 @@ TO083	70	studentessa	studentessa	studentessa	linguistic		_	False	False	False	Fal
 TO083	70	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
 TO083	70	non	non	non	linguistic		_	False	False	False	False				_		
 TO083	70	ho	ho	ho	linguistic		_	False	False	False	False				_		
-TO083	70	un	un,	un,	linguistic	End=191.144	weakly_ascending	False	False	False	False				_		
+TO083	70	un	un,	un,	linguistic	End=191.044	weakly_ascending	False	False	False	False				_		
 TO999	71	ah	ah.	[ah.]	linguistic	End=188.581	descending	False	False	False	False				_		0-2(70)
 TO999	72	ah	ah	ah	linguistic	Begin=191.143	_	False	False	False	False				_		
 TO999	72	okay	okay	okay	linguistic		_	False	False	False	False				_		
@@ -513,9 +513,9 @@ TO999	72	case	case	case	linguistic		_	False	False	False	False				_
 TO999	72	dove	dove	dove	linguistic		_	False	False	False	False				_		
 TO999	72	hai	hai	hai	linguistic		_	False	False	False	False				_		
 TO999	72	vissuto	vissuto	vissuto	linguistic		_	False	False	False	False				_		
-TO999	72	xx	xx	[xx	linguistic		_	True	False	False	False				_		0-2(?)
-TO999	72	xx	xx	xx	linguistic		_	True	False	False	False				_		0-2(?)
-TO999	72	xxnte	xxnte.	xxnte.]	linguistic	End=195.221	descending	False	False	False	False				_		0-5(?)
+TO999	72	xx	xx	[xx	linguistic		_	True	False	False	False				_		0-2(73)
+TO999	72	xx	xx	xx	linguistic		_	True	False	False	False				_		0-2(73)
+TO999	72	xxnte	xxnte.	xxnte.]	linguistic	End=195.221	descending	False	False	False	False				_		0-5(73)
 TO083	73	le	le	[le	linguistic	Begin=193.558	_	False	False	False	False				_		0-2(72)
 TO083	73	case	case	case	linguistic		_	False	False	False	False				_		0-4(72)
 TO083	73	dove	dove	dove	linguistic		_	False	False	False	False				_		0-4(72)
@@ -1057,7 +1057,7 @@ TO083	147	accento	accento	accento	linguistic		_	False	False	False	False				_
 TO083	147	più	più	più	linguistic		_	False	False	False	False				_		
 TO083	147	noioso	noioso	noioso	linguistic		_	False	False	False	False				_		
 TO083	147	del	del	del	linguistic		_	False	False	False	False				_		
-TO083	147	mondo	mondo,	mondo,	linguistic	End=381.411	weakly_ascending	False	False	False	False				_		
+TO083	147	mondo	mondo,	mondo,	linguistic	End=381.311	weakly_ascending	False	False	False	False				_		
 TO999	148	{ride}	{ride}	{ride}	metalinguistic	Begin=381.41	_	False	False	False	False				_		
 TO999	148	perché	perché?	perché?	linguistic	End=382.818	ascending	False	False	False	False				_		
 TO083	149	sono	sono	sono	linguistic	Begin=383.355	_	False	False	False	False				_		
@@ -1420,13 +1420,13 @@ TO083	192	lo	lo	lo	linguistic		_	False	False	False	False				_
 TO083	192	so	so.	so.	linguistic	End=509.345	descending	False	False	False	False				_		
 TO083	193	difficile	difficile	difficile	linguistic	Begin=509.783	_	False	False	False	False				_		
 TO083	193	eh	eh,	eh,	linguistic	End=510.677	weakly_ascending	False	False	False	False				_		
-TO999	194	quindi	quindi	quindi	linguistic	Begin=510.676	_	False	False	False	False				_		
+TO999	194	quindi	quindi	quindi	linguistic	Begin=510.776	_	False	False	False	False				_		
 TO999	194	non	non	non	linguistic		_	False	False	False	False				_		
 TO999	194	ti	ti	ti	linguistic		_	False	False	False	False				_		
 TO999	194	succede	succede	succede	linguistic		_	False	False	False	False				_		
 TO999	194	niente	niente	niente	linguistic		_	False	False	False	False				_		
-TO999	194	di	di	[di	linguistic		_	False	False	False	False				_		0-2(?)
-TO999	194	particolare	particolare,	particolare,]	linguistic	End=512.991	weakly_ascending	False	False	False	False				_		0-11(?)
+TO999	194	di	di	[di	linguistic		_	False	False	False	False				_		0-2(195)
+TO999	194	particolare	particolare,	particolare,]	linguistic	End=512.991	weakly_ascending	False	False	False	False				_		0-11(195)
 TO083	195	no	NO	[NO	linguistic	Begin=512.366	_	False	False	False	False				high		0-2(194)
 TO083	195	no	NO	NO	linguistic		_	False	False	False	False				high		0-2(194)
 TO083	195	me	me	m]e	linguistic		_	False	False	False	False				_		0-2(194)
@@ -1725,9 +1725,9 @@ TO083	229	mentre	mentre	mentre	linguistic		_	False	False	False	False				_
 TO083	229	gli	gli	gli	linguistic		_	False	False	False	False				_		
 TO083	229	cambiava	cambiava	cambiava	linguistic		_	False	False	False	False				_		
 TO083	229	l'	l'	l'	linguistic		_	False	False	True	False				_		
-TO083	229	acqua	acqua,	acqua,	linguistic	End=614.811	weakly_ascending	False	False	False	False				_		
+TO083	229	acqua	acqua,	acqua,	linguistic	End=614.711	weakly_ascending	False	False	False	False				_		
 TO999	230	{ride}	{ride}	{ride}	metalinguistic	End=615.177	_	False	False	False	False				_		
-TO083	231	forse	forse	forse	linguistic	Begin=615.176	_	False	False	False	False				_		
+TO083	231	forse	forse	forse	linguistic	Begin=615.2760000000001	_	False	False	False	False				_		
 TO083	231	lì	lì	lì	linguistic		_	False	False	False	False				_		
 TO083	231	sarebbe	sarebbe	sarebbe	linguistic		_	False	False	False	False				_		
 TO083	231	l'	l'	l'	linguistic		_	False	False	True	False				_		
@@ -2239,13 +2239,13 @@ TO083	287	robe	robe:,	e:,	linguistic	End=796.976	weakly_ascending	False	False	Fa
 TO083	288	pazzesche	pazzesche	pazzesche	linguistic	Begin=797.711	_	False	False	False	False				_		
 TO083	288	questo	questo	qu[esto	linguistic		_	False	False	False	False				_		2-6(289)
 TO083	288	è	è,	è,]	linguistic	End=798.966	weakly_ascending	False	False	False	False				_		0-1(289)
-TO999	289	non	non	[non	linguistic	Begin=798.516	_	False	False	False	False				_		0-3(?)
-TO999	289	siete	siete	siete]	linguistic		_	False	False	False	False				_		0-5(?)
-TO999	289	più	più	più	linguistic		_	False	False	False	False				_		0-1(?)
+TO999	289	non	non	[non	linguistic	Begin=798.516	_	False	False	False	False				_		0-3(288)
+TO999	289	siete	siete	siete]	linguistic		_	False	False	False	False				_		0-5(288)
+TO999	289	più	più	più	linguistic		_	False	False	False	False				_		0-1(288)
 TO999	289	rimasti	rimasti	rimasti	linguistic		_	False	False	False	False				_		
 TO999	289	amici	amici	amici	linguistic		_	False	False	False	False				_		
 TO999	289	poi	poi?	poi?	linguistic	End=800.155	ascending	False	False	False	False				_		
-TO083	290	allora	allora	allora	linguistic	Begin=800.15	_	False	False	False	False				_		
+TO083	290	allora	allora	allora	linguistic	Begin=800.25	_	False	False	False	False				_		
 TO083	290	per	per	per	linguistic		_	False	False	False	False				_		
 TO083	290	mesi	mesi	mesi	linguistic		_	False	False	False	False				_		
 TO083	290	no	no.	no.	linguistic		descending	False	False	False	False				_		
@@ -2335,10 +2335,10 @@ TO999	300	ne	ne	ne	linguistic		_	False	False	False	False				_
 TO999	300	sarei	sarei	sarei	linguistic		_	False	False	False	False				_		
 TO999	300	andata	andata.	andata.	linguistic	End=828.0	descending	False	False	False	False				_		
 TO083	301	{ride}	{ride}	{ride}	metalinguistic	End=828.622	_	False	False	False	False				_		
-TO999	302	a	a	(a	linguistic	Begin=828.616	_	False	False	False	False				_	0-1(0)	
+TO999	302	a	a	(a	linguistic	Begin=828.716	_	False	False	False	False				_	0-1(0)	
 TO999	302	parte	parte	parte	linguistic		_	False	False	False	False				_	0-5(0)	
 TO999	302	che	che,	che),	linguistic	End=829.733	weakly_ascending	False	False	False	False				_	0-3(0)	
-TO083	303	eh	eh	eh	linguistic	Begin=829.721	_	False	False	False	False				_		
+TO083	303	eh	eh	eh	linguistic	Begin=829.821	_	False	False	False	False				_		
 TO083	303	no	no	no	linguistic		_	False	False	False	False				_		
 TO083	303	ma	ma	ma	linguistic		_	False	False	False	False				_		
 TO083	303	la	la	la	linguistic		_	False	False	False	False				_		
@@ -2517,7 +2517,7 @@ TO999	321	il	il	il	linguistic		_	False	False	False	False				_
 TO999	321	cazzo	cazzo	cazzo	linguistic		_	False	False	False	False				_		
 TO999	321	si	si	si	linguistic		_	False	False	False	False				_		
 TO999	321	muove	muove	muove	linguistic		_	False	False	False	False				_		
-TO999	321	questa	questa.	questa.	linguistic	End=888.133	descending	False	False	False	False				_		
+TO999	321	questa	questa.	questa.	linguistic	End=888.033	descending	False	False	False	False				_		
 TO083	322	{ride}	{ride}	{ride}	metalinguistic	End=888.525	_	False	False	False	False				_		
 TO999	323	{ride}	{ride}	{ride}	metalinguistic	Begin=888.975	_	False	False	False	False				_		
 TO999	323	allora	allora	allora	linguistic		_	False	False	False	False				_		
@@ -2553,9 +2553,9 @@ TO999	326	ne	ne	ne	linguistic		_	False	False	False	False				_
 TO999	326	prenderesti	prenderesti	prenderesti	linguistic		_	False	False	False	False				_		
 TO999	326	in	in	in	linguistic		_	False	False	False	False				_		
 TO999	326	una	una	una	linguistic		_	False	False	False	False				_		
-TO999	326	ipotetica	ipotetica	ipo[tetic]a	linguistic		_	False	False	False	False				_		3-9(?)
+TO999	326	ipotetica	ipotetica	ipo[tetic]a	linguistic		_	False	False	False	False				_		3-9(327)
 TO999	326	tua	tua	tua	linguistic		_	False	False	False	False				_		
-TO999	326	casa	casa.	casa.	linguistic	End=903.593	descending	False	False	False	False				_		
+TO999	326	casa	casa.	casa.	linguistic	End=903.4929999999999	descending	False	False	False	False				_		
 TO083	327	no	no.	[no.]	linguistic	End=902.875	descending	False	False	False	False				_		0-2(326)
 TO083	328	mai	mai.	mai.	linguistic	End=904.05	descending	False	False	False	False				_		
 TO083	329	mai	mai	mai	linguistic	Begin=904.63	_	False	False	False	False				_		
@@ -2821,7 +2821,7 @@ TO083	364	vista	vista	vista	linguistic	Begin=987.236	_	False	False	False	False		
 TO083	364	mar~	mar~	mar~	linguistic		_	False	True	False	False				_		
 TO083	364	allora	allora	allora	linguistic		_	False	False	False	False				_		
 TO083	364	sulla	sulla	sulla	linguistic		_	False	False	False	False				_		
-TO083	364	spiaggia	spiaggia.	spiaggia.	linguistic	End=988.988	descending	False	False	False	False				_		
+TO083	364	spiaggia	spiaggia.	spiaggia.	linguistic	End=988.888	descending	False	False	False	False				_		
 TO999	365	mh	mh,	mh,	linguistic	End=989.488	weakly_ascending	False	False	False	False				_		
 TO083	366	enormi	enormi	enormi	linguistic	Begin=991.296	_	False	False	False	False				_		
 TO083	366	finestre	finestre,	finestre,	linguistic	End=992.555	weakly_ascending	False	False	False	False				_		
@@ -2900,9 +2900,9 @@ TO083	384	grande	grande.	grande.	linguistic	End=1035.151	descending	False	False	
 TO999	385	senza	senza	senza	linguistic	Begin=1035.595	_	False	False	False	False				_		
 TO999	385	animali	animali.	animali.	linguistic	End=1036.526	descending	False	False	False	False				_		
 TO083	386	no	no	no	linguistic	Begin=1036.76	_	False	False	False	False				_		
-TO083	386	animale	animale.	animale.	linguistic	End=1037.522	descending	False	False	False	False				_		
+TO083	386	animale	animale.	animale.	linguistic	End=1037.422	descending	False	False	False	False				_		
 TO999	387	{ride}	{ride}	{ride}	metalinguistic	End=1038.233	_	False	False	False	False				_		
-TO083	388	piante	piante	piante	linguistic	Begin=1038.231	_	False	False	False	False				_		
+TO083	388	piante	piante	piante	linguistic	Begin=1038.331	_	False	False	False	False				_		
 TO083	388	solo	solo	solo	linguistic		_	False	False	False	False				_		
 TO083	388	grasse	grasse.	grasse.	linguistic	End=1039.401	descending	False	False	False	False				_		
 TO999	389	okay	okay.	okay.	linguistic	End=1041.17	descending	False	False	False	False				_		
@@ -3020,7 +3020,7 @@ TO083	416	molto	molto	molto	linguistic	Begin=1091.403	_	False	False	False	False	
 TO083	416	poco	poco.	poco.	linguistic	End=1092.055	descending	False	False	False	False				_		
 TO999	417	dialetto	dialetto	dialetto	linguistic	Begin=1092.44	_	False	False	False	False				_		
 TO999	417	ligure	ligure	ligure	linguistic		_	False	False	False	False				_		
-TO999	417	no	no?	no?	linguistic	End=1093.489	ascending	False	False	False	False				_		
+TO999	417	no	no?	no?	linguistic	End=1093.3890000000001	ascending	False	False	False	False				_		
 TO083	418	no	no.	no.	linguistic	End=1093.681	descending	False	False	False	False				_		
 TO083	419	zero	zero.	zero.	linguistic	Begin=1093.905	descending	False	False	False	False				_		
 TO083	419	eh	eh	eh	linguistic		_	False	False	False	False				_		

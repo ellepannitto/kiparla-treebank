@@ -126,7 +126,7 @@ TOI075	29	non	non	non	linguistic		_	False	False	False	False				_
 TOI075	29	c'era	c'era	c'era	error		_	False	False	False	False				_		
 TOI075	29	la	la	la	linguistic		_	False	False	False	False				_		
 TOI075	29	malavita	malavita	malavita	linguistic	End=53.681	_	False	False	False	False				_		
-TOR001	30	okay	okay	okay	linguistic	End=54.176	_	False	False	False	False				_		
+TOR001	30	okay	okay	okay	linguistic	End=54.076	_	False	False	False	False				_		
 TOI075	31	diciamo	diciamo	(>diciamo<)	linguistic	End=54.38	_	False	False	False	False			1-7(0)	_	0-7(0)	
 TOR001	32	{ride}	{ride}	{ride}	metalinguistic	End=55.062	_	False	False	False	False				_		
 TOR001	33	e	e	e	linguistic	Begin=55.556	_	False	False	False	False				_		
@@ -188,14 +188,14 @@ TOI075	45	dei	dei	dei	linguistic		_	False	False	False	False				_
 TOI075	45	santi	santi	santi	linguistic		_	False	False	False	False				_		
 TOI075	45	martiri	MARTIRI	MARTIRI	linguistic	End=80.736	_	False	False	False	False				high		
 TOR001	46	okay	okay	°okay°	linguistic	End=81.209	_	False	False	False	False				low		
-TOI075	47	era	era	era	linguistic	Begin=81.197	_	False	False	False	False				_		
+TOI075	47	era	era	era	linguistic	Begin=81.297	_	False	False	False	False				_		
 TOI075	47	la	la	la	linguistic		_	False	False	False	False				_		
 TOI075	47	chiesa	chiesa	chiesa	linguistic		_	False	False	False	False				_		
 TOI075	47	principale	principale	principale	linguistic		_	False	False	False	False				_		
 TOI075	47	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TOI075	47	di	di	di	linguistic		_	False	False	False	False				_		
 TOI075	47	via	via	via	linguistic		_	False	False	False	False				_		
-TOI075	47	garibaldi	garibaldi	gari[baldi]	linguistic	End=84.799	_	False	False	False	False				_		4-9(?)
+TOI075	47	garibaldi	garibaldi	gari[baldi]	linguistic	End=84.799	_	False	False	False	False				_		4-9(48)
 TOR001	48	mhmh	mhmh	[mhmh]	linguistic	End=84.774	_	False	False	False	False				_		0-4(47)
 TOR001	49	mhmh	mhmh	mhmh	linguistic	End=85.422	_	False	False	False	False				_		
 TOR001	50	e	e	e	linguistic	Begin=86.9	_	False	False	False	False				_		
@@ -253,7 +253,7 @@ TOI075	57	xxx	xxx	xxx	linguistic	Begin=109.061	_	True	False	False	False				_
 TOI075	57	sa	sa	sa	linguistic		_	False	False	False	False				_		
 TOI075	57	dov'è	dov'è	dov'è	error		_	False	False	False	False				_		
 TOI075	57	via	via	via	linguistic		_	False	False	False	False				_		
-TOI075	57	giolitti	giolitti?	giolitti?	linguistic	End=111.719	ascending	False	False	False	False				_		
+TOI075	57	giolitti	giolitti?	giolitti?	linguistic	End=111.619	ascending	False	False	False	False				_		
 TOR001	58	sì	sì.	sì.	linguistic	End=111.94	descending	False	False	False	False				_		
 TOI075	59	la	la	la	linguistic	Begin=112.085	_	False	False	False	False				_		
 TOI075	59	via	via	via	linguistic		_	False	False	False	False				_		
@@ -1600,9 +1600,9 @@ TOI075	352	possibilità	possibilità	possibilità	linguistic		_	False	False	Fals
 TOI075	352	di	di	di	linguistic		_	False	False	False	False				_		
 TOI075	352	scegliere	scegliere	scegliere	linguistic		_	False	False	False	False				_		
 TOI075	352	così	così	così	linguistic	End=766.143	_	False	False	False	False				_		
-TOR001	353	certo	certo	cer[to]	linguistic	End=766.611	_	False	False	False	False				_		3-5(354)
-TOI075	354	la	la	[la]	linguistic	Begin=766.514	_	False	False	False	False				_		0-2(353)
-TOI075	354	propria	propria	propria	linguistic		_	False	False	False	False				_		0-1(353)
+TOR001	353	certo	certo	cer[to]	linguistic	End=766.611	_	False	False	False	False				_		3-5(?)
+TOI075	354	la	la	[la]	linguistic	Begin=766.614	_	False	False	False	False				_		0-2(?)
+TOI075	354	propria	propria	propria	linguistic		_	False	False	False	False				_		0-1(?)
 TOI075	354	vita	vita	vita	linguistic	End=767.741	_	False	False	False	False				_		
 TOR002	355	già	già	già	linguistic	Begin=769.054	_	False	False	False	False				_		
 TOR002	355	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
@@ -1712,8 +1712,8 @@ TOI075	371	tutto	tutto	tutto	linguistic	Begin=814.63	_	False	False	False	False		
 TOI075	371	segreto	segreto	segreto	linguistic		_	False	False	False	False				_		
 TOI075	371	eh	eh	eh	linguistic		_	False	False	False	False				_		
 TOI075	371	tutto	tutto	[tutto]	linguistic	End=816.509	_	False	False	False	False				_		0-5(372)
-TOR001	372	mhmhmhmhmhmh	mhmhmhmhmhmh	[mhmhmh]mhmhmh	linguistic	End=816.883	_	False	False	False	False				_		0-8(?)
-TOI075	373	controllato	controllato	controllato	linguistic	Begin=816.882	_	False	False	False	False				_		
+TOR001	372	mhmhmhmhmhmh	mhmhmhmhmhmh	[mhmhmh]mhmhmh	linguistic	End=816.883	_	False	False	False	False				_		0-8(371)
+TOI075	373	controllato	controllato	controllato	linguistic	Begin=816.982	_	False	False	False	False				_		
 TOI075	373	dalla	dalla	dalla	linguistic		_	False	False	False	False				_		
 TOI075	373	censura	censura	censura	linguistic	End=818.893	_	False	False	False	False				_		
 TOR001	374	certo	certo	certo	linguistic	End=819.97	_	False	False	False	False				_		
@@ -2567,7 +2567,7 @@ TOI075	543	il	il	il	linguistic		_	False	False	False	False				_
 TOI075	543	fogolar	fogolar	fogolar	linguistic		_	False	False	False	False				_		
 TOI075	543	furlan	furlan	furlan	linguistic	End=1214.258	_	False	False	False	False				_		
 TOR002	544	mhmh	mhmh	mhmh	linguistic	End=1214.545	_	False	False	False	False				_		
-TOI075	545	che	che	che	linguistic	Begin=1214.522	_	False	False	False	False				_		
+TOI075	545	che	che	che	linguistic	Begin=1214.6219999999998	_	False	False	False	False				_		
 TOI075	545	riuniva	riuniva	riuniva	linguistic		_	False	False	False	False				_		
 TOI075	545	i	i	i	linguistic		_	False	False	False	False				_		
 TOI075	545	fur~	fur~	fur~	linguistic		_	False	True	False	False				_		
@@ -3147,7 +3147,7 @@ TOI075	650	diventati	diventati	diventati	linguistic		_	False	False	False	False		
 TOI075	650	tutti	tutti	tutti	linguistic		_	False	False	False	False				_		
 TOI075	650	italiani	italiani	italiani	linguistic	End=1475.408	_	False	False	False	False				_		
 TOR001	651	{ride}	{ride}	{ride}	metalinguistic	End=1475.664	_	False	False	False	False				_		
-TOI075	652	e	e	e	linguistic	Begin=1475.593	_	False	False	False	False				_		
+TOI075	652	e	e	e	linguistic	Begin=1475.693	_	False	False	False	False				_		
 TOI075	652	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		
 TOI075	652	ci	ci	ci	linguistic		_	False	False	False	False				_		
 TOI075	652	sentiamo	sentiamo	sentiamo	linguistic		_	False	False	False	False				_		
@@ -3307,7 +3307,7 @@ TOI075	683	c'erano	c'erano	c'erano	error		_	False	False	False	False				_
 TOI075	683	nelle	nelle	nelle	linguistic		_	False	False	False	False				_		
 TOI075	683	case	ca:se	ca:se	linguistic	End=1555.995	_	False	False	False	False	1x1			_		
 TOR001	684	mhmhmhm	mhmhmhm	mhmhmhm	linguistic	End=1556.914	_	False	False	False	False				_		
-TOI075	685	a	a	a	linguistic	Begin=1556.907	_	False	False	False	False				_		
+TOI075	685	a	a	a	linguistic	Begin=1557.0069999999998	_	False	False	False	False				_		
 TOI075	685	casa	casa	casa	linguistic		_	False	False	False	False				_		
 TOI075	685	mia	mia	mia	linguistic		_	False	False	False	False				_		
 TOI075	685	il	il	il	linguistic		_	False	False	False	False				_		
@@ -3471,11 +3471,11 @@ TOI075	716	sta	sta	sta	linguistic		_	False	False	False	False				_
 TOI075	716	male	male	male	linguistic		_	False	False	False	False				_		
 TOI075	716	è	è	è	linguistic		_	False	False	False	False				_		
 TOI075	716	ovvio	ovvio	ovvio	linguistic		_	False	False	False	False				_		
-TOI075	716	che	che	che	linguistic	End=1678.526	_	False	False	False	False				_		
+TOI075	716	che	che	che	linguistic	End=1678.4260000000002	_	False	False	False	False				_		
 TOR002	717	{ride}	{ride}	{ride}	metalinguistic	End=1678.815	_	False	False	False	False				_		
 TOI075	718	non	non	non	linguistic	Begin=1678.822	_	False	False	False	False				_		
 TOI075	718	è	è	è	linguistic		_	False	False	False	False				_		
-TOI075	718	contento	contento	contento	linguistic	End=1680.538	_	False	False	False	False				_		
+TOI075	718	contento	contento	contento	linguistic	End=1680.438	_	False	False	False	False				_		
 TOR001	719	certo	certo	certo	linguistic	End=1681.142	_	False	False	False	False				_		
 TOI075	720	c'è	c'è	c'è	error	Begin=1681.18	_	False	False	False	False				_		
 TOI075	720	poco	poco	poco	linguistic		_	False	False	False	False				_		
@@ -4046,7 +4046,7 @@ TOR002	835	non	non	non	linguistic		_	False	False	False	False				_
 TOR002	835	si	si	si	linguistic		_	False	False	False	False				_		
 TOR002	835	farà	farà	farà	linguistic		_	False	False	False	False				_		
 TOR002	835	non	non	non	linguistic		_	False	False	False	False				_		
-TOR002	835	succederà	succederà	succederà	linguistic	End=1937.054	_	False	False	False	False				_		
+TOR002	835	succederà	succederà	succederà	linguistic	End=1936.9540000000002	_	False	False	False	False				_		
 TOI075	836	io	io	io	linguistic	End=1937.298	_	False	False	False	False				_		
 TOI075	837	per	per	per	linguistic	Begin=1937.674	_	False	False	False	False				_		
 TOI075	837	me	me	me	linguistic	End=1938.322	_	False	False	False	False				_		

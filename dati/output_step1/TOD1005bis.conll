@@ -496,7 +496,7 @@ TO017	78	in	in	in	linguistic	Begin=187.57	_	False	False	False	False				_
 TO017	78	rabatino	rabatino.	rabatino.	linguistic	End=188.312	descending	False	False	False	False				_		
 TO017	79	eh	eh,	eh,	linguistic	End=189.232	weakly_ascending	False	False	False	False				_		
 ???	80	xxxxxxx	xxxxxxx	xxxxxxx	linguistic	End=190.346	_	True	False	False	False				_		
-TO017	81	okay	o:kay	o:kay	linguistic	Begin=190.341	_	False	False	False	False	0x1			_		
+TO017	81	okay	o:kay	o:kay	linguistic	Begin=190.441	_	False	False	False	False	0x1			_		
 TO017	81	xxxxxx	xxxxxx	xxxxxx	linguistic	End=191.98	_	True	False	False	False				_		
 TO017	82	okay	okay	okay	linguistic	End=192.51	_	False	False	False	False				_		
 TO017	83	gli	gli	gli	linguistic	Begin=193.535	_	False	False	False	False				_		
@@ -1947,7 +1947,7 @@ TO017	332	quindi	quindi?	quindi?	linguistic	End=810.853	ascending	False	False	Fa
 ???	333	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 ???	333	seice~	seice~	seice~	linguistic	End=812.072	_	False	True	False	False				_		
 ???	334	~ntonovantadue	~ntonovantadue	~ntonovantadue	error	End=813.331	_	False	False	False	False				_		
-TO017	335	prima	prima	prima	linguistic	Begin=813.328	_	False	False	False	False				_		
+TO017	335	prima	prima	prima	linguistic	Begin=813.428	_	False	False	False	False				_		
 TO017	335	sura	sura,	sura,	linguistic		weakly_ascending	False	False	False	False				_		
 TO017	335	seicento	seicento,	seicento,	linguistic	End=814.721	weakly_ascending	False	False	False	False				_		
 TO017	336	dieci	dieci,	dieci,	linguistic	End=816.91	weakly_ascending	False	False	False	False				_		

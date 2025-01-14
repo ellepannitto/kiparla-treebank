@@ -796,12 +796,12 @@ TO061	113	ho	ho	ho	linguistic		_	False	False	False	False				_
 TO061	113	pensato	pensato	pensato	linguistic		_	False	False	False	False				_		
 TO061	113	di	di	[di	linguistic		_	False	False	False	False				_		
 TO061	113	acquistarlo	acquistarlo.	acquistarlo.]	linguistic	End=237.713	descending	False	False	False	False				_		0-11(114)
-TO065	114	questo	questo	[questo	linguistic	Begin=236.514	_	False	False	False	False				_		0-6(?)
-TO065	114	lei	lei	lei	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	114	l'	l'	l'	linguistic		_	False	False	True	False				_		0-2(?)
-TO065	114	ha	ha	ha	linguistic		_	False	False	False	False				_		0-2(?)
-TO065	114	letto	letto?	letto?]	linguistic	End=237.808	ascending	False	False	False	False				_		0-5(?)
-TO061	115	no	no.	[n]o.	linguistic	Begin=237.721	descending	False	False	False	False				_		0-2(114)
+TO065	114	questo	questo	[questo	linguistic	Begin=236.514	_	False	False	False	False				_		0-6(113)
+TO065	114	lei	lei	lei	linguistic		_	False	False	False	False				_		0-3(113)
+TO065	114	l'	l'	l'	linguistic		_	False	False	True	False				_		0-2(113)
+TO065	114	ha	ha	ha	linguistic		_	False	False	False	False				_		0-2(113)
+TO065	114	letto	letto?	letto?]	linguistic	End=237.808	ascending	False	False	False	False				_		0-5(113)
+TO061	115	no	no.	[n]o.	linguistic	Begin=237.821	descending	False	False	False	False				_		0-2(?)
 TO061	115	io	io	>io	linguistic		_	False	False	False	False				_		
 TO061	115	infatti	infatti	infatti	linguistic		_	False	False	False	False			0-7(0)	_		
 TO061	115	no	no	no	linguistic		_	False	False	False	False			0-2(0)	_		
@@ -1432,9 +1432,9 @@ TO065	222	perché	perché	perché	linguistic	Begin=453.744	_	False	False	False	F
 TO065	222	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO065	222	bisogna	bisogna	bisogna	linguistic		_	False	False	False	False				_		
 TO065	222	assolutamente	assolutamente	assolutamente	linguistic		_	False	False	False	False				_		
-TO065	222	leggerlo	leggerlo.	le[ggerlo.]	linguistic	End=455.912	descending	False	False	False	False				_		2-8(?)
+TO065	222	leggerlo	leggerlo.	le[ggerlo.]	linguistic	End=455.912	descending	False	False	False	False				_		2-8(223)
 TO061	223	sì	sì.	[sì.]	linguistic	End=455.819	descending	False	False	False	False				_		0-2(222)
-TO061	224	sì	sì	[s]ì	linguistic	Begin=455.825	_	False	False	False	False				_		0-2(222)
+TO061	224	sì	sì	[s]ì	linguistic	Begin=455.925	_	False	False	False	False				_		0-2(?)
 TO061	224	infatti	infatti	infatti	linguistic		_	False	False	False	False				_		
 TO061	224	lì	lì	lì	linguistic		_	False	False	False	False				_		
 TO061	224	non	non	non	linguistic		_	False	False	False	False				_		
@@ -1450,7 +1450,7 @@ TO061	224	agli	agli	agli	linguistic		_	False	False	False	False				_
 TO061	224	altri	altri	altri	linguistic		_	False	False	False	False				_		
 TO061	224	che	che	che	linguistic		_	False	False	False	False				_		
 TO061	224	invece	invece	invec[e	linguistic		_	False	False	False	False				_		
-TO061	224	ho	ho:	ho:]	linguistic	End=460.343	_	False	False	False	False	1x1			_		1-2(225)
+TO061	224	ho	ho:	ho:]	linguistic	End=460.343	_	False	False	False	False	1x1			_		1-2(?)
 TO065	225	no	no	[(n)o	linguistic	Begin=459.616	_	False	False	False	False				_	1-2(0)	0-2(224)
 TO065	225	ecco	ecco,	ecco,]	linguistic	End=460.354	weakly_ascending	False	False	False	False				_	0-1(0)	0-4(224)
 TO065	226	ba	ba	(b)a	linguistic	Begin=461.337	_	False	False	False	False				_	0-2(0)	
@@ -1470,7 +1470,7 @@ TO065	226	continua	continua	continua	linguistic		_	False	False	False	False				_
 TO065	226	lei	lei	lei	linguistic		_	False	False	False	False				_		
 TO065	226	con	con	con	linguistic		_	False	False	False	False				_		
 TO065	226	le	le	le	linguistic		_	False	False	False	False				_		
-TO065	226	domande	domande.	domande.	linguistic	End=465.761	descending	False	False	False	False				_		
+TO065	226	domande	domande.	domande.	linguistic	End=465.661	descending	False	False	False	False				_		
 TO061	227	ah	ah	ah	linguistic	Begin=465.754	_	False	False	False	False				_		
 TO061	227	allor~	allor~	(a)llor~	linguistic		_	False	True	False	False				_	0-3(0)	
 TO061	227	queste	queste	queste	linguistic		_	False	False	False	False				_		
@@ -1489,17 +1489,17 @@ TO061	228	no	no	>no	linguistic	Begin=469.808	_	False	False	False	False			0-2(0)	
 TO061	228	no	no.	no.<	linguistic		descending	False	False	False	False			0-2(0)	_		
 TO061	228	sono	sono	sono	linguistic		_	False	False	False	False			0-2(0)	_		
 TO061	228	tutti	tutti:.	tutti:.	linguistic	End=471.15	descending	False	False	False	False	4x1			_		
-TO061	229	i	i:	[i:	linguistic	Begin=471.15	_	False	False	False	False	0x1			_		0-1(?)
-TO061	229	i	i	i	linguistic		_	False	False	False	False				_		0-1(?)
-TO061	229	punti	punti	punti	linguistic		_	False	False	False	False				_		0-5(?)
-TO061	229	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	229	avevo	avevo:.	avevo:.]	linguistic	End=472.593	descending	False	False	False	False	4x1			_		0-5(?)
+TO061	229	i	i:	[i:	linguistic	Begin=471.15	_	False	False	False	False	0x1			_		0-1(230)
+TO061	229	i	i	i	linguistic		_	False	False	False	False				_		0-1(230)
+TO061	229	punti	punti	punti	linguistic		_	False	False	False	False				_		0-5(230)
+TO061	229	che	che	che	linguistic		_	False	False	False	False				_		0-3(230)
+TO061	229	avevo	avevo:.	avevo:.]	linguistic	End=472.593	descending	False	False	False	False	4x1			_		0-5(230)
 TO065	230	allora	allora,	[allora,	linguistic	Begin=471.156	weakly_ascending	False	False	False	False				_		0-6(229)
 TO065	230	io	io	io	linguistic		_	False	False	False	False				_		0-2(229)
 TO065	230	direi	direi.	direi.]	linguistic	End=472.424	descending	False	False	False	False				_		0-5(229)
-TO065	231	eh	e:h	[(e:)]h	linguistic	Begin=472.505	_	False	False	False	False	0x1			_	1-2(0)	0-2(229)
-TO065	231	a	a	a	linguistic		_	False	False	False	False				_	0-1(0)	0-1(229)
-TO065	231	questo	questo	questo	linguistic		_	False	False	False	False				_		0-1(229)
+TO065	231	eh	e:h	[(e:)]h	linguistic	Begin=472.605	_	False	False	False	False	0x1			_	1-2(0)	0-2(?)
+TO065	231	a	a	a	linguistic		_	False	False	False	False				_	0-1(0)	0-1(?)
+TO065	231	questo	questo	questo	linguistic		_	False	False	False	False				_		0-1(?)
 TO065	231	punto	punto	punto	linguistic		_	False	False	False	False				_		
 TO065	231	le	le	le	linguistic		_	False	False	False	False				_		
 TO065	231	cose	cose	cose	linguistic		_	False	False	False	False				_		
@@ -1700,11 +1700,11 @@ TO061	255	quello	quello	[quello	linguistic	Begin=536.036	_	False	False	False	Fal
 TO061	255	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(254)
 TO061	255	devo	devo	devo	linguistic		_	False	False	False	False				_		0-4(254)
 TO061	255	controllare	controllare.	controllare.]	linguistic	End=536.845	descending	False	False	False	False				_		0-11(254)
-TO061	256	perché	perché	[perché	linguistic	Begin=536.845	_	False	False	False	False				_		0-6(?)
-TO061	256	io	io	io	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	256	l'	l'	l'	linguistic		_	False	False	True	False				_		0-2(?)
-TO061	256	avevo	avevo	avevo	linguistic		_	False	False	False	False				_		0-5(?)
-TO061	256	presa	presa	pre]sa	linguistic		_	False	False	False	False				_		0-5(?)
+TO061	256	perché	perché	[perché	linguistic	Begin=536.845	_	False	False	False	False				_		0-6(254)
+TO061	256	io	io	io	linguistic		_	False	False	False	False				_		0-2(254)
+TO061	256	l'	l'	l'	linguistic		_	False	False	True	False				_		0-2(254)
+TO061	256	avevo	avevo	avevo	linguistic		_	False	False	False	False				_		0-5(254)
+TO061	256	presa	presa	pre]sa	linguistic		_	False	False	False	False				_		0-5(254)
 TO061	256	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO061	256	ehm	e:hm	e:hm	linguistic		_	False	False	False	False	0x1			_		
 TO061	256	una	una	una	linguistic		_	False	False	False	False				_		
@@ -1721,8 +1721,8 @@ TO061	256	quindi	quindi	quindi	linguistic		_	False	False	False	False				_
 TO061	256	poi	poi	poi	linguistic		_	False	False	False	False				_		
 TO061	256	non	non	non	linguistic		_	False	False	False	False				_		
 TO061	256	l'	l'	l'	linguistic		_	False	False	True	False				_		
-TO061	256	ho	ho:	ho:	linguistic	End=541.073	_	False	False	False	False	1x1			_		
-TO065	257	perché	perchè,	[perchè,]	linguistic	End=541.405	weakly_ascending	False	False	False	False				_		0-6(?)
+TO061	256	ho	ho:	ho:	linguistic	End=540.973	_	False	False	False	False	1x1			_		
+TO065	257	perché	perchè,	[perchè,]	linguistic	End=541.405	weakly_ascending	False	False	False	False				_		0-6(258)
 TO061	258	non	non	[non	linguistic	Begin=541.076	_	False	False	False	False				_		0-3(257)
 TO061	258	essendo	essendo	ess]endo	linguistic		_	False	False	False	False				_		0-5(257)
 TO061	258	pre~	pre~	pre~	linguistic		_	False	True	False	False				_		
@@ -1999,7 +1999,7 @@ TO065	295	e	e	e	linguistic		_	False	False	False	False				_
 TO065	295	lee	lee,	lee,	linguistic	End=651.209	weakly_ascending	False	False	False	False				_		
 TO065	296	a	a,	a,	linguistic	End=651.953	weakly_ascending	False	False	False	False				_		
 TO065	297	questi	questi	questi	linguistic	Begin=653.075	_	False	False	False	False				_		
-TO065	297	fabliaux	fabliaux.	fabliaux.	linguistic	End=653.959	descending	False	False	False	False				_		
+TO065	297	fabliaux	fabliaux.	fabliaux.	linguistic	End=653.8589999999999	descending	False	False	False	False				_		
 TO061	298	questi	questi	>questi	linguistic	Begin=653.958	_	False	False	False	False			0-6(0)	_		
 TO061	298	fabliaux	fabliaux.	fabliaux.<	linguistic		descending	False	False	False	False			0-8(0)	_		
 TO061	298	sì	sì.	sì.	linguistic	End=654.813	descending	False	False	False	False			0-2(0)	_		
@@ -2119,8 +2119,8 @@ TO065	314	pubbliche	pubbliche.	p]ubbliche.	linguistic	End=688.593	descending	Fal
 TO065	315	cioè	cioè	ci(o)è	linguistic	Begin=688.595	_	False	False	False	False				_	2-4(0)	
 TO065	315	xxx	xxx.	[(xxx).]	linguistic	End=689.458	descending	True	False	False	False				_		2-3(316)
 TO061	316	mhmh	mhmh.	[mhmh.]	linguistic	End=689.323	descending	False	False	False	False				_		0-4(315)
-TO061	317	certo	certo.	cer[(to)].	linguistic	End=690.355	descending	False	False	False	False				_	4-5(0)	3-5(318)
-TO065	318	per	per	[p]er	linguistic	Begin=690.301	_	False	False	False	False				_		0-3(317)
+TO061	317	certo	certo.	cer[(to)].	linguistic	End=690.355	descending	False	False	False	False				_	4-5(0)	3-5(?)
+TO065	318	per	per	[p]er	linguistic	Begin=690.4010000000001	_	False	False	False	False				_		0-3(?)
 TO065	318	fare	fare	fare	linguistic		_	False	False	False	False				_		
 TO065	318	un	un	un	linguistic		_	False	False	False	False				_		
 TO065	318	piccolo	piccolo	piccolo	linguistic		_	False	False	False	False				_		
@@ -2430,9 +2430,9 @@ TO065	375	tassativo	tassativo:,	tassativo:,	linguistic	End=812.914	weakly_ascend
 TO065	376	denunciare	denunciare	denunciare	linguistic	Begin=813.467	_	False	False	False	False				_		
 TO065	376	sempre	s:empre,	s:empre,	linguistic	End=815.658	weakly_ascending	False	False	False	False	0x1			_		
 TO061	377	la	la	la	linguistic	Begin=816.366	_	False	False	False	False				_		
-TO061	377	fonte	fonte.	font[e.]	linguistic	End=817.005	descending	False	False	False	False				_		4-5(378)
-TO065	378	la	la	[la]	linguistic	Begin=816.909	_	False	False	False	False				_		0-2(377)
-TO065	378	propria	propria	propria	linguistic		_	False	False	False	False				_		0-1(377)
+TO061	377	fonte	fonte.	font[e.]	linguistic	End=817.005	descending	False	False	False	False				_		4-5(?)
+TO065	378	la	la	[la]	linguistic	Begin=817.009	_	False	False	False	False				_		0-2(?)
+TO065	378	propria	propria	propria	linguistic		_	False	False	False	False				_		0-1(?)
 TO065	378	fonte	fonte.	fonte.	linguistic	End=818.11	descending	False	False	False	False				_		
 TO065	379	schematizzando	schematizzando,	schematizzando,	linguistic	End=820.306	weakly_ascending	False	False	False	False				_		
 TO065	380	i	i	i	linguistic	Begin=820.678	_	False	False	False	False				_		
@@ -2613,10 +2613,10 @@ TO061	421	farlo	farlo	farlo	linguistic		_	False	False	False	False				_
 TO061	421	t~	t~	t~	linguistic		_	False	True	False	True				_		
 TO061	421	per	per	er	linguistic		_	False	False	False	False				_		
 TO061	421	tutto	tutto	tutto	linguistic		_	False	False	False	False				_		
-TO061	421	però	però.	però.	linguistic	End=889.105	descending	False	False	False	False				_		
+TO061	421	però	però.	però.	linguistic	End=889.005	descending	False	False	False	False				_		
 TO065	422	sì	sì.	s[ì.]	linguistic	End=889.414	descending	False	False	False	False				_		1-2(?)
-TO061	423	per	per	[per]	linguistic	Begin=889.318	_	False	False	False	False				_		0-3(422)
-TO061	423	tutti	tutti:,	tutti:,	linguistic		weakly_ascending	False	False	False	False	4x1			_		0-1(422)
+TO061	423	per	per	[per]	linguistic	Begin=889.418	_	False	False	False	False				_		0-3(?)
+TO061	423	tutti	tutti:,	tutti:,	linguistic		weakly_ascending	False	False	False	False	4x1			_		0-1(?)
 TO061	423	tutto	tutto	tutto	linguistic		_	False	False	False	False				_		
 TO061	423	ciò	ciò	ciò	linguistic		_	False	False	False	False				_		
 TO061	423	che	che	che	linguistic		_	False	False	False	False				_		
@@ -2813,8 +2813,8 @@ TO065	458	questo	questo	questo	linguistic	Begin=963.712	_	False	False	False	Fals
 TO065	458	è	è	è	linguistic		_	False	False	False	False				_		
 TO065	458	davvero	davvero	davvero	linguistic		_	False	False	False	False				_		
 TO065	458	importante	importante.	importa[nte.]	linguistic	End=965.602	descending	False	False	False	False				_		7-10(459)
-TO061	459	mh	mh.	[mh.]	linguistic	End=965.696	descending	False	False	False	False				_		0-2(?)
-TO065	460	cioè	cioè	[c]ioè	linguistic	Begin=965.607	_	False	False	False	False				_		0-3(459)
+TO061	459	mh	mh.	[mh.]	linguistic	End=965.696	descending	False	False	False	False				_		0-2(458)
+TO065	460	cioè	cioè	[c]ioè	linguistic	Begin=965.707	_	False	False	False	False				_		0-3(?)
 TO065	460	bisogna	bisogna?	bisogna?	linguistic	End=966.939	ascending	False	False	False	False				_		
 TO065	461	che	che	che	linguistic	Begin=968.171	_	False	False	False	False				_		
 TO065	461	il	il	il	linguistic		_	False	False	False	False				_		
@@ -2850,11 +2850,11 @@ TO065	466	un'	un'	un'	linguistic		_	False	False	True	False				_
 TO065	466	elaborazione	elaborazione	ela[borazio]ne	linguistic		_	False	False	False	False				_		3-12(467)
 TO065	466	personale	personale.	perso[nale.]	linguistic	End=984.529	descending	False	False	False	False				_		7-9(468)
 TO061	467	okay	okay.	[okay.]	linguistic	End=983.513	descending	False	False	False	False				_		0-4(466)
-TO061	468	ho	ho	[ho	linguistic	Begin=983.969	_	False	False	False	False				_		0-2(466)
-TO061	468	capito	capito	capito	linguistic		_	False	False	False	False				_		0-6(466)
-TO061	468	s~	s~	s~]	linguistic		_	False	True	False	True				_		0-2(466)
-TO061	468	certo	certo.	ert[o.]	linguistic	End=984.906	descending	False	False	False	False				_		0-1(466)
-TO065	469	cioè	cioè	[c]ioè	linguistic	Begin=984.817	_	False	False	False	False				_		0-3(468)
+TO061	468	ho	ho	[ho	linguistic	Begin=983.969	_	False	False	False	False				_		0-2(?)
+TO061	468	capito	capito	capito	linguistic		_	False	False	False	False				_		0-6(?)
+TO061	468	s~	s~	s~]	linguistic		_	False	True	False	True				_		0-2(?)
+TO061	468	certo	certo.	ert[o.]	linguistic	End=984.906	descending	False	False	False	False				_		0-1(?)
+TO065	469	cioè	cioè	[c]ioè	linguistic	Begin=984.917	_	False	False	False	False				_		0-3(?)
 TO065	469	in	in	in	linguistic		_	False	False	False	False				_		
 TO065	469	questo	questo	questo	linguistic		_	False	False	False	False				_		
 TO065	469	caso	caso	caso	linguistic		_	False	False	False	False				_		
@@ -3077,16 +3077,16 @@ TO065	507	ha	ha	ha	linguistic		_	False	False	False	False				_
 TO065	507	le	le	le	linguistic		_	False	False	False	False				_		
 TO065	507	sue	sue	su[e	linguistic		_	False	False	False	False				_		
 TO065	507	abitudini	abitudini.	abitudini.]	linguistic	End=1056.911	descending	False	False	False	False				_		1-9(508)
-TO061	508	infatti	infatti	[infatti	linguistic	Begin=1056.269	_	False	False	False	False				_		0-7(?)
-TO061	508	per	per	per]	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	508	quello	quello::	quello::	linguistic	End=1057.391	_	False	False	False	False	5x2			_		0-1(?)
-TO065	509	però	però,	però,	linguistic	Begin=1057.386	weakly_ascending	False	False	False	False				_		
+TO061	508	infatti	infatti	[infatti	linguistic	Begin=1056.269	_	False	False	False	False				_		0-7(507)
+TO061	508	per	per	per]	linguistic		_	False	False	False	False				_		0-3(507)
+TO061	508	quello	quello::	quello::	linguistic	End=1057.391	_	False	False	False	False	5x2			_		0-1(507)
+TO065	509	però	però,	però,	linguistic	Begin=1057.4859999999999	weakly_ascending	False	False	False	False				_		
 TO065	509	lei	lei	lei	linguistic		_	False	False	False	False				_		
 TO065	509	lo	lo	lo	linguistic		_	False	False	False	False				_		
 TO065	509	può	può,	può,	linguistic		weakly_ascending	False	False	False	False				_		
 TO065	509	tranquillamente	tranquillamente	tranquillamente	linguistic		_	False	False	False	False				_		
-TO065	509	utilizzare	utilizzare.	utilizza[re.]	linguistic	End=1060.005	descending	False	False	False	False				_		
-TO061	510	va	va	[v]a	linguistic	Begin=1059.908	_	False	False	False	False				_		0-2(509)
+TO065	509	utilizzare	utilizzare.	utilizza[re.]	linguistic	End=1059.9050000000002	descending	False	False	False	False				_		
+TO061	510	va	va	[v]a	linguistic	Begin=1059.908	_	False	False	False	False				_		0-2(?)
 TO061	510	bene	bene.	be[ne.]	linguistic	End=1060.383	descending	False	False	False	False				_		
 TO065	511	l'	l'	[l'	linguistic	Begin=1060.175	_	False	False	True	False				_		0-2(510)
 TO065	511	importante	importante	imp]ortante	linguistic		_	False	False	False	False				_		0-5(510)
@@ -3330,8 +3330,8 @@ TO065	548	posso	posso	posso	linguistic		_	False	False	False	False				_
 TO065	548	dare	dare	dare	linguistic		_	False	False	False	False				_		
 TO065	548	un	un	un	linguistic		_	False	False	False	False				_		
 TO065	548	suggerimento	suggerimento.	suggeriment[o.]	linguistic	End=1145.099	descending	False	False	False	False				_		11-12(549)
-TO061	549	sì	sì?	[sì?]	linguistic	End=1145.204	ascending	False	False	False	False				_		0-2(?)
-TO065	550	però	però,	[p]erò,	linguistic	End=1145.475	weakly_ascending	False	False	False	False				_		0-3(549)
+TO061	549	sì	sì?	[sì?]	linguistic	End=1145.204	ascending	False	False	False	False				_		0-2(548)
+TO065	550	però	però,	[p]erò,	linguistic	End=1145.475	weakly_ascending	False	False	False	False				_		0-3(?)
 TO065	551	valuti	valuti	valuti	linguistic	Begin=1146.298	_	False	False	False	False				_		
 TO065	551	lei	lei.	lei.	linguistic	End=1147.221	descending	False	False	False	False				_		
 TO065	552	allora	allora	allora	linguistic	Begin=1148.993	_	False	False	False	False				_		
@@ -3672,12 +3672,12 @@ TO061	615	e	e	e	linguistic	Begin=1297.206	_	False	False	False	False				_
 TO061	615	poi	poi	poi	linguistic		_	False	False	False	False				_		
 TO061	615	vado	vado	vado	linguistic		_	False	False	False	False				_		
 TO061	615	a	a	a	linguistic		_	False	False	False	False				_		
-TO061	615	scogliere	scogliere	[s]cogliere	linguistic		_	False	False	False	False				_		0-3(616)
+TO061	615	scogliere	scogliere	[s]cogliere	linguistic		_	False	False	False	False				_		0-3(?)
 TO061	615	però	però:	per[ò:	linguistic		_	False	False	False	False	3x1			_		
-TO061	615	nel	nel	nel	linguistic		_	False	False	False	False				_		0-3(617)
-TO061	615	nella	nella	nella	linguistic		_	False	False	False	False				_		0-5(617)
-TO061	615	bibliografia	bibliografia::	bibliografia::]	linguistic	End=1301.01	_	False	False	False	False	11x2			_		0-12(617)
-TO065	616	f~	f~	[f~]	linguistic	End=1297.799	_	False	True	False	False				_		0-2(615)
+TO061	615	nel	nel	nel	linguistic		_	False	False	False	False				_		0-3(?)
+TO061	615	nella	nella	nella	linguistic		_	False	False	False	False				_		0-5(?)
+TO061	615	bibliografia	bibliografia::	bibliografia::]	linguistic	End=1300.91	_	False	False	False	False	11x2			_		0-12(?)
+TO065	616	f~	f~	[f~]	linguistic	End=1297.799	_	False	True	False	False				_		0-2(?)
 TO065	617	e	e	[e	linguistic	Begin=1298.592	_	False	False	False	False				_		0-1(615)
 TO065	617	poi	poi	poi	linguistic		_	False	False	False	False				_		0-3(615)
 TO065	617	alla	alla	alla	linguistic		_	False	False	False	False				_		0-4(615)
@@ -3809,13 +3809,13 @@ TO065	635	riguardare	riguardare.	riguardare.	linguistic	End=1338.817	descending	
 TO065	636	ci	ci	ci	linguistic	Begin=1339.612	_	False	False	False	False				_		
 TO065	636	pensi	pensi.	pensi.	linguistic	End=1340.35	descending	False	False	False	False				_		
 TO065	637	però	però	però	linguistic	Begin=1340.472	_	False	False	False	False				_		
-TO065	637	potrebbe	potrebbe	potr[ebbe	linguistic		_	False	False	False	False				_		4-8(638)
-TO065	637	essere	essere	essere	linguistic		_	False	False	False	False				_		0-6(638)
-TO065	637	una	una	una	linguistic		_	False	False	False	False				_		0-3(638)
-TO065	637	soluzione	soluzione.	so]luzion[e.]	linguistic	End=1342.311	descending	False	False	False	False				_		0-4(638)
+TO065	637	potrebbe	potrebbe	potr[ebbe	linguistic		_	False	False	False	False				_		4-8(?)
+TO065	637	essere	essere	essere	linguistic		_	False	False	False	False				_		0-6(?)
+TO065	637	una	una	una	linguistic		_	False	False	False	False				_		0-3(?)
+TO065	637	soluzione	soluzione.	so]luzion[e.]	linguistic	End=1342.211	descending	False	False	False	False				_		0-4(?)
 TO061	638	ho	ho	[ho	linguistic	Begin=1340.904	_	False	False	False	False				_		0-2(637)
 TO061	638	capito	capito.	capito].	linguistic	End=1341.688	descending	False	False	False	False				_		0-6(637)
-TO061	639	quindi	quindi	[qui]ndi	linguistic	Begin=1342.215	_	False	False	False	False				_		0-5(637)
+TO061	639	quindi	quindi	[qui]ndi	linguistic	Begin=1342.215	_	False	False	False	False				_		0-5(?)
 TO061	639	questo	questo,	questo,	linguistic		weakly_ascending	False	False	False	False				_		
 TO061	639	ehm	e:hm	e:hm	linguistic		_	False	False	False	True	0x1			_		
 TO061	639	appunto	appunto,	ppunto,	linguistic	End=1344.009	weakly_ascending	False	False	False	False				_		
@@ -3845,14 +3845,14 @@ TO061	642	dovrei	dovrei	dovrei	linguistic	End=1351.165	_	False	False	False	False
 TO065	643	no	no	no	linguistic	Begin=1351.401	_	False	False	False	False				_		
 TO065	643	in	in	[in	linguistic		_	False	False	False	False				_		0-2(644)
 TO065	643	realtà	realtà,	realtà,]	linguistic	End=1352.407	weakly_ascending	False	False	False	False				_		0-6(644)
-TO061	644	è	è	[è	linguistic	Begin=1351.671	_	False	False	False	False				_		0-1(?)
-TO061	644	questo	questo	questo	linguistic		_	False	False	False	False				_		0-6(?)
-TO061	644	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	644	mi	mi	mi]	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	644	domando	domando.	domando.	linguistic	End=1353.01	descending	False	False	False	False				_		0-1(?)
-TO065	645	il	il	[il	linguistic	Begin=1353.005	_	False	False	False	False				_		0-2(?)
-TO065	645	sistema	sistema	sistema]	linguistic		_	False	False	False	False				_		0-7(?)
-TO065	645	rimane	rimane	rimane	linguistic		_	False	False	False	False				_		0-1(?)
+TO061	644	è	è	[è	linguistic	Begin=1351.671	_	False	False	False	False				_		0-1(643)
+TO061	644	questo	questo	questo	linguistic		_	False	False	False	False				_		0-6(643)
+TO061	644	che	che	che	linguistic		_	False	False	False	False				_		0-3(643)
+TO061	644	mi	mi	mi]	linguistic		_	False	False	False	False				_		0-2(643)
+TO061	644	domando	domando.	domando.	linguistic	End=1353.01	descending	False	False	False	False				_		0-1(643)
+TO065	645	il	il	[il	linguistic	Begin=1353.105	_	False	False	False	False				_		0-2(646)
+TO065	645	sistema	sistema	sistema]	linguistic		_	False	False	False	False				_		0-7(646)
+TO065	645	rimane	rimane	rimane	linguistic		_	False	False	False	False				_		0-1(646)
 TO065	645	uguale	uguale.	uguale.	linguistic	End=1354.507	descending	False	False	False	False				_		
 TO061	646	se	se:	[se:]	linguistic	End=1353.603	_	False	False	False	False	1x1			_		0-2(645)
 TO065	647	per	per	[per	linguistic	Begin=1354.507	_	False	False	False	False				_		0-3(648)
@@ -3938,17 +3938,17 @@ TO065	664	che	che	che	linguistic		_	False	False	False	False				_
 TO065	664	poi	poi	poi	linguistic		_	False	False	False	False				_		
 TO065	664	sciogle	sciogle	sciogle	linguistic		_	False	False	False	False				_		
 TO065	664	in	in	in	linguistic		_	False	False	False	False				_		
-TO065	664	bibliografia	bibliografia.	bibliogra[fia.]	linguistic	End=1387.105	descending	False	False	False	False				_		10-12(?)
+TO065	664	bibliografia	bibliografia.	bibliogra[fia.]	linguistic	End=1387.105	descending	False	False	False	False				_		10-12(665)
 TO061	665	sciogl~	sciogl~.	[sciogl~.]	linguistic	End=1387.019	descending	False	False	False	False				_		0-7(664)
-TO061	666	sì	sì	[sì	linguistic	Begin=1387.02	_	False	False	False	False				_		0-2(?)
-TO061	666	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
-TO061	666	più	più	più	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	666	molto	molto	molto	linguistic		_	False	False	False	False				_		0-5(?)
-TO061	666	più	più	più	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	666	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-TO061	666	agevole	agevole	agevole	linguistic		_	False	False	False	False				_		0-7(?)
-TO061	666	in	in	in	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	666	effetti	effetti.	effetti.]	linguistic	End=1389.613	descending	False	False	False	False				_		0-7(?)
+TO061	666	sì	sì	[sì	linguistic	Begin=1387.12	_	False	False	False	False				_		0-2(667)
+TO061	666	è	è	è	linguistic		_	False	False	False	False				_		0-1(667)
+TO061	666	più	più	più	linguistic		_	False	False	False	False				_		0-3(667)
+TO061	666	molto	molto	molto	linguistic		_	False	False	False	False				_		0-5(667)
+TO061	666	più	più	più	linguistic		_	False	False	False	False				_		0-3(667)
+TO061	666	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(667)
+TO061	666	agevole	agevole	agevole	linguistic		_	False	False	False	False				_		0-7(667)
+TO061	666	in	in	in	linguistic		_	False	False	False	False				_		0-2(667)
+TO061	666	effetti	effetti.	effetti.]	linguistic	End=1389.613	descending	False	False	False	False				_		0-7(667)
 TO065	667	e	e	[e	linguistic	Begin=1387.105	_	False	False	False	False				_		0-1(666)
 TO065	667	secondo	secondo	secondo	linguistic		_	False	False	False	False				_		0-7(666)
 TO065	667	me	me	me	linguistic		_	False	False	False	False				_		0-2(666)
@@ -4160,11 +4160,11 @@ TO061	707	metterei	metterei	metterei	linguistic		_	False	False	False	False				_
 TO061	707	in	in	in	linguistic		_	False	False	False	False				_		
 TO061	707	corsivo	corsivo.	cor[si]vo.	linguistic	End=1455.596	descending	False	False	False	False				_		3-7(708)
 TO065	708	mhmh	mhmh,	[mhmh,]	linguistic	End=1455.251	weakly_ascending	False	False	False	False				_		0-4(707)
-TO065	709	poi	poi?	po[i?]	linguistic	End=1455.904	ascending	False	False	False	False				_		2-3(710)
-TO061	710	e	e	[e]	linguistic	Begin=1455.826	_	False	False	False	False				_		0-1(709)
-TO061	710	poi	poi	poi	linguistic		_	False	False	False	False				_		0-1(709)
-TO061	710	virgola	virgola	virg[ola	linguistic		_	False	False	False	False				_		6-7(711)
-TO061	710	in	in,	in,]	linguistic	End=1457.206	weakly_ascending	False	False	False	False				_		0-2(711)
+TO065	709	poi	poi?	po[i?]	linguistic	End=1455.904	ascending	False	False	False	False				_		2-3(?)
+TO061	710	e	e	[e]	linguistic	Begin=1455.926	_	False	False	False	False				_		0-1(?)
+TO061	710	poi	poi	poi	linguistic		_	False	False	False	False				_		0-1(?)
+TO061	710	virgola	virgola	virg[ola	linguistic		_	False	False	False	False				_		6-7(?)
+TO061	710	in	in,	in,]	linguistic	End=1457.206	weakly_ascending	False	False	False	False				_		0-2(?)
 TO065	711	virgola	virgola,	[virgola,]	linguistic	End=1457.195	weakly_ascending	False	False	False	False				_		0-7(710)
 TO061	712	in	in	in	linguistic	Begin=1457.432	_	False	False	False	False				_		
 TO061	712	corsivo	corsivo,	corsivo,	linguistic		weakly_ascending	False	False	False	False				_		
@@ -4191,15 +4191,15 @@ TO065	715	allora	allora?	allora?	linguistic	End=1464.206	ascending	False	False	F
 TO065	716	è	è	è	linguistic	Begin=1464.206	_	False	False	False	False				_		
 TO065	716	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
 TO065	716	questo	questo	questo	linguistic		_	False	False	False	False				_		
-TO065	716	il	il	i[l	linguistic		_	False	False	False	False				_		1-2(?)
-TO065	716	punto	punto.	punto.]	linguistic	End=1465.608	descending	False	False	False	False				_		0-5(?)
+TO065	716	il	il	i[l	linguistic		_	False	False	False	False				_		1-2(717)
+TO065	716	punto	punto.	punto.]	linguistic	End=1465.508	descending	False	False	False	False				_		0-5(717)
 TO061	717	ah	ah.	[ah.]	linguistic	End=1465.432	descending	False	False	False	False				_		0-2(716)
-TO061	718	eh	eh	[e]h	linguistic	Begin=1465.52	_	False	False	False	False				_		0-2(716)
+TO061	718	eh	eh	[e]h	linguistic	Begin=1465.52	_	False	False	False	False				_		0-2(?)
 TO061	718	no	no	no	linguistic		_	False	False	False	False				_		
 TO061	718	questo	questo	questo	linguistic		_	False	False	False	False				_		
 TO061	718	è	è	è	linguistic		_	False	False	False	False				_		
 TO061	718	vero	vero.	ver[o.]	linguistic	End=1466.572	descending	False	False	False	False				_		
-TO065	719	allora	allora	[al]lora	linguistic	Begin=1466.506	_	False	False	False	False				_		0-4(718)
+TO065	719	allora	allora	[al]lora	linguistic	Begin=1466.606	_	False	False	False	False				_		0-4(?)
 TO065	719	secondo	secondo	secondo	linguistic		_	False	False	False	False				_		
 TO065	719	me	me,	me,	linguistic	End=1467.904	weakly_ascending	False	False	False	False				_		
 TO065	720	ehm	e::hm::.	e::[hm::.]	linguistic	End=1469.799	descending	False	False	False	False	0x2,2x2			_		
@@ -4289,9 +4289,9 @@ TO065	734	allora	allora.	[allo(ra).]	linguistic	End=1495.643	descending	False	Fa
 TO065	735	questo	questo	questo	linguistic	Begin=1495.677	_	False	False	False	False				_		
 TO065	735	non	non	non	linguistic		_	False	False	False	False				_		
 TO065	735	va	va	va	linguistic		_	False	False	False	False				_		
-TO065	735	bene	bene.	bene.	linguistic	End=1496.633	descending	False	False	False	False				_		
+TO065	735	bene	bene.	bene.	linguistic	End=1496.5330000000001	descending	False	False	False	False				_		
 TO061	736	mh	mh.	mh.	linguistic	End=1496.736	descending	False	False	False	False				_		
-TO065	737	ma	ma	ma	linguistic	Begin=1496.728	_	False	False	False	False				_		
+TO065	737	ma	ma	ma	linguistic	Begin=1496.828	_	False	False	False	False				_		
 TO065	737	non	non	non	linguistic		_	False	False	False	False				_		
 TO065	737	va	va	va	linguistic		_	False	False	False	False				_		
 TO065	737	bene	bene	bene	linguistic		_	False	False	False	False				_		
@@ -4369,7 +4369,7 @@ TO065	747	subito	subito.	su[bito.]	linguistic	End=1519.608	descending	False	Fals
 TO061	748	da	da	[da	linguistic	Begin=1519.067	_	False	False	False	False				_		0-2(747)
 TO061	748	subito	subito.	subi]to.	linguistic	End=1519.859	descending	False	False	False	False				_		0-6(747)
 TO061	749	mhmh	mhmh	(mhmh)	linguistic	End=1520.306	_	False	False	False	False				_	0-4(0)	
-TO065	750	allora	allora	allora	linguistic	Begin=1520.272	_	False	False	False	False				_		
+TO065	750	allora	allora	allora	linguistic	Begin=1520.3719999999998	_	False	False	False	False				_		
 TO065	750	l'	l'	l'	linguistic		_	False	False	True	False				_		
 TO065	750	unico	unico	unico	linguistic		_	False	False	False	False				_		
 TO065	750	dubbio	dubbio	dubbio	linguistic		_	False	False	False	False				_		
@@ -4496,10 +4496,10 @@ TO065	769	invece	invece	invece	linguistic		_	False	False	False	False				_
 TO065	769	me	me	me	linguistic		_	False	False	False	False				_		
 TO065	769	lo	lo	lo	linguistic		_	False	False	False	False				_		
 TO065	769	m~	m~	m~	linguistic		_	False	True	False	False				_		
-TO065	769	{ride}	{ride}	{ride}	metalinguistic	End=1554.17	_	False	False	False	False				_		
-TO061	770	ah	a:h	[a:h	linguistic	Begin=1554.167	_	False	False	False	False	0x1			_		0-2(?)
-TO061	770	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	770	fanno	fanno.	fanno.]	linguistic	End=1555.105	descending	False	False	False	False				_		0-5(?)
+TO065	769	{ride}	{ride}	{ride}	metalinguistic	End=1554.0700000000002	_	False	False	False	False				_		
+TO061	770	ah	a:h	[a:h	linguistic	Begin=1554.167	_	False	False	False	False	0x1			_		0-2(771)
+TO061	770	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(771)
+TO061	770	fanno	fanno.	fanno.]	linguistic	End=1555.105	descending	False	False	False	False				_		0-5(771)
 TO065	771	me	me	[me	linguistic	Begin=1554.17	_	False	False	False	False				_		0-2(770)
 TO065	771	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(770)
 TO065	771	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(770)
@@ -4511,13 +4511,13 @@ TO065	773	ehm	ehm	ehm	linguistic	Begin=1556.994	_	False	False	False	False				_
 TO065	773	è	è	è	linguistic		_	False	False	False	False				_		
 TO065	773	una	una	una	linguistic		_	False	False	False	False				_		
 TO065	773	sciocchezza	sciocchezza	sciocchezza	linguistic		_	False	False	False	False				_		
-TO065	773	questa	questa.	que[sta.]	linguistic	End=1558.708	descending	False	False	False	False				_		3-6(774)
-TO061	774	certo	certo.	[c]er[to.	linguistic	Begin=1558.612	descending	False	False	False	False				_		0-3(773)
-TO061	774	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(775)
-TO061	774	sì	sì.	sì.]	linguistic	End=1559.407	descending	False	False	False	False				_		0-2(775)
-TO065	775	però	però,	[però,	linguistic	Begin=1558.959	weakly_ascending	False	False	False	False				_		0-4(?)
-TO065	775	per	per	per	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	775	dire	dire	di]re	linguistic		_	False	False	False	True				_		0-4(?)
+TO065	773	questa	questa.	que[sta.]	linguistic	End=1558.6080000000002	descending	False	False	False	False				_		3-6(?)
+TO061	774	certo	certo.	[c]er[to.	linguistic	Begin=1558.612	descending	False	False	False	False				_		0-3(?)
+TO061	774	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(?)
+TO061	774	sì	sì.	sì.]	linguistic	End=1559.407	descending	False	False	False	False				_		0-2(?)
+TO065	775	però	però,	[però,	linguistic	Begin=1558.959	weakly_ascending	False	False	False	False				_		0-4(774)
+TO065	775	per	per	per	linguistic		_	False	False	False	False				_		0-3(774)
+TO065	775	dire	dire	di]re	linguistic		_	False	False	False	True				_		0-4(774)
 TO065	775	non	non	on	linguistic		_	False	False	False	False				_		
 TO065	775	so	so	so	linguistic		_	False	False	False	False				_		
 TO065	775	mi	mi	mi	linguistic		_	False	False	False	False				_		
@@ -4536,10 +4536,10 @@ TO065	775	paragrafo	paragrafo	paragrafo	linguistic		_	False	False	False	False			
 TO065	775	non	non	non	linguistic		_	False	False	False	False				_		
 TO065	775	hanno	hanno	hanno	linguistic		_	False	False	False	False				_		
 TO065	775	il	il	il	linguistic		_	False	False	False	False				_		
-TO065	775	rientro	rientro.	rientro.	linguistic	End=1564.482	descending	False	False	False	False				_		
+TO065	775	rientro	rientro.	rientro.	linguistic	End=1564.382	descending	False	False	False	False				_		
 TO061	776	ah	ah,	ah,	linguistic	Begin=1564.481	weakly_ascending	False	False	False	False				_		
 TO061	776	ho	ho	ho	linguistic		_	False	False	False	False				_		
-TO061	776	capito	capito.	c[apito.]	linguistic	End=1565.286	descending	False	False	False	False				_		2-6(?)
+TO061	776	capito	capito.	c[apito.]	linguistic	End=1565.286	descending	False	False	False	False				_		2-6(777)
 TO065	777	però	però	[però	linguistic	Begin=1564.884	_	False	False	False	False				_		0-4(776)
 TO065	777	in	in	in	linguistic		_	False	False	False	False				_		0-2(776)
 TO065	777	tutti	tutti	tutt]i	linguistic		_	False	False	False	False				_		0-5(776)
@@ -4767,20 +4767,20 @@ TO065	823	questho	questho	quest(h)o	linguistic		_	False	False	False	False				_	5
 TO065	823	il	il	il	linguistic		_	False	False	False	False				_		
 TO065	823	punto	punto	[punto	linguistic		_	False	False	False	False				_		2-5(824)
 TO065	823	eh	eh?	eh?]	linguistic	End=1643.889	ascending	False	False	False	False				_		0-2(824)
-TO061	824	s~	s~	[s~	linguistic	Begin=1643.15	_	False	True	False	True				_		0-2(?)
-TO061	824	no	no	o	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	824	no	no	no	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	824	no	no.	n]o.	linguistic	End=1644.009	descending	False	False	False	False				_		0-2(?)
-TO065	825	è	è	è	linguistic	Begin=1644.005	_	False	False	False	False				_		
-TO065	825	proprio	proprio	[proprio	linguistic		_	False	False	False	False				_		0-7(?)
-TO065	825	che	che	che]	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	825	l'	l'	l'	linguistic		_	False	False	True	False				_		0-1(?)
-TO065	825	esperienza	esperienza	es[perienza	linguistic		_	False	False	False	False				_		4-10(?)
-TO065	825	mi	mi	mi	linguistic		_	False	False	False	False				_		0-2(?)
-TO065	825	dice	dice	dice	linguistic		_	False	False	False	False				_		0-4(?)
-TO065	825	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	825	può	può	può	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	825	capitare	capitare	capit]are	linguistic		_	False	False	False	False				_		0-8(?)
+TO061	824	s~	s~	[s~	linguistic	Begin=1643.15	_	False	True	False	True				_		0-2(823)
+TO061	824	no	no	o	linguistic		_	False	False	False	False				_		0-2(823)
+TO061	824	no	no	no	linguistic		_	False	False	False	False				_		0-2(823)
+TO061	824	no	no.	n]o.	linguistic	End=1644.009	descending	False	False	False	False				_		0-2(823)
+TO065	825	è	è	è	linguistic	Begin=1644.105	_	False	False	False	False				_		
+TO065	825	proprio	proprio	[proprio	linguistic		_	False	False	False	False				_		0-7(826)
+TO065	825	che	che	che]	linguistic		_	False	False	False	False				_		0-3(826)
+TO065	825	l'	l'	l'	linguistic		_	False	False	True	False				_		0-1(826)
+TO065	825	esperienza	esperienza	es[perienza	linguistic		_	False	False	False	False				_		4-10(827)
+TO065	825	mi	mi	mi	linguistic		_	False	False	False	False				_		0-2(827)
+TO065	825	dice	dice	dice	linguistic		_	False	False	False	False				_		0-4(827)
+TO065	825	che	che	che	linguistic		_	False	False	False	False				_		0-3(827)
+TO065	825	può	può	può	linguistic		_	False	False	False	False				_		0-3(827)
+TO065	825	capitare	capitare	capit]are	linguistic		_	False	False	False	False				_		0-8(827)
 TO065	825	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO065	825	di	di	di	linguistic		_	False	False	False	False				_		
 TO065	825	tutto	tutto.	tutto.	linguistic	End=1648.437	descending	False	False	False	False				_		
@@ -4988,19 +4988,19 @@ TO061	857	rimaneva	rimaneva	rimaneva	linguistic		_	False	False	False	False				_
 TO061	857	quel	quel	quel	linguistic		_	False	False	False	False				_		
 TO061	857	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO061	857	quel	quel	quel	linguistic		_	False	False	False	False				_		
-TO061	857	buco	buco	bu[co	linguistic		_	False	False	False	False				_		2-4(?)
-TO061	857	quel	quel:	quel:]	linguistic	End=1707.407	_	False	False	False	False	3x1			_		0-4(?)
+TO061	857	buco	buco	bu[co	linguistic		_	False	False	False	False				_		2-4(858)
+TO061	857	quel	quel:	quel:]	linguistic	End=1707.307	_	False	False	False	False	3x1			_		0-4(858)
 TO065	858	valuti	valuti	[valuti	linguistic	Begin=1706.567	_	False	False	False	False				_		0-6(857)
 TO065	858	lei	lei.	lei.]	linguistic	End=1707.306	descending	False	False	False	False				_		0-3(857)
-TO065	859	io	io	[i]o	linguistic	Begin=1707.316	_	False	False	False	False				_		0-2(857)
+TO065	859	io	io	[i]o	linguistic	Begin=1707.316	_	False	False	False	False				_		0-2(?)
 TO065	859	ho	ho	ho	linguistic		_	False	False	False	False				_		
 TO065	859	avuto	avuto	avuto	linguistic		_	False	False	False	False				_		
 TO065	859	bruttissime	bruttissime	bruttissime	linguistic		_	False	False	False	False				_		
-TO065	859	esperienze	esperienze.	esperi[enze.]	linguistic	End=1709.427	descending	False	False	False	False				_		8-10(860)
-TO061	860	~perienze.	~perienze.	[~perienze.]	error	End=1709.434	_	False	False	False	False				_		0-9(?)
-TO065	861	cioè	cioè.	cio[è.	linguistic	Begin=1709.427	descending	False	False	False	False				_		3-4(?)
-TO065	861	con	con	con	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	861	problemi	problemi	pr]oblemi	linguistic		_	False	False	False	False				_		0-5(?)
+TO065	859	esperienze	esperienze.	esperi[enze.]	linguistic	End=1709.427	descending	False	False	False	False				_		8-10(?)
+TO061	860	~perienze.	~perienze.	[~perienze.]	error	End=1709.434	_	False	False	False	False				_		0-9(859)
+TO065	861	cioè	cioè.	cio[è.	linguistic	Begin=1709.5269999999998	descending	False	False	False	False				_		3-4(862)
+TO065	861	con	con	con	linguistic		_	False	False	False	False				_		0-3(862)
+TO065	861	problemi	problemi	pr]oblemi	linguistic		_	False	False	False	False				_		0-5(862)
 TO065	861	all'	all'	all'	linguistic		_	False	False	True	False				_		
 TO065	861	ultimo	ultimo	ultimo	linguistic		_	False	False	False	False				_		
 TO065	861	momento	momento::	moment[o::]	linguistic	End=1713.059	_	False	False	False	False	6x2			_		
@@ -5123,8 +5123,8 @@ TO065	883	anche	anche	anche	linguistic		_	False	False	False	False				_
 TO065	883	a	a	a	linguistic		_	False	False	False	False				_		
 TO065	883	destra	destra	destra	linguistic		_	False	False	False	False				_		
 TO065	883	per	per	per	linguistic		_	False	False	False	False				_		
-TO065	883	favore	favore,	favor[e,]	linguistic	End=1749.301	weakly_ascending	False	False	False	False				_		5-6(884)
-TO061	884	sì	sì.	[s]ì.	linguistic	End=1749.608	descending	False	False	False	False				_		0-2(883)
+TO065	883	favore	favore,	favor[e,]	linguistic	End=1749.201	weakly_ascending	False	False	False	False				_		5-6(?)
+TO061	884	sì	sì.	[s]ì.	linguistic	End=1749.608	descending	False	False	False	False				_		0-2(?)
 TO061	885	sì	sì	sì	linguistic	Begin=1749.608	_	False	False	False	False				_		
 TO061	885	sì	sì.	sì.	linguistic		descending	False	False	False	False				_		
 TO061	885	questo	questo	que[sto	linguistic		_	False	False	False	False				_		4-6(886)
@@ -5190,7 +5190,7 @@ TO065	897	standard	standard	standard	linguistic		_	False	False	False	False				_
 TO065	897	abbiamo	abbiamo	abbiamo	linguistic		_	False	False	False	False				_		
 TO065	897	dodici	dodici	dodici	linguistic	End=1770.01	_	False	False	False	False				_		
 TO061	898	dodici	do:dici.	do:dic[i.]	linguistic	End=1771.105	descending	False	False	False	False	1x1			_		
-TO065	899	per	per	[pe]r	linguistic	Begin=1771.005	_	False	False	False	False				_		0-3(898)
+TO065	899	per	per	[pe]r	linguistic	Begin=1771.105	_	False	False	False	False				_		0-3(?)
 TO065	899	il	il	il	linguistic		_	False	False	False	False				_		
 TO065	899	testo	testo,	testo,	linguistic		weakly_ascending	False	False	False	False				_		
 TO065	899	e	e	e	linguistic		_	False	False	False	False				_		
@@ -5529,11 +5529,11 @@ TO065	966	po'	po':,	p[o':,]	linguistic	End=1897.63	weakly_ascending	False	False	
 TO061	967	un	un	[un	linguistic	Begin=1897.208	_	False	False	False	False				_		0-2(966)
 TO061	967	po'	po'.	po'.]	linguistic	End=1897.661	descending	False	False	False	False				_		0-3(966)
 TO065	968	se	se	se	linguistic	Begin=1898.201	_	False	False	False	False				_		
-TO065	968	possibile	possibile.	po[ssi]bile.	linguistic	End=1899.057	descending	False	False	False	False				_		2-7(?)
+TO065	968	possibile	possibile.	po[ssi]bile.	linguistic	End=1898.957	descending	False	False	False	False				_		2-7(969)
 TO061	969	mh	mh.	[mh.]	linguistic	End=1898.758	descending	False	False	False	False				_		0-2(968)
-TO061	970	certo	certo.	[certo.	linguistic	Begin=1899.054	descending	False	False	False	False				_		0-5(?)
-TO061	970	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	970	sì	sì.	sì.]	linguistic	End=1899.852	descending	False	False	False	False				_		0-2(?)
+TO061	970	certo	certo.	[certo.	linguistic	Begin=1899.054	descending	False	False	False	False				_		0-5(971)
+TO061	970	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(971)
+TO061	970	sì	sì.	sì.]	linguistic	End=1899.852	descending	False	False	False	False				_		0-2(971)
 TO065	971	che	che	[che	linguistic	Begin=1899.067	_	False	False	False	False				_		0-3(970)
 TO065	971	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(970)
 TO065	971	so	so	so	linguistic		_	False	False	False	False				_		0-2(970)
@@ -5897,12 +5897,12 @@ TO061	1034	ottantasette	ottantasette	ottantasette	linguistic		_	False	False	Fals
 TO061	1034	se	se	se	linguistic		_	False	False	False	False				_		
 TO061	1034	non	non	[non]	linguistic	End=2003.313	_	False	False	False	False				_		0-3(1035)
 TO065	1035	mh	m:h,	[m:h,]	linguistic	End=2003.5	weakly_ascending	False	False	False	False	0x1			_		0-2(?)
-TO061	1036	no	no:?	[n]o:?	linguistic	Begin=2003.313	ascending	False	False	False	False	1x1			_		0-2(?)
+TO061	1036	no	no:?	[n]o:?	linguistic	Begin=2003.313	ascending	False	False	False	False	1x1			_		0-2(1035)
 TO061	1036	di	di	[di	linguistic		_	False	False	False	False				_		
-TO061	1036	troppo	troppo?	t]roppo?	linguistic	End=2004.505	ascending	False	False	False	False				_		1-6(?)
+TO061	1036	troppo	troppo?	t]roppo?	linguistic	End=2004.4050000000002	ascending	False	False	False	False				_		1-6(1037)
 TO065	1037	no	no.	[no.]	linguistic	End=2004.034	descending	False	False	False	False				_		0-2(1036)
-TO065	1038	no	no	[no	linguistic	Begin=2004.499	_	False	False	False	False				_		0-2(?)
-TO065	1038	troppo	troppo.	troppo.]	linguistic	End=2005.226	descending	False	False	False	False				_		0-6(?)
+TO065	1038	no	no	[no	linguistic	Begin=2004.499	_	False	False	False	False				_		0-2(1039)
+TO065	1038	troppo	troppo.	troppo.]	linguistic	End=2005.226	descending	False	False	False	False				_		0-6(1039)
 TO061	1039	mh	mh	[mh	linguistic	Begin=2004.505	_	False	False	False	False				_		0-2(1038)
 TO061	1039	di	di	di	linguistic		_	False	False	False	False				_		0-2(1038)
 TO061	1039	meno	meno.	m]eno.	linguistic	End=2005.494	descending	False	False	False	False				_		0-3(1038)
@@ -6024,10 +6024,10 @@ TO065	1056	noi	noi	noi	linguistic		_	False	False	False	False				_
 TO065	1056	abbiamo	abbiamo	abbiamo	linguistic		_	False	False	False	False				_		
 TO065	1056	parlato	parlato	parl[ato	linguistic		_	False	False	False	False				_		4-7(1057)
 TO065	1056	no	no?	no?]	linguistic	End=2047.215	ascending	False	False	False	False				_		0-2(1057)
-TO061	1057	certo	certo.	[certo.	linguistic	Begin=2046.302	descending	False	False	False	False				_		0-5(?)
-TO061	1057	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1057	sì	sì.	sì.]	linguistic	End=2047.244	descending	False	False	False	False				_		0-2(?)
-TO065	1058	cioè	cioè	c(io)è	linguistic	Begin=2047.232	_	False	False	False	False				_	1-4(0)	
+TO061	1057	certo	certo.	[certo.	linguistic	Begin=2046.302	descending	False	False	False	False				_		0-5(1056)
+TO061	1057	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(1056)
+TO061	1057	sì	sì.	sì.]	linguistic	End=2047.244	descending	False	False	False	False				_		0-2(1056)
+TO065	1058	cioè	cioè	c(io)è	linguistic	Begin=2047.3319999999999	_	False	False	False	False				_	1-4(0)	
 TO065	1058	abbiamo	abbiamo	abbiamo	linguistic		_	False	False	False	False				_		
 TO065	1058	visto	visto	visto	linguistic		_	False	False	False	False				_		
 TO065	1058	che	che	che	linguistic		_	False	False	False	False				_		
@@ -6389,7 +6389,7 @@ TO065	1111	noomen	noomen	noomen	linguistic		_	False	False	False	False				_
 TO065	1111	e	e	e	linguistic		_	False	False	False	False				_		
 TO065	1111	van	van	van	linguistic		_	False	False	False	False				_		
 TO065	1111	den	den	den	linguistic		_	False	False	False	False				_		
-TO065	1111	boogaard	boogaard,	boogaard,	linguistic	End=2175.814	weakly_ascending	False	False	False	False				_		
+TO065	1111	boogaard	boogaard,	boogaard,	linguistic	End=2175.714	weakly_ascending	False	False	False	False				_		
 TO061	1112	ci	ci	>ci	linguistic	Begin=2175.813	_	False	False	False	False			0-2(0)	_		
 TO061	1112	siano	siano	siano	linguistic		_	False	False	False	False			0-5(0)	_		
 TO061	1112	edizioni	edizioni	edizioni	linguistic		_	False	False	False	False			0-8(0)	_		
@@ -6677,7 +6677,7 @@ TO065	1161	è	è	è	linguistic		_	False	False	False	False				_
 TO065	1161	un	un	un	linguistic		_	False	False	False	False				_		
 TO065	1161	problema	problema.	problema.	linguistic	End=2280.61	descending	False	False	False	False				_		
 TO061	1162	perfetto	perfetto.	perfetto.	linguistic	End=2281.308	descending	False	False	False	False				_		
-TO065	1163	ehm	e:hm	e:hm	linguistic	Begin=2281.296	_	False	False	False	True	0x1			_		
+TO065	1163	ehm	e:hm	e:hm	linguistic	Begin=2281.3959999999997	_	False	False	False	True	0x1			_		
 TO065	1163	ha	ha	a	linguistic		_	False	False	False	False				_		
 TO065	1163	pubblicato	pubblicato	pubblicato	linguistic		_	False	False	False	False				_		
 TO065	1163	anche	anche	anche	linguistic		_	False	False	False	False				_		
@@ -6723,7 +6723,7 @@ TO065	1170	di	di	>di	linguistic		_	False	False	False	False			1-2(0)	_
 TO065	1170	filologia	filologia	filolo[gia	linguistic		_	False	False	False	False			0-9(0)	_		
 TO065	1170	roman~	roman~	roman~<	linguistic	End=2297.407	_	False	True	False	False			0-6(0)	_		
 TO061	1171	{ride}	{ride}	{ride}	metalinguistic	End=2297.428	_	False	False	False	False				_		
-TO065	1172	all'	all'	all'	linguistic	Begin=2297.411	_	False	False	True	False				_		
+TO065	1172	all'	all'	all'	linguistic	Begin=2297.511	_	False	False	True	False				_		
 TO065	1172	epoca	epoca	epoca	linguistic		_	False	False	False	False				_		
 TO065	1172	erano	erano	erano	linguistic		_	False	False	False	False				_		
 TO065	1172	marito	marito	marito	linguistic		_	False	False	False	False				_		
@@ -7121,19 +7121,19 @@ TO065	1246	copia	copia	copia	linguistic		_	False	False	False	False				_
 TO065	1246	sua	sua.	sua.	linguistic	End=2605.808	descending	False	False	False	False				_		
 TO065	1247	segniamo	segniamo	[segniamo	linguistic	Begin=2606.293	_	False	False	False	False				_		0-8(1248)
 TO065	1247	qua	qua	qua]	linguistic	End=2607.014	_	False	False	False	False				_		0-3(1248)
-TO061	1248	no	no:	[no:	linguistic	Begin=2606.296	_	False	False	False	False	1x1			_		0-2(?)
-TO061	1248	non	non	non	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	1248	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1248	ho	ho	ho	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1248	pensato	pensato.	p]ensato.	linguistic	End=2607.61	descending	False	False	False	False				_		0-4(?)
-TO065	1249	eh	e:h	e:h	linguistic	Begin=2607.604	_	False	False	False	False	0x1			_		
-TO065	1249	la	la	[la	linguistic		_	False	False	False	False				_		1-2(?)
-TO065	1249	prossima	prossima	prossima	linguistic		_	False	False	False	False				_		0-8(?)
-TO065	1249	volta	volta	volta	linguistic		_	False	False	False	False				_		0-5(?)
-TO065	1249	si	si	si	linguistic		_	False	False	False	False				_		0-2(?)
-TO065	1249	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-TO065	1249	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(?)
-TO065	1249	faccia	fa:ccia.	fa:]ccia.	linguistic	End=2609.947	descending	False	False	False	False	1x1			_		0-6(?)
+TO061	1248	no	no:	[no:	linguistic	Begin=2606.296	_	False	False	False	False	1x1			_		0-2(1247)
+TO061	1248	non	non	non	linguistic		_	False	False	False	False				_		0-3(1247)
+TO061	1248	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(1247)
+TO061	1248	ho	ho	ho	linguistic		_	False	False	False	False				_		0-2(1247)
+TO061	1248	pensato	pensato.	p]ensato.	linguistic	End=2607.61	descending	False	False	False	False				_		0-4(1247)
+TO065	1249	eh	e:h	e:h	linguistic	Begin=2607.7039999999997	_	False	False	False	False	0x1			_		
+TO065	1249	la	la	[la	linguistic		_	False	False	False	False				_		1-2(1250)
+TO065	1249	prossima	prossima	prossima	linguistic		_	False	False	False	False				_		0-8(1250)
+TO065	1249	volta	volta	volta	linguistic		_	False	False	False	False				_		0-5(1250)
+TO065	1249	si	si	si	linguistic		_	False	False	False	False				_		0-2(1250)
+TO065	1249	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(1250)
+TO065	1249	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(1250)
+TO065	1249	faccia	fa:ccia.	fa:]ccia.	linguistic	End=2609.947	descending	False	False	False	False	1x1			_		0-6(1250)
 TO061	1250	guar~	guar~	[(guar~)	linguistic	Begin=2607.911	_	False	True	False	False				_	1-5(0)	0-5(1249)
 TO061	1250	la	la	la	linguistic		_	False	False	False	False				_	0-2(0)	0-2(1249)
 TO061	1250	prossima	prossima	prossima	linguistic		_	False	False	False	False				_		0-8(1249)
@@ -7312,18 +7312,18 @@ TO065	1277	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 TO065	1277	ne	ne	ne	linguistic		_	False	False	False	False				_		
 TO065	1277	abbiam	abbiam	abbiam	linguistic		_	False	False	False	False				_		
 TO065	1277	parlato	parlato	parlato	linguistic		_	False	False	False	False				_		
-TO065	1277	forse	forse	for[se	linguistic		_	False	False	False	False				_		3-5(?)
-TO065	1277	anche	anche	anche]	linguistic		_	False	False	False	False				_		0-5(?)
-TO065	1277	a	a	a	linguistic		_	False	False	False	False				_		0-1(?)
-TO065	1277	lezione	lezione	[lezione]	linguistic	End=2670.854	_	False	False	False	False				_		2-7(?)
+TO065	1277	forse	forse	for[se	linguistic		_	False	False	False	False				_		3-5(1278)
+TO065	1277	anche	anche	anche]	linguistic		_	False	False	False	False				_		0-5(1278)
+TO065	1277	a	a	a	linguistic		_	False	False	False	False				_		0-1(1278)
+TO065	1277	lezione	lezione	[lezione]	linguistic	End=2670.754	_	False	False	False	False				_		2-7(1279)
 TO061	1278	mh	mh.	[mh.]	linguistic	End=2670.308	descending	False	False	False	False				_		0-2(1277)
 TO061	1279	sì	sì	[sì]	linguistic	End=2670.79	_	False	False	False	False				_		0-2(1277)
-TO061	1280	non	non	[non	linguistic	Begin=2670.79	_	False	False	False	False				_		0-3(?)
-TO061	1280	si	si	si	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1280	sa	sa	sa	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1280	bene	bene	bene	linguistic		_	False	False	False	False				_		0-4(?)
-TO061	1280	la	la	la	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1280	pronun~	pronun~	pronun~]	linguistic	End=2671.947	_	False	True	False	False				_		0-7(?)
+TO061	1280	non	non	[non	linguistic	Begin=2670.79	_	False	False	False	False				_		0-3(1281)
+TO061	1280	si	si	si	linguistic		_	False	False	False	False				_		0-2(1281)
+TO061	1280	sa	sa	sa	linguistic		_	False	False	False	False				_		0-2(1281)
+TO061	1280	bene	bene	bene	linguistic		_	False	False	False	False				_		0-4(1281)
+TO061	1280	la	la	la	linguistic		_	False	False	False	False				_		0-2(1281)
+TO061	1280	pronun~	pronun~	pronun~]	linguistic	End=2671.947	_	False	True	False	False				_		0-7(1281)
 TO065	1281	sapere	sapere	[sapere	linguistic	Begin=2670.889	_	False	False	False	False				_		0-6(1280)
 TO065	1281	se	se	se	linguistic		_	False	False	False	False				_		0-2(1280)
 TO065	1281	questo	questo	questo]	linguistic		_	False	False	False	False				_		0-6(1280)
@@ -7398,12 +7398,12 @@ TO065	1289	e	e	[e	linguistic		_	False	False	False	False				_
 TO065	1289	nova	nova.	nova.]	linguistic	End=2696.988	descending	False	False	False	False				_		0-4(1291)
 TO061	1290	mh	mh.	[mh.	linguistic	Begin=2694.302	descending	False	False	False	False				_		0-2(1289)
 TO061	1290	mhmh	mhmh.	mhmh.]	linguistic	End=2695.005	descending	False	False	False	False				_		0-4(1289)
-TO061	1291	sì	sì	[sì	linguistic	Begin=2696.302	_	False	False	False	False				_		0-2(1289)
-TO061	1291	esatto	esatto.	esat]to.	linguistic		descending	False	False	False	False				_		0-6(1289)
+TO061	1291	sì	sì	[sì	linguistic	Begin=2696.302	_	False	False	False	False				_		0-2(?)
+TO061	1291	esatto	esatto.	esat]to.	linguistic		descending	False	False	False	False				_		0-6(?)
 TO061	1291	agli	agli	agli	linguistic		_	False	False	False	False				_		
 TO061	1291	ultimi	ultimi	ultimi	linguistic		_	False	False	False	False				_		
 TO061	1291	due	due.	[(due).]	linguistic	End=2697.613	descending	False	False	False	False				_		
-TO065	1292	eh	eh.	eh.	linguistic	Begin=2697.61	descending	False	False	False	False				_		
+TO065	1292	eh	eh.	eh.	linguistic	Begin=2697.71	descending	False	False	False	False				_		
 TO065	1292	eh	eh	eh	linguistic		_	False	False	False	False				_		
 TO065	1292	però	però	però	linguistic		_	False	False	False	False				_		
 TO065	1292	ehm	e::hm	e::hm	linguistic		_	False	False	False	False	0x2			_		
@@ -7419,8 +7419,8 @@ TO065	1293	il	il	il	linguistic		_	False	False	False	False				_
 TO065	1293	lai	lai,	lai,	linguistic		weakly_ascending	False	False	False	False				_		
 TO065	1293	il	il	(il)	linguistic		_	False	False	False	False				_		
 TO065	1293	fabliaux	fabliaux,	fabliaux,	linguistic	End=2703.982	weakly_ascending	False	False	False	False				_	0-3(0)	
-TO061	1294	mhmh	mhmh,	mh[mh,]	linguistic	End=2704.604	weakly_ascending	False	False	False	False				_		2-4(1295)
-TO065	1295	ehm	e:hm	[e:]hm	linguistic	Begin=2704.511	_	False	False	False	False	0x1			_		0-3(1294)
+TO061	1294	mhmh	mhmh,	mh[mh,]	linguistic	End=2704.604	weakly_ascending	False	False	False	False				_		2-4(?)
+TO065	1295	ehm	e:hm	[e:]hm	linguistic	Begin=2704.611	_	False	False	False	False	0x1			_		0-3(?)
 TO065	1295	tipici	tipici::	tipici::	linguistic		_	False	False	False	False	5x2			_		
 TO065	1295	che	che	che	linguistic		_	False	False	False	False				_		
 TO065	1295	so	so	so	linguistic		_	False	False	False	False				_		
@@ -7489,8 +7489,8 @@ TO065	1303	dirle	dirle,	dirle,	linguistic	End=2729.329	weakly_ascending	False	Fa
 TO065	1304	sempre	sempre	sempre	linguistic	Begin=2729.39	_	False	False	False	False				_		
 TO065	1304	in	in	in	linguistic		_	False	False	False	False				_		
 TO065	1304	via	via	via	linguistic		_	False	False	False	False				_		
-TO065	1304	bava	bava,	bav[a,]	linguistic	End=2730.654	weakly_ascending	False	False	False	False				_		3-4(1305)
-TO061	1305	mhmh	mhmh?	[m]hmh?	linguistic	End=2731.113	ascending	False	False	False	False				_		0-3(1304)
+TO065	1304	bava	bava,	bav[a,]	linguistic	End=2730.554	weakly_ascending	False	False	False	False				_		3-4(?)
+TO061	1305	mhmh	mhmh?	[m]hmh?	linguistic	End=2731.113	ascending	False	False	False	False				_		0-3(?)
 TO065	1306	lei	lei	lei	linguistic	Begin=2732.109	_	False	False	False	False				_		
 TO065	1306	dovrebbe	dovrebbe	dovrebbe	linguistic		_	False	False	False	False				_		
 TO065	1306	cercare	cercare	cercare	linguistic		_	False	False	False	False				_		
@@ -7808,15 +7808,15 @@ TO065	1353	un	un	un	linguistic		_	False	False	False	False				_
 TO065	1353	sostantivo	sostantivo.	sostantivo.	linguistic	End=2844.808	descending	False	False	False	False				_		
 TO065	1354	cioè	cioè	cioè	linguistic	Begin=2845.383	_	False	False	False	False				_		
 TO065	1354	qui	qui	qui	linguistic		_	False	False	False	False				_		
-TO065	1354	dice	dice	dice	linguistic	End=2846.203	_	False	False	False	False				_		
+TO065	1354	dice	dice	dice	linguistic	End=2846.103	_	False	False	False	False				_		
 TO061	1355	sì	s:ì.	s:[ì.]	linguistic	End=2846.598	descending	False	False	False	False	0x1			_		
-TO065	1356	una	una	[u]na	linguistic	Begin=2846.494	_	False	False	False	False				_		0-3(1355)
+TO065	1356	una	una	[u]na	linguistic	Begin=2846.494	_	False	False	False	False				_		0-3(?)
 TO065	1356	rima	rima	rima	linguistic		_	False	False	False	False				_		
 TO065	1356	fresca	fresca	fresca	linguistic		_	False	False	False	False				_		
 TO065	1356	e	e	e	linguistic		_	False	False	False	False				_		
-TO065	1356	nuova	nuova.	nuov[a.]	linguistic	End=2848.598	descending	False	False	False	False				_		
-TO061	1357	e	e	[e	linguistic	Begin=2848.507	_	False	False	False	False				_		0-1(?)
-TO061	1357	nuova	nuova.	nuova.]	linguistic	End=2849.414	descending	False	False	False	False				_		0-5(?)
+TO065	1356	nuova	nuova.	nuov[a.]	linguistic	End=2848.498	descending	False	False	False	False				_		
+TO061	1357	e	e	[e	linguistic	Begin=2848.507	_	False	False	False	False				_		0-1(1358)
+TO061	1357	nuova	nuova.	nuova.]	linguistic	End=2849.414	descending	False	False	False	False				_		0-5(1358)
 TO065	1358	eh	eh	[eh	linguistic	Begin=2848.598	_	False	False	False	False				_		0-2(1357)
 TO065	1358	ma	ma,	ma],	linguistic		weakly_ascending	False	False	False	False				_		0-2(1357)
 TO065	1358	ma	ma,	ma,	linguistic		weakly_ascending	False	False	False	False				_		0-1(1357)
@@ -7902,9 +7902,9 @@ TO061	1366	espressa	espressa	espressa	linguistic		_	False	False	False	False				_
 TO061	1366	male	male	male	linguistic		_	False	False	False	False				_		
 TO061	1366	io	io	io	linguistic		_	False	False	False	False				_		
 TO061	1366	nel	nel:	[nel:]	linguistic	End=2874.104	_	False	False	False	False	2x1			_		0-3(1367)
-TO065	1367	eh	eh	[eh	linguistic	Begin=2873.54	_	False	False	False	False				_		0-2(?)
-TO065	1367	sì	sì.	sì.]	linguistic	End=2874.139	descending	False	False	False	False				_		0-2(?)
-TO061	1368	nella	nella	nella	linguistic	Begin=2874.104	_	False	False	False	False				_		
+TO065	1367	eh	eh	[eh	linguistic	Begin=2873.54	_	False	False	False	False				_		0-2(1366)
+TO065	1367	sì	sì.	sì.]	linguistic	End=2874.139	descending	False	False	False	False				_		0-2(1366)
+TO061	1368	nella	nella	nella	linguistic	Begin=2874.2039999999997	_	False	False	False	False				_		
 TO061	1368	scrittu~	scrittu~	scrittu~	linguistic	End=2874.767	_	False	True	False	False				_		
 TO065	1369	ciao	ciao	ciao	linguistic	Begin=2874.979	_	False	False	False	False				_		
 TO065	1369	daniel	daniel	daniel	linguistic	End=2875.729	_	False	False	False	False				_		
@@ -8480,10 +8480,10 @@ TO061	1474	capito	capito.	ca]pito.	linguistic	End=3133.005	descending	False	Fals
 TO065	1475	certo	certo	certo	linguistic	Begin=3133.598	_	False	False	False	False				_		
 TO065	1475	se	se	se	linguistic		_	False	False	False	False				_		
 TO065	1475	fosse	fosse	[fosse]	linguistic	End=3134.505	_	False	False	False	False				_		0-5(1476)
-TO061	1476	sì	sì	[sì	linguistic	Begin=3134.15	_	False	False	False	False				_		0-2(?)
-TO061	1476	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1476	evito	evito.	e]vito.	linguistic	End=3134.941	descending	False	False	False	False				_		0-3(?)
-TO065	1477	e	e	e	linguistic	Begin=3134.921	_	False	False	False	False				_		
+TO061	1476	sì	sì	[sì	linguistic	Begin=3134.15	_	False	False	False	False				_		0-2(1475)
+TO061	1476	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(1475)
+TO061	1476	evito	evito.	e]vito.	linguistic	End=3134.941	descending	False	False	False	False				_		0-3(1475)
+TO065	1477	e	e	e	linguistic	Begin=3135.0209999999997	_	False	False	False	False				_		
 TO065	1477	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO065	1477	evidenze	evidenze,	evidenze,	linguistic		weakly_ascending	False	False	False	False				_		
 TO065	1477	allora	allora	allora	linguistic		_	False	False	False	False				_		
@@ -8923,7 +8923,7 @@ TO065	1553	nome	nome	nome	linguistic		_	False	False	False	False				_
 TO065	1553	e	e	e	linguistic		_	False	False	False	False				_		
 TO065	1553	cognome	cognome.	cognome.	linguistic	End=3392.505	descending	False	False	False	False				_		
 TO065	1554	no	no?	no?	linguistic	End=3393.016	ascending	False	False	False	False				_		
-TO061	1555	sì	sì.	[sì.]	linguistic	End=3393.302	descending	False	False	False	False				_		0-2(?)
+TO061	1555	sì	sì.	[sì.]	linguistic	End=3393.302	descending	False	False	False	False				_		0-2(1556)
 TO065	1556	michelangelo	michelangelo	[mich]elan[gelo	linguistic	Begin=3393.016	_	False	False	False	False				_		0-6(1555),10-12(1557)
 TO065	1556	picone	picone.	picone.]	linguistic	End=3394.302	descending	False	False	False	False				_		0-6(1557)
 TO061	1557	e	e	[e	linguistic	Begin=3393.478	_	False	False	False	False				_		0-1(1556)
@@ -8951,23 +8951,23 @@ TO065	1563	cioè	cioè	[c(io)è	linguistic	Begin=3400.659	_	False	False	False	Fa
 TO065	1563	attenzione	attenzione.	attenzio]ne.	linguistic	End=3401.32	descending	False	False	False	False				_	0-1(0)	0-10(1562)
 TO065	1564	cioè	cioè	cioè	linguistic	Begin=3401.341	_	False	False	False	False				_		
 TO065	1564	bisogna	bisogna	(bisogna)	linguistic		_	False	False	False	False				_	0-7(0)	
-TO065	1564	essere	essere	es[sere	linguistic		_	False	False	False	False				_	0-1(0)	4-6(1565)
-TO065	1564	coerenti	coerenti.	c]oeren[ti.]	linguistic	End=3402.648	descending	False	False	False	False				_		0-5(1565)
+TO065	1564	essere	essere	es[sere	linguistic		_	False	False	False	False				_	0-1(0)	4-6(?)
+TO065	1564	coerenti	coerenti.	c]oeren[ti.]	linguistic	End=3402.648	descending	False	False	False	False				_		0-5(?)
 TO061	1565	mh	mh.	[mh.]	linguistic	End=3402.099	descending	False	False	False	False				_		0-2(1564)
-TO061	1566	sì	sì	[sì	linguistic	Begin=3402.579	_	False	False	False	False				_		0-2(?)
-TO061	1566	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1566	sì	sì,	sì,	linguistic		weakly_ascending	False	False	False	False				_		0-2(?)
-TO061	1566	non	non	non	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	1566	me	me	me	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1566	ne	ne	ne	linguistic		_	False	False	False	False				_		0-2(?)
-TO061	1566	ero	ero	ero	linguistic		_	False	False	False	False				_		0-3(?)
-TO061	1566	accorta	accorta.	ac]cort[a.]	linguistic	End=3404.181	descending	False	False	False	False				_		0-5(?)
+TO061	1566	sì	sì	[sì	linguistic	Begin=3402.679	_	False	False	False	False				_		0-2(1567)
+TO061	1566	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(1567)
+TO061	1566	sì	sì,	sì,	linguistic		weakly_ascending	False	False	False	False				_		0-2(1567)
+TO061	1566	non	non	non	linguistic		_	False	False	False	False				_		0-3(1567)
+TO061	1566	me	me	me	linguistic		_	False	False	False	False				_		0-2(1567)
+TO061	1566	ne	ne	ne	linguistic		_	False	False	False	False				_		0-2(1567)
+TO061	1566	ero	ero	ero	linguistic		_	False	False	False	False				_		0-3(1567)
+TO061	1566	accorta	accorta.	ac]cort[a.]	linguistic	End=3404.181	descending	False	False	False	False				_		0-5(1567)
 TO065	1567	altrimenti	altrimenti,	[altrimenti,]	linguistic	End=3403.582	weakly_ascending	False	False	False	False				_		0-10(1566)
 TO065	1568	no	no,	[no,]	linguistic	Begin=3403.989	weakly_ascending	False	False	False	False				_		0-2(1566)
 TO065	1568	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(1566)
 TO065	1568	certo	certo.	cer[to.]	linguistic	End=3404.78	descending	False	False	False	False				_		
-TO061	1569	mh	mh.	[mh.]	linguistic	End=3404.797	descending	False	False	False	False				_		0-2(?)
-TO065	1570	ehm	e:hm	e:hm	linguistic	Begin=3404.78	_	False	False	False	False	0x1			_		
+TO061	1569	mh	mh.	[mh.]	linguistic	End=3404.797	descending	False	False	False	False				_		0-2(1568)
+TO065	1570	ehm	e:hm	e:hm	linguistic	Begin=3404.88	_	False	False	False	False	0x1			_		
 TO065	1570	non	non	(no)n	linguistic		_	False	False	False	False				_	1-3(0)	
 TO065	1570	è	è	è	linguistic		_	False	False	False	False				_	0-1(0)	
 TO065	1570	grave	grave.	grave.	linguistic	End=3406.203	descending	False	False	False	False				_		
@@ -9478,15 +9478,15 @@ TO065	1681	neri	neri.	ne[ri.]	linguistic	End=3683.313	descending	False	False	Fal
 TO061	1682	sì	sì?	[sì?]	linguistic	End=3682.538	ascending	False	False	False	False				_		0-2(1681)
 TO061	1683	di	di	[di	linguistic	Begin=3683.049	_	False	False	False	False				_		0-2(?)
 TO061	1683	neri	neri.	neri.]	linguistic	End=3683.599	descending	False	False	False	False				_		0-4(?)
-TO065	1684	così	così	[così	linguistic	Begin=3683.313	_	False	False	False	False				_		0-4(?)
-TO065	1684	io	io	io	linguistic		_	False	False	False	False				_		0-2(?)
-TO065	1684	poi	poi	poi	linguistic		_	False	False	False	False				_		0-3(?)
-TO065	1684	scrivo	scrivo	sc]rivo	linguistic		_	False	False	False	False				_		0-4(?)
+TO065	1684	così	così	[così	linguistic	Begin=3683.313	_	False	False	False	False				_		0-4(1683)
+TO065	1684	io	io	io	linguistic		_	False	False	False	False				_		0-2(1683)
+TO065	1684	poi	poi	poi	linguistic		_	False	False	False	False				_		0-3(1683)
+TO065	1684	scrivo	scrivo	sc]rivo	linguistic		_	False	False	False	False				_		0-4(1683)
 TO065	1684	a	a	a	linguistic		_	False	False	False	False				_		
-TO065	1684	neri	neri.	ne[ri.]	linguistic	End=3685.0	descending	False	False	False	False				_		
+TO065	1684	neri	neri.	ne[ri.]	linguistic	End=3684.9	descending	False	False	False	False				_		
 TO061	1685	sì	sì	[sì	linguistic	Begin=3683.604	_	False	False	False	False				_		0-2(1684)
 TO061	1685	sì	sì.	sì.]	linguistic	End=3684.016	descending	False	False	False	False				_		0-2(1684)
-TO061	1686	va	va	[v]a	linguistic	Begin=3684.937	_	False	False	False	False				_		0-2(1684)
+TO061	1686	va	va	[v]a	linguistic	Begin=3684.937	_	False	False	False	False				_		0-2(?)
 TO061	1686	bene	bene.	be[ne.]	linguistic	End=3685.549	descending	False	False	False	False				_		
 TO065	1687	mh	mh?	[mh?]	linguistic	End=3685.497	ascending	False	False	False	False				_		0-2(1686)
 TO061	1688	d'	d'	d'	linguistic	Begin=3685.743	_	False	False	True	False				_		
@@ -9501,8 +9501,8 @@ TO065	1691	il	il	il	linguistic		_	False	False	False	False				_
 TO065	1691	momento	momento	momento	linguistic		_	False	False	False	False				_		
 TO065	1691	è	è	è	linguistic		_	False	False	False	False				_		
 TO065	1691	tutto	tutto.	tutto.	linguistic	End=3689.302	descending	False	False	False	False				_		
-TO065	1692	mh	mh?	[mh]?	linguistic	End=3689.846	ascending	False	False	False	False				_		0-2(1693)
-TO061	1693	benissimo	benissimo.	[b]enissimo.	linguistic	End=3690.497	descending	False	False	False	False				_		0-3(1692)
+TO065	1692	mh	mh?	[mh]?	linguistic	End=3689.846	ascending	False	False	False	False				_		0-2(?)
+TO061	1693	benissimo	benissimo.	[b]enissimo.	linguistic	End=3690.497	descending	False	False	False	False				_		0-3(?)
 TO065	1694	buon	buon	buon	linguistic	Begin=3691.192	_	False	False	False	False				_		
 TO065	1694	lavoro	lavoro.	lavoro.	linguistic	End=3691.934	descending	False	False	False	False				_		
 TO061	1695	grazie	grazie.	grazie.	linguistic	End=3692.703	descending	False	False	False	False				_		
@@ -9579,9 +9579,9 @@ TO065	1708	parliamo	parliamo.	parliamo.	linguistic	End=3723.549	descending	False
 ???	1710	ritrovi	ritrovi	ritrovi	linguistic		_	False	False	False	False				_		
 ???	1710	perché	perché	perché	linguistic		_	False	False	False	False				_		
 ???	1710	io	io	io	linguistic		_	False	False	False	False				_		
-???	1710	devo	devo:	dev[o:]	linguistic	End=3725.906	_	False	False	False	False	3x1			_		3-4(1711)
-TO065	1711	e	e	[e]	linguistic	Begin=3725.81	_	False	False	False	False				_		0-1(1710)
-TO065	1711	allora	allora	allora	linguistic		_	False	False	False	False				_		0-1(1710)
+???	1710	devo	devo:	dev[o:]	linguistic	End=3725.806	_	False	False	False	False	3x1			_		3-4(?)
+TO065	1711	e	e	[e]	linguistic	Begin=3725.81	_	False	False	False	False				_		0-1(?)
+TO065	1711	allora	allora	allora	linguistic		_	False	False	False	False				_		0-1(?)
 TO065	1711	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO065	1711	ti	ti	ti	linguistic		_	False	False	False	False				_		
 TO065	1711	aspetto	aspetto	aspetto	linguistic		_	False	False	False	False				_		
@@ -9649,7 +9649,7 @@ TO071	1725	esattamente	esattamente.	e]sattamente.	linguistic	End=3755.401	descen
 TO071	1726	grazie	grazie	grazie	linguistic	Begin=3755.505	_	False	False	False	False				_		
 TO071	1726	mille	mille.	[mille.]	linguistic	End=3756.203	descending	False	False	False	False				_		0-5(1727)
 TO065	1727	xxx	xxx	[xxx	linguistic	Begin=3755.813	_	True	False	False	False				_		0-3(?)
-TO065	1727	arrivederci	arrivederci.	arrivederci.]	linguistic	End=3756.978	descending	False	False	False	False				_		0-11(?)
+TO065	1727	arrivederci	arrivederci.	arrivederci.]	linguistic	End=3756.878	descending	False	False	False	False				_		0-11(?)
 TO071	1728	grazie	grazie	[grazie	linguistic	Begin=3756.308	_	False	False	False	False				_		0-6(1727)
 TO071	1728	ancora	ancora.	ancora.]	linguistic	End=3756.906	descending	False	False	False	False				_		0-6(1727)
-TO071	1729	arrivederci	arrivederci.	[ar]rivederci.	linguistic	End=3757.401	descending	False	False	False	False				_		0-4(1727)
+TO071	1729	arrivederci	arrivederci.	[ar]rivederci.	linguistic	End=3757.401	descending	False	False	False	False				_		0-4(?)

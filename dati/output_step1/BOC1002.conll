@@ -60,9 +60,9 @@ BO089	15	italiano	italiano:::	italiano:[::	linguistic		_	False	False	False	False
 BO089	15	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		1-3(16)
 BO089	15	e	e	e	linguistic		_	False	False	False	False				_		0-1(16)
 BO089	15	una	una	una]	linguistic	End=49.75	_	False	False	False	False				_		0-3(16)
-BO087	16	perché	perché	[perché	linguistic	Begin=48.95	_	False	False	False	False				_		0-6(?)
-BO087	16	è	è	è]	linguistic		_	False	False	False	False				_		0-1(?)
-BO087	16	spento	spento?	spento?	linguistic	End=50.29	ascending	False	False	False	False				_		0-1(?)
+BO087	16	perché	perché	[perché	linguistic	Begin=48.95	_	False	False	False	False				_		0-6(15)
+BO087	16	è	è	è]	linguistic		_	False	False	False	False				_		0-1(15)
+BO087	16	spento	spento?	spento?	linguistic	End=50.19	ascending	False	False	False	False				_		0-1(15)
 BO089	17	bibliografia	bibliografia,	<bibliografia>,	linguistic	End=51.452	weakly_ascending	False	False	False	False		0-12(0)		_		
 BO089	18	retrospettiva	retrospettiva.	retrospettiva.	linguistic	End=53.47	descending	False	False	False	False				_		
 BO087	19	{bisbiglio_incomprensibile}	{bisbiglio_incomprensibile}	{bisbiglio_incomprensibile}	metalinguistic	End=55.522	_	False	False	False	False				_		
@@ -142,9 +142,9 @@ BO089	30	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 BO089	30	perché	perché	perché	linguistic		_	False	False	False	False				_		
 BO089	30	ho	ho	ho	linguistic		_	False	False	False	False				_		
 BO089	30	scritto	scritto	scr[itto	linguistic		_	False	False	False	False				_		
-BO089	30	primario	primario	prim]ario	linguistic		_	False	False	False	False				_		1-8(?)
-BO089	30	e	e	e	linguistic		_	False	False	False	False				_		0-1(?)
-BO089	30	invece	invece	invece	linguistic	End=93.803	_	False	False	False	False				_		0-1(?)
+BO089	30	primario	primario	prim]ario	linguistic		_	False	False	False	False				_		1-8(31)
+BO089	30	e	e	e	linguistic		_	False	False	False	False				_		0-1(31)
+BO089	30	invece	invece	invece	linguistic	End=93.703	_	False	False	False	False				_		0-1(31)
 BO087	31	mh	mh.	[mh.]	linguistic	End=92.878	descending	False	False	False	False				_		0-2(30)
 BO087	32	e	e	e	linguistic	Begin=93.799	_	False	False	False	False				_		
 BO087	32	ovviamente	ovviamente	ovviamente	linguistic		_	False	False	False	False				_		
@@ -156,11 +156,11 @@ BO087	32	che	che	che	linguistic		_	False	False	False	False				_
 BO087	32	differenza	differenza	differenza	linguistic		_	False	False	False	False				_		
 BO087	32	c'	c'	c'	linguistic		_	False	False	True	False				_		
 BO087	32	è	è	è	linguistic		_	False	False	False	False				_		
-BO087	32	tra	tra	[tra	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	32	primaria	primaria	primaria	linguistic		_	False	False	False	False				_		0-8(?)
-BO087	32	e	e	e	linguistic		_	False	False	False	False				_		0-1(?)
-BO087	32	secondaria	secondaria	secondaria]	linguistic		_	False	False	False	False				_		0-10(?)
-BO087	32	no	no?	no?	linguistic	End=97.68	ascending	False	False	False	False				_		0-1(?)
+BO087	32	tra	tra	[tra	linguistic		_	False	False	False	False				_		0-3(33)
+BO087	32	primaria	primaria	primaria	linguistic		_	False	False	False	False				_		0-8(33)
+BO087	32	e	e	e	linguistic		_	False	False	False	False				_		0-1(33)
+BO087	32	secondaria	secondaria	secondaria]	linguistic		_	False	False	False	False				_		0-10(33)
+BO087	32	no	no?	no?	linguistic	End=97.68	ascending	False	False	False	False				_		0-1(33)
 BO089	33	sì	sì	[sì	linguistic	Begin=95.952	_	False	False	False	False				_		0-2(32)
 BO089	33	{ride}	{ride}	{ride}	metalinguistic		_	False	False	False	False				_		0-6(32)
 BO089	33	esatto	esatto.	esatto.]	linguistic	End=97.447	descending	False	False	False	False				_		0-6(32)
@@ -373,7 +373,7 @@ BO089	58	cinese	cinese,	inese, 	linguistic		weakly_ascending	False	False	False	F
 BO089	58	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		
 BO089	58	la	la	a 	linguistic		_	False	False	False	False				_		
 BO089	58	bibliografia	bibliografia	ibliografia 	linguistic		_	False	False	False	False				_		
-BO089	58	del	del	el	linguistic	End=180.01	_	False	False	False	False				_		
+BO089	58	del	del	el	linguistic	End=179.91	_	False	False	False	False				_		
 BO087	59	che	che	che	linguistic	Begin=180.0	_	False	False	False	False				_		
 BO087	59	mi	mi	mi	linguistic		_	False	False	False	False				_		
 BO087	59	sembra	sembra::	sembra::	linguistic	End=180.99	_	False	False	False	False	5x2			_		
@@ -501,7 +501,7 @@ BO087	71	di	di	di	linguistic		_	False	False	False	False				_
 BO087	71	tutte	tutte	tutte	linguistic		_	False	False	False	False				_		
 BO087	71	le	le	le	linguistic		_	False	False	False	False				_		
 BO087	71	altre	altre	altre	linguistic		_	False	False	False	False				_		
-BO087	71	bibliografie	bibliografie.	bibliografie.	linguistic	End=224.695	descending	False	False	False	False				_		
+BO087	71	bibliografie	bibliografie.	bibliografie.	linguistic	End=224.595	descending	False	False	False	False				_		
 BO089	72	mhmh	mhmh,	mhmh,	linguistic	End=225.299	weakly_ascending	False	False	False	False				_		
 BO087	73	mh	mh	mh	linguistic	Begin=225.299	_	False	False	False	False				_		
 BO087	73	no	no	no	linguistic		_	False	False	False	False				_		
@@ -729,7 +729,7 @@ BO089	92	studio	studio:	studio:	linguistic	Begin=299.505	_	False	False	False	Fal
 BO089	92	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO089	92	studio	studio	studio	linguistic		_	False	False	False	False				_		
 BO089	92	cinese	cinese	cinese	linguistic		_	False	False	False	False				_		
-BO089	92	quindi	quindi:,	quindi:,	linguistic	End=301.51	weakly_ascending	False	False	False	False	5x1			_		
+BO089	92	quindi	quindi:,	quindi:,	linguistic	End=301.40999999999997	weakly_ascending	False	False	False	False	5x1			_		
 BO087	93	mh	mh	mh	linguistic	Begin=301.48	_	False	False	False	False				_		
 BO087	93	mh	mh,	mh,	linguistic	End=301.81	weakly_ascending	False	False	False	False				_		
 BO089	94	e	e::::	e::::	linguistic	Begin=301.98	_	False	False	False	True	0x4			_		
@@ -823,7 +823,7 @@ BO087	106	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 BO087	106	e	e	e	linguistic		_	False	False	False	False				_		
 BO087	106	non	non	non	linguistic		_	False	False	False	False				_		
 BO087	106	ci	ci	ci	linguistic		_	False	False	False	False				_		
-BO087	106	piove	piove.	piove.	linguistic	End=332.957	descending	False	False	False	False				_		
+BO087	106	piove	piove.	piove.	linguistic	End=332.85699999999997	descending	False	False	False	False				_		
 BO089	107	no	no.	no.	linguistic	End=333.29	descending	False	False	False	False				_		
 BO089	108	so~	so~	so~	linguistic	Begin=334.284	_	False	True	False	False				_		
 BO089	108	è	è	è	linguistic		_	False	False	False	False				_		
@@ -941,16 +941,16 @@ BO089	130	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(129)
 BO089	130	cognome	cognome	cognome]	linguistic		_	False	False	False	False				_		0-7(129)
 BO089	130	nome	nome.	nome.	linguistic	End=377.42	descending	False	False	False	False				_		0-1(129)
 BO087	131	cognome	cognome	cognome	linguistic	Begin=377.42	_	False	False	False	False				_		
-BO087	131	nome	nome?	nom[e?	linguistic		ascending	False	False	False	False				_		3-4(?)
-BO087	131	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-BO087	131	prima	prima	pri]ma	linguistic		_	False	False	False	False				_		0-5(?)
+BO087	131	nome	nome?	nom[e?	linguistic		ascending	False	False	False	False				_		3-4(132)
+BO087	131	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(132)
+BO087	131	prima	prima	pri]ma	linguistic		_	False	False	False	False				_		0-5(132)
 BO087	131	si	si	si	linguistic		_	False	False	False	False				_		
 BO087	131	dice	dice	dice	linguistic		_	False	False	False	False				_		
 BO087	131	il	il	il	linguistic		_	False	False	False	False				_		
 BO087	131	cognome	cognome,	cognome,	linguistic		weakly_ascending	False	False	False	False				_		
 BO087	131	poi	poi	poi	linguistic		_	False	False	False	False				_		
 BO087	131	il	il	il	linguistic		_	False	False	False	False				_		
-BO087	131	nome	nome.	nome.	linguistic	End=380.47	descending	False	False	False	False				_		
+BO087	131	nome	nome.	nome.	linguistic	End=380.37	descending	False	False	False	False				_		
 BO089	132	sì	sì.	[sì.]	linguistic	End=378.858	descending	False	False	False	False				_		0-2(131)
 BO089	133	mh	mh	mh	linguistic	Begin=380.44	_	False	False	False	False				_		
 BO089	133	mh	mh,	mh,	linguistic	End=380.82	weakly_ascending	False	False	False	False				_		
@@ -1255,7 +1255,7 @@ BO089	175	guo	guo:	guo:	linguistic	Begin=505.6	_	False	False	False	False	2x1			_
 BO089	175	moruo	moruo.	moruo.	linguistic	End=506.535	descending	False	False	False	False				_		
 BO087	176	guo	guo	guo	linguistic	Begin=506.54	_	False	False	False	False				_		
 BO087	176	moruo	moruo.	moruo.	linguistic	End=507.27	descending	False	False	False	False				_		
-BO089	177	guo	guo	guo	linguistic	Begin=507.25	_	False	False	False	False				_		
+BO089	177	guo	guo	guo	linguistic	Begin=507.35	_	False	False	False	False				_		
 BO089	177	moruo	moruo.	moruo.	linguistic	End=508.013	descending	False	False	False	False				_		
 BO089	178	e	e::	e::	linguistic	Begin=508.165	_	False	False	False	False	0x2			_		
 BO089	178	ho	ho	ho	linguistic		_	False	False	False	False				_		
@@ -1376,7 +1376,7 @@ BO089	194	eh	e::h	:h=	linguistic		_	False	False	False	True	0x2			_
 BO089	194	mh	m::h	h {	linguistic		_	False	False	False	False	0x2			_		
 BO089	194	{P}	{P}	} d	shortpause		_	False	False	False	False				_		
 BO089	194	dei	dei	i c	linguistic		_	False	False	False	False				_		
-BO089	194	caratteri	caratteri.	ratteri.)	linguistic	End=544.666	descending	False	False	False	False				_		
+BO089	194	caratteri	caratteri.	ratteri.	linguistic	End=544.666	descending	False	False	False	False				_		
 BO089	195	e	e	e	linguistic	Begin=545.27	_	False	False	False	True				_		
 BO089	195	mh	m::::h,	:::h,	linguistic	End=546.95	weakly_ascending	False	False	False	False	0x4			_		
 BO089	196	e	e:	e:	linguistic	Begin=547.978	_	False	False	False	False	0x1			_		
@@ -1481,7 +1481,7 @@ BO089	207	eh	e:h	h 	linguistic		_	False	False	False	False	0x1			_
 BO089	207	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		
 BO089	207	contenuto	contenuto:	ontenuto: 	linguistic		_	False	False	False	False	8x1			_		
 BO089	207	mh	m:h	:h 	linguistic		_	False	False	False	False	0x1			_		
-BO089	207	generale	generale,	enerale,)	linguistic	End=578.347	weakly_ascending	False	False	False	False				_		
+BO089	207	generale	generale,	enerale,	linguistic	End=578.347	weakly_ascending	False	False	False	False				_		
 BO089	208	eh	e:::h	e:::h	linguistic	Begin=578.606	_	False	False	False	False	0x3			_		
 BO089	208	ho	ho	ho	linguistic		_	False	False	False	False				_		
 BO089	208	riportato	riportato	riportato	linguistic		_	False	False	False	False				_		
@@ -1523,7 +1523,7 @@ BO087	217	buiatti	buiatti.	bu[iatti.]	linguistic	End=600.067	descending	False	Fa
 BO089	218	buiatti	buiatti.	[buiatti.]	linguistic	End=600.038	descending	False	False	False	False				_		0-7(217)
 BO089	219	ah	ah	ah	linguistic	Begin=600.37	_	False	False	False	False				_		
 BO089	219	okay	okay.	okay.	linguistic	End=601.0	descending	False	False	False	False				_		
-BO087	220	lei	lei	lei	linguistic	Begin=600.96	_	False	False	False	False				_		
+BO087	220	lei	lei	lei	linguistic	Begin=601.0600000000001	_	False	False	False	False				_		
 BO087	220	lo	lo	lo	linguistic		_	False	False	False	False				_		
 BO087	220	inverte	inverte	inverte	linguistic		_	False	False	False	False				_		
 BO087	220	se	se,	se,	linguistic		weakly_ascending	False	False	False	False				_		
@@ -1667,10 +1667,10 @@ BO087	246	si	si	si	linguistic		_	False	False	False	False				_
 BO087	246	presenta	presenta?	presenta?	linguistic	End=648.525	ascending	False	False	False	False				_		
 BO089	247	marina	marina	marina	linguistic	Begin=648.589	_	False	False	False	False				_		
 BO089	247	milanda	milanda.	milanda.	linguistic	End=649.619	descending	False	False	False	False				_		
-BO087	248	giustamente	giustamente	giusta[mente	linguistic	Begin=649.777	_	False	False	False	False				_		6-11(?)
-BO087	248	col	col	col	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	248	suo	suo	suo	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	248	elenco	elenco	ele]nco	linguistic		_	False	False	False	False				_		0-5(?)
+BO087	248	giustamente	giustamente	giusta[mente	linguistic	Begin=649.777	_	False	False	False	False				_		6-11(249)
+BO087	248	col	col	col	linguistic		_	False	False	False	False				_		0-3(249)
+BO087	248	suo	suo	suo	linguistic		_	False	False	False	False				_		0-3(249)
+BO087	248	elenco	elenco	ele]nco	linguistic		_	False	False	False	False				_		0-5(249)
 BO087	248	col	col	col	linguistic		_	False	False	False	False				_		
 BO087	248	suo	suo	suo	linguistic		_	False	False	False	False				_		
 BO087	248	nome	nome	nome	linguistic		_	False	False	False	False				_		
@@ -1679,7 +1679,7 @@ BO087	248	il	il	il	linguistic		_	False	False	False	False				_
 BO087	248	suo	suo	suo	linguistic		_	False	False	False	False				_		
 BO087	248	cognome	cognome	cognome	linguistic		_	False	False	False	False				_		
 BO087	248	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
-BO087	248	mh	mh?	mh?	linguistic	End=653.54	ascending	False	False	False	False				_		
+BO087	248	mh	mh?	mh?	linguistic	End=653.4399999999999	ascending	False	False	False	False				_		
 BO089	249	giustamente	giustamente.	[giustamente.]	linguistic	End=651.073	descending	False	False	False	False				_		0-11(248)
 BO089	250	sì	sì.	sì.	linguistic	End=653.87	descending	False	False	False	False				_		
 BO087	251	e	e	e	linguistic	Begin=653.947	_	False	False	False	False				_		
@@ -1726,7 +1726,7 @@ BO087	256	congome	congome,	congome,	linguistic		weakly_ascending	False	False	Fal
 BO087	256	e	e	e	linguistic		_	False	False	False	False				_		
 BO087	256	poi	poi	poi	linguistic		_	False	False	False	False				_		
 BO087	256	il	il	il	linguistic		_	False	False	False	False				_		
-BO087	256	nome	nome.	no[me.]	linguistic	End=666.39	descending	False	False	False	False				_		
+BO087	256	nome	nome.	no[me.]	linguistic	End=666.29	descending	False	False	False	False				_		
 BO089	257	mh	mh	mh	linguistic	Begin=666.386	_	False	False	False	False				_		
 BO089	257	mh	mh,	mh,	linguistic	End=666.73	weakly_ascending	False	False	False	False				_		
 BO087	258	uno	uno	uno	linguistic	Begin=666.73	_	False	False	False	False				_		
@@ -1839,13 +1839,13 @@ BO089	268	era	era.	era.	linguistic	End=691.23	descending	False	False	False	False
 BO087	269	per	per	per	linguistic	Begin=691.23	_	False	False	False	False				_		
 BO087	269	cognome	cognome,	cognome,	linguistic		weakly_ascending	False	False	False	False				_		
 BO087	269	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
-BO087	269	sì	sì	[sì	linguistic		_	False	False	False	False				_		1-2(?)
-BO087	269	sì	sì,	sì,]	linguistic		weakly_ascending	False	False	False	False				_		0-2(?)
-BO087	269	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
+BO087	269	sì	sì	[sì	linguistic		_	False	False	False	False				_		1-2(270)
+BO087	269	sì	sì,	sì,]	linguistic		weakly_ascending	False	False	False	False				_		0-2(270)
+BO087	269	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(270)
 BO087	269	okay	okay.	okay.	linguistic	End=693.17	descending	False	False	False	False				_		
 BO089	270	sì	sì	[sì	linguistic	Begin=691.91	_	False	False	False	False				_		0-2(269)
 BO089	270	sì	sì,	sì,]	linguistic	End=692.39	weakly_ascending	False	False	False	False				_		0-2(269)
-BO089	271	eh	e::h	e::h	linguistic	Begin=693.15	_	False	False	False	True	0x2			_		
+BO089	271	eh	e::h	e::h	linguistic	Begin=693.25	_	False	False	False	True	0x2			_		
 BO089	271	mh	m:::h	::h 	linguistic		_	False	False	False	False	0x3			_		
 BO089	271	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		
 BO089	271	e	e	 	linguistic		_	False	False	False	False				_		
@@ -1918,9 +1918,9 @@ BO087	281	e	e	e	linguistic		_	False	False	False	False				_
 BO087	281	titolo	titolo	titolo	linguistic		_	False	False	False	False				_		
 BO087	281	mi	mi	mi	linguistic		_	False	False	False	False				_		
 BO087	281	arrabbio	arrabbio	arrabbio	linguistic		_	False	False	False	False				_		
-BO087	281	eh	eh.	eh.	linguistic	End=720.515	descending	False	False	False	False				_		
-BO089	282	scusi	scusi	scu[si]	linguistic	Begin=720.496	_	False	False	False	False				_		3-5(?)
-BO089	282	{ride}	{ride}	{ride}	metalinguistic	End=721.68	_	False	False	False	False				_		0-1(?)
+BO087	281	eh	eh.	eh.	linguistic	End=720.415	descending	False	False	False	False				_		
+BO089	282	scusi	scusi	scu[si]	linguistic	Begin=720.496	_	False	False	False	False				_		3-5(283)
+BO089	282	{ride}	{ride}	{ride}	metalinguistic	End=721.68	_	False	False	False	False				_		0-1(283)
 BO087	283	siamo	siamo	[siamo]	linguistic	Begin=720.773	_	False	False	False	False				_		0-5(282)
 BO087	283	in	in	in	linguistic		_	False	False	False	False				_		0-1(282)
 BO087	283	bilbiografia	bilbiografia	bilbiografia	linguistic		_	False	False	False	False				_		
@@ -1974,7 +1974,7 @@ BO087	289	marca	marca.	marca.	linguistic	End=735.999	descending	False	False	Fals
 BO089	290	rivista	rivista	rivista	linguistic	Begin=736.042	_	False	False	False	False				_		
 BO089	290	di	di	di	linguistic		_	False	False	False	False				_		
 BO089	290	confine	confine,	confine,	linguistic	End=737.318	weakly_ascending	False	False	False	False				_		
-BO087	291	cos'	cos'	cos'	linguistic	Begin=737.313	_	False	False	True	False				_		
+BO087	291	cos'	cos'	cos'	linguistic	Begin=737.413	_	False	False	True	False				_		
 BO087	291	è	è	è	linguistic		_	False	False	False	False				_		
 BO087	291	rivista	rivista	rivista	linguistic		_	False	False	False	False				_		
 BO087	291	di	di	di	linguistic		_	False	False	False	False				_		
@@ -2436,7 +2436,7 @@ BO087	367	{P}	{P}	{P}	shortpause		_	False	False	False	False			0-1(0)	_
 BO087	367	tre	tre	tre	linguistic		_	False	False	False	False				_		
 BO087	367	fascioli	fascioli	fascioli	linguistic		_	False	False	False	False				_		
 BO087	367	l'	l'	l'	linguistic		_	False	False	True	False				_		
-BO087	367	anno	anno?	anno?	linguistic	End=908.221	ascending	False	False	False	False				_		
+BO087	367	anno	anno?	anno?	linguistic	End=908.121	ascending	False	False	False	False				_		
 BO089	368	mh	mh	mh	linguistic	Begin=908.22	_	False	False	False	False				_		
 BO089	368	mh	mh,	mh,	linguistic	End=908.49	weakly_ascending	False	False	False	False				_		
 BO087	369	quindi	quindi,	°quindi°,	linguistic	Begin=908.495	weakly_ascending	False	False	False	False				low		
@@ -2568,24 +2568,24 @@ BO087	389	la	la	la	linguistic		_	False	False	False	False				_		0-2(388)
 BO087	389	rivista	rivista	rivista	linguistic		_	False	False	False	False				_		0-7(388)
 BO087	389	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(388)
 BO087	389	ricorda	ricorda.	ricorda.]	linguistic	End=944.778	descending	False	False	False	False				_		0-7(388)
-BO087	390	eh	eh	[eh	linguistic	Begin=945.661	_	False	False	False	False				_		0-2(?)
-BO087	390	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	390	so	so,	so,	linguistic		weakly_ascending	False	False	False	False				_		0-2(?)
-BO087	390	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	390	se	se	se	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	390	la	la	la	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	390	rivista	rivista	rivista	linguistic		_	False	False	False	False				_		0-7(?)
-BO087	390	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	390	lei	lei	lei	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	390	ha	ha	ha]	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	390	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-2(?)
+BO087	390	eh	eh	[eh	linguistic	Begin=945.661	_	False	False	False	False				_		0-2(388)
+BO087	390	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(388)
+BO087	390	so	so,	so,	linguistic		weakly_ascending	False	False	False	False				_		0-2(388)
+BO087	390	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(388)
+BO087	390	se	se	se	linguistic		_	False	False	False	False				_		0-2(388)
+BO087	390	la	la	la	linguistic		_	False	False	False	False				_		0-2(388)
+BO087	390	rivista	rivista	rivista	linguistic		_	False	False	False	False				_		0-7(388)
+BO087	390	che	che	che	linguistic		_	False	False	False	False				_		0-3(388)
+BO087	390	lei	lei	lei	linguistic		_	False	False	False	False				_		0-3(388)
+BO087	390	ha	ha	ha]	linguistic		_	False	False	False	False				_		0-2(388)
+BO087	390	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-2(388)
 BO087	390	che	che	che	linguistic		_	False	False	False	False				_		
 BO087	390	lei	lei	lei	linguistic		_	False	False	False	False				_		
 BO087	390	non	non	non	linguistic		_	False	False	False	False				_		
 BO087	390	ha	ha	ha	linguistic		_	False	False	False	False				_		
 BO087	390	avuto	avuto	avuto	linguistic		_	False	False	False	False				_		
 BO087	390	in	in	in	linguistic		_	False	False	False	False				_		
-BO087	390	mano	mano,	mano,	linguistic	End=948.827	weakly_ascending	False	False	False	False				_		
+BO087	390	mano	mano,	mano,	linguistic	End=948.727	weakly_ascending	False	False	False	False				_		
 BO089	391	no	no.	no.	linguistic	End=949.18	descending	False	False	False	False				_		
 BO087	392	lo	lo	lo	linguistic	Begin=949.18	_	False	False	False	False				_		
 BO087	392	riporta	riporta	riporta	linguistic		_	False	False	False	False				_		
@@ -2645,9 +2645,9 @@ BO087	395	rivista	rivista	rivista	linguistic		_	False	False	False	False				_
 BO087	395	ci	ci	ci	linguistic		_	False	False	False	False				_		
 BO087	395	vuole	vuole	vuole	linguistic		_	False	False	False	False				_		
 BO087	395	un	un	un	linguistic		_	False	False	False	False				_		
-BO087	395	anno	anno.	anno.	linguistic	End=964.774	descending	False	False	False	False				_		
+BO087	395	anno	anno.	anno.	linguistic	End=964.674	descending	False	False	False	False				_		
 BO089	396	mh	mh	mh	linguistic	Begin=964.76	_	False	False	False	False				_		
-BO089	396	mh	mh,	[mh,]	linguistic	End=965.053	weakly_ascending	False	False	False	False				_		0-2(?)
+BO089	396	mh	mh,	[mh,]	linguistic	End=965.053	weakly_ascending	False	False	False	False				_		0-2(397)
 BO087	397	ci	ci	[ci]	linguistic	Begin=964.933	_	False	False	False	False				_		0-2(396)
 BO087	397	vuole	vuole	vuole	linguistic		_	False	False	False	False				_		0-1(396)
 BO087	397	un'	un'	un'	linguistic		_	False	False	True	False				_		
@@ -2736,12 +2736,12 @@ BO087	411	più	più	più	linguistic		_	False	False	False	False				_
 BO087	411	difficili	difficili.	difficili.	linguistic	End=995.09	descending	False	False	False	False				_		
 BO089	412	{ride}	{ride}	{ride}	metalinguistic	End=994.44	_	False	False	False	False				_		
 BO089	413	mh	m:::h,	m:::h,	linguistic	End=995.668	weakly_ascending	False	False	False	False	0x3			_		
-BO087	414	della	della	della	linguistic	Begin=995.65	_	False	False	False	False				_		
+BO087	414	della	della	della	linguistic	Begin=995.75	_	False	False	False	False				_		
 BO087	414	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO087	414	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		
 BO087	414	bibliografia	bibliografia	bibliografi[a	linguistic		_	False	False	False	False				_		
-BO087	414	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-BO087	414	repertoriale	repertoriale	reperto]riale	linguistic		_	False	False	False	False				_		0-10(?)
+BO087	414	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(415)
+BO087	414	repertoriale	repertoriale	reperto]riale	linguistic		_	False	False	False	False				_		0-10(415)
 BO087	414	e	e	e	linguistic		_	False	False	False	False				_		
 BO087	414	periodica	periodica.	periodica.	linguistic	End=999.494	descending	False	False	False	False				_		
 BO089	415	mh	mh	[mh	linguistic	Begin=997.358	_	False	False	False	False				_		0-2(414)
@@ -2774,7 +2774,7 @@ BO089	420	ritrovo	ritrovo	ritrovo	linguistic		_	False	False	False	False				_
 BO089	420	quell'	quell'	quell'	linguistic		_	False	False	True	False				_		
 BO089	420	altro	altro.	altro.	linguistic	End=1013.968	descending	False	False	False	False				_		
 BO089	421	vabbè	vabbè.	vabbè.	linguistic	End=1014.58	descending	False	False	False	False				_		
-BO087	422	anche	anche	anche	linguistic	Begin=1014.57	_	False	False	False	False				_		
+BO087	422	anche	anche	anche	linguistic	Begin=1014.6700000000001	_	False	False	False	False				_		
 BO087	422	perché	perché	perché	linguistic		_	False	False	False	False				_		
 BO087	422	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO087	422	le	le	le	linguistic		_	False	False	False	False				_		
@@ -2784,8 +2784,8 @@ BO087	422	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 BO087	422	spesso	spesso	spesso	linguistic		_	False	False	False	False				_		
 BO087	422	sono	sono	sono	linguistic		_	False	False	False	False				_		
 BO087	422	compilati	compilati	compilati	linguistic		_	False	False	False	False				_		
-BO087	422	da	da	d[a	linguistic		_	False	False	False	False				_		1-2(?)
-BO087	422	specialisti	specialisti	specialis]ti	linguistic		_	False	False	False	False				_		0-11(?)
+BO087	422	da	da	d[a	linguistic		_	False	False	False	False				_		1-2(423)
+BO087	422	specialisti	specialisti	specialis]ti	linguistic		_	False	False	False	False				_		0-11(423)
 BO087	422	senza	senza	senza	linguistic		_	False	False	False	False				_		
 BO087	422	la	la	la	linguistic		_	False	False	False	False				_		
 BO087	422	consulenza	consulenza	consulenza	linguistic		_	False	False	False	False				_		
@@ -2799,8 +2799,8 @@ BO089	425	quindi	quindi	quindi	linguistic	Begin=1022.492	_	False	False	False	Fal
 BO089	425	magari	magari,	magari,	linguistic		weakly_ascending	False	False	False	False				_		
 BO089	425	{ride}	{ride}	{ride}	metalinguistic		_	False	False	False	False				_		
 BO089	425	un	un	un	linguistic		_	False	False	False	False				_		
-BO089	425	po'	po',	po',)	linguistic	End=1024.3	weakly_ascending	False	False	False	False				_		
-BO087	426	hanno	hanno	hanno	linguistic	Begin=1024.283	_	False	False	False	False				_		
+BO089	425	po'	po',	po',	linguistic	End=1024.3	weakly_ascending	False	False	False	False				_		
+BO087	426	hanno	hanno	hanno	linguistic	Begin=1024.3829999999998	_	False	False	False	False				_		
 BO087	426	una	una	una	linguistic		_	False	False	False	False				_		
 BO087	426	loro	loro	loro	linguistic		_	False	False	False	False				_		
 BO087	426	dimensione	dimensione	dimensione	linguistic		_	False	False	False	False				_		
@@ -2820,12 +2820,12 @@ BO087	430	mi	mi	mi	linguistic		_	False	False	False	False				_
 BO087	430	porta	porta	porta	linguistic		_	False	False	False	False				_		
 BO087	430	il	il	il	linguistic		_	False	False	False	False				_		
 BO087	430	manuale	manuale.	manuale.	linguistic	End=1030.611	descending	False	False	False	False				_		
-BO087	431	che	che	[che	linguistic	Begin=1030.63	_	False	False	False	False				_		0-3(?)
-BO087	431	manuale	manuale	manu]ale	linguistic		_	False	False	False	False				_		0-6(?)
+BO087	431	che	che	[che	linguistic	Begin=1030.63	_	False	False	False	False				_		0-3(432)
+BO087	431	manuale	manuale	manu]ale	linguistic		_	False	False	False	False				_		0-6(432)
 BO087	431	ha	ha	ha	linguistic		_	False	False	False	False				_		
 BO087	431	scelto	scelto?	scelto?	linguistic	End=1031.716	ascending	False	False	False	False				_		
 BO089	432	sì	sì.	[sì].	linguistic	End=1030.91	descending	False	False	False	False				_		0-2(431)
-BO089	433	lezioni	lezioni	lezioni	linguistic	Begin=1031.69	_	False	False	False	False				_		
+BO089	433	lezioni	lezioni	lezioni	linguistic	Begin=1031.79	_	False	False	False	False				_		
 BO089	433	di	di	di	linguistic		_	False	False	False	False				_		
 BO089	433	bibliografia	bibliografia,	bibliografia,	linguistic		weakly_ascending	False	False	False	False				_		
 BO089	433	il	il	il	linguistic		_	False	False	False	False				_		
@@ -3020,14 +3020,14 @@ BO089	456	sì	sì.	[sì.]	linguistic	End=1103.241	descending	False	False	False	F
 BO087	457	sì	sì.	[sì.]	linguistic	End=1103.241	descending	False	False	False	False				_		0-2(456)
 BO089	458	eh	e::h	e::h	linguistic	Begin=1103.437	_	False	False	False	False	0x2			_		
 BO089	458	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
-BO089	458	bibliografia	bibliografia	[bibliografia	linguistic		_	False	False	False	False				_		2-12(459)
-BO089	458	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(459)
-BO089	458	nazionale	nazionale,	nazionale,	linguistic		weakly_ascending	False	False	False	False				_		0-9(459)
-BO089	458	è	è	è	linguistic		_	False	False	False	False				_		0-1(459)
-BO089	458	la	la	la	linguistic		_	False	False	False	False				_		0-2(459)
-BO089	458	bibliografia	bibliografia	bibliografia	linguistic		_	False	False	False	False				_		0-12(459)
-BO089	458	nazionale	nazionale	na]zionale	linguistic		_	False	False	False	False				_		0-7(459)
-BO089	458	italiana	italiana.	italia[na].	linguistic	End=1107.2	descending	False	False	False	False				_		
+BO089	458	bibliografia	bibliografia	[bibliografia	linguistic		_	False	False	False	False				_		2-12(?)
+BO089	458	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
+BO089	458	nazionale	nazionale,	nazionale,	linguistic		weakly_ascending	False	False	False	False				_		0-9(?)
+BO089	458	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
+BO089	458	la	la	la	linguistic		_	False	False	False	False				_		0-2(?)
+BO089	458	bibliografia	bibliografia	bibliografia	linguistic		_	False	False	False	False				_		0-12(?)
+BO089	458	nazionale	nazionale	na]zionale	linguistic		_	False	False	False	False				_		0-7(?)
+BO089	458	italiana	italiana.	italia[na].	linguistic	End=1107.1000000000001	descending	False	False	False	False				_		
 BO087	459	o	o	[o	linguistic	Begin=1103.872	_	False	False	False	False				_		0-1(458)
 BO087	459	dal	dal	dal	linguistic		_	False	False	False	False				_		0-3(458)
 BO087	459	manuale	manuale,	manuale,	linguistic		weakly_ascending	False	False	False	False				_		0-7(458)
@@ -3035,7 +3035,7 @@ BO087	459	o	o	o	linguistic		_	False	False	False	False				_		0-1(458)
 BO087	459	dalla	dalla	dalla	linguistic		_	False	False	False	False				_		0-5(458)
 BO087	459	sua	sua	sua	linguistic		_	False	False	False	False				_		0-3(458)
 BO087	459	esperienza	esperienza.	esperienza.]	linguistic	End=1106.123	descending	False	False	False	False				_		0-10(458)
-BO087	460	brava	brava,	[bra]va,	linguistic	End=1107.606	weakly_ascending	False	False	False	False				_		0-5(458)
+BO087	460	brava	brava,	[bra]va,	linguistic	End=1107.606	weakly_ascending	False	False	False	False				_		0-5(?)
 BO089	461	eh	e::h	e::h	linguistic	Begin=1107.664	_	False	False	False	True	0x2			_		
 BO089	461	mh	m:::h	::h 	linguistic		_	False	False	False	False	0x3			_		
 BO089	461	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		
@@ -3138,18 +3138,18 @@ BO087	473	deposito	deposito	<deposito	linguistic		_	False	False	False	False		3-8
 BO087	473	legale	legale.	[legale.>]	linguistic	End=1146.023	descending	False	False	False	False		0-6(0)		_		4-6(474)
 BO089	474	deposito	deposito	[deposito	linguistic	Begin=1145.005	_	False	False	False	False				_		0-8(?)
 BO089	474	legale	lega:le.	lega:le].	linguistic	End=1146.458	descending	False	False	False	False	3x1			_		0-6(?)
-BO087	475	però	però	[però	linguistic	Begin=1146.138	_	False	False	False	False				_		0-4(?)
-BO087	475	se	se	se	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	475	ha	ha	ha]	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	475	un	un	un	linguistic		_	False	False	False	False				_		0-1(?)
+BO087	475	però	però	[però	linguistic	Begin=1146.138	_	False	False	False	False				_		0-4(474)
+BO087	475	se	se	se	linguistic		_	False	False	False	False				_		0-2(474)
+BO087	475	ha	ha	ha]	linguistic		_	False	False	False	False				_		0-2(474)
+BO087	475	un	un	un	linguistic		_	False	False	False	False				_		0-1(474)
 BO087	475	diritto	diritto	diritto	linguistic		_	False	False	False	False				_		
 BO087	475	di	di	di	linguistic		_	False	False	False	False				_		
 BO087	475	stampa	stampa,	stampa,	linguistic	End=1147.951	weakly_ascending	False	False	False	False				_		
-BO089	476	quindi	quindi	quin[di	linguistic	Begin=1147.921	_	False	False	False	False				_		4-6(?)
-BO089	476	da	da	da	linguistic		_	False	False	False	False				_		0-2(?)
-BO089	476	parte	parte	parte	linguistic		_	False	False	False	False				_		0-5(?)
-BO089	476	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		0-2(?)
-BO089	476	delle	delle	de]lle	linguistic		_	False	False	False	False				_		0-5(?)
+BO089	476	quindi	quindi	quin[di	linguistic	Begin=1148.021	_	False	False	False	False				_		4-6(477)
+BO089	476	da	da	da	linguistic		_	False	False	False	False				_		0-2(477)
+BO089	476	parte	parte	parte	linguistic		_	False	False	False	False				_		0-5(477)
+BO089	476	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		0-2(477)
+BO089	476	delle	delle	de]lle	linguistic		_	False	False	False	False				_		0-5(477)
 BO089	476	case	case	case	linguistic		_	False	False	False	False				_		
 BO089	476	editrici	editrici	editrici	linguistic		_	False	False	False	False				_		
 BO089	476	del	del	del[	linguistic		_	False	False	False	True				_		
@@ -3187,7 +3187,7 @@ BO087	480	origine	origine	origine	linguistic		_	False	False	False	False				_
 BO087	480	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO087	480	a	a	a	linguistic		_	False	False	False	False				_		
 BO087	480	chi	chi	chi	linguistic		_	False	False	False	False				_		
-BO087	480	xxx	xxx,	[xxx,)]	linguistic	End=1158.965	weakly_ascending	True	False	False	False				_		0-3(481)
+BO087	480	xxx	xxx,	[xxx,]	linguistic	End=1158.965	weakly_ascending	True	False	False	False				_		0-3(481)
 BO089	481	dai	dai:	[dai:	linguistic	Begin=1158.11	_	False	False	False	False	2x1			_		0-3(480)
 BO089	481	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(480)
 BO089	481	librai	librai:	librai:	linguistic		_	False	False	False	False	5x1			_		0-6(480)
@@ -3251,7 +3251,7 @@ BO089	489	altro	altro.	altro.]	linguistic	End=1176.438	descending	False	False	Fa
 BO087	490	pure	PU::RE	PU::RE	linguistic	End=1177.293	_	False	False	False	False	1x2			high		
 BO089	491	{ride}	{ride}	{ride}	metalinguistic	Begin=1177.316	_	False	False	False	False				_		
 BO089	491	sì	sì.	sì.	linguistic	End=1177.53	descending	False	False	False	False				_		
-BO087	492	maledetta	maledetta	maledetta	linguistic	Begin=1177.494	_	False	False	False	False				_		
+BO087	492	maledetta	maledetta	maledetta	linguistic	Begin=1177.5939999999998	_	False	False	False	False				_		
 BO087	492	rossi	rossi	rossi	linguistic		_	False	False	False	False				_		
 BO087	492	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO087	492	tipografo	tipografo	tipografo	linguistic		_	False	False	False	False				_		
@@ -3290,10 +3290,10 @@ BO089	499	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		0-
 BO089	499	a	a	a	linguistic		_	False	False	False	False				_		0-1(498)
 BO089	499	{nome_luogo}	{nome_luogo}	{nome_luogo}	metalinguistic		_	False	False	False	False				_		0-12(498)
 BO089	499	però	però.	però.]	linguistic	End=1187.914	descending	False	False	False	False				_		0-4(498)
-BO089	500	sì	sì,	[sì],)	linguistic	Begin=1188.206	weakly_ascending	False	False	False	False				_		0-2(?)
-BO089	500	sì	sì,	sì,	linguistic		weakly_ascending	False	False	False	False				_		0-1(?)
+BO089	500	sì	sì,	[sì],	linguistic	Begin=1188.206	weakly_ascending	False	False	False	False				_		0-2(498)
+BO089	500	sì	sì,	sì,	linguistic		weakly_ascending	False	False	False	False				_		0-1(498)
 BO089	500	siamo	siamo:::,	siamo:::,	linguistic	End=1189.607	weakly_ascending	False	False	False	False	4x3			_		
-BO087	501	è	è	è	linguistic	Begin=1189.561	_	False	False	False	False				_		
+BO087	501	è	è	è	linguistic	Begin=1189.6609999999998	_	False	False	False	False				_		
 BO087	501	una	una	una	linguistic		_	False	False	False	False				_		
 BO087	501	scuola	scuola	scuola	linguistic		_	False	False	False	False				_		
 BO087	501	del	del	del	linguistic		_	False	False	False	False				_		
@@ -3304,20 +3304,20 @@ BO087	501	era	era	era	linguistic		_	False	False	False	False				_
 BO087	501	la	la	la	linguistic		_	False	False	False	False				_		
 BO087	501	scuola	scuola	scuola	linguistic		_	False	False	False	False				_		
 BO087	501	del	del	del	linguistic		_	False	False	False	False				_		
-BO087	501	libro	libro	li[bro	linguistic		_	False	False	False	False				_		2-5(?)
-BO087	501	più	più	più	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	501	importante	importante	importa]nte	linguistic		_	False	False	False	False				_		0-9(?)
+BO087	501	libro	libro	li[bro	linguistic		_	False	False	False	False				_		2-5(502)
+BO087	501	più	più	più	linguistic		_	False	False	False	False				_		0-3(502)
+BO087	501	importante	importante	importa]nte	linguistic		_	False	False	False	False				_		0-9(502)
 BO087	501	d'	d'	d'	linguistic		_	False	False	True	False				_		
 BO087	501	italia	ita:lia,	ita:lia,	linguistic	End=1193.197	weakly_ascending	False	False	False	False	2x1			_		
 BO089	502	mh	mh	[mh	linguistic	Begin=1191.463	_	False	False	False	False				_		0-2(501)
 BO089	502	mh	mh,	mh,]	linguistic	End=1192.096	weakly_ascending	False	False	False	False				_		0-2(501)
 BO089	503	sì	sì.	sì.	linguistic	End=1193.8	descending	False	False	False	False				_		
-BO087	504	il	il	il	linguistic	Begin=1193.78	_	False	False	False	False				_		
+BO087	504	il	il	il	linguistic	Begin=1193.8799999999999	_	False	False	False	False				_		
 BO087	504	suo	suo	suo	linguistic		_	False	False	False	False				_		
 BO087	504	zio	zio	zio	linguistic		_	False	False	False	False				_		
 BO087	504	faceva	faceva	faceva	linguistic		_	False	False	False	False				_		
 BO087	504	il	il	il	linguistic		_	False	False	False	False				_		
-BO087	504	tipografo	tipografo,	tipogra[fo,]	linguistic	End=1195.49	weakly_ascending	False	False	False	False				_		7-9(?)
+BO087	504	tipografo	tipografo,	tipogra[fo,]	linguistic	End=1195.49	weakly_ascending	False	False	False	False				_		7-9(505)
 BO089	505	sì	sì,	[sì,]	linguistic	End=1195.47	weakly_ascending	False	False	False	False				_		0-2(504)
 BO087	506	e	e	e	linguistic	Begin=1195.721	_	False	False	False	False				_		
 BO087	506	adesso	adesso	ad[esso	linguistic		_	False	False	False	False				_		2-6(507)
@@ -3427,24 +3427,24 @@ BO087	518	si	si	[si	linguistic	Begin=1222.968	_	False	False	False	False				_		0-
 BO087	518	informa	informa	informa	linguistic		_	False	False	False	False				_		0-7(519)
 BO087	518	dalla	dalla	dalla	linguistic		_	False	False	False	False				_		0-5(519)
 BO087	518	zia	zia,	zia,]	linguistic	End=1224.112	weakly_ascending	False	False	False	False				_		0-3(519)
-BO089	519	{ride}	{ride}	[{ride}	metalinguistic	Begin=1222.968	_	False	False	False	False				_		0-6(?)
-BO089	519	va	va	va	linguistic		_	False	False	False	False				_		0-2(?)
-BO089	519	bene	bene,	bene,]	linguistic		weakly_ascending	False	False	False	False				_		0-4(?)
-BO089	519	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-2(?)
+BO089	519	{ride}	{ride}	[{ride}	metalinguistic	Begin=1222.968	_	False	False	False	False				_		0-6(518)
+BO089	519	va	va	va	linguistic		_	False	False	False	False				_		0-2(518)
+BO089	519	bene	bene,	bene,]	linguistic		weakly_ascending	False	False	False	False				_		0-4(518)
+BO089	519	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-2(518)
 BO089	519	va	va	va	linguistic		_	False	False	False	False				_		
 BO089	519	bene	bene.	bene.	linguistic	End=1224.58	descending	False	False	False	False				_		
-BO087	520	e	e	e	linguistic	Begin=1224.579	_	False	False	False	False				_		
+BO087	520	e	e	e	linguistic	Begin=1224.6789999999999	_	False	False	False	False				_		
 BO087	520	dice	dice	dice	linguistic		_	False	False	False	False				_		
 BO087	520	che	che	che	linguistic		_	False	False	False	False				_		
 BO087	520	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO087	520	il	il	il	linguistic		_	False	False	False	False				_		
 BO087	520	bianchi	bianchi,	bianchi,	linguistic		weakly_ascending	False	False	False	False				_		
-BO087	520	che	che	[che	linguistic		_	False	False	False	False				_		1-3(?)
-BO087	520	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
-BO087	520	un'	un'	un'	linguistic		_	False	False	True	False				_		0-3(?)
-BO087	520	appassionato	appassionato	appassionato	linguistic		_	False	False	False	False				_		0-12(?)
-BO087	520	di	di	di	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	520	tipografia	tipografia,	tipo]grafia,	linguistic	End=1228.44	weakly_ascending	False	False	False	False				_		0-7(?)
+BO087	520	che	che	[che	linguistic		_	False	False	False	False				_		1-3(521)
+BO087	520	è	è	è	linguistic		_	False	False	False	False				_		0-1(521)
+BO087	520	un'	un'	un'	linguistic		_	False	False	True	False				_		0-3(521)
+BO087	520	appassionato	appassionato	appassionato	linguistic		_	False	False	False	False				_		0-12(521)
+BO087	520	di	di	di	linguistic		_	False	False	False	False				_		0-2(521)
+BO087	520	tipografia	tipografia,	tipo]grafia,	linguistic	End=1228.44	weakly_ascending	False	False	False	False				_		0-7(521)
 BO089	521	che	che	[che	linguistic	Begin=1226.054	_	False	False	False	False				_		0-3(520)
 BO089	521	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		0-8(520)
 BO089	521	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(520)
@@ -3621,7 +3621,7 @@ BO087	545	chiama	chiama	hiama 	linguistic		_	False	False	False	False				_
 BO087	545	deposito	deposito	eposito 	linguistic		_	False	False	False	False				_		
 BO087	545	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		
 BO087	545	legale	legale.	ega[le.]	linguistic	End=1275.65	descending	False	False	False	False				_		
-BO089	546	legale	legale.	[le]gale.	linguistic	End=1276.1	descending	False	False	False	False				_		0-4(?)
+BO089	546	legale	legale.	[le]gale.	linguistic	End=1276.0	descending	False	False	False	False				_		0-4(545)
 BO087	547	mh	mh,	mh,	linguistic	End=1276.4	weakly_ascending	False	False	False	False				_		
 BO089	548	quindi	quindi	quindi	linguistic	Begin=1277.939	_	False	False	False	False				_		
 BO089	548	il	il	il	linguistic		_	False	False	False	False				_		
@@ -3727,7 +3727,7 @@ BO087	565	stampate	stampate	stampate	linguistic		_	False	False	False	False				_
 BO087	565	e	e	e	linguistic		_	False	False	False	False				_		
 BO087	565	pubblicate	pubblicate	pubblicate	linguistic		_	False	False	False	False				_		
 BO087	565	in	in	in	linguistic		_	False	False	False	False				_		
-BO087	565	tanti	tanti?	tanti?)	linguistic	End=1343.991	ascending	False	False	False	False				_		
+BO087	565	tanti	tanti?	tanti?	linguistic	End=1343.991	ascending	False	False	False	False				_		
 BO089	566	eh	e::h	e::h	linguistic	Begin=1344.142	_	False	False	False	True	0x2			_		
 BO089	566	mh	m::::h,	:::h,	linguistic	End=1345.308	weakly_ascending	False	False	False	False	0x4			_		
 BO087	567	paesi	paesi	paesi	linguistic	Begin=1345.487	_	False	False	False	False				_		
@@ -3758,7 +3758,7 @@ BO087	575	non	non	non	linguistic		_	False	False	False	False				_		0-3(574)
 BO087	575	è	è	è]	linguistic		_	False	False	False	False				_		0-1(574)
 BO087	575	in	in	in	linguistic		_	False	False	False	False				_		0-1(574)
 BO087	575	cina	cina.	cina.	linguistic	End=1356.659	descending	False	False	False	False				_		
-BO089	576	sì	sì,	sì,)	linguistic	Begin=1356.688	weakly_ascending	False	False	False	False				_		
+BO089	576	sì	sì,	sì,	linguistic	Begin=1356.688	weakly_ascending	False	False	False	False				_		
 BO089	576	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO089	576	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO089	576	sì	sì.	sì.	linguistic	End=1357.81	descending	False	False	False	False				_		
@@ -3816,7 +3816,7 @@ BO087	587	india	india,	india,	linguistic		weakly_ascending	False	False	False	Fal
 BO087	587	si	si	si	linguistic		_	False	False	False	False				_		
 BO087	587	stampa	stampa	stampa	linguistic		_	False	False	False	False				_		
 BO087	587	pure	pure	pure	linguistic		_	False	False	False	False				_		
-BO087	587	cinese	cinese	cinese	linguistic	End=1372.38	_	False	False	False	False				_		
+BO087	587	cinese	cinese	cinese	linguistic	End=1372.2800000000002	_	False	False	False	False				_		
 BO089	588	sì	sì,	sì,	linguistic	End=1372.79	weakly_ascending	False	False	False	False				_		
 BO087	589	una	una	una	linguistic	Begin=1373.053	_	False	False	False	False				_		
 BO087	589	def~	def~,	def~,	linguistic	End=1373.49	weakly_ascending	False	False	False	False				_		
@@ -3825,11 +3825,11 @@ BO089	590	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 BO089	590	forse	forse,	for[se,	linguistic		weakly_ascending	False	False	False	False				_		4-5(591)
 BO089	590	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(591)
 BO089	590	anche	anche,	anche,]	linguistic	End=1375.3	weakly_ascending	False	False	False	False				_		0-5(591)
-BO087	591	giappone	giappo:ne	[giappo:ne]	linguistic	Begin=1374.423	_	False	False	False	False	5x1			_		0-8(?)
-BO087	591	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-2(?)
+BO087	591	giappone	giappo:ne	[giappo:ne]	linguistic	Begin=1374.423	_	False	False	False	False	5x1			_		0-8(590)
+BO087	591	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-2(590)
 BO087	591	mh	m::::h,	m::::h,	linguistic		weakly_ascending	False	False	False	False	0x4			_		
 BO087	591	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
-BO087	591	giappone	giappone	giappone	linguistic	End=1376.21	_	False	False	False	False				_		
+BO087	591	giappone	giappone	giappone	linguistic	End=1376.1100000000001	_	False	False	False	False				_		
 BO089	592	no	no.	no.	linguistic	End=1376.58	descending	False	False	False	False				_		
 BO087	593	non	non	non	linguistic	Begin=1376.592	_	False	False	False	False				_		
 BO087	593	lo	lo	lo	linguistic		_	False	False	False	False				_		
@@ -3901,12 +3901,12 @@ BO089	606	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 BO089	606	ah	a::h,	[a::h,]	linguistic	End=1400.453	weakly_ascending	False	False	False	False	0x2			_		1-2(607)
 BO087	607	nicolò	nicolò	[nico]lò	linguistic	Begin=1400.015	_	False	False	False	False				_		0-6(606)
 BO087	607	toppi	toppi,	[toppi,]	linguistic	End=1401.37	weakly_ascending	False	False	False	False				_		2-5(608)
-BO089	608	ho	ho	[ho	linguistic	Begin=1400.702	_	False	False	False	False				_		0-2(?)
-BO089	608	per	per	per	linguistic		_	False	False	False	False				_		0-3(?)
-BO089	608	una	una	una	linguistic		_	False	False	False	False				_		0-3(?)
-BO089	608	pi	pi	p]i	linguistic		_	False	False	False	False				_		0-2(?)
+BO089	608	ho	ho	[ho	linguistic	Begin=1400.702	_	False	False	False	False				_		0-2(607)
+BO089	608	per	per	per	linguistic		_	False	False	False	False				_		0-3(607)
+BO089	608	una	una	una	linguistic		_	False	False	False	False				_		0-3(607)
+BO089	608	pi	pi	p]i	linguistic		_	False	False	False	False				_		0-2(607)
 BO089	608	per	per	per	linguistic		_	False	False	False	False				_		
-BO089	608	strada	strada,	strada,	linguistic	End=1402.19	weakly_ascending	False	False	False	False				_		
+BO089	608	strada	strada,	strada,	linguistic	End=1402.0900000000001	weakly_ascending	False	False	False	False				_		
 BO087	609	sì	sì:,	sì:,	linguistic	End=1402.49	weakly_ascending	False	False	False	False	1x1			_		
 BO089	610	eh	e:h	e:h	linguistic	Begin=1402.657	_	False	False	False	True	0x1			_		
 BO089	610	mh	m::h	:h 	linguistic		_	False	False	False	False	0x2			_		
@@ -4447,14 +4447,14 @@ BO089	675	sì	sì,	sì,	linguistic	Begin=1604.139	weakly_ascending	False	False	F
 BO089	675	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO089	675	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO089	675	ci	ci	ci	linguistic		_	False	False	False	False				_		
-BO089	675	sono	sono,	sono,	linguistic	End=1605.82	weakly_ascending	False	False	False	False				_		
+BO089	675	sono	sono,	sono,	linguistic	End=1605.72	weakly_ascending	False	False	False	False				_		
 BO087	676	eh	eh	eh	linguistic	Begin=1605.787	_	False	False	False	False				_		
 BO087	676	quelli	quelli	quelli	linguistic		_	False	False	False	False				_		
-BO087	676	lei	lei	[lei	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	676	non	non	non	linguistic		_	False	False	False	False				_		0-3(?)
-BO087	676	li	li	li	linguistic		_	False	False	False	False				_		0-2(?)
-BO087	676	trova	trova	trova	linguistic		_	False	False	False	False				_		0-5(?)
-BO087	676	mica	mica,	mica,]	linguistic	End=1607.39	weakly_ascending	False	False	False	False				_		0-4(?)
+BO087	676	lei	lei	[lei	linguistic		_	False	False	False	False				_		0-3(677)
+BO087	676	non	non	non	linguistic		_	False	False	False	False				_		0-3(677)
+BO087	676	li	li	li	linguistic		_	False	False	False	False				_		0-2(677)
+BO087	676	trova	trova	trova	linguistic		_	False	False	False	False				_		0-5(677)
+BO087	676	mica	mica,	mica,]	linguistic	End=1607.39	weakly_ascending	False	False	False	False				_		0-4(677)
 BO089	677	però	però	[però	linguistic	Begin=1606.286	_	False	False	False	False				_		0-4(676)
 BO089	677	non	non:::	non:::]	linguistic		_	False	False	False	False	2x3			_		0-3(676)
 BO089	677	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(676)
@@ -4676,7 +4676,7 @@ BO087	714	della	della	della	linguistic		_	False	False	False	False				_
 BO087	714	bibliografia	bibliografia,	bibliografia,	linguistic	End=1684.31	weakly_ascending	False	False	False	False				_		
 BO089	715	mh	mh	mh	linguistic	Begin=1684.31	_	False	False	False	False				_		
 BO089	715	mh	mh,	mh,	linguistic	End=1684.539	weakly_ascending	False	False	False	False				_		
-BO087	716	che	che	che	linguistic	Begin=1684.51	_	False	False	False	False				_		
+BO087	716	che	che	che	linguistic	Begin=1684.61	_	False	False	False	False				_		
 BO087	716	mi	mi	mi	linguistic		_	False	False	False	False				_		
 BO087	716	è	è	è	linguistic		_	False	False	False	False				_		
 BO087	716	piaicuto	piaicuto	piaicuto	linguistic		_	False	False	False	False				_		

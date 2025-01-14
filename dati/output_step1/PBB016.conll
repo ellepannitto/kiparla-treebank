@@ -823,8 +823,8 @@ BOR006	190	forse	forse	forse	linguistic		_	False	False	False	False				_
 BOR006	190	un	un	un	linguistic		_	False	False	False	False				_		
 BOR006	190	po'	po'	po'	linguistic		_	False	False	True	False				_		
 BOR006	190	meno	meno::	meno::	linguistic		_	False	False	False	False	3x2			_		
-BOR006	190	vivibile	vivibile	vivibil[e]	linguistic	End=430.025	_	False	False	False	False				_		
-BOI049	191	sì	sì	[sì]	linguistic	End=430.347	_	False	False	False	False				_		0-2(190)
+BOR006	190	vivibile	vivibile	vivibil[e]	linguistic	End=429.92499999999995	_	False	False	False	False				_		
+BOI049	191	sì	sì	[sì]	linguistic	End=430.347	_	False	False	False	False				_		0-2(?)
 BOI049	192	come	come	come	linguistic	Begin=431.36	_	False	False	False	False				_		
 BOI049	192	tutte	tutte	tutte	linguistic		_	False	False	False	False				_		
 BOI049	192	le	le	le	linguistic		_	False	False	False	False				_		
@@ -960,7 +960,7 @@ BOR006	223	un	un	un	linguistic		_	False	False	False	False				_
 BOR006	223	po'	po'	po'	linguistic		_	False	False	True	False				_		
 BOR006	223	più	più	più	linguistic	End=498.385	_	False	False	False	False				_		
 BOI049	224	mh	m::h	m::h	linguistic	End=499.95	_	False	False	False	False	0x2			_		
-BOR006	225	meno	meno	meno	linguistic	Begin=499.943	_	False	False	False	False				_		
+BOR006	225	meno	meno	meno	linguistic	Begin=500.043	_	False	False	False	False				_		
 BOR006	225	provinaciale	provinacia:le?	provinacia:le?	linguistic	End=500.925	ascending	False	False	False	False	9x1			_		
 BOI049	226	sì	s:ì:	s:ì:	linguistic	Begin=500.998	_	False	False	False	False	0x1,1x1			_		
 BOI049	226	eh	e:h	e:h	linguistic		_	False	False	False	False	0x1			_		
@@ -1230,7 +1230,7 @@ BOR006	288	della	della::	della::	linguistic		_	False	False	False	False	4x2			_
 BOR006	288	della	della	della	linguistic		_	False	False	False	False				_		
 BOR006	288	reperibilità	reperibilità	reperibilità	linguistic	End=647.337	_	False	False	False	False				_		
 BOR006	289	in	in	in	linguistic	Begin=647.46	_	False	False	False	False				_		
-BOR006	289	generale	generale	generale	linguistic	End=648.17	_	False	False	False	False				_		
+BOR006	289	generale	generale	generale	linguistic	End=648.0699999999999	_	False	False	False	False				_		
 BOI049	290	sì	sì	sì	linguistic	End=648.465	_	False	False	False	False				_		
 BOR006	291	okay	okay	okay	linguistic	End=651.341	_	False	False	False	False				_		
 BOR006	292	allora	allora:	allora:	linguistic	End=652.413	_	False	False	False	False	5x1			_		
@@ -2447,7 +2447,7 @@ BOR006	572	è	è	è	linguistic		_	False	False	False	False				_
 BOR006	572	più	più	più	linguistic		_	False	False	False	False				_		
 BOR006	572	difficile	difficile	difficile	linguistic		_	False	False	False	False				_		
 BOR006	572	{ride}	{ride}	{ride}	metalinguistic		_	False	False	False	False				_		
-BOR006	572	però	però:	però:	linguistic	End=1238.25	_	False	False	False	False	3x1			_		
+BOR006	572	però	però:	però:	linguistic	End=1238.15	_	False	False	False	False	3x1			_		
 BOI049	573	adesso	adesso	°adesso	linguistic	Begin=1238.239	_	False	False	False	False				low		
 BOI049	573	o	o	o°	linguistic	End=1239.406	_	False	False	False	False				low		
 BOR006	574	{espira_profondamente}	{espira_profondamente}	{espira_profondamente}	metalinguistic	End=1239.419	_	False	False	False	False				_		
@@ -2856,16 +2856,16 @@ BOR006	679	da	da:	da:	linguistic		_	False	False	False	False	1x1			_
 BOR006	679	da	da	da	linguistic		_	False	False	False	False				_		
 BOR006	679	qualche	qualche	qualche	linguistic		_	False	False	False	False				_		
 BOR006	679	anno	a:nno	a:nno	linguistic	End=1461.728	_	False	False	False	False	0x1			_		
-BOI049	680	sì	sì	s[ì]	linguistic	End=1462.27	_	False	False	False	False				_		1-2(681)
-BOR006	681	la	la	[la]	linguistic	Begin=1462.176	_	False	False	False	False				_		0-2(680)
-BOR006	681	parte	parte	parte	linguistic		_	False	False	False	False				_		0-1(680)
+BOI049	680	sì	sì	s[ì]	linguistic	End=1462.27	_	False	False	False	False				_		1-2(?)
+BOR006	681	la	la	[la]	linguistic	Begin=1462.2759999999998	_	False	False	False	False				_		0-2(?)
+BOR006	681	parte	parte	parte	linguistic		_	False	False	False	False				_		0-1(?)
 BOR006	681	con	con	con	linguistic		_	False	False	False	False				_		
 BOR006	681	i	i	i	linguistic		_	False	False	False	False				_		
 BOR006	681	testi	testi	testi	linguistic		_	False	False	False	False				_		
 BOR006	681	delle	delle::	delle::	linguistic		_	False	False	False	False	4x2			_		
 BOR006	681	dei	dei	dei	linguistic		_	False	False	False	False				_		
 BOR006	681	cantautori	cantautori	cantau[tori]	linguistic		_	False	False	False	False				_		
-BOR006	681	bolognesi	bologne:si	bologne:si	linguistic	End=1465.441	_	False	False	False	False	6x1			_		0-5(682)
+BOR006	681	bolognesi	bologne:si	bologne:si	linguistic	End=1465.441	_	False	False	False	False	6x1			_		0-5(?)
 BOI049	682	ah	ah	[ah]	linguistic	End=1464.722	_	False	False	False	False				_		0-2(681)
 BOR006	683	x	x	[x]	linguistic	End=1467.042	_	True	False	False	False				_		0-1(684)
 BOI049	684	sì	sì	[sì]	linguistic	End=1467.042	_	False	False	False	False				_		0-2(683)
@@ -3286,7 +3286,7 @@ BOR006	776	di	di	di	linguistic		_	False	False	False	False				_
 BOR006	776	che	che	che	linguistic		_	False	False	False	False				_		
 BOR006	776	anni	a:nni?	a:nni?	linguistic	End=1673.559	ascending	False	False	False	False	0x1			_		
 BOR006	777	quale	quale::	quale::	linguistic	End=1675.514	_	False	False	False	False	4x2			_		
-BOI049	778	il	il	il	linguistic	Begin=1675.434	_	False	False	False	False				_		
+BOI049	778	il	il	il	linguistic	Begin=1675.5339999999999	_	False	False	False	False				_		
 BOI049	778	mio	mio::	mio::	linguistic		_	False	False	False	False	2x2			_		
 BOI049	778	periodo	periodo	periodo	linguistic		_	False	False	False	False				_		
 BOI049	778	preferito	preferito	preferito	linguistic		_	False	False	False	False				_		
@@ -3299,8 +3299,8 @@ BOI049	778	degli	degli	degli	linguistic		_	False	False	False	False				_
 BOI049	778	anni	anni	anni	linguistic		_	False	False	False	False				_		
 BOI049	778	sessanta	sessa:nta,	sessa:nta,	linguistic		weakly_ascending	False	False	False	False	4x1			_		
 BOI049	778	sicuramen~	sicuramen~	sicuramen~	linguistic		_	False	True	False	False				_		
-BOI049	778	sessanta	sessanta,	[sessa]nta,	linguistic		weakly_ascending	False	False	False	False				_		7-8(?)
-BOI049	778	settanta	setta:nta	setta:nta	linguistic	End=1682.975	_	False	False	False	False	4x1			_		0-5(?)
+BOI049	778	sessanta	sessanta,	[sessa]nta,	linguistic		weakly_ascending	False	False	False	False				_		7-8(779)
+BOI049	778	settanta	setta:nta	setta:nta	linguistic	End=1682.975	_	False	False	False	False	4x1			_		0-5(779)
 BOR006	779	mhmh	mhmh	[mhmh]	linguistic	End=1681.979	_	False	False	False	False				_		0-4(778)
 BOR006	780	eh	eh	eh	linguistic	Begin=1684.588	_	False	False	False	False				_		
 BOR006	780	sì	sì	sì	linguistic	End=1685.007	_	False	False	False	False				_		
@@ -3448,9 +3448,9 @@ BOR006	810	prima	prima	prima	linguistic		_	False	False	False	False				_
 BOR006	810	c'erano::	c'erano::	c'erano::	error		_	False	False	False	False				_		
 BOR006	810	molti	molti	molti	linguistic		_	False	False	False	False				_		
 BOR006	810	più	più	più	linguistic		_	False	False	False	False				_		
-BOR006	810	cinema	cinema::	cinema:):	linguistic		_	False	False	False	False	5x2			_		
-BOR006	810	magari	magari	>magari<	linguistic		_	False	False	False	False			3-6(0)	_		
-BOR006	810	anche	anche	anche	linguistic		_	False	False	False	False			0-4(0)	_		
+BOR006	810	cinema	cinema::	cinema::	linguistic		_	False	False	False	False	5x2			_		
+BOR006	810	magari	magari	>magari<	linguistic		_	False	False	False	False			2-6(0)	_		
+BOR006	810	anche	anche	anche	linguistic		_	False	False	False	False			0-3(0)	_		
 BOR006	810	piccolini	piccoli:ni	piccoli:ni	linguistic		_	False	False	False	False	6x1			_		
 BOR006	810	in	in	in	linguistic		_	False	False	False	False				_		
 BOR006	810	centro	centro::	centro::	linguistic	End=1763.056	_	False	False	False	False	5x2			_		

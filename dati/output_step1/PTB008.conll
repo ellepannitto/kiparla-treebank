@@ -1159,7 +1159,7 @@ TOI024	249	come	come::	come::	linguistic	Begin=452.821	_	False	False	False	False
 TOI024	249	ingerente	ingerente	ingerente	linguistic		_	False	False	False	False				_		
 TOI024	249	come	come	come	linguistic		_	False	False	False	False				_		
 TOI024	249	proprietaria	proprietaria	proprietaria	linguistic		_	False	False	False	False				_		
-TOI024	249	eh	eh	eh	linguistic	End=456.131	_	False	False	False	False				_		
+TOI024	249	eh	eh	eh	linguistic	End=456.03099999999995	_	False	False	False	False				_		
 TOR005	250	okay	okay	okay	linguistic	Begin=456.126	_	False	False	False	False				_		
 TOR005	250	e	e	e	linguistic		_	False	False	False	False				_		
 TOR005	250	avevate	avevate	avevate	linguistic		_	False	False	False	False				_		
@@ -1275,7 +1275,7 @@ TOR005	266	ehm	ehm:::	ehm:::	linguistic	End=494.403	_	False	False	False	False	2x
 ???	267	ah	ah	ah	linguistic	Begin=494.403	_	False	False	False	False				_		
 ???	267	sei	sei	sei	linguistic		_	False	False	False	False				_		
 ???	267	qua	qua?	qua?	linguistic	End=495.112	ascending	False	False	False	False				_		
-TOI024	268	eh	eh	eh	linguistic	Begin=495.1	_	False	False	False	False				_		
+TOI024	268	eh	eh	eh	linguistic	Begin=495.20000000000005	_	False	False	False	False				_		
 TOI024	268	eh	eh	eh	linguistic		_	False	False	False	False				_		
 TOI024	268	eh	eh	eh	linguistic	End=496.0	_	False	False	False	False				_		
 TOI024	269	sta	sta	[sta	linguistic	Begin=496.773	_	False	False	False	False				_		0-3(270)
@@ -1824,14 +1824,14 @@ TOR005	361	delle	delle	delle	linguistic		_	False	False	False	False				_
 TOR005	361	donne	donne	[donne]	linguistic		_	False	False	False	False				_		0-5(362)
 TOR005	361	qui	qui:?	qui:?	linguistic	End=664.097	ascending	False	False	False	False	2x1			_		0-1(362)
 TOI024	362	sì	sì	[sì]	linguistic	End=663.771	_	False	False	False	False				_		0-2(361)
-TOI024	363	sì	sì	[sì	linguistic	Begin=664.12	_	False	False	False	False				_		0-2(?)
-TOI024	363	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(?)
-TOI024	363	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(?)
-TOI024	363	sì	sì	sì]	linguistic	End=664.955	_	False	False	False	False				_		0-2(?)
+TOI024	363	sì	sì	[sì	linguistic	Begin=664.12	_	False	False	False	False				_		0-2(364)
+TOI024	363	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(364)
+TOI024	363	sì	sì	sì	linguistic		_	False	False	False	False				_		0-2(364)
+TOI024	363	sì	sì	sì]	linguistic	End=664.955	_	False	False	False	False				_		0-2(364)
 TOR005	364	che	che	[che	linguistic	Begin=664.12	_	False	False	False	False				_		0-3(363)
 TOR005	364	avete	avete	avete	linguistic		_	False	False	False	False				_		0-5(363)
 TOR005	364	fatto	fatto?	fatto?]	linguistic	End=664.95	ascending	False	False	False	False				_		0-5(363)
-TOR005	365	cosa	cosa	cosa	linguistic	Begin=664.95	_	False	False	False	False				_		
+TOR005	365	cosa	cosa	cosa	linguistic	Begin=665.0500000000001	_	False	False	False	False				_		
 TOR005	365	avete	avete	avete	linguistic		_	False	False	False	False				_		
 TOR005	365	organizzato	organizzato?	organizzato?	linguistic	End=666.125	ascending	False	False	False	False				_		
 TOI024	366	eh	e:h	[e:h]	linguistic	Begin=666.202	_	False	False	False	False	0x1			_		0-2(367)
@@ -2224,7 +2224,7 @@ TOI024	447	qualche	qualche	qualche	linguistic		_	False	False	False	False				_
 TOI024	447	gita	gita	gita	linguistic		_	False	False	False	False				_		
 TOI024	447	così	così	così	linguistic	End=776.302	_	False	False	False	False				_		
 TOI024	448	eh	e:h	e:h	linguistic	End=776.81	_	False	False	False	False	0x1			_		
-TOR005	449	dove	dove	dove	linguistic	Begin=776.805	_	False	False	False	False				_		
+TOR005	449	dove	dove	dove	linguistic	Begin=776.905	_	False	False	False	False				_		
 TOR005	449	andate	andate	andate	linguistic		_	False	False	False	False				_		
 TOR005	449	in	in	in	linguistic		_	False	False	False	False				_		
 TOR005	449	gita	gita	gita	linguistic		_	False	False	False	False				_		
@@ -2346,10 +2346,10 @@ TOI024	470	messo	MESSO	MESSO	linguistic		_	False	False	False	False				high		0-5(
 TOI024	470	il	IL	IL	linguistic		_	False	False	False	False				high		0-2(?)
 TOI024	470	dito	DITO	DITO	linguistic		_	False	False	False	False				high		0-4(?)
 TOI024	470	sulla	SULLA	SULLA	linguistic		_	False	False	False	False				high		0-5(?)
-TOI024	470	piaga	PIAGA	PIAGA]	linguistic	End=813.602	_	False	False	False	False				high		0-5(?)
+TOI024	470	piaga	PIAGA	PIAGA]	linguistic	End=813.502	_	False	False	False	False				high		0-5(?)
 ???	471	no	no:::	[no:::]	linguistic	End=813.596	_	False	False	False	False	1x3			_		0-2(?)
 TOR005	472	eh	eh?	[eh?]	linguistic	End=813.596	ascending	False	False	False	False				_		0-2(470+471)
-TOR005	473	no	no:?	[no:?]	linguistic	End=814.241	ascending	False	False	False	False	1x1			_		0-2(?)
+TOR005	473	no	no:?	[no:?]	linguistic	End=814.241	ascending	False	False	False	False	1x1			_		0-2(474)
 TOI024	474	ha	HA	[HA	linguistic	Begin=813.602	_	False	False	False	False				high		0-2(473)
 TOI024	474	messo	MESSO	MES]SO	linguistic		_	False	False	False	False				high		0-5(473)
 TOI024	474	il	IL	IL	linguistic		_	False	False	False	False				high		
@@ -3125,7 +3125,7 @@ TOI024	606	eh	eh	[eh]	linguistic	End=1067.923	_	False	False	False	False				_		0-
 ???	608	po'	po'	po'	linguistic		_	False	False	True	False				_		
 ???	608	famoso	famoso	famoso	linguistic	End=1068.995	_	False	False	False	False				_		
 TOR005	609	{ride}	{ride}	{ride}	metalinguistic	End=1071.79	_	False	False	False	False				_		
-???	610	eh	e:h	e[:h]	linguistic	End=1069.976	_	False	False	False	False	0x1			_		1-2(?)
+???	610	eh	e:h	e[:h]	linguistic	End=1069.976	_	False	False	False	False	0x1			_		1-2(609+611)
 TOI024	611	è	è	[è	linguistic	Begin=1069.336	_	False	False	False	False				_		0-1(609+610)
 TOI024	611	famo~	famo~	famo~]	linguistic	End=1069.881	_	False	True	False	False				_		0-5(609+610)
 TOI024	612	{ride}	{ride}	{ride}	metalinguistic	End=1071.79	_	False	False	False	False				_		
@@ -3788,7 +3788,7 @@ TOI024	738	venire	venire	venire	linguistic		_	False	False	False	False				_
 TOI024	738	anche	anche	anche	linguistic		_	False	False	False	False				_		
 TOI024	738	una	una	una	linguistic	End=1294.12	_	False	False	False	False				_		
 TOI024	739	eh	eh	eh	linguistic	End=1295.105	_	False	False	False	False				_		
-???	740	quant'è	quant'è	quant'è	error	Begin=1295.104	_	False	False	False	False				_		
+???	740	quant'è	quant'è	quant'è	error	Begin=1295.204	_	False	False	False	False				_		
 ???	740	x	x?	x?	linguistic	End=1295.982	ascending	True	False	False	False				_		
 ???	741	cosa	cosa	cosa	linguistic	Begin=1296.612	_	False	False	False	False				_		
 ???	741	è	è	è	linguistic		_	False	False	False	False				_		
@@ -4346,11 +4346,11 @@ TOI024	874	bel	bel	bel	linguistic		_	False	False	False	False				_		0-3(875)
 TOI024	874	borgo	borgo	borgo	linguistic		_	False	False	False	False				_		0-5(875)
 TOI024	874	questo	questo	questo	linguistic		_	False	False	False	False				_		0-6(875)
 TOI024	874	qua	qua.	qua.]	linguistic	End=1479.633	descending	False	False	False	False				_		0-3(875)
-???	875	qui	qui	[qui	linguistic	Begin=1478.085	_	False	False	False	False				_		0-3(?)
-???	875	si	si	si	linguistic		_	False	False	False	False				_		0-2(?)
-???	875	sta	sta	sta	linguistic		_	False	False	False	False				_		0-3(?)
-???	875	benisssimo	benisssimo	benisssimo]	linguistic	End=1479.637	_	False	False	False	False				_		0-10(?)
-TOI024	876	le	le	le	linguistic	Begin=1479.633	_	False	False	False	False				_		
+???	875	qui	qui	[qui	linguistic	Begin=1478.085	_	False	False	False	False				_		0-3(874)
+???	875	si	si	si	linguistic		_	False	False	False	False				_		0-2(874)
+???	875	sta	sta	sta	linguistic		_	False	False	False	False				_		0-3(874)
+???	875	benisssimo	benisssimo	benisssimo]	linguistic	End=1479.637	_	False	False	False	False				_		0-10(874)
+TOI024	876	le	le	le	linguistic	Begin=1479.733	_	False	False	False	False				_		
 TOI024	876	dico	dico	dico	linguistic		_	False	False	False	False				_		
 TOI024	876	vieni	vieni	vieni	linguistic		_	False	False	False	False				_		
 TOI024	876	ad	ad	ad	linguistic		_	False	False	False	False				_		

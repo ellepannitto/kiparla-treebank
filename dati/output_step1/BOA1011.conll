@@ -1,6 +1,6 @@
 speaker	tu_id	token	orig_token	span	type	align	intonation	unknown	interruption	truncation	prosodicLink	prolongations	slow_pace	fast_pace	volume	guesses	overlaps
 BO026	0	ditemi	ditemi.	ditemi.	linguistic	End=13.218	descending	False	False	False	False				_		
-BO040	1	sì	sì	sì	linguistic	Begin=13.216	_	False	False	False	False				_		
+BO040	1	sì	sì	sì	linguistic	Begin=13.315999999999999	_	False	False	False	False				_		
 BO040	1	eh	eh	eh	linguistic		_	False	False	False	False				_		
 BO040	1	noi	no::i	<no::i	linguistic		_	False	False	False	False	1x2	0-3(0)		_		
 BO040	1	abbiamo	abbiamo	abbiamo	linguistic		_	False	False	False	False		0-7(0)		_		
@@ -172,11 +172,11 @@ BO026	27	me~	me~	me~	linguistic		_	False	True	False	False				_
 BO026	27	mi	mi	mi	linguistic		_	False	False	False	False				_		
 BO026	27	scrivo	scrivo:	scrivo:	linguistic	End=77.98	_	False	False	False	False	5x1			_		
 BO040	28	sì	s:ì.	s:ì.	linguistic	End=78.49	descending	False	False	False	False	0x1			_		
-BO026	29	i	i	i	linguistic	Begin=78.45	_	False	False	False	False				_		
+BO026	29	i	i	i	linguistic	Begin=78.55	_	False	False	False	False				_		
 BO026	29	vostri	vostri	vostri	linguistic		_	False	False	False	False				_		
 BO026	29	nomi	nomi,	nomi,	linguistic	End=79.456	weakly_ascending	False	False	False	False				_		
 BO040	30	sì	sì.	<s[ì.>]	linguistic	End=79.94	descending	False	False	False	False		0-2(0)		_		
-BO026	31	nelle	nelle	[n]elle	linguistic	Begin=79.888	_	False	False	False	False				_		0-3(30)
+BO026	31	nelle	nelle	[n]elle	linguistic	Begin=79.988	_	False	False	False	False				_		0-3(?)
 BO026	31	liste	liste	liste	linguistic		_	False	False	False	False				_		
 BO026	31	che	che	che	linguistic		_	False	False	False	False				_		
 BO026	31	preparerò	preparerò	preparerò	linguistic		_	False	False	False	False				_		
@@ -186,7 +186,7 @@ BO026	31	metterò	metterò	metterò	linguistic		_	False	False	False	False				_
 BO026	31	nella	nella::	nella::	linguistic		_	False	False	False	False	4x2			_		
 BO026	31	nella	nella	nella	linguistic		_	False	False	False	False				_		
 BO026	31	pagina	pagina	pagin[a	linguistic		_	False	False	False	False				_		
-BO026	31	docente	docente,	doc]ente,	linguistic	End=84.71	weakly_ascending	False	False	False	False				_		2-7(32)
+BO026	31	docente	docente,	doc]ente,	linguistic	End=84.71	weakly_ascending	False	False	False	False				_		2-7(?)
 BO040	32	mh	mh	[mh	linguistic	Begin=83.891	_	False	False	False	True				_		0-2(31)
 BO040	32	mh	mh.	.]	linguistic	End=84.301	descending	False	False	False	False				_		0-2(31)
 BO026	33	di	di	di	linguistic	Begin=85.365	_	False	False	False	False				_		
@@ -198,8 +198,8 @@ BO026	34	due	due	due	linguistic	Begin=87.586	_	False	False	False	False				_
 BO026	34	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO026	34	massimo	massimo	massimo	linguistic		_	False	False	False	False				_		
 BO026	34	tre	tre	tre	linguistic		_	False	False	False	False				_		
-BO026	34	giorni	giorni	g[iorni	linguistic		_	False	False	False	False				_		1-6(?)
-BO026	34	dopo	dopo	do]po	linguistic		_	False	False	False	False				_		0-4(?)
+BO026	34	giorni	giorni	g[iorni	linguistic		_	False	False	False	False				_		1-6(35)
+BO026	34	dopo	dopo	do]po	linguistic		_	False	False	False	False				_		0-4(35)
 BO026	34	a	a	a	linguistic		_	False	False	False	False				_		
 BO026	34	seconda	seconda	seconda	linguistic		_	False	False	False	False				_		
 BO026	34	come	come	come	linguistic		_	False	False	False	False				_		
@@ -212,7 +212,7 @@ BO026	34	numero	numero	numero	linguistic		_	False	False	False	False				_
 BO026	34	degli	degli	degli	linguistic		_	False	False	False	False				_		
 BO026	34	scritti	scritti	scritti	linguistic		_	False	False	False	False				_		
 BO026	34	da	da	da	linguistic		_	False	False	False	False				_		
-BO026	34	correggere	correggere.	correggere.	linguistic	End=93.841	descending	False	False	False	False				_		
+BO026	34	correggere	correggere.	correggere.	linguistic	End=93.741	descending	False	False	False	False				_		
 BO041	35	okay	okay.	[°okay.°]	linguistic	End=89.81	descending	False	False	False	False				low		0-4(34)
 BO040	36	d'	d'	<°d'	linguistic	Begin=93.831	_	False	False	True	False		0-2(0)		low		
 BO040	36	accordo	accordo.	accordo.°>	linguistic	End=94.805	descending	False	False	False	False		0-7(0)		low		
@@ -269,7 +269,7 @@ BO026	46	seconda	seconda	seconda	linguistic		_	False	False	False	False				_		0-7
 BO026	46	parte	parte	parte	linguistic		_	False	False	False	False				_		0-5(45)
 BO026	46	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(45)
 BO026	46	sì	sì.	sì.]	linguistic	End=115.821	descending	False	False	False	False				_		0-2(45)
-BO040	47	sì	sì.	<sì.>	linguistic	End=116.873	descending	False	False	False	False		0-2(0)		_		
+BO040	47	sì	sì.	<sì.>	linguistic	End=116.77300000000001	descending	False	False	False	False		0-2(0)		_		
 BO026	48	okay	okay.	okay.	linguistic	End=117.39	descending	False	False	False	False				_		
 BO026	49	e	e	e	linguistic	Begin=117.771	_	False	False	False	False				_		
 BO026	49	mi	mi	mi	linguistic		_	False	False	False	False				_		
@@ -293,7 +293,7 @@ BO026	57	è	è	è	linguistic		_	False	False	False	False				_
 BO026	57	quello	quello	quello	linguistic		_	False	False	False	False				_		
 BO026	57	della	della::	della::	linguistic	End=139.29	_	False	False	False	False	4x2			_		
 BO026	58	duemilaquindici	duemilaquindici	duemilaquindici	linguistic	Begin=144.405	_	False	False	False	False				_		
-BO026	58	sedici	sedici.	sedici.	linguistic	End=145.965	descending	False	False	False	False				_		
+BO026	58	sedici	sedici.	sedici.	linguistic	End=145.865	descending	False	False	False	False				_		
 BO040	59	sì	sì.	<°sì.°>	linguistic	End=146.27	descending	False	False	False	False		0-2(0)		low		
 BO026	60	mh	mh,	mh,	linguistic	End=146.846	weakly_ascending	False	False	False	False				_		
 BO026	61	la	la	la	linguistic	Begin=147.89	_	False	False	False	False				_		
@@ -389,8 +389,8 @@ BO026	76	degli	degli	degli	linguistic		_	False	False	False	False				_
 BO026	76	esempi	esempi.	esempi.	linguistic	End=182.851	descending	False	False	False	False				_		
 BO026	77	mh	mh,	mh,	linguistic	End=183.42	weakly_ascending	False	False	False	False				_		
 BO040	78	okay	okay.	[okay.]	linguistic	End=183.97	descending	False	False	False	False				_		0-4(79)
-BO041	79	okay	okay.	[okay.]	linguistic	End=183.98	descending	False	False	False	False				_		0-4(?)
-BO026	80	lì	lì	lì	linguistic	Begin=183.976	_	False	False	False	False				_		
+BO041	79	okay	okay.	[okay.]	linguistic	End=183.98	descending	False	False	False	False				_		0-4(78)
+BO026	80	lì	lì	lì	linguistic	Begin=184.076	_	False	False	False	False				_		
 BO026	80	trovate	trovate	trovate	linguistic		_	False	False	False	False				_		
 BO026	80	gli	gli	gli	linguistic		_	False	False	False	False				_		
 BO026	80	esempi	esempi	esempi	linguistic		_	False	False	False	False				_		
@@ -470,8 +470,8 @@ BO026	95	anno	anno	anno	linguistic		_	False	False	False	False				_
 BO026	95	scorso	scorso?	scor[so?]	linguistic	End=217.536	ascending	False	False	False	False				_		4-6(96)
 BO041	96	ssì	ssì.	[s]sì.	linguistic	End=217.77	descending	False	False	False	False				_		0-3(95)
 BO026	97	sì	sì.	°sì.°	linguistic	End=218.153	descending	False	False	False	False				low		
-BO026	98	sì	sì.	s[ì.]	linguistic	End=219.0	descending	False	False	False	False				_		1-2(99)
-BO041	99	okay	okay.	[°o]kay.°	linguistic	End=219.291	descending	False	False	False	False				low		0-4(98)
+BO026	98	sì	sì.	s[ì.]	linguistic	End=219.0	descending	False	False	False	False				_		1-2(?)
+BO041	99	okay	okay.	[°o]kay.°	linguistic	End=219.291	descending	False	False	False	False				low		0-4(?)
 BO026	100	quest'	quest'	quest'	linguistic	Begin=220.06	_	False	False	True	False				_		
 BO026	100	anno	anno::	anno::	linguistic		_	False	False	False	False	3x2			_		
 BO026	100	ho	ho	ho	linguistic		_	False	False	False	False				_		
@@ -527,8 +527,8 @@ BO026	105	programma	programma	programma	linguistic		_	False	False	False	False			
 BO026	105	duemilaquindici	duemilaquindici	duemilaquindici	linguistic		_	False	False	False	False				_		
 BO026	105	sedici	sedici.	[sedici.]	linguistic	End=239.301	descending	False	False	False	False				_		0-6(106+107)
 BO041	106	okay	okay.	[°okay.°]	linguistic	End=239.466	descending	False	False	False	False				low		0-4(105+107)
-BO040	107	duemilasedici	duemilasedici.	[°duemila]sedici.°	linguistic	End=240.43	descending	False	False	False	False				low		0-10(?)
-BO026	108	d'accordo?	d'accordo?	d'[accordo?]	error	End=241.06	_	False	False	False	False				_		2-9(?)
+BO040	107	duemilasedici	duemilasedici.	[°duemila]sedici.°	linguistic	End=240.33	descending	False	False	False	False				low		0-10(105+106)
+BO026	108	d'accordo?	d'accordo?	d'[accordo?]	error	End=241.06	_	False	False	False	False				_		2-9(109)
 BO041	109	va	va	[va	linguistic	Begin=240.54	_	False	False	False	False				_		0-2(108)
 BO041	109	bene	bene.	bene.]	linguistic	End=241.06	descending	False	False	False	False				_		0-4(108)
 BO040	110	perfetto	perfetto.	per[fetto.]	linguistic	End=241.84	descending	False	False	False	False				_		3-8(111)

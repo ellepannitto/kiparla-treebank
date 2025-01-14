@@ -125,12 +125,12 @@ BO020	20	eh	e::h	e::[h	linguistic	Begin=50.56	_	False	False	False	False	0x2			_
 BO020	20	per	per	per	linguistic		_	False	False	False	False				_		0-3(21)
 BO020	20	le	le	le	linguistic		_	False	False	False	False				_		0-2(21)
 BO020	20	prenotazioni	prenotazioni.	prenotazioni.]	linguistic	End=52.468	descending	False	False	False	False				_		0-12(21)
-BO026	21	adesso	adesso	[adesso	linguistic	Begin=51.215	_	False	False	False	False				_		0-6(?)
-BO026	21	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	21	diciamo	diciamo	diciamo	linguistic		_	False	False	False	False				_		0-7(?)
-BO026	21	di	di	di]	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	21	nuovo	nuovo.	nuovo.	linguistic	End=52.85	descending	False	False	False	False				_		0-1(?)
-BO020	22	dall'	dall'	dall'	linguistic	Begin=52.842	_	False	False	True	False				_		
+BO026	21	adesso	adesso	[adesso	linguistic	Begin=51.215	_	False	False	False	False				_		0-6(20)
+BO026	21	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(20)
+BO026	21	diciamo	diciamo	diciamo	linguistic		_	False	False	False	False				_		0-7(20)
+BO026	21	di	di	di]	linguistic		_	False	False	False	False				_		0-2(20)
+BO026	21	nuovo	nuovo.	nuovo.	linguistic	End=52.85	descending	False	False	False	False				_		0-1(20)
+BO020	22	dall'	dall'	dall'	linguistic	Begin=52.942	_	False	False	True	False				_		
 BO020	22	altra	altra	altra	linguistic		_	False	False	False	False				_		
 BO020	22	parte	parte	parte	linguistic		_	False	False	False	False				_		
 BO020	22	invece	invece	invece	linguistic		_	False	False	False	False				_		
@@ -341,14 +341,14 @@ BO026	54	avevamo	avevamo	avevamo	linguistic	Begin=119.53	_	False	False	False	Fal
 BO026	54	parl~	parl~	parl~	linguistic		_	False	True	False	False				_		
 BO026	54	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BO026	54	anna	anna	anna	linguistic		_	False	False	False	False				_		
-BO026	54	giulia	giulia	giulia	linguistic	End=121.457	_	False	False	False	False				_		
+BO026	54	giulia	giulia	giulia	linguistic	End=121.357	_	False	False	False	False				_		
 BO020	55	sì	sì.	sì.	linguistic	End=121.765	descending	False	False	False	False				_		
 BO026	56	avevamo	avevamo	avevamo	linguistic	Begin=121.765	_	False	False	False	False				_		
 BO026	56	parlato	parlato	parlato	linguistic		_	False	False	False	False				_		
 BO026	56	della	della	della	linguistic		_	False	False	False	False				_		
 BO026	56	tesi	tesi	tesi	linguistic		_	False	False	False	False				_		
 BO026	56	vero	vero?	vero?	linguistic	End=123.989	ascending	False	False	False	False				_		
-BO020	57	sì	sì	sì	linguistic	Begin=123.988	_	False	False	False	False				_		
+BO020	57	sì	sì	sì	linguistic	Begin=124.088	_	False	False	False	False				_		
 BO020	57	avevamo	avevamo	avevamo	linguistic		_	False	False	False	False				_		
 BO020	57	parlato	parlato	parlato	linguistic		_	False	False	False	False				_		
 BO020	57	della	della	della	linguistic		_	False	False	False	False				_		
@@ -431,36 +431,36 @@ BO020	67	sacco	sacco	(sacco)	linguistic		_	False	False	False	False				_	1-5(0)
 BO020	67	abbastanza	abbastanza	abbastanza	linguistic		_	False	False	False	True				_	0-2(0)	
 BO020	67	mh	mh	 	linguistic		_	False	False	False	False				_		
 BO020	67	più	più,	più,]	linguistic	End=162.234	weakly_ascending	False	False	False	False				_		
-BO026	68	è	è	[è	linguistic	Begin=161.645	_	False	False	False	False				_		0-1(?)
-BO026	68	mh	mh	mh]	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	68	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
+BO026	68	è	è	[è	linguistic	Begin=161.645	_	False	False	False	False				_		0-1(67)
+BO026	68	mh	mh	mh]	linguistic		_	False	False	False	False				_		0-2(67)
+BO026	68	è	è	è	linguistic		_	False	False	False	False				_		0-1(67)
 BO026	68	un	un	un	linguistic		_	False	False	False	False				_		
 BO026	68	questionario	questionario	questionario	linguistic		_	False	False	False	False				_		
 BO026	68	rivolto	rivolto	rivolto	linguistic		_	False	False	False	False				_		
 BO026	68	a	a	a	linguistic		_	False	False	False	False				_		
-BO026	68	studenti	studenti?	studenti?	linguistic	End=164.297	ascending	False	False	False	False				_		
+BO026	68	studenti	studenti?	studenti?	linguistic	End=164.197	ascending	False	False	False	False				_		
 BO020	69	mh	mh	mh	linguistic	Begin=164.296	_	False	False	False	False				_		
-BO020	69	allora	allora,	al[lora,]	linguistic	End=165.01	weakly_ascending	False	False	False	False				_		2-6(?)
-BO026	70	o	o	[°o	linguistic	Begin=164.59	_	False	False	False	False				_		0-1(?)
-BO026	70	ai	ai	ai	linguistic		_	False	False	False	False				low		0-2(?)
-BO026	70	docenti	docenti?	do]centi?°	linguistic	End=165.446	ascending	False	False	False	False				low		0-5(?)
-BO020	71	o:~	o:~	o:~	error	Begin=165.395	_	False	False	False	False				_		
+BO020	69	allora	allora,	al[lora,]	linguistic	End=165.01	weakly_ascending	False	False	False	False				_		2-6(70)
+BO026	70	o	o	[°o	linguistic	Begin=164.59	_	False	False	False	False				_		0-1(69)
+BO026	70	ai	ai	ai	linguistic		_	False	False	False	False				low		0-2(69)
+BO026	70	docenti	docenti?	do]centi?°	linguistic	End=165.446	ascending	False	False	False	False				low		0-5(69)
+BO020	71	o:~	o:~	o:~	error	Begin=165.495	_	False	False	False	False				_		
 BO020	71	ora	ora	ora	linguistic		_	False	False	False	False				_		
 BO020	71	ri~	ri~	ri~	linguistic		_	False	True	False	True				_		
-BO020	71	ritorno	ritorno	itorno 	linguistic		_	False	False	False	False				_		1-7(?)
-BO020	71	un	un	n 	linguistic		_	False	False	False	False				_		0-2(?)
-BO020	71	attimino	attimino	]ttimin[o 	linguistic		_	False	False	False	False				_		0-3(?)
-BO020	71	su	su	u 	linguistic		_	False	False	False	False				_		0-2(?)
-BO020	71	no	no	o 	linguistic		_	False	False	False	False				_		0-2(?)
-BO020	71	no	no	o] 	linguistic		_	False	False	False	False				_		0-2(?)
-BO020	71	ai	ai	i 	linguistic		_	False	False	False	False				_		0-2(?)
+BO020	71	ritorno	ritorno	itorno 	linguistic		_	False	False	False	False				_		1-7(72)
+BO020	71	un	un	n 	linguistic		_	False	False	False	False				_		0-2(72)
+BO020	71	attimino	attimino	]ttimin[o 	linguistic		_	False	False	False	False				_		0-3(72)
+BO020	71	su	su	u 	linguistic		_	False	False	False	False				_		0-2(73)
+BO020	71	no	no	o 	linguistic		_	False	False	False	False				_		0-2(73)
+BO020	71	no	no	o] 	linguistic		_	False	False	False	False				_		0-2(73)
+BO020	71	ai	ai	i 	linguistic		_	False	False	False	False				_		0-2(73)
 BO020	71	ai	ai	i 	linguistic		_	False	False	False	False				_		
 BO020	71	docenti	docenti	ocenti 	linguistic		_	False	False	False	False				_		
 BO020	71	lei	lei	ei 	linguistic		_	False	False	False	False				_		
 BO020	71	mi	mi	i 	linguistic		_	False	False	False	False				_		
 BO020	71	aveva	aveva	[veva] 	linguistic		_	False	False	False	False				_		
-BO020	71	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		0-3(?)
-BO020	71	detto	detto,	etto,	linguistic	End=170.255	weakly_ascending	False	False	False	False				_		0-1(?)
+BO020	71	{P}	{P}	P} 	shortpause		_	False	False	False	False				_		0-3(74)
+BO020	71	detto	detto,	etto,	linguistic	End=170.255	weakly_ascending	False	False	False	False				_		0-1(74)
 BO026	72	perché	perché	[perché	linguistic	Begin=166.026	_	False	False	False	False				_		0-6(71)
 BO026	72	è	è,	è,]	linguistic	End=166.831	weakly_ascending	False	False	False	False				_		0-1(71)
 BO026	73	riepiloghiamo	riepiloghiamo	[riepiloghiamo]	linguistic	End=167.755	_	False	False	False	False				_		0-13(71)
@@ -571,7 +571,7 @@ BO020	93	non	non	on 	linguistic		_	False	False	False	False				_
 BO020	93	nativi	nativi.	ativi.	linguistic	End=210.38	descending	False	False	False	False				_		
 BO026	94	mh	mh	mh	linguistic	Begin=210.638	_	False	False	False	False				_		
 BO026	94	mh	mh,	mh,	linguistic	End=211.181	weakly_ascending	False	False	False	False				_		
-BO020	95	eh	e:h	e:h	linguistic	Begin=211.18	_	False	False	False	False	0x1			_		
+BO020	95	eh	e:h	e:h	linguistic	Begin=211.28	_	False	False	False	False	0x1			_		
 BO020	95	per	per	per	linguistic		_	False	False	False	False				_		
 BO020	95	studenti	studenti	studenti	linguistic		_	False	False	False	False				_		
 BO020	95	che	che	che	linguistic		_	False	False	False	False				_		
@@ -689,8 +689,8 @@ BO026	111	elle	elle	elle	linguistic		_	False	False	False	False				_
 BO026	111	due	due	due	linguistic		_	False	False	False	False				_		
 BO026	111	no	no,	no,	linguistic		weakly_ascending	False	False	False	False				_		
 BO026	111	la	la	l[a	linguistic		_	False	False	False	False				_		
-BO026	111	lingua	lingua	lingua]	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	111	straniera	straniera	straniera	linguistic		_	False	False	False	False				_		0-2(?)
+BO026	111	lingua	lingua	lingua]	linguistic		_	False	False	False	False				_		0-6(112)
+BO026	111	straniera	straniera	straniera	linguistic		_	False	False	False	False				_		0-2(112)
 BO026	111	la	la	la	linguistic		_	False	False	False	False				_		
 BO026	111	lingua	lingua::	lingua::	linguistic		_	False	False	False	False	5x2			_		
 BO026	111	studiata	studiata	studiata	linguistic		_	False	False	False	False				_		
@@ -702,7 +702,7 @@ BO026	111	apprendenti	apprendenti	apprendenti	linguistic		_	False	False	False	Fa
 BO026	111	di	di	di	linguistic		_	False	False	False	False				_		
 BO026	111	italiano	italiano	italiano	linguistic		_	False	False	False	False				_		
 BO026	111	elle	elle	elle	linguistic		_	False	False	False	False				_		
-BO026	111	due	due?	due?	linguistic	End=257.456	ascending	False	False	False	False				_		
+BO026	111	due	due?	due?	linguistic	End=257.356	ascending	False	False	False	False				_		
 BO020	112	sì	sì,	[sì,]	linguistic	End=253.436	weakly_ascending	False	False	False	False				_		0-2(111)
 BO020	113	sì	sì	sì	linguistic	Begin=257.455	_	False	False	False	False				_		
 BO020	113	e	e	e	linguistic		_	False	False	False	False				_		
@@ -714,9 +714,9 @@ BO020	113	elle	elle	elle	linguistic		_	False	False	False	False				_
 BO020	113	due	due	due	linguistic		_	False	False	False	False				_		
 BO020	113	ed	ed	ed	linguistic		_	False	False	False	False				_		
 BO020	113	elle	elle	elle	linguistic		_	False	False	False	False				_		
-BO020	113	esse	esse	[esse	linguistic		_	False	False	False	False				_		0-4(?)
-BO020	113	eh	e:h	e:h]	linguistic		_	False	False	False	True	0x1			_		0-2(?)
-BO020	113	mh	mh	 	linguistic		_	False	False	False	False				_		0-2(?)
+BO020	113	esse	esse	[esse	linguistic		_	False	False	False	False				_		0-4(114)
+BO020	113	eh	e:h	e:h]	linguistic		_	False	False	False	True	0x1			_		0-2(114)
+BO020	113	mh	mh	 	linguistic		_	False	False	False	False				_		0-2(114)
 BO020	113	sì	sì	ì 	linguistic		_	False	False	False	False				_		
 BO020	113	più	più	iù 	linguistic		_	False	False	False	False				_		
 BO020	113	o	o	 	linguistic		_	False	False	False	False				_		
@@ -735,18 +735,18 @@ BO020	116	mh	mh,	,	linguistic	End=267.311	weakly_ascending	False	False	False	Fal
 BO020	117	eh	e::h	e:[:h	linguistic	Begin=267.641	_	False	False	False	False	0x2			_		
 BO020	117	p~	p~	p~	linguistic		_	False	True	False	False				_		0-2(118)
 BO020	117	posso	posso,	posso,]	linguistic	End=268.925	weakly_ascending	False	False	False	False				_		0-5(118)
-BO026	118	nella	nella	[nella	linguistic	Begin=267.819	_	False	False	False	False				_		0-5(?)
-BO026	118	sua	sua	sua	linguistic		_	False	False	False	False				_		0-3(?)
-BO026	118	scuola	scuola	scuola	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	118	superiore	superiore	supe]riore	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	118	quindi	quindi	qui[ndi	linguistic		_	False	False	False	False				_		5-6(?)
-BO026	118	per	pe:r	pe]:r	linguistic		_	False	False	False	False	1x1			_		0-3(?)
-BO026	118	nel	nel	nel	linguistic		_	False	False	False	False				_		0-2(?)
+BO026	118	nella	nella	[nella	linguistic	Begin=267.819	_	False	False	False	False				_		0-5(117)
+BO026	118	sua	sua	sua	linguistic		_	False	False	False	False				_		0-3(117)
+BO026	118	scuola	scuola	scuola	linguistic		_	False	False	False	False				_		0-6(117)
+BO026	118	superiore	superiore	supe]riore	linguistic		_	False	False	False	False				_		0-6(117)
+BO026	118	quindi	quindi	qui[ndi	linguistic		_	False	False	False	False				_		5-6(119)
+BO026	118	per	pe:r	pe]:r	linguistic		_	False	False	False	False	1x1			_		0-3(119)
+BO026	118	nel	nel	nel	linguistic		_	False	False	False	False				_		0-2(119)
 BO026	118	suo	suo	suo	linguistic		_	False	False	False	False				_		
 BO026	118	contesto	contesto	contesto	linguistic		_	False	False	False	False				_		
 BO026	118	di	di	di	linguistic		_	False	False	False	False				_		
 BO026	118	lavoro	lavoro	lavoro	linguistic		_	False	False	False	False				_		
-BO026	118	no	no?	no?	linguistic	End=272.638	ascending	False	False	False	False				_		
+BO026	118	no	no?	no?	linguistic	End=272.53799999999995	ascending	False	False	False	False				_		
 BO020	119	sì	sì.	[sì.]	linguistic	End=269.978	descending	False	False	False	False				_		0-2(118)
 BO020	120	sì	sì.	sì.	linguistic	End=272.996	descending	False	False	False	False				_		
 BO026	121	eh	e:h,	[e:h,]	linguistic	End=273.881	weakly_ascending	False	False	False	False	0x1			_		0-2(122)
@@ -874,10 +874,10 @@ BO020	142	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 BO020	142	delle	delle	delle	linguistic		_	False	False	False	False				_		
 BO020	142	indicazione	indicazione	indicazione	linguistic		_	False	False	False	False				_		
 BO020	142	di	di	di	linguistic		_	False	False	False	False				_		
-BO020	142	base	base.	base.	linguistic	End=320.776	descending	False	False	False	False				_		
+BO020	142	base	base.	base.	linguistic	End=320.676	descending	False	False	False	False				_		
 BO026	143	mh	mh	mh	linguistic	Begin=320.775	_	False	False	False	False				_		
 BO026	143	mh	mh,	mh,	linguistic	End=321.191	weakly_ascending	False	False	False	False				_		
-BO020	144	e	e	e	linguistic	Begin=321.19	_	False	False	False	False				_		
+BO020	144	e	e	e	linguistic	Begin=321.29	_	False	False	False	False				_		
 BO020	144	poi	poi	poi	linguistic		_	False	False	False	False				_		
 BO020	144	utilizzare	utilizzare,	utilizzare,	linguistic	End=322.606	weakly_ascending	False	False	False	False				_		
 BO020	145	se	se	>se	linguistic	Begin=323.03	_	False	False	False	False			0-2(0)	_		
@@ -891,7 +891,7 @@ BO020	145	il	il	il	linguistic		_	False	False	False	False				_
 BO020	145	tecnico	tecnico	tecnico	linguistic		_	False	False	False	False				_		
 BO020	145	o	o	o	linguistic		_	False	False	False	False				_		
 BO020	145	il	il	il	linguistic		_	False	False	False	False				_		
-BO020	145	professionale	professionale,	professionale,	linguistic	End=326.723	weakly_ascending	False	False	False	False				_		
+BO020	145	professionale	professionale,	professionale,	linguistic	End=326.623	weakly_ascending	False	False	False	False				_		
 BO026	146	mh	mh	mh	linguistic	Begin=326.721	_	False	False	False	False				_		
 BO026	146	mh	mh,	mh,	linguistic	End=327.165	weakly_ascending	False	False	False	False				_		
 BO020	147	le	le	le	linguistic	Begin=327.165	_	False	False	False	False				_		
@@ -944,24 +944,24 @@ BO020	159	se	se	se	linguistic		_	False	False	False	False				_		0-2(160)
 BO020	159	fosse	fosse	fosse	linguistic		_	False	False	False	False				_		0-5(160)
 BO020	159	la	la	la	linguistic		_	False	False	False	False				_		0-2(160)
 BO020	159	sit~	sit~	sit~]	linguistic	End=355.106	_	False	True	False	False				_		0-4(160)
-BO026	160	quindi	quindi	[quindi	linguistic	Begin=352.904	_	False	False	False	False				_		0-6(?)
-BO026	160	una	una	una	linguistic		_	False	False	False	False				_		0-3(?)
-BO026	160	ricognizione	ricognizione:	ricognizione:	linguistic		_	False	False	False	False	11x1			_		0-12(?)
-BO026	160	ampia	ampia	a]mpia	linguistic		_	False	False	False	False				_		0-4(?)
+BO026	160	quindi	quindi	[quindi	linguistic	Begin=352.904	_	False	False	False	False				_		0-6(159)
+BO026	160	una	una	una	linguistic		_	False	False	False	False				_		0-3(159)
+BO026	160	ricognizione	ricognizione:	ricognizione:	linguistic		_	False	False	False	False	11x1			_		0-12(159)
+BO026	160	ampia	ampia	a]mpia	linguistic		_	False	False	False	False				_		0-4(159)
 BO026	160	ne	ne	ne	linguistic		_	False	False	False	False				_		
 BO026	160	ne	ne	ne	linguistic		_	False	False	False	False				_		
 BO026	160	in	in	in	linguistic		_	False	False	False	False				_		
 BO026	160	questo	questo::	que[sto::	linguistic		_	False	False	False	False	5x2			_		
-BO026	160	numero	numero	numero	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	160	di	di	di	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	160	istituti	istituti	istituti	linguistic		_	False	False	False	False				_		0-8(?)
-BO026	160	tecnici	tecnici	tecnici	linguistic		_	False	False	False	False				_		0-7(?)
-BO026	160	no	no	no	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	160	per	per	per	linguistic		_	False	False	False	False				_		0-3(?)
-BO026	160	avere	avere	avere	linguistic		_	False	False	False	False				_		0-5(?)
-BO026	160	un	un	un	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	160	quadro	quadro	quadro	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	160	generale	generale.	ge]nerale.	linguistic	End=360.617	descending	False	False	False	False				_		0-8(?)
+BO026	160	numero	numero	numero	linguistic		_	False	False	False	False				_		0-6(161)
+BO026	160	di	di	di	linguistic		_	False	False	False	False				_		0-2(161)
+BO026	160	istituti	istituti	istituti	linguistic		_	False	False	False	False				_		0-8(161)
+BO026	160	tecnici	tecnici	tecnici	linguistic		_	False	False	False	False				_		0-7(161)
+BO026	160	no	no	no	linguistic		_	False	False	False	False				_		0-2(161)
+BO026	160	per	per	per	linguistic		_	False	False	False	False				_		0-3(161)
+BO026	160	avere	avere	avere	linguistic		_	False	False	False	False				_		0-5(161)
+BO026	160	un	un	un	linguistic		_	False	False	False	False				_		0-2(161)
+BO026	160	quadro	quadro	quadro	linguistic		_	False	False	False	False				_		0-6(161)
+BO026	160	generale	generale.	ge]nerale.	linguistic	End=360.517	descending	False	False	False	False				_		0-8(161)
 BO020	161	sì	sì.	[sì.	linguistic	Begin=356.568	descending	False	False	False	False				_		0-2(160)
 BO020	161	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(160)
 BO020	161	per	per	per	linguistic		_	False	False	False	False				_		0-3(160)
@@ -1188,8 +1188,8 @@ BO020	191	di	di	di	linguistic		_	False	False	False	False				_
 BO020	191	questi	questi	questi	linguistic		_	False	False	False	False				_		
 BO020	191	ragazzi	ragazzi.	ragazzi.	linguistic	End=457.638	descending	False	False	False	False				_		
 BO026	192	mh	mh	mh	linguistic	Begin=457.75	_	False	False	False	False				_		
-BO026	192	mh	mh,	m[h,]	linguistic	End=458.138	weakly_ascending	False	False	False	False				_		1-2(193)
-BO020	193	quindi	quindi	[qu]indi	linguistic	Begin=458.066	_	False	False	False	False				_		0-4(192)
+BO026	192	mh	mh,	m[h,]	linguistic	End=458.138	weakly_ascending	False	False	False	False				_		1-2(?)
+BO020	193	quindi	quindi	[qu]indi	linguistic	Begin=458.166	_	False	False	False	False				_		0-4(?)
 BO020	193	mh	mh	mh	linguistic		_	False	False	False	False				_		
 BO020	193	ovviamente	ovviamente	ovviamente	linguistic		_	False	False	False	False				_		
 BO020	193	non	non	non	linguistic		_	False	False	False	False				_		
@@ -1257,10 +1257,10 @@ BO026	200	ore	ore::	ore::	linguistic		_	False	False	False	False	2x2			_
 BO026	200	dell~	dell~	dell~	linguistic		_	False	True	False	True				_		
 BO026	200	mh	m:h	h 	linguistic		_	False	False	False	False	0x1			_		
 BO026	200	cioè	cioè	cioè 	linguistic		_	False	False	False	False				_		
-BO026	200	il	il	l 	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	200	il	il	l] 	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	200	mh	mh	h 	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	200	lo	lo	o 	linguistic		_	False	False	False	False				_		0-2(?)
+BO026	200	il	il	l 	linguistic		_	False	False	False	False				_		0-2(201)
+BO026	200	il	il	l] 	linguistic		_	False	False	False	False				_		0-2(201)
+BO026	200	mh	mh	h 	linguistic		_	False	False	False	False				_		0-2(201)
+BO026	200	lo	lo	o 	linguistic		_	False	False	False	False				_		0-2(201)
 BO026	200	spazio	spazio	pazio 	linguistic		_	False	False	False	False				_		
 BO026	200	che	che	he 	linguistic		_	False	False	False	False				_		
 BO026	200	la	la	a 	linguistic		_	False	False	False	False				_		
@@ -1269,7 +1269,7 @@ BO026	200	occupa	occupa	ccupa 	linguistic		_	False	False	False	False				_
 BO026	200	nella	nella	ella 	linguistic		_	False	False	False	False				_		
 BO026	200	programmazione	programmazione	rogrammazione 	linguistic		_	False	False	False	False				_		
 BO026	200	nei	nei	ei 	linguistic		_	False	False	False	False				_		
-BO026	200	programmi	programmi,	rogrammi,	linguistic	End=490.593	weakly_ascending	False	False	False	False				_		
+BO026	200	programmi	programmi,	rogrammi,	linguistic	End=490.493	weakly_ascending	False	False	False	False				_		
 BO020	201	di	di	[di	linguistic	Begin=484.97	_	False	False	False	False				_		0-2(200)
 BO020	201	lingua	lingua?	lingua?]	linguistic	End=485.86	ascending	False	False	False	False				_		0-6(200)
 BO020	202	che	che	che	linguistic	Begin=490.591	_	False	False	False	False				_		
@@ -1281,10 +1281,10 @@ BO020	202	in	in	in	linguistic		_	False	False	False	False				_
 BO020	202	realtà	realtà	realtà	linguistic		_	False	False	False	False				_		
 BO020	202	per	pe:r	pe:r	linguistic		_	False	False	False	False	1x1			_		
 BO020	202	la	la	l[a	linguistic		_	False	False	False	False				_		
-BO020	202	per	per	>per	linguistic		_	False	False	False	False			2-3(0)	_		0-3(?)
-BO020	202	le	le	le	linguistic		_	False	False	False	False			0-2(0)	_		0-2(?)
-BO020	202	classi	classi	classi]	linguistic		_	False	False	False	False			0-6(0)	_		0-6(?)
-BO020	202	prime	prime	prime	linguistic		_	False	False	False	False			0-5(0)	_		0-3(?)
+BO020	202	per	per	>per	linguistic		_	False	False	False	False			2-3(0)	_		0-3(203)
+BO020	202	le	le	le	linguistic		_	False	False	False	False			0-2(0)	_		0-2(203)
+BO020	202	classi	classi	classi]	linguistic		_	False	False	False	False			0-6(0)	_		0-6(203)
+BO020	202	prime	prime	prime	linguistic		_	False	False	False	False			0-5(0)	_		0-3(203)
 BO020	202	e	e	e	linguistic		_	False	False	False	False			0-1(0)	_		
 BO020	202	seconde	seconde	seconde	linguistic		_	False	False	False	False			0-7(0)	_		
 BO020	202	è	è	è	linguistic		_	False	False	False	False			0-1(0)	_		
@@ -1294,9 +1294,9 @@ BO020	202	tutti	tutti	tutti	linguistic		_	False	False	False	False			0-5(0)	_
 BO020	202	gli	gli	gli	linguistic		_	False	False	False	False			0-3(0)	_		
 BO020	202	istituti	istituti	istituti	linguistic		_	False	False	False	False			0-8(0)	_		
 BO020	202	ma	ma	[ma	linguistic		_	False	False	False	False			0-2(0)	_		
-BO020	202	non	non	non	linguistic		_	False	False	False	False			0-3(0)	_		1-3(?)
-BO020	202	solo	solo	so]lo	linguistic		_	False	False	False	False			0-4(0)	_		0-4(?)
-BO020	202	nei	nei	nei	linguistic		_	False	False	False	False			0-3(0)	_		0-3(?)
+BO020	202	non	non	non	linguistic		_	False	False	False	False			0-3(0)	_		1-3(204)
+BO020	202	solo	solo	so]lo	linguistic		_	False	False	False	False			0-4(0)	_		0-4(204)
+BO020	202	nei	nei	nei	linguistic		_	False	False	False	False			0-3(0)	_		0-3(204)
 BO020	202	tecnici	tecnici	tecnici	linguistic		_	False	False	False	False			0-7(0)	_		
 BO020	202	quindi	quindi,	quindi,<	linguistic	End=497.741	weakly_ascending	False	False	False	False			0-6(0)	_		
 BO026	203	lei	lei	[lei	linguistic	Begin=492.141	_	False	False	False	False				_		0-3(202)
@@ -1539,7 +1539,7 @@ BO026	230	ricognizione	ricognizione	ricognizione	linguistic	Begin=586.146	_	Fals
 BO026	230	attraverso	attraverso	attraverso	linguistic		_	False	False	False	False				_		
 BO026	230	un	un	un	linguistic		_	False	False	False	False				_		
 BO026	230	questionario	questionario.	questionario.	linguistic	End=588.666	descending	False	False	False	False				_		
-BO020	231	eh	e:::h	e:::h	linguistic	Begin=588.665	_	False	False	False	False	0x3			_		
+BO020	231	eh	e:::h	e:::h	linguistic	Begin=588.765	_	False	False	False	False	0x3			_		
 BO020	231	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO020	231	allora	allora	allora	linguistic		_	False	False	False	False				_		
 BO020	231	io	io	io	linguistic		_	False	False	False	False				_		
@@ -1745,12 +1745,12 @@ BO026	259	quali	quali	quali	linguistic		_	False	False	False	False				_
 BO026	259	sono	sono,	so[no,]	linguistic	End=663.411	weakly_ascending	False	False	False	False				_		
 BO020	260	mh	mh	[mh	linguistic	Begin=661.288	_	False	False	False	False				_		0-2(259)
 BO020	260	sì	sì.	sì.]	linguistic	End=662.011	descending	False	False	False	False				_		0-2(259)
-BO020	261	sì	sì	[s]ì	linguistic	Begin=663.233	_	False	False	False	False				_		0-2(?)
+BO020	261	sì	sì	[s]ì	linguistic	Begin=663.233	_	False	False	False	False				_		0-2(259)
 BO020	261	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO020	261	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
 BO020	261	di	di	di	linguistic		_	False	False	False	False				_		
 BO020	261	base	base.	base.	linguistic	End=664.533	descending	False	False	False	False				_		
-BO026	262	eh	e:h	e:h	linguistic	Begin=664.53	_	False	False	False	False	0x1			_		
+BO026	262	eh	e:h	e:h	linguistic	Begin=664.63	_	False	False	False	False	0x1			_		
 BO026	262	quanti	quanti	quanti	linguistic		_	False	False	False	False				_		
 BO026	262	studenti	studenti:	studenti:	linguistic		_	False	False	False	False	7x1			_		
 BO026	262	ci	ci	ci	linguistic		_	False	False	False	False				_		
@@ -1936,7 +1936,7 @@ BO026	286	otto	otto	otto	linguistic		_	False	False	False	False				_
 BO026	286	e	e	e	linguistic		_	False	False	False	False				_		
 BO026	286	nove	nove,	nove,	linguistic	End=787.555	weakly_ascending	False	False	False	False				_		
 BO026	287	eh	e::h	e::h	linguistic	Begin=788.001	_	False	False	False	True	0x2			_		
-BO026	287	mh	mh,	,	linguistic	End=789.622	weakly_ascending	False	False	False	False				_		
+BO026	287	mh	mh,	,	linguistic	End=789.5219999999999	weakly_ascending	False	False	False	False				_		
 BO020	288	sì	sì.	sì.	linguistic	End=790.1	descending	False	False	False	False				_		
 BO026	289	la	la	[la	linguistic	Begin=790.666	_	False	False	False	False				_		0-2(290)
 BO026	289	la	la	la	linguistic		_	False	False	False	False				_		0-2(290)
@@ -1979,7 +1979,7 @@ BO026	293	numero	numero	numero	linguistic		_	False	False	False	False				_
 BO026	293	dodici	dodici,	dodici,	linguistic	End=801.906	weakly_ascending	False	False	False	False				_		
 BO020	294	mh	mh	mh	linguistic	Begin=802.146	_	False	False	False	False				_		
 BO020	294	mh	mh,	mh,	linguistic	End=802.744	weakly_ascending	False	False	False	False				_		
-BO026	295	una	una	una	linguistic	Begin=802.743	_	False	False	False	False				_		
+BO026	295	una	una	una	linguistic	Begin=802.8430000000001	_	False	False	False	False				_		
 BO026	295	dietro	dietro	dietro	linguistic		_	False	False	False	False				_		
 BO026	295	l'	l'	l'	linguistic		_	False	False	True	False				_		
 BO026	295	altra	altra	altra	linguistic		_	False	False	False	False				_		
@@ -2216,7 +2216,7 @@ BO026	334	del	del	del	linguistic		_	False	False	False	False				_
 BO026	334	lessico	lessico	lessico	linguistic		_	False	False	False	False				_		
 BO026	334	le	le	le	linguistic		_	False	False	False	False				_		
 BO026	334	teniamo	teniamo	teniamo	linguistic		_	False	False	False	False				_		
-BO026	334	vicine	vicine.	vicine.	linguistic	End=900.877	descending	False	False	False	False				_		
+BO026	334	vicine	vicine.	vicine.	linguistic	End=900.7769999999999	descending	False	False	False	False				_		
 BO020	335	sì	sì.	sì.	linguistic	End=901.198	descending	False	False	False	False				_		
 BO026	336	perché	perché	perché	linguistic	Begin=901.198	_	False	False	False	False				_		
 BO026	336	poi	poi	poi	linguistic		_	False	False	False	False				_		
@@ -2276,18 +2276,18 @@ BO026	346	eh	e::h	e::h	linguistic	Begin=924.85	_	False	False	False	True	0x2			_
 BO026	346	mh	mh,	,	linguistic	End=926.01	weakly_ascending	False	False	False	False				_		
 BO026	347	che	che	che	linguistic	Begin=928.033	_	False	False	False	False				_		
 BO026	347	cosa	cosa::	cosa::	linguistic		_	False	False	False	False	3x2			_		
-BO026	347	effettivamente	effettivamente	ef[fettivamente]	linguistic		_	False	False	False	False				_		4-14(?)
-BO026	347	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		0-3(?)
+BO026	347	effettivamente	effettivamente	ef[fettivamente]	linguistic		_	False	False	False	False				_		4-14(348)
+BO026	347	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		0-3(348)
 BO026	347	qual	qual	qu[al	linguistic		_	False	False	False	False				_		
 BO026	347	è	è	è	linguistic		_	False	False	False	False				_		
-BO026	347	la	la	la	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	347	sua	sua	sua	linguistic		_	False	False	False	False				_		0-3(?)
-BO026	347	meta	meta	meta	linguistic		_	False	False	False	False				_		0-4(?)
-BO026	347	qual	qual	qual	linguistic		_	False	False	False	False				_		0-4(?)
-BO026	347	è	è	è]	linguistic		_	False	False	False	False				_		0-1(?)
-BO026	347	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	347	scopo	scopo	scopo	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	347	no	no?	no?	linguistic	End=932.788	ascending	False	False	False	False				_		
+BO026	347	la	la	la	linguistic		_	False	False	False	False				_		0-2(349)
+BO026	347	sua	sua	sua	linguistic		_	False	False	False	False				_		0-3(349)
+BO026	347	meta	meta	meta	linguistic		_	False	False	False	False				_		0-4(349)
+BO026	347	qual	qual	qual	linguistic		_	False	False	False	False				_		0-4(349)
+BO026	347	è	è	è]	linguistic		_	False	False	False	False				_		0-1(349)
+BO026	347	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(349)
+BO026	347	scopo	scopo	scopo	linguistic		_	False	False	False	False				_		0-2(349)
+BO026	347	no	no?	no?	linguistic	End=932.688	ascending	False	False	False	False				_		
 BO020	348	che	che	[che	linguistic	Begin=929.32	_	False	False	False	False				_		0-3(347)
 BO020	348	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		0-4(347)
 BO020	348	vogliamo	vogliamo.	vogliamo.]	linguistic	End=930.328	descending	False	False	False	False				_		0-8(347)
@@ -2296,7 +2296,7 @@ BO020	349	è	è	è	linguistic		_	False	False	False	False				_		0-1(347)
 BO020	349	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(347)
 BO020	349	scopo	scopo,	scopo,]	linguistic	End=932.073	weakly_ascending	False	False	False	False				_		0-5(347)
 BO020	350	sì	sì.	sì.	linguistic	End=933.103	descending	False	False	False	False				_		
-BO026	351	l'	l'	l'	linguistic	Begin=933.101	_	False	False	True	False				_		
+BO026	351	l'	l'	l'	linguistic	Begin=933.201	_	False	False	True	False				_		
 BO026	351	altra	altra	altra	linguistic		_	False	False	False	False				_		
 BO026	351	volta	volta	volta	linguistic		_	False	False	False	False				_		
 BO026	351	mi	mi	mi	linguistic		_	False	False	False	False				_		
@@ -2921,7 +2921,7 @@ BO020	449	ci	ci	i 	linguistic		_	False	False	False	False				_
 BO020	449	son	son	on 	linguistic		_	False	False	False	False				_		
 BO020	449	sempre	sempre	empre 	linguistic		_	False	False	False	False				_		
 BO020	449	meno	meno	eno 	linguistic		_	False	False	False	False				_		
-BO020	449	fondi	fondi,	ondi,	linguistic	End=1194.673	weakly_ascending	False	False	False	False				_		
+BO020	449	fondi	fondi,	ondi,	linguistic	End=1194.573	weakly_ascending	False	False	False	False				_		
 BO026	450	mh	mh	mh	linguistic	Begin=1194.671	_	False	False	False	False				_		
 BO026	450	mh	mh,	mh,	linguistic	End=1195.076	weakly_ascending	False	False	False	False				_		
 BO020	451	eh	e:h	e:h	linguistic	Begin=1195.076	_	False	False	False	False	0x1			_		
@@ -3020,24 +3020,24 @@ BO026	465	eh	e:h	e:h	linguistic	Begin=1228.181	_	False	False	False	False	0x1			_
 BO026	465	eh	eh	eh	linguistic		_	False	False	False	True				_		
 BO026	465	mh	mh	 	linguistic		_	False	False	False	False				_		
 BO026	465	cioè	cioè,	[ioè,]	linguistic	End=1229.819	weakly_ascending	False	False	False	False				_		2-4(466)
-BO020	466	che	che	[che	linguistic	Begin=1229.308	_	False	False	False	False				_		0-3(?)
-BO020	466	spesso	spesso	spes]so	linguistic		_	False	False	False	False				_		0-6(?)
+BO020	466	che	che	[che	linguistic	Begin=1229.308	_	False	False	False	False				_		0-3(465)
+BO020	466	spesso	spesso	spes]so	linguistic		_	False	False	False	False				_		0-6(465)
 BO020	466	è	è	[è	linguistic		_	False	False	False	False				_		
-BO020	466	l'	l'	l'	linguistic		_	False	False	True	False				_		0-2(?)
-BO020	466	insegnante	insegnante	in]segnante	linguistic		_	False	False	False	False				_		0-6(?)
+BO020	466	l'	l'	l'	linguistic		_	False	False	True	False				_		0-2(467)
+BO020	466	insegnante	insegnante	in]segnante	linguistic		_	False	False	False	False				_		0-6(467)
 BO020	466	di	di	di	linguistic		_	False	False	False	False				_		
 BO020	466	lingua	lingua	lingua	linguistic		_	False	False	False	False				_		
 BO020	466	straniera	straniera	straniera	linguistic		_	False	False	False	False				_		
-BO020	466	no	no,	(no,)	linguistic	End=1232.617	weakly_ascending	False	False	False	False				_		
+BO020	466	no	no,	(no,)	linguistic	End=1232.517	weakly_ascending	False	False	False	False				_		
 BO026	467	que~	que~	[que~]	linguistic	End=1230.26	_	False	True	False	False				_		0-4(466)
-BO026	468	che	che	ch[e	linguistic	Begin=1232.615	_	False	False	False	False				_		2-3(?)
-BO026	468	può	può	può	linguistic		_	False	False	False	False				_		0-3(?)
-BO026	468	essere	essere	essere	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	468	la	la	la	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	468	la	la	la	linguistic		_	False	False	False	False				_		0-2(?)
-BO026	468	figura	figura	figura	linguistic		_	False	False	False	False				_		0-6(?)
-BO026	468	può	può	può	linguistic		_	False	False	False	False				_		0-3(?)
-BO026	468	coincidere	coincidere.	coincidere.]	linguistic	End=1235.475	descending	False	False	False	False				_		0-10(?)
+BO026	468	che	che	ch[e	linguistic	Begin=1232.615	_	False	False	False	False				_		2-3(469)
+BO026	468	può	può	può	linguistic		_	False	False	False	False				_		0-3(469)
+BO026	468	essere	essere	essere	linguistic		_	False	False	False	False				_		0-6(469)
+BO026	468	la	la	la	linguistic		_	False	False	False	False				_		0-2(469)
+BO026	468	la	la	la	linguistic		_	False	False	False	False				_		0-2(469)
+BO026	468	figura	figura	figura	linguistic		_	False	False	False	False				_		0-6(469)
+BO026	468	può	può	può	linguistic		_	False	False	False	False				_		0-3(469)
+BO026	468	coincidere	coincidere.	coincidere.]	linguistic	End=1235.475	descending	False	False	False	False				_		0-10(469)
 BO020	469	xx	xx	[xx	linguistic	Begin=1232.768	_	True	False	False	False				_		0-2(468)
 BO020	469	successo	successo	successo	linguistic		_	False	False	False	False				_		0-8(468)
 BO020	469	o	o	o	linguistic		_	False	False	False	False				_		0-1(468)
@@ -3166,9 +3166,9 @@ BO026	489	farei	farei	farei	linguistic		_	False	False	False	False				_
 BO026	489	alla	alla	alla	linguistic		_	False	False	False	False				_		
 BO026	489	fine	fine.	fine.	linguistic	End=1284.493	descending	False	False	False	False				_		
 BO020	490	quindi	quindi	quindi	linguistic	Begin=1284.783	_	False	False	False	False				_		
-BO020	490	quindi	quindi	quin[di	linguistic		_	False	False	False	False				_		4-6(?)
-BO020	490	mi	mi	mi	linguistic		_	False	False	False	False				_		0-2(?)
-BO020	490	servirebbero	servirebbero	servi]rebbero	linguistic		_	False	False	False	False				_		0-7(?)
+BO020	490	quindi	quindi	quin[di	linguistic		_	False	False	False	False				_		4-6(491)
+BO020	490	mi	mi	mi	linguistic		_	False	False	False	False				_		0-2(491)
+BO020	490	servirebbero	servirebbero	servi]rebbero	linguistic		_	False	False	False	False				_		0-7(491)
 BO020	490	anche	anche	anche	linguistic		_	False	False	False	False				_		
 BO020	490	i	i	i	linguistic		_	False	False	False	False				_		
 BO020	490	risultati	risultati	risultati	linguistic		_	False	False	False	False				_		
@@ -3183,7 +3183,7 @@ BO020	490	i	i	i	linguistic		_	False	False	False	False				_
 BO020	490	risultati	risultati	risultati	linguistic		_	False	False	False	False				_		
 BO020	490	non	non	non	linguistic		_	False	False	False	False				_		
 BO020	490	lo	lo	lo	linguistic		_	False	False	False	False				_		
-BO020	490	so	so,	so,	linguistic	End=1291.403	weakly_ascending	False	False	False	False				_		
+BO020	490	so	so,	so,	linguistic	End=1291.303	weakly_ascending	False	False	False	False				_		
 BO026	491	partirei	partirei	[partirei	linguistic	Begin=1285.111	_	False	False	False	False				_		0-8(490)
 BO026	491	da	da,	da,]	linguistic	End=1286.009	weakly_ascending	False	False	False	False				_		0-2(490)
 BO026	492	no	no	no	linguistic	Begin=1291.401	_	False	False	False	False				_		
@@ -3223,7 +3223,7 @@ BO026	494	non	non,	non,	linguistic	End=1307.339	weakly_ascending	False	False	Fal
 BO026	495	attraverso	attraverso	attraverso	linguistic	Begin=1307.801	_	False	False	False	False				_		
 BO026	495	i	i	i	linguistic		_	False	False	False	False				_		
 BO026	495	test	test	test	linguistic		_	False	False	False	False				_		
-BO026	495	no	no?	no?	linguistic	End=1309.366	ascending	False	False	False	False				_		
+BO026	495	no	no?	no?	linguistic	End=1309.266	ascending	False	False	False	False				_		
 BO020	496	sì	sì.	sì.	linguistic	End=1309.633	descending	False	False	False	False				_		
 BO026	497	cioè	cioè	cioè	linguistic	Begin=1309.633	_	False	False	False	False				_		
 BO026	497	qual	qual	qual	linguistic		_	False	False	False	False				_		
@@ -3833,7 +3833,7 @@ BO026	586	lettera	lettera	lettera	linguistic		_	False	False	False	False				_
 BO026	586	anche	anche	anche	linguistic		_	False	False	False	False				_		
 BO026	586	al	al	al	linguistic		_	False	False	False	False				_		
 BO026	586	dirigente	dirigente	dirigente	linguistic		_	False	False	False	False				_		
-BO026	586	scolastico	scolastico.	scolastico.	linguistic	End=1585.212	descending	False	False	False	False				_		
+BO026	586	scolastico	scolastico.	scolastico.	linguistic	End=1585.112	descending	False	False	False	False				_		
 BO020	587	mh	mh	mh	linguistic	Begin=1585.21	_	False	False	False	False				_		
 BO020	587	mh	mh.	mh.	linguistic	End=1585.598	descending	False	False	False	False				_		
 BO026	588	però	però	però	linguistic	Begin=1585.851	_	False	False	False	False				_		
@@ -4163,7 +4163,7 @@ BO026	640	questo	questo.	questo.	linguistic	End=1739.43	descending	False	False	F
 BO026	641	mh	mh.	°mh.°	linguistic	End=1740.305	descending	False	False	False	False				low		
 BO026	642	eh	e::h	e::h	linguistic	Begin=1740.785	_	False	False	False	True	0x2			_		
 BO026	642	mh	mh		linguistic	End=1741.662	_	False	False	False	False				_		
-BO020	643	perché	perché	perché	linguistic	Begin=1741.646	_	False	False	False	False				_		
+BO020	643	perché	perché	perché	linguistic	Begin=1741.7459999999999	_	False	False	False	False				_		
 BO020	643	co~	co~	co~	linguistic		_	False	True	False	False				_		
 BO020	643	come	come	come	linguistic		_	False	False	False	False				_		
 BO020	643	faccio	faccio	faccio	linguistic		_	False	False	False	False				_		
@@ -4337,11 +4337,11 @@ BO020	669	vedere	vedere	vedere	linguistic		_	False	False	False	False				_
 BO020	669	come	come	come	linguistic		_	False	False	False	False				_		
 BO020	669	rie~	rie~	rie~	linguistic		_	False	True	False	False				_		
 BO020	669	mh	mh	mh	linguistic	End=1816.662	_	False	False	False	False				_		
-BO020	670	orientare	orientare	<orient[are	linguistic	Begin=1816.986	_	False	False	False	False		0-9(0)		_		7-9(?)
-BO020	670	il	il	i]l	linguistic		_	False	False	False	False		0-2(0)		_		0-2(?)
-BO020	670	la	la,	la,>	linguistic	End=1818.43	weakly_ascending	False	False	False	False		0-2(0)		_		0-1(?)
+BO020	670	orientare	orientare	<orient[are	linguistic	Begin=1816.986	_	False	False	False	False		0-9(0)		_		7-9(671)
+BO020	670	il	il	i]l	linguistic		_	False	False	False	False		0-2(0)		_		0-2(671)
+BO020	670	la	la,	la,>	linguistic	End=1818.43	weakly_ascending	False	False	False	False		0-2(0)		_		0-1(671)
 BO026	671	sì	sì.	[sì.]	linguistic	End=1818.116	descending	False	False	False	False				_		0-2(670)
-BO026	672	eh	eh	eh	linguistic	Begin=1818.388	_	False	False	False	False				_		
+BO026	672	eh	eh	eh	linguistic	Begin=1818.4879999999998	_	False	False	False	False				_		
 BO026	672	però	però	però	linguistic		_	False	False	False	False				_		
 BO026	672	io	io	io	linguistic		_	False	False	False	False				_		
 BO026	672	prima	prima	prima	linguistic		_	False	False	False	False				_		
@@ -4496,10 +4496,10 @@ BO026	691	non	non	non	linguistic		_	False	False	False	False				_
 BO026	691	so	so	so	linguistic		_	False	False	False	False				_		
 BO026	691	dati	dati::	dati::	linguistic		_	False	False	False	False	3x2			_		
 BO026	691	informazioni	informazioni:,	info[rmazioni:,]	linguistic	End=1882.802	weakly_ascending	False	False	False	False	11x1			_		6-12(692)
-BO020	692	relativi	relativi	[relativi	linguistic	Begin=1881.868	_	False	False	False	False				_		0-8(?)
-BO020	692	a	a:,	a]:,	linguistic	End=1883.034	weakly_ascending	False	False	False	False	0x1			_		0-1(?)
-BO026	693	informativi	informativi	informa[tivi]	linguistic	Begin=1883.031	_	False	False	False	False				_		7-11(?)
-BO026	693	poi	poi,	poi,	linguistic	End=1884.255	weakly_ascending	False	False	False	False				_		0-1(?)
+BO020	692	relativi	relativi	[relativi	linguistic	Begin=1881.868	_	False	False	False	False				_		0-8(691)
+BO020	692	a	a:,	a]:,	linguistic	End=1883.034	weakly_ascending	False	False	False	False	0x1			_		0-1(691)
+BO026	693	informativi	informativi	informa[tivi]	linguistic	Begin=1883.1309999999999	_	False	False	False	False				_		7-11(694)
+BO026	693	poi	poi,	poi,	linguistic	End=1884.255	weakly_ascending	False	False	False	False				_		0-1(694)
 BO020	694	sì	sì.	[sì.]	linguistic	End=1883.795	descending	False	False	False	False				_		0-2(693)
 BO026	695	eh	e:h	e:h	linguistic	Begin=1884.746	_	False	False	False	False	0x1			_		
 BO026	695	le	le	le	linguistic		_	False	False	False	False				_		
@@ -4763,7 +4763,7 @@ BO026	742	eh	e::h	e::h	linguistic	Begin=2016.685	_	False	False	False	False	0x2		
 BO026	742	e	e	e	linguistic		_	False	False	False	False				_		
 BO026	742	quelli	quelli	quelli	linguistic		_	False	False	False	False				_		
 BO026	742	che	che:	che:	linguistic		_	False	False	False	True	2x1			_		
-BO026	742	mh	mh,	,	linguistic	End=2019.377	weakly_ascending	False	False	False	False				_		
+BO026	742	mh	mh,	,	linguistic	End=2019.277	weakly_ascending	False	False	False	False				_		
 BO020	743	okay	okay.	°okay.°	linguistic	End=2019.968	descending	False	False	False	False				low		
 BO026	744	gestisce	gestisce	gestisce	linguistic	Begin=2020.183	_	False	False	False	False				_		
 BO026	744	la	la	la	linguistic		_	False	False	False	False				_		
@@ -4829,14 +4829,14 @@ BO020	760	lingue	lingue.	lingue.	linguistic	End=2050.785	descending	False	False	
 BO026	761	sì	sì.	[sì.]	linguistic	End=2050.203	descending	False	False	False	False				_		0-2(760)
 BO020	762	eh	e::h	e::h	linguistic	Begin=2051.971	_	False	False	False	False	0x2			_		
 BO020	762	l'	l'	[(l'	linguistic		_	False	False	True	False				_		
-BO020	762	ho	ho	ho	linguistic		_	False	False	False	False				_	0-2(0)	0-2(?)
-BO020	762	preso	preso	preso	linguistic		_	False	False	False	False				_	0-5(0)	0-5(?)
-BO020	762	da	da	da)	linguistic		_	False	False	False	False				_	0-2(0)	0-2(?)
-BO020	762	un	un	un	linguistic		_	False	False	False	False				_	0-2(0)	0-2(?)
-BO020	762	sito	sito	s]ito	linguistic		_	False	False	False	False				_	0-1(0)	0-4(?)
-BO020	762	degli	degli	de[gli	linguistic		_	False	False	False	False				_		0-2(?)
-BO020	762	istituti	istituti	istitu]ti	linguistic		_	False	False	False	False				_		2-8(?)
-BO020	762	sì	sì.	sì.	linguistic	End=2055.112	descending	False	False	False	False				_		0-2(?)
+BO020	762	ho	ho	ho	linguistic		_	False	False	False	False				_	0-2(0)	0-2(763)
+BO020	762	preso	preso	preso	linguistic		_	False	False	False	False				_	0-5(0)	0-5(763)
+BO020	762	da	da	da)	linguistic		_	False	False	False	False				_	0-2(0)	0-2(763)
+BO020	762	un	un	un	linguistic		_	False	False	False	False				_	0-2(0)	0-2(763)
+BO020	762	sito	sito	s]ito	linguistic		_	False	False	False	False				_	0-1(0)	0-4(763)
+BO020	762	degli	degli	de[gli	linguistic		_	False	False	False	False				_		0-2(763)
+BO020	762	istituti	istituti	istitu]ti	linguistic		_	False	False	False	False				_		2-8(764)
+BO020	762	sì	sì.	sì.	linguistic	End=2055.112	descending	False	False	False	False				_		0-2(764)
 BO026	763	allora	allora	[allora	linguistic	Begin=2052.265	_	False	False	False	False				_		0-6(762)
 BO026	763	lei	lei	lei	linguistic		_	False	False	False	False				_		0-3(762)
 BO026	763	ha	ha	ha	linguistic		_	False	False	False	False				_		0-2(762)
@@ -4844,7 +4844,7 @@ BO026	763	preso	preso:,	preso:,]	linguistic	End=2053.591	weakly_ascending	False	
 BO026	764	sì	sì	[sì	linguistic	Begin=2053.766	_	False	False	False	False				_		0-2(762)
 BO026	764	sulla	sulla	(sulla)	linguistic		_	False	False	False	False				_	1-5(0)	0-5(762)
 BO026	764	sì	sì.	sì.]	linguistic	End=2054.734	descending	False	False	False	False				_	0-2(0)	0-2(762)
-BO026	765	però	però	però	linguistic	Begin=2055.088	_	False	False	False	False				_		
+BO026	765	però	però	però	linguistic	Begin=2055.188	_	False	False	False	False				_		
 BO026	765	interessa	interessa::	interessa::	linguistic		_	False	False	False	False	8x2			_		
 BO026	765	la	la:	la:	linguistic		_	False	False	False	False	1x1			_		
 BO026	765	la	la	la	linguistic		_	False	False	False	False				_		
@@ -4925,7 +4925,7 @@ BO026	777	mh	mh,	mh,	linguistic	End=2084.853	weakly_ascending	False	False	False	
 BO020	778	sì	sì.	sì.	linguistic	End=2085.285	descending	False	False	False	False				_		
 BO020	779	eh	e::h	e::h	linguistic	Begin=2085.41	_	False	False	False	True	0x2			_		
 BO020	779	mh	m:h,	h,	linguistic	End=2086.926	weakly_ascending	False	False	False	False	0x1			_		
-BO026	780	anche	anche	anche	linguistic	Begin=2086.925	_	False	False	False	False				_		
+BO026	780	anche	anche	anche	linguistic	Begin=2087.025	_	False	False	False	False				_		
 BO026	780	fra	fra	fra	linguistic		_	False	False	False	False				_		
 BO026	780	due	due	due	linguistic		_	False	False	False	False				_		
 BO026	780	settimane	settimane	settimane	linguistic		_	False	False	False	False				_		
@@ -5294,27 +5294,27 @@ BO026	830	appello	appello	ap[pello	linguistic		_	False	False	False	False				_		2
 BO026	830	di	di	di	linguistic		_	False	False	False	False				_		0-2(831)
 BO026	830	di	di	di	linguistic		_	False	False	False	False				_		0-2(831)
 BO026	830	luglio	luglio.	luglio.]	linguistic	End=2212.876	descending	False	False	False	False				_		0-6(831)
-BO020	831	quindi	quindi	[quindi	linguistic	Begin=2211.256	_	False	False	False	False				_		0-6(830)
-BO020	831	potrei	potrei	potrei	linguistic		_	False	False	False	False				_		0-6(830)
-BO020	831	a	a	(a	linguistic		_	False	False	False	False				_		0-1(830)
-BO020	831	luglio	luglio	luglio)	linguistic		_	False	False	False	False				_	0-6(0)	0-6(830)
-BO020	831	nel	nel	nel	linguistic		_	False	False	False	False				_	0-2(0)	0-3(830)
-BO020	831	caso	caso	ca]s[o	linguistic		_	False	False	False	False				_		0-4(830)
-BO020	831	non	non	n]on	linguistic		_	False	False	False	False				_		0-1(830),2-3(832)
-BO020	831	fosse	fosse	[fosse]	linguistic		_	False	False	False	False				_		0-3(832)
-BO020	831	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		0-7(833)
+BO020	831	quindi	quindi	[quindi	linguistic	Begin=2211.256	_	False	False	False	False				_		0-6(?)
+BO020	831	potrei	potrei	potrei	linguistic		_	False	False	False	False				_		0-6(?)
+BO020	831	a	a	(a	linguistic		_	False	False	False	False				_		0-1(?)
+BO020	831	luglio	luglio	luglio)	linguistic		_	False	False	False	False				_	0-6(0)	0-6(?)
+BO020	831	nel	nel	nel	linguistic		_	False	False	False	False				_	0-2(0)	0-3(?)
+BO020	831	caso	caso	ca]s[o	linguistic		_	False	False	False	False				_		0-4(?)
+BO020	831	non	non	n]on	linguistic		_	False	False	False	False				_		2-3(?)
+BO020	831	fosse	fosse	[fosse]	linguistic		_	False	False	False	False				_		0-3(?)
+BO020	831	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		0-7(?)
 BO020	831	possibile	possibile.	possibi[le.]	linguistic	End=2214.807	descending	False	False	False	False				_		
 BO026	832	sì	sì.	[sì.]	linguistic	End=2213.331	descending	False	False	False	False				_		0-2(831)
 BO026	833	sì	sì.	[sì.]	linguistic	End=2213.841	descending	False	False	False	False				_		0-2(831)
-BO026	834	però	però	[però]	linguistic	Begin=2214.715	_	False	False	False	False				_		0-4(831)
-BO026	834	lei	lei	lei	linguistic		_	False	False	False	False				_		0-1(831)
+BO026	834	però	però	[però]	linguistic	Begin=2214.815	_	False	False	False	False				_		0-4(?)
+BO026	834	lei	lei	lei	linguistic		_	False	False	False	False				_		0-1(?)
 BO026	834	mi	mi	mi	linguistic		_	False	False	False	False				_		
 BO026	834	manda	manda	manda	linguistic		_	False	False	False	False				_		
 BO026	834	una	una	una	linguistic		_	False	False	False	False				_		
 BO026	834	mail	mail	mail	linguistic		_	False	False	False	False				_		
 BO026	834	come	come	come	linguistic		_	False	False	False	False				_		
-BO026	834	promemoria	promemoria	[promemoria]	linguistic		_	False	False	False	False				_		2-10(835)
-BO026	834	per	per	per	linguistic		_	False	False	False	False				_		0-3(835)
+BO026	834	promemoria	promemoria	[promemoria]	linguistic		_	False	False	False	False				_		2-10(?)
+BO026	834	per	per	per	linguistic		_	False	False	False	False				_		0-3(?)
 BO026	834	quanto	quanto	quanto	linguistic		_	False	False	False	False				_		
 BO026	834	riguarda	riguarda:	riguarda:	linguistic		_	False	False	False	False	7x1			_		
 BO026	834	gli	gli	gli	linguistic		_	False	False	False	False				_		

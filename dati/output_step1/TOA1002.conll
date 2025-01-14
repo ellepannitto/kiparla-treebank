@@ -188,7 +188,7 @@ TO026	33	chiedere	chiedere	chiedere	linguistic		_	False	False	False	False				_
 TO026	33	agli	agli	agli	linguistic		_	False	False	False	False				_		
 TO026	33	uffici	uffici	uffici	linguistic	End=73.136	_	False	False	False	False				_		
 TO028	34	okay	okay	okay	linguistic	Begin=73.182	_	False	False	False	False				_		
-TO028	34	perfetto	perfetto	perfetto	linguistic	End=74.553	_	False	False	False	False				_		
+TO028	34	perfetto	perfetto	perfetto	linguistic	End=74.453	_	False	False	False	False				_		
 TO026	35	eh	eh	°eh	linguistic	Begin=74.524	_	False	False	False	False				low		
 TO026	35	per	per	per	linguistic		_	False	False	False	False				low		
 TO026	35	quello	quello::	quello::°	linguistic	End=75.272	_	False	False	False	False	5x2			low		
@@ -411,15 +411,15 @@ TO028	53	sì	sì	[sì]	linguistic	Begin=151.918	_	False	False	False	False				_		
 TO028	53	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-1(52)
 TO028	53	okay	okay	okay	linguistic		_	False	False	False	False				_		
 TO028	53	perfetto	perfetto	perfetto	linguistic	End=153.544	_	False	False	False	False				_		
-TO026	54	però	però	[però	linguistic	Begin=154.728	_	False	False	False	False				_		0-4(?)
-TO026	54	chieda	chieda	chieda]	linguistic		_	False	False	False	False				_		0-6(?)
-TO026	54	lo	lo	lo	linguistic		_	False	False	False	False				_		0-1(?)
+TO026	54	però	però	[però	linguistic	Begin=154.728	_	False	False	False	False				_		0-4(55)
+TO026	54	chieda	chieda	chieda]	linguistic		_	False	False	False	False				_		0-6(55)
+TO026	54	lo	lo	lo	linguistic		_	False	False	False	False				_		0-1(55)
 TO026	54	chieda	chieda	chieda	linguistic		_	False	False	False	False				_		
 TO026	54	anche	anche	anche	linguistic		_	False	False	False	False				_		
 TO026	54	dagli	dagli	dagli	linguistic		_	False	False	False	False				_		
 TO026	54	uffici	uffici	uffici	linguistic		_	False	False	False	False				_		
 TO026	54	sì	sì	sì	linguistic		_	False	False	False	False				_		
-TO026	54	sì	sì	sì	linguistic	End=156.596	_	False	False	False	False				_		
+TO026	54	sì	sì	sì	linguistic	End=156.496	_	False	False	False	False				_		
 TO028	55	eh	e::h	[e::h]	linguistic	End=155.441	_	False	False	False	False	0x2			_		0-2(54)
 TO028	56	okay	okay	okay	linguistic	End=157.1	_	False	False	False	False				_		
 TO028	57	allora	allora	allora	linguistic	Begin=157.722	_	False	False	False	False				_		
@@ -479,7 +479,7 @@ TO026	65	dopo	dopo	d[opo	linguistic		_	False	False	False	False				_		1-4(66)
 TO026	65	cinque	cinque,	cinque],	linguistic		weakly_ascending	False	False	False	False				_		0-6(66)
 TO026	65	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-1(66)
 TO026	65	e	e	e	linguistic		_	False	False	False	False				_		
-TO026	65	poi	poi:::?	poi:::?)	linguistic	End=178.71	ascending	False	False	False	False	2x3			_		
+TO026	65	poi	poi:::?	poi:::?	linguistic	End=178.71	ascending	False	False	False	False	2x3			_		
 TO028	66	o	o	[o	linguistic	Begin=176.853	_	False	False	False	False				_		0-1(65)
 TO028	66	il	il	il	linguistic		_	False	False	False	False				_		0-2(65)
 TO028	66	trenta	trenta	trenta]	linguistic	End=177.626	_	False	False	False	False				_		0-6(65)
@@ -675,7 +675,7 @@ TO026	89	per	per	per	linguistic		_	False	False	False	False				_
 TO026	89	tutti	tutti	tutti	linguistic		_	False	False	False	False				_		
 TO026	89	i	i	i	linguistic		_	False	False	False	False				_		
 TO026	89	nove	nove	nove	linguistic		_	False	False	False	False				_		
-TO026	89	mesi	me:si,	me:si,)	linguistic	End=252.186	weakly_ascending	False	False	False	False	1x1			_		
+TO026	89	mesi	me:si,	me:si,	linguistic	End=252.186	weakly_ascending	False	False	False	False	1x1			_		
 TO026	90	comunque	comunque	[comunque	linguistic	Begin=253.3	_	False	False	False	False				_		0-8(91)
 TO026	90	no	no?	no?	linguistic		ascending	False	False	False	False				_		0-2(91)
 TO026	90	o	o	o	linguistic		_	False	False	False	False				_		0-1(91)
@@ -1088,7 +1088,7 @@ TO028	138	che	che	che	linguistic		_	False	False	False	False				_
 TO028	138	sono	sono	sono	linguistic		_	False	False	False	False				_		
 TO028	138	andate	andate	andate	linguistic		_	False	False	False	False				_		
 TO028	138	in	in	in	linguistic		_	False	False	False	False				_		
-TO028	138	spagna	spagna,	spagna,)	linguistic		weakly_ascending	False	False	False	False				_		
+TO028	138	spagna	spagna,	spagna,	linguistic		weakly_ascending	False	False	False	False				_		
 TO028	138	mi	mi	mi	linguistic		_	False	False	False	False				_		
 TO028	138	hanno	hanno	hanno	linguistic		_	False	False	False	False				_		
 TO028	138	detto	detto	detto	linguistic		_	False	False	False	False				_		
@@ -1096,8 +1096,8 @@ TO028	138	che	che	che	linguistic		_	False	False	False	False				_
 TO028	138	eh	e:h	e:h	linguistic		_	False	False	False	False	0x1			_		
 TO028	138	è	è	è	linguistic		_	False	False	False	False				_		
 TO028	138	il	il	[il	linguistic		_	False	False	False	False				_		
-TO028	138	delirio	delirio	deli]rio	linguistic		_	False	False	False	False				_		1-7(?)
-TO028	138	più	più	più	linguistic		_	False	False	False	False				_		0-2(?)
+TO028	138	delirio	delirio	deli]rio	linguistic		_	False	False	False	False				_		0-7(?)
+TO028	138	più	più	più	linguistic		_	False	False	False	False				_		0-1(?)
 TO028	138	totale	totale	totale	linguistic		_	False	False	False	False				_		
 TO028	138	sì	sì	sì	linguistic		_	False	False	False	False				_		
 TO028	138	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
@@ -1331,7 +1331,7 @@ TO028	161	esami	esami,	esami,	linguistic		weakly_ascending	False	False	False	Fal
 TO028	161	così	così	così	linguistic		_	False	False	False	False				_		
 TO028	161	son	son	son	linguistic		_	False	False	False	False				_		
 TO028	161	trenta	trenta	trenta	linguistic		_	False	False	False	False				_		
-TO028	161	crediti	crediti,	credi[ti],)	linguistic	End=476.383	weakly_ascending	False	False	False	False				_		
+TO028	161	crediti	crediti,	credi[ti],	linguistic	End=476.383	weakly_ascending	False	False	False	False				_		
 TO026	162	sì	sì	[sì]	linguistic	End=470.238	_	False	False	False	False				_		0-2(161)
 TO026	163	l'	l'	[l'	linguistic	Begin=476.24	_	False	False	True	False				_		0-2(161)
 TO026	163	avevamo	avevamo	aveva]mo	linguistic		_	False	False	False	False				_		0-7(161)
@@ -1378,19 +1378,19 @@ TO028	167	sì	sì	[sì]	linguistic	End=484.906	_	False	False	False	False				_		0
 TO026	168	sì	sì	sì	linguistic	Begin=485.599	_	False	False	False	False				_		
 TO026	168	sì	sì	sì	linguistic		_	False	False	False	False				_		
 TO026	168	e	e:::	e:::	linguistic	End=486.259	_	False	False	False	False	0x3			_		
-TO028	169	così	così	così	linguistic	Begin=486.255	_	False	False	False	False				_		
+TO028	169	così	così	così	linguistic	Begin=486.355	_	False	False	False	False				_		
 TO028	169	due	due	due	linguistic		_	False	False	False	False				_		
 TO028	169	sono	sono	sono	linguistic		_	False	False	False	False				_		
 TO028	169	identici	identici	identici	linguistic		_	False	False	False	False				_		
 TO028	169	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
-TO028	169	economia	economia	[economia]	linguistic		_	False	False	False	False				_		0-8(?)
-TO028	169	dell'	dell'	dell'	linguistic		_	False	False	True	False				_		0-1(?)
+TO028	169	economia	economia	[economia]	linguistic		_	False	False	False	False				_		0-8(170)
+TO028	169	dell'	dell'	dell'	linguistic		_	False	False	True	False				_		0-1(170)
 TO028	169	impresa	impresa	impresa	linguistic		_	False	False	False	False				_		
 TO028	169	e	e	e	linguistic		_	False	False	False	False				_		
 TO028	169	economia	economia	economia	linguistic		_	False	False	False	False				_		
 TO028	169	e	e	e	linguistic		_	False	False	False	False				_		
 TO028	169	gestione	gestione	gestione	linguistic		_	False	False	False	False				_		
-TO028	169	dell'impresa,	dell'impresa,	dell'[impre]sa,	error	End=490.064	_	False	False	False	False				_		7-12(?)
+TO028	169	dell'impresa,	dell'impresa,	dell'[impre]sa,	error	End=490.064	_	False	False	False	False				_		7-12(171)
 TO026	170	sì	sì	[sì	linguistic	Begin=487.7	_	False	False	False	False				_		0-2(169)
 TO026	170	sì	sì	sì]	linguistic	End=488.142	_	False	False	False	False				_		0-2(169)
 TO026	171	sì	sì	[sì	linguistic	Begin=489.612	_	False	False	False	False				_		0-2(169)
@@ -1405,7 +1405,7 @@ TO028	172	trenta	trenta	trenta	linguistic		_	False	False	False	False				_
 TO028	172	crediti	crediti,	crediti,	linguistic	End=493.731	weakly_ascending	False	False	False	False				_		
 TO026	173	materiali	materiali	materiali	linguistic	Begin=495.23	_	False	False	False	False				_		
 TO026	173	educativi	educativi	educativi	linguistic		_	False	False	False	False				_		
-TO026	173	multimediali	multimediali::,	multimediali::,)	linguistic	End=496.774	weakly_ascending	False	False	False	False	11x2			_		
+TO026	173	multimediali	multimediali::,	multimediali::,	linguistic	End=496.774	weakly_ascending	False	False	False	False	11x2			_		
 TO028	174	no	no	no	linguistic	Begin=496.774	_	False	False	False	False				_		
 TO028	174	eh	e::h	[e::h]	linguistic	End=498.002	_	False	False	False	False	0x2			_		0-2(175)
 TO026	175	ah	ah	[ah	linguistic	Begin=497.46	_	False	False	False	False				_		0-2(174)
@@ -1419,7 +1419,7 @@ TO028	176	ah	ah	ah	linguistic	Begin=500.804	_	False	False	False	False				_
 TO028	176	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 TO028	176	sono	sono	sono	linguistic		_	False	False	False	False				_		
 TO028	176	due	due	due	linguistic		_	False	False	False	False				_		
-TO028	176	esami	esami.	esami.)	linguistic	End=502.322	descending	False	False	False	False				_		
+TO028	176	esami	esami.	esami.	linguistic	End=502.322	descending	False	False	False	False				_		
 TO028	177	son	son	son	linguistic	Begin=503.78	_	False	False	False	False				_		
 TO028	177	due	due	due	linguistic		_	False	False	False	False				_		
 TO028	177	diversi	diversi	diversi	linguistic		_	False	False	False	False				_		
@@ -1446,7 +1446,7 @@ TO026	178	addizione	addizione	addi]zione	linguistic		_	False	False	False	False		
 TO026	178	del	del	del	linguistic		_	False	False	False	False				_		
 TO026	178	corso	corso:::	[corso:::]	linguistic		_	False	False	False	False	4x3			_		4-5(180)
 TO026	178	di	di	di	linguistic		_	False	False	False	False				_		0-2(180)
-TO026	178	madrid	madrid?	[madrid]?)	linguistic	End=509.916	ascending	False	False	False	False				_		0-5(180)
+TO026	178	madrid	madrid?	[madrid]?	linguistic	End=509.916	ascending	False	False	False	False				_		0-5(180)
 TO028	179	no	no	[no	linguistic	Begin=507.48	_	False	False	False	False				_		0-2(178)
 TO028	179	no	no	no	linguistic		_	False	False	False	False				_		0-2(178)
 TO028	179	no	no	no	linguistic		_	False	False	False	False				_		0-2(178)
@@ -1512,8 +1512,8 @@ TO028	184	metterei	metterei	metterei	linguistic		_	False	False	False	False				_
 TO028	184	questo	questo,	questo,	linguistic	End=525.822	weakly_ascending	False	False	False	False				_		
 TO026	185	ah	ah	ah	linguistic	Begin=525.822	_	False	False	False	False				_		
 TO026	185	ho	ho	ho	linguistic		_	False	False	False	False				_		
-TO026	185	capito	capito.	capito.)	linguistic		descending	False	False	False	False				_		
-TO026	185	sì	sì	[sì	linguistic		_	False	False	False	False				_		
+TO026	185	capito	capito.	capito.	linguistic		descending	False	False	False	False				_		
+TO026	185	sì	sì	[sì	linguistic		_	False	False	False	False				_		1-2(186)
 TO026	185	sì	sì,	sì,]	linguistic	End=526.783	weakly_ascending	False	False	False	False				_		0-2(186)
 TO028	186	se	se	[se	linguistic	Begin=526.374	_	False	False	False	False				_		0-2(185)
 TO028	186	no	no::	no::]	linguistic		_	False	False	False	False	1x2			_		0-2(185)
@@ -1683,7 +1683,7 @@ TO028	212	università	università	università	linguistic		_	False	False	False	Fa
 TO028	212	dice	dice	dice	linguistic		_	False	False	False	False				_		
 TO028	212	che	che	che	linguistic	End=576.092	_	False	False	False	False				_		
 TO028	213	l'	l'	l'	linguistic	Begin=576.568	_	False	False	True	False				_		
-TO028	213	unito	unito,	unito,)	linguistic		weakly_ascending	False	False	False	False				_		
+TO028	213	unito	unito,	unito,	linguistic		weakly_ascending	False	False	False	False				_		
 TO028	213	dovrebbe	dovrebbe	dovrebbe	linguistic		_	False	False	False	False				_		
 TO028	213	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
 TO028	213	loro	loro	loro	linguistic		_	False	False	False	False				_		
@@ -1704,7 +1704,7 @@ TO028	213	che	che	che	linguistic		_	False	False	False	False				_
 TO028	213	io	io::	io::	linguistic		_	False	False	False	False	1x2			_		
 TO028	213	ho	ho	ho	linguistic		_	False	False	False	False				_		
 TO028	213	il	il	il	linguistic		_	False	False	False	False				_		
-TO028	213	livello	livello.	livello.)	linguistic	End=584.932	descending	False	False	False	False				_		
+TO028	213	livello	livello.	livello.	linguistic	End=584.932	descending	False	False	False	False				_		
 TO028	214	nessuno	nessuno	nessuno	linguistic	Begin=585.618	_	False	False	False	False				_		
 TO028	214	lo	lo	lo	linguistic		_	False	False	False	False				_		
 TO028	214	fa	fa.	fa.	linguistic		descending	False	False	False	False				_		
@@ -1862,7 +1862,7 @@ TO028	227	lo	lo	lo	linguistic		_	False	False	False	False				_
 TO028	227	attestino	attestino	attestino	linguistic	End=639.041	_	False	False	False	False				_		
 TO026	228	ah	ah	ah	linguistic	Begin=639.243	_	False	False	False	False				_		
 TO026	228	ho	ho	ho	linguistic		_	False	False	False	False				_		
-TO026	228	capito	capito.	capito.)	linguistic	End=639.877	descending	False	False	False	False				_		
+TO026	228	capito	capito.	capito.	linguistic	End=639.877	descending	False	False	False	False				_		
 TO026	229	sì	sì	sì	linguistic	End=642.333	_	False	False	False	False				_		
 TO026	230	eh	eh	eh	linguistic	Begin=643.92	_	False	False	False	False				_		
 TO026	230	allora	allora	allora	linguistic		_	False	False	False	False				_		
@@ -1898,7 +1898,7 @@ TO028	232	due	due	due	linguistic		_	False	False	False	False				_
 TO028	232	o	o	o	linguistic		_	False	False	False	False				_		
 TO028	232	tre	tre	tre	linguistic		_	False	False	False	False				_		
 TO028	232	volte	volte	volte	linguistic		_	False	False	False	False				_		
-TO028	232	quindi	quindi,	quindi,)	linguistic	End=653.247	weakly_ascending	False	False	False	False				_		
+TO028	232	quindi	quindi,	quindi,	linguistic	End=653.247	weakly_ascending	False	False	False	False				_		
 TO026	233	sì	sì	[sì]	linguistic	End=647.725	_	False	False	False	False				_		0-2(232)
 TO028	234	se	se	se	linguistic	Begin=653.94	_	False	False	False	False				_		
 TO028	234	d~	d~	d~	linguistic		_	False	True	False	False				_		
@@ -1939,7 +1939,7 @@ TO026	237	corso	corso::	cor[so::]	linguistic		_	False	False	False	False	4x2			_	
 TO026	237	introduttivo	introduttivo::	introduttivo::	linguistic		_	False	False	False	False	11x2			_		0-3(238)
 TO026	237	diciamo	diciamo	[diciamo	linguistic		_	False	False	False	False				_		6-7(239)
 TO026	237	di	di	di	linguistic		_	False	False	False	False				_		0-2(239)
-TO026	237	spagnolo	spagnolo,	spagnolo],)	linguistic	End=666.683	weakly_ascending	False	False	False	False				_		0-8(239)
+TO026	237	spagnolo	spagnolo,	spagnolo],	linguistic	End=666.683	weakly_ascending	False	False	False	False				_		0-8(239)
 TO028	238	sì	sì	[sì	linguistic	Begin=664.416	_	False	False	False	False				_		0-2(237)
 TO028	238	sì	sì	sì]	linguistic	End=664.865	_	False	False	False	False				_		0-2(237)
 TO028	239	sì	sì	[sì	linguistic	Begin=665.322	_	False	False	False	False				_		0-2(237)
@@ -2107,7 +2107,7 @@ TO026	261	o	o	o	linguistic		_	False	False	False	False				_
 TO026	261	è	è	è	linguistic		_	False	False	False	False				_		
 TO026	261	soltanto	soltanto	soltanto	linguistic		_	False	False	False	False				_		
 TO026	261	un'	un'	un'	linguistic		_	False	False	True	False				_		
-TO026	261	approvazione	approvazione?	approvazi[one]?)	linguistic	End=731.681	ascending	False	False	False	False				_		
+TO026	261	approvazione	approvazione?	approvazi[one]?	linguistic	End=731.681	ascending	False	False	False	False				_		
 TO028	262	ah	a:h	[a:h]	linguistic	End=729.004	_	False	False	False	False	0x1			_		0-2(261)
 TO028	263	questo	questo	[questo	linguistic	Begin=731.273	_	False	False	False	False				_		0-6(261)
 TO028	263	non	non	no]n	linguistic		_	False	False	False	False				_		0-3(261)
@@ -2191,13 +2191,13 @@ TO026	270	torino	torino	torino	linguistic		_	False	False	False	False				_
 TO026	270	quindi	quindi,	quindi,	linguistic	End=759.955	weakly_ascending	False	False	False	False				_		
 TO026	271	altre	altre	altre	linguistic	Begin=760.762	_	False	False	False	False				_		
 TO026	271	attività	attività::	attività::	linguistic		_	False	False	False	False	7x2			_		
-TO026	271	eccetera	eccetera::,	eccetera::,)	linguistic		weakly_ascending	False	False	False	False	7x2			_		
+TO026	271	eccetera	eccetera::,	eccetera::,	linguistic		weakly_ascending	False	False	False	False	7x2			_		
 TO026	271	è	è	è	linguistic		_	False	False	False	False				_		
 TO026	271	in	in	>in	linguistic		_	False	False	False	False				_		
-TO026	271	linea	linea	linea	linguistic		_	False	False	False	False			3-5(0)	_		
+TO026	271	linea	linea	linea	linguistic		_	False	False	False	False			2-5(0)	_		
 TO026	271	di	di	di	linguistic		_	False	False	False	False			0-2(0)	_		
 TO026	271	principio	principio	principio<	linguistic		_	False	False	False	False			0-9(0)	_		
-TO026	271	escluso	esclu:so	esclu:so	linguistic		_	False	False	False	False	4x1		0-7(0)	_		
+TO026	271	escluso	esclu:so	esclu:so	linguistic		_	False	False	False	False	4x1		0-6(0)	_		
 TO026	271	fra	fra	fra	linguistic		_	False	False	False	False				_		
 TO026	271	le	le	le	linguistic		_	False	False	False	False				_		
 TO026	271	corrispondenze	corrispondenze	corrispondenze	linguistic		_	False	False	False	False				_		
@@ -2288,7 +2288,7 @@ TO028	278	trenta	trenta	trenta	linguistic		_	False	False	False	False				_
 TO028	278	crediti	crediti	crediti	linguistic		_	False	False	False	False				_		
 TO028	278	nel	nel	nel	linguistic		_	False	False	False	False				_		
 TO028	278	secondo	secondo	secondo	linguistic		_	False	False	False	False				_		
-TO028	278	semestre	semestre,	semestre,)	linguistic	End=789.93	weakly_ascending	False	False	False	False				_		
+TO028	278	semestre	semestre,	semestre,	linguistic	End=789.93	weakly_ascending	False	False	False	False				_		
 TO026	279	sì	sì	sì	linguistic	Begin=790.602	_	False	False	False	False				_		
 TO026	279	perché	perché	perché	linguistic		_	False	False	False	False				_		
 TO026	279	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
@@ -2355,7 +2355,7 @@ TO026	291	tornerà	tornerà	tornerà	linguistic		_	False	False	False	False				_
 TO026	291	qui	qui::,	qui::,	linguistic		weakly_ascending	False	False	False	False	2x2			_		
 TO026	291	non	non	non	linguistic		_	False	False	False	False				_		
 TO026	291	avrà	avrà	avrà	linguistic		_	False	False	False	False				_		
-TO026	291	problemi	problemi	problemi	linguistic	End=817.779	_	False	False	False	False				_		
+TO026	291	problemi	problemi	problemi	linguistic	End=817.679	_	False	False	False	False				_		
 TO028	292	eh	e:h	e:h	linguistic	Begin=817.734	_	False	False	False	False	0x1			_		
 TO028	292	è	è	è	linguistic		_	False	False	False	False				_		
 TO028	292	quello	quello	quello	linguistic	End=818.513	_	False	False	False	False				_		
@@ -2420,17 +2420,17 @@ TO026	300	va	va	va	linguistic		_	False	False	False	False				_
 TO026	300	bene	bene,	bene,	linguistic		weakly_ascending	False	False	False	False				_		
 TO026	300	eh	eh	eh	linguistic		_	False	False	False	False				_		
 TO026	300	me	me	me	linguistic		_	False	False	False	False				_		
-TO026	300	lo	lo	[lo	linguistic		_	False	False	False	False				_		1-2(?)
-TO026	300	mandi	mandi	mandi	linguistic		_	False	False	False	False				_		0-5(?)
-TO026	300	poi	poi	poi	linguistic		_	False	False	False	False				_		0-3(?)
-TO026	300	e	e,	e],	linguistic		weakly_ascending	False	False	False	False				_		0-1(?)
-TO026	300	glielo	glielo	glielo	linguistic		_	False	False	False	False				_		0-2(?)
+TO026	300	lo	lo	[lo	linguistic		_	False	False	False	False				_		1-2(301)
+TO026	300	mandi	mandi	mandi	linguistic		_	False	False	False	False				_		0-5(301)
+TO026	300	poi	poi	poi	linguistic		_	False	False	False	False				_		0-3(301)
+TO026	300	e	e,	e],	linguistic		weakly_ascending	False	False	False	False				_		0-1(301)
+TO026	300	glielo	glielo	glielo	linguistic		_	False	False	False	False				_		0-2(301)
 TO026	300	firmo	firmo	firmo	linguistic		_	False	False	False	False				_		
 TO026	300	e	e	e	linguistic		_	False	False	False	False				_		
 TO026	300	rimando	rimando	rimando	linguistic		_	False	False	False	False				_		
 TO026	300	via	via	via	linguistic		_	False	False	False	False				_		
 TO026	300	mail	mail	mail	linguistic		_	False	False	False	False				_		
-TO026	300	diciamo	diciamo	diciamo	linguistic	End=835.43	_	False	False	False	False				_		
+TO026	300	diciamo	diciamo	diciamo	linguistic	End=835.3299999999999	_	False	False	False	False				_		
 TO028	301	grazie	grazie	[grazie	linguistic	Begin=832.641	_	False	False	False	False				_		0-6(300)
 TO028	301	mille	mille	mille	linguistic		_	False	False	False	False				_		0-5(300)
 TO028	301	allora	allora,	allora,]	linguistic	End=833.644	weakly_ascending	False	False	False	False				_		0-6(300)
@@ -2440,5 +2440,5 @@ TO028	302	grazie	grazie	grazie	linguistic		_	False	False	False	False				_
 TO028	302	mille	mille	mille	linguistic	End=836.677	_	False	False	False	False				_		
 TO026	303	arrivederci	arrivederci	arrivederci	linguistic	Begin=836.677	_	False	False	False	False				_		
 TO026	303	di	di	di	linguistic		_	False	False	False	False				_		
-TO026	303	niente	niente,	[niente],)	linguistic	End=837.791	weakly_ascending	False	False	False	False				_		0-6(304)
+TO026	303	niente	niente,	[niente],	linguistic	End=837.791	weakly_ascending	False	False	False	False				_		0-6(304)
 TO028	304	arrivederci	arrivederci	[arrivede]rci	linguistic	End=838.107	_	False	False	False	False				_		0-10(303)

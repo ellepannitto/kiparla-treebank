@@ -221,7 +221,7 @@ BO118	27	è	è	è	linguistic		_	False	False	False	False				_
 BO118	27	tipo	tipo	tipo	linguistic		_	False	False	False	False				_		
 BO118	27	avete	avete	avete	linguistic		_	False	False	False	False				_		
 BO118	27	il	il	il	linguistic		_	False	False	False	False				_		
-BO118	27	giardino	giardino::,	giardino::,	linguistic	End=94.65	weakly_ascending	False	False	False	False	7x2			_		
+BO118	27	giardino	giardino::,	giardino::,	linguistic	End=94.55000000000001	weakly_ascending	False	False	False	False	7x2			_		
 BO140	28	abbiamo	abbia:mo:	abbia:mo:	linguistic	Begin=94.63	_	False	False	False	False	4x1,6x1			_		
 BO140	28	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO140	28	me	me:	(me:)	linguistic		_	False	False	False	False	1x1			_		
@@ -440,8 +440,8 @@ BO140	45	è	è	è	linguistic		_	False	False	False	False				_
 BO140	45	un	un	un	linguistic		_	False	False	False	False				_		
 BO140	45	rapporto	rapporto:	rapporto:	linguistic		_	False	False	False	True	7x1			_		
 BO140	45	mh	m:h	h 	linguistic		_	False	False	False	False	0x1			_		
-BO140	45	amichevole	amichevole.	michevole.	linguistic	End=184.63	descending	False	False	False	False				_		
-BO118	46	okay	okay	<ok[ay]>	linguistic	End=185.08	_	False	False	False	False		0-4(0)		_		3-4(?)
+BO140	45	amichevole	amichevole.	michevole.	linguistic	End=184.53	descending	False	False	False	False				_		
+BO118	46	okay	okay	<ok[ay]>	linguistic	End=185.08	_	False	False	False	False		0-4(0)		_		3-4(47)
 BO140	47	sicuramente	sicuramente	[si]curamente	linguistic	Begin=184.826	_	False	False	False	False				_		0-4(46)
 BO140	47	non	no:n	no:n	linguistic		_	False	False	False	False	1x1			_		
 BO140	47	non	non	non	linguistic		_	False	False	False	False				_		
@@ -626,7 +626,7 @@ BO118	62	pure	pure	pure	linguistic		_	False	False	False	False				_
 BO118	62	un	un	un	linguistic		_	False	False	False	False				_		
 BO118	62	divanetto	divanetto,	divanetto,	linguistic	End=251.31	weakly_ascending	False	False	False	False				_		
 BO140	63	sì	sì	sì	linguistic	End=253.01	_	False	False	False	False				_		
-BO118	64	però	però	però	linguistic	Begin=252.99	_	False	False	False	False				_		
+BO118	64	però	però	però	linguistic	Begin=253.09	_	False	False	False	False				_		
 BO118	64	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		
 BO118	64	non	non	non	linguistic		_	False	False	False	False				_		
 BO118	64	ce	ce	ce	linguistic		_	False	False	False	False				_		
@@ -720,11 +720,11 @@ BO140	71	vai	vai	vai	linguistic		_	False	False	False	False				_
 BO140	71	in	in	[in	linguistic		_	False	False	False	False				_		
 BO140	71	centro	centro.	centro.]	linguistic	End=290.475	descending	False	False	False	False				_		0-6(73)
 BO118	72	okay	okay	[okay]	linguistic	End=289.302	_	False	False	False	False				_		0-4(71)
-BO118	73	per	per	[per	linguistic	Begin=289.727	_	False	False	False	False				_		0-3(?)
-BO118	73	for~	for~	for~	linguistic		_	False	True	False	False				_		0-4(?)
-BO118	73	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		0-6(?)
-BO118	73	per	per	per	linguistic		_	False	False	False	False				_		0-3(?)
-BO118	73	forza	forza	fo]rza	linguistic		_	False	False	False	False				_		0-4(?)
+BO118	73	per	per	[per	linguistic	Begin=289.727	_	False	False	False	False				_		0-3(71)
+BO118	73	for~	for~	for~	linguistic		_	False	True	False	False				_		0-4(71)
+BO118	73	quindi	quindi	quindi	linguistic		_	False	False	False	False				_		0-6(71)
+BO118	73	per	per	per	linguistic		_	False	False	False	False				_		0-3(71)
+BO118	73	forza	forza	fo]rza	linguistic		_	False	False	False	False				_		0-4(71)
 BO118	73	devi	devi	devi	linguistic		_	False	False	False	False				_		
 BO118	73	prendere	prendere	prendere	linguistic		_	False	False	False	False				_		
 BO118	73	la	la	la	linguistic		_	False	False	False	False				_		
@@ -733,7 +733,7 @@ BO118	73	per	per	per	linguistic		_	False	False	False	False				_
 BO118	73	anda'	anda'	anda'	linguistic		_	False	False	True	False				_		
 BO118	73	in	in	in	linguistic		_	False	False	False	False				_		
 BO118	73	centro	centro?	centro?	linguistic	End=292.55	ascending	False	False	False	False				_		
-BO140	74	sì	sì	sì	linguistic	Begin=292.545	_	False	False	False	False				_		
+BO140	74	sì	sì	sì	linguistic	Begin=292.64500000000004	_	False	False	False	False				_		
 BO140	74	generalmente	generalmente	generalmente	linguistic		_	False	False	False	False				_		
 BO140	74	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO140	74	perché	perché	perché	linguistic		_	False	False	False	False				_		
@@ -1144,13 +1144,13 @@ BO140	112	in	in	in	linguistic		_	False	False	False	False				_
 BO140	112	via	via	via	linguistic		_	False	False	False	False				_		
 BO140	112	nomeluogo	nomeluogo,	nomeluogo,	linguistic	End=432.04	weakly_ascending	False	False	False	False				_		
 BO118	113	okay	okay	okay	linguistic	End=432.75	_	False	False	False	False				_		
-BO140	114	e	e:	e:	linguistic	Begin=432.74	_	False	False	False	False	0x1			_		
+BO140	114	e	e:	e:	linguistic	Begin=432.84000000000003	_	False	False	False	False	0x1			_		
 BO140	114	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
 BO140	114	in	in	in	linguistic		_	False	False	False	False				_		
 BO140	114	centro	centro:	centro:	linguistic		_	False	False	False	False	5x1			_		
 BO140	114	nella	nella	nella	linguistic		_	False	False	False	False				_		
 BO140	114	zona	zona	zona	linguistic		_	False	False	False	False				_		
-BO140	114	universitaria	universitaria,	universitaria,)	linguistic	End=435.53	weakly_ascending	False	False	False	False				_		
+BO140	114	universitaria	universitaria,	universitaria,	linguistic	End=435.53	weakly_ascending	False	False	False	False				_		
 BO140	115	e	e::	e::	linguistic	Begin=436.265	_	False	False	False	False	0x2			_		
 BO140	115	ci	ci	ci	linguistic		_	False	False	False	False				_		
 BO140	115	ho	ho	ho	linguistic		_	False	False	False	False				_		
@@ -1540,7 +1540,7 @@ BO118	150	altra	altra	altra	linguistic		_	False	False	False	False				_
 BO118	150	casa	casa?	casa?	linguistic	End=585.74	ascending	False	False	False	False				_		
 BO140	151	e	e:::::	e:::::	linguistic	Begin=586.5	_	False	False	False	False	0x5			_		
 BO140	151	xx	xx	xx	linguistic	End=588.165	_	True	False	False	False				_		
-BO118	152	sia	sia	sia	linguistic	Begin=588.155	_	False	False	False	False				_		
+BO118	152	sia	sia	sia	linguistic	Begin=588.255	_	False	False	False	False				_		
 BO118	152	internamente	internamente	internamente	linguistic		_	False	False	False	False				_		
 BO118	152	che	che	che	linguistic		_	False	False	False	False				_		
 BO118	152	come	come:	come:	linguistic		_	False	False	False	False	3x1			_		
@@ -2073,7 +2073,7 @@ BO118	190	a	a	a	linguistic		_	False	False	False	False				_
 BO118	190	sta'	sta'	sta'	linguistic		_	False	False	True	False				_		
 BO118	190	con	con	con	linguistic		_	False	False	False	False				_		
 BO118	190	le	le	le	linguistic		_	False	False	False	False				_		
-BO118	190	persone	perso:ne	perso:ne	linguistic	End=782.26	_	False	False	False	False	4x1			_		
+BO118	190	persone	perso:ne	perso:ne	linguistic	End=782.16	_	False	False	False	False	4x1			_		
 BO140	191	sì	sì	sì	linguistic	Begin=782.252	_	False	False	False	False				_		
 BO140	191	sì	sì	sì	linguistic		_	False	False	False	False				_		
 BO140	191	ma	ma	ma	linguistic		_	False	False	False	False				_		
@@ -2358,7 +2358,7 @@ BO140	219	molto	molto	molto	linguistic		_	False	False	False	False				_
 BO140	219	tranquilla	tranquilla	tranquilla	linguistic		_	False	False	False	False				_		
 BO140	219	come	come	come	linguistic		_	False	False	False	False				_		
 BO140	219	zona	zona.	zona.	linguistic	End=869.409	descending	False	False	False	False				_		
-BO118	220	sì	sì	sì	linguistic	Begin=869.397	_	False	False	False	False				_		
+BO118	220	sì	sì	sì	linguistic	Begin=869.4970000000001	_	False	False	False	False				_		
 BO118	220	ma	ma	ma	linguistic		_	False	False	False	False				_		
 BO118	220	infatti	infatti,	infatti,	linguistic		weakly_ascending	False	False	False	False				_		
 BO118	220	già	già:	già:	linguistic		_	False	False	False	False	2x1			_		
@@ -2375,10 +2375,10 @@ BO118	221	totalmente	totalmente	totalmente	linguistic	End=875.43	_	False	False	F
 BO140	222	sì	sì	sì	linguistic	End=875.606	_	False	False	False	False				_		
 BO118	223	secondo	secondo	secondo	linguistic	Begin=875.61	_	False	False	False	False				_		
 BO118	223	me	me	me	linguistic	End=876.347	_	False	False	False	False				_		
-BO140	224	e	e	e	linguistic	Begin=876.34	_	False	False	False	False				_		
+BO140	224	e	e	e	linguistic	Begin=876.44	_	False	False	False	False				_		
 BO140	224	infatti	infatti	infatti	linguistic		_	False	False	False	False				_		
 BO140	224	per	per	per	linguistic		_	False	False	False	False				_		
-BO140	224	quello	que:llo:,	[que:llo:],	linguistic	End=877.83	weakly_ascending	False	False	False	False	2x1,5x1			_		0-6(?)
+BO140	224	quello	que:llo:,	[que:llo:],	linguistic	End=877.83	weakly_ascending	False	False	False	False	2x1,5x1			_		0-6(225)
 BO118	225	anche	anche	[anche]	linguistic	Begin=877.223	_	False	False	False	False				_		0-5(224)
 BO118	225	zona	zona	zona	linguistic		_	False	False	False	False				_		0-1(224)
 BO118	225	murri	mu:rri	mu:rri	linguistic		_	False	False	False	False	1x1			_		
@@ -3489,7 +3489,7 @@ BO140	316	grande	grande	grande	linguistic		_	False	False	False	False				_
 BO140	316	è	è	è	linguistic		_	False	False	False	False				_		
 BO140	316	pesaro	pe:saro.	pe:saro.	linguistic	End=1279.52	descending	False	False	False	False	1x1			_		
 BO118	317	mhmh	mhmh	mhmh	linguistic	End=1280.027	_	False	False	False	False				_		
-BO140	318	ma	ma	ma	linguistic	Begin=1279.99	_	False	False	False	False				_		
+BO140	318	ma	ma	ma	linguistic	Begin=1280.09	_	False	False	False	False				_		
 BO140	318	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		
 BO140	318	sia	si:a	si:a	linguistic		_	False	False	False	False	1x1			_		
 BO140	318	prendi	prendi	prendi	linguistic		_	False	False	False	False				_		
@@ -3697,7 +3697,7 @@ BO140	337	di	di	di	linguistic		_	False	False	False	False				_
 BO140	337	urbino	urbino.	urbino.	linguistic	End=1354.18	descending	False	False	False	False				_		
 BO118	338	mh	mh	mh	linguistic	Begin=1354.213	_	False	False	False	False				_		
 BO118	338	mh	mh	mh	linguistic	End=1354.703	_	False	False	False	False				_		
-BO140	339	cioè	cioè	cioè	linguistic	Begin=1354.692	_	False	False	False	False				_		
+BO140	339	cioè	cioè	cioè	linguistic	Begin=1354.792	_	False	False	False	False				_		
 BO140	339	pesaro	pesaro:	pesaro:	linguistic		_	False	False	False	False	5x1			_		
 BO140	339	come	come	come	linguistic		_	False	False	False	False				_		
 BO140	339	città	città	città	linguistic		_	False	False	False	False				_		
@@ -3707,14 +3707,14 @@ BO140	339	un'	un'	un'	linguistic		_	False	False	True	False				_
 BO140	339	università	università	università	linguistic		_	False	False	False	False				_		
 BO140	339	propria	propria.	propria.	linguistic	End=1357.64	descending	False	False	False	False				_		
 BO118	340	okay	o:kay	o:ka[y]	linguistic	End=1358.43	_	False	False	False	False	0x1			_		
-BO140	341	accoglie	accoglie	[a]ccoglie	linguistic	Begin=1358.337	_	False	False	False	False				_		0-3(340)
+BO140	341	accoglie	accoglie	[a]ccoglie	linguistic	Begin=1358.437	_	False	False	False	False				_		0-3(?)
 BO140	341	solo	solo:	solo:	linguistic		_	False	False	False	False	3x1			_		
 BO140	341	nelle	nelle	nelle	linguistic		_	False	False	False	False				_		
 BO140	341	sedi	sedi:	sedi:	linguistic		_	False	False	False	False	3x1			_		
 BO140	341	dei	dei	dei	linguistic		_	False	False	False	False				_		
 BO140	341	corsi	corsi	corsi	linguistic	End=1360.903	_	False	False	False	False				_		
 BO118	342	tipo	tipo:	tipo:	linguistic	Begin=1360.907	_	False	False	False	False	3x1			_		
-BO118	342	succursali	succursali	succursali	linguistic	End=1362.02	_	False	False	False	False				_		
+BO118	342	succursali	succursali	succursali	linguistic	End=1361.92	_	False	False	False	False				_		
 BO140	343	sì	sì	sì	linguistic	Begin=1362.01	_	False	False	False	True				_		
 BO140	343	sì	sì	=	linguistic		_	False	False	False	True				_		
 BO140	343	sì	sì		linguistic	End=1362.837	_	False	False	False	False				_		
@@ -4177,7 +4177,7 @@ BO140	396	dell'	dell'	dell'	linguistic		_	False	False	True	False				_
 BO140	396	università	università	università	linguistic		_	False	False	False	False				_		
 BO140	396	di	di	di	linguistic		_	False	False	False	False				_		
 BO140	396	fermo	fermo	fermo	linguistic		_	False	False	False	False				_		
-BO140	396	proprio	proprio?	proprio?	linguistic	End=1522.72	ascending	False	False	False	False				_		
+BO140	396	proprio	proprio?	proprio?	linguistic	End=1522.6200000000001	ascending	False	False	False	False				_		
 BO118	397	no	no:,	no:,	linguistic	Begin=1522.707	weakly_ascending	False	False	False	False	1x1			_		
 BO118	397	di	di	di	linguistic		_	False	False	False	False				_		
 BO118	397	ancona	ancona.	ancona.	linguistic	End=1523.67	descending	False	False	False	False				_		
@@ -4415,12 +4415,12 @@ BO140	417	cioè	cioè	cioè	linguistic		_	False	False	False	False				_
 BO140	417	non	non:	non:	linguistic		_	False	False	False	False	2x1			_		
 BO140	417	non	non	non	linguistic		_	False	False	False	False				_		
 BO140	417	organizzano	organizzano:	organ[izzano:]	linguistic	End=1597.32	_	False	False	False	False	10x1			_		
-BO118	418	no	no	[no	linguistic	Begin=1596.54	_	False	False	False	False				_		0-2(?)
-BO118	418	c'	c'	c'	linguistic		_	False	False	True	False				_		0-2(?)
-BO118	418	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
-BO118	418	tipo	tipo	tipo]	linguistic		_	False	False	False	False				_		0-4(?)
-BO118	418	un	un	un	linguistic		_	False	False	False	False				_		0-1(?)
-BO118	418	pub	pu:b	pu:b	linguistic	End=1597.97	_	False	False	False	False	1x1			_		
+BO118	418	no	no	[no	linguistic	Begin=1596.54	_	False	False	False	False				_		0-2(417)
+BO118	418	c'	c'	c'	linguistic		_	False	False	True	False				_		0-2(417)
+BO118	418	è	è	è	linguistic		_	False	False	False	False				_		0-1(417)
+BO118	418	tipo	tipo	tipo]	linguistic		_	False	False	False	False				_		0-4(417)
+BO118	418	un	un	un	linguistic		_	False	False	False	False				_		0-1(417)
+BO118	418	pub	pu:b	pu:b	linguistic	End=1597.8700000000001	_	False	False	False	False	1x1			_		
 BO140	419	esatto	esatto	esatto	linguistic	End=1598.57	_	False	False	False	False				_		
 BO118	420	che	che	che	linguistic	Begin=1598.57	_	False	False	False	False				_		
 BO118	420	fa	fa:	fa:	linguistic		_	False	False	False	False	1x1			_		
@@ -4516,7 +4516,7 @@ BO118	428	specie	specie	specie	linguistic		_	False	False	False	False				_
 BO118	428	de	de	de	linguistic		_	False	False	False	False				_		
 BO118	428	tempio	te:mpio:,	te:mpio:,	linguistic	End=1628.01	weakly_ascending	False	False	False	False	1x1,5x1			_		
 BO140	429	mhmh	mhmh	mhmh	linguistic	End=1628.917	_	False	False	False	False				_		
-BO118	430	non	non	non	linguistic	Begin=1628.905	_	False	False	False	False				_		
+BO118	430	non	non	non	linguistic	Begin=1629.0049999999999	_	False	False	False	False				_		
 BO118	430	so	so	so	linguistic		_	False	False	False	False				_		
 BO118	430	di	di	di	linguistic		_	False	False	False	False				_		
 BO118	430	che	che	che	linguistic		_	False	False	False	False				_		

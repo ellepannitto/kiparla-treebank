@@ -792,7 +792,7 @@ TO003	74	personali	personali	personali	linguistic		_	False	False	False	False				
 TO003	74	perché	perché	perché	linguistic		_	False	False	False	False				_		
 TO003	74	no	no,	no,	linguistic	End=285.734	weakly_ascending	False	False	False	False				_		
 TO002	75	mh	m:h.	m:h.	linguistic	End=286.171	descending	False	False	False	False	0x1			_		
-TO003	76	il	il	il	linguistic	Begin=286.143	_	False	False	False	False				_		
+TO003	76	il	il	il	linguistic	Begin=286.243	_	False	False	False	False				_		
 TO003	76	fatto	fatto	fatto	linguistic		_	False	False	False	False				_		
 TO003	76	di	di	di	linguistic		_	False	False	False	False				_		
 TO003	76	poter	poter	poter	linguistic		_	False	False	False	False				_		
@@ -1068,8 +1068,8 @@ TO003	101	{P}	{P}	P} 	shortpause		_	False	False	False	False				_
 TO003	101	secondo	secondo	econdo 	linguistic		_	False	False	False	False				_		
 TO003	101	me	me.	me.]	linguistic	End=374.385	descending	False	False	False	False				_		
 TO002	102	mh	mh	[mh]	linguistic	End=372.2	_	False	False	False	False				_		0-2(101)
-TO002	103	no	no.	[no.]	linguistic	Begin=374.018	descending	False	False	False	False				_		0-2(?)
-TO002	103	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(?)
+TO002	103	no	no.	[no.]	linguistic	Begin=374.018	descending	False	False	False	False				_		0-2(101)
+TO002	103	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(101)
 TO002	103	ragioni	ragioni	ragioni	linguistic		_	False	False	False	False				_		
 TO002	103	sul	sul	sul	linguistic		_	False	False	False	False				_		
 TO002	103	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
@@ -1084,7 +1084,7 @@ TO002	103	rispondere	rispondere	rispondere	linguistic		_	False	False	False	False
 TO002	103	a	a	a	linguistic		_	False	False	False	False				_		
 TO002	103	quello	quello	quello	linguistic		_	False	False	False	False				_		
 TO002	103	che	che	che	linguistic		_	False	False	False	False				_		
-TO002	103	{ride}	{ride}	{ride}	metalinguistic	End=378.381	_	False	False	False	False				_		
+TO002	103	{ride}	{ride}	{ride}	metalinguistic	End=378.28099999999995	_	False	False	False	False				_		
 TO003	104	{ride}	{ride}	{ride}	metalinguistic	End=379.928	_	False	False	False	False				_		
 TO002	105	ragioni	ragioni	ragioni	linguistic	Begin=379.77	_	False	False	False	False				_		
 TO002	105	sull'	sull'	sull'	linguistic		_	False	False	True	False				_		
@@ -2881,7 +2881,7 @@ TO003	341	degl~	degl~	degl~	linguistic		_	False	True	False	False				_
 TO003	341	degli	degli	degli	linguistic		_	False	False	False	False				_		
 TO003	341	agricoltori	agricoltori	agricoltori	linguistic		_	False	False	False	False				_		
 TO003	341	italiani	italiani,	italiani,	linguistic		weakly_ascending	False	False	False	False				_		
-TO003	341	che	che:	che:)	linguistic	End=1171.836	_	False	False	False	False	2x1			_		
+TO003	341	che	che:	che:	linguistic	End=1171.836	_	False	False	False	False	2x1			_		
 TO002	342	eh	eh	eh	linguistic	End=1172.323	_	False	False	False	False				_		
 TO003	343	degli	degli	degli	linguistic	Begin=1172.473	_	False	False	False	False				_		
 TO003	343	allevatori	allevatori	allevatori	linguistic		_	False	False	False	False				_		
@@ -3041,13 +3041,13 @@ TO003	363	tradizione	tradizione	tradizione	linguistic		_	False	False	False	False
 TO003	363	per	per	per	linguistic		_	False	False	False	True				_		
 TO003	363	eh	e:h	h 	linguistic		_	False	False	False	False	0x1			_		
 TO003	363	mh	m:h	:h	linguistic	End=1236.413	_	False	False	False	False	0x1			_		
-TO002	364	più	più	[più	linguistic	Begin=1236.946	_	False	False	False	False				_		0-3(?)
-TO002	364	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
-TO002	364	di	di	di	linguistic		_	False	False	False	False				_		0-2(?)
-TO002	364	imporre	imporre	imporre]	linguistic		_	False	False	False	False				_		0-7(?)
-TO002	364	sì	sì	sì	linguistic		_	False	False	False	False				_		0-1(?)
+TO002	364	più	più	[più	linguistic	Begin=1236.946	_	False	False	False	False				_		0-3(365)
+TO002	364	che	che	che	linguistic		_	False	False	False	False				_		0-3(365)
+TO002	364	di	di	di	linguistic		_	False	False	False	False				_		0-2(365)
+TO002	364	imporre	imporre	imporre]	linguistic		_	False	False	False	False				_		0-7(365)
+TO002	364	sì	sì	sì	linguistic		_	False	False	False	False				_		0-1(365)
 TO002	364	più	più	più	linguistic		_	False	False	False	True				_		
-TO002	364	eh	eh		linguistic	End=1238.906	_	False	False	False	False				_		
+TO002	364	eh	eh		linguistic	End=1238.806	_	False	False	False	False				_		
 TO003	365	mettere	mettere	[mettere	linguistic	Begin=1236.948	_	False	False	False	False				_		0-7(364)
 TO003	365	in	in	in	linguistic		_	False	False	False	False				_		0-2(364)
 TO003	365	risalto	risalto	risalto]	linguistic	End=1238.658	_	False	False	False	False				_		0-7(364)
@@ -3055,7 +3055,7 @@ TO003	366	eh	eh	eh	linguistic	Begin=1238.9	_	False	False	False	False				_
 TO003	366	sì	sì	sì	linguistic		_	False	False	False	False				_		
 TO003	366	volevo	volevo	volevo	linguistic		_	False	False	False	False				_		
 TO003	366	dire	dire	dire	linguistic		_	False	False	False	False				_		
-TO003	366	appunto	appunto	[appunto]	linguistic	End=1240.485	_	False	False	False	False				_		0-7(?)
+TO003	366	appunto	appunto	[appunto]	linguistic	End=1240.485	_	False	False	False	False				_		0-7(367)
 TO002	367	sì	sì	[sì]	linguistic	End=1240.448	_	False	False	False	False				_		0-2(366)
 TO003	368	mettere	mettere	mettere	linguistic	Begin=1240.83	_	False	False	False	False				_		
 TO003	368	in	in	in	linguistic		_	False	False	False	False				_		
@@ -3591,7 +3591,7 @@ TO002	441	il	il	il	linguistic		_	False	False	False	False				_
 TO002	441	discorso	discorso	discorso	linguistic		_	False	False	False	False				_		
 TO002	441	dei	dei	dei	linguistic		_	False	False	False	False				_		
 TO002	441	saperi	saperi	saperi	linguistic		_	False	False	False	False				_		
-TO002	441	locali	locali,	locali,	linguistic	End=1455.834	weakly_ascending	False	False	False	False				_		
+TO002	441	locali	locali,	locali,	linguistic	End=1455.7340000000002	weakly_ascending	False	False	False	False				_		
 TO003	442	sì	sì	sì	linguistic	End=1456.238	_	False	False	False	False				_		
 TO002	443	può	può	può	linguistic	Begin=1456.898	_	False	False	False	False				_		
 TO002	443	entrare	entrare	entrare	linguistic		_	False	False	False	False				_		

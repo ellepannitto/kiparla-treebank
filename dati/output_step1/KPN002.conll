@@ -456,22 +456,22 @@ PKP031	71	{P}	{P}	{P}	shortpause		_	False	False	False	False				low		0-3(?)
 PKP031	71	sì	sì	sì	linguistic		_	False	False	False	False				low		0-2(?)
 PKP031	71	sì	sì	sì°]	linguistic	End=144.78	_	False	False	False	False				low		0-2(?)
 PKP038	72	cosa	cosa?	[co]sa?	linguistic	End=144.995	ascending	False	False	False	False				_		0-4(71)
-PKP012	73	queste	queste	[queste]	linguistic	End=145.85	_	False	False	False	False				_		0-6(74+75)
-PKP031	74	ma	ma	[(ma	linguistic	Begin=145.405	_	False	False	False	False				_	1-2(0)	0-2(73+75)
-PKP031	74	dici	dici	dici)	linguistic		_	False	False	False	False				_	0-4(0)	0-4(73+75)
-PKP031	74	che	che	che	linguistic		_	False	False	False	False				_	0-2(0)	0-3(73+75)
-PKP031	74	tra	tra	tra]	linguistic		_	False	False	False	False				_		0-3(73+75)
-PKP031	74	i	i	i	linguistic		_	False	False	False	False				_		0-1(73+75)
-PKP031	74	buchetti	buchetti	buchetti	linguistic		_	False	False	False	False				_		0-1(73+75)
+PKP012	73	queste	queste	[queste]	linguistic	End=145.85	_	False	False	False	False				_		0-6(74)
+PKP031	74	ma	ma	[(ma	linguistic	Begin=145.405	_	False	False	False	False				_	1-2(0)	0-2(?)
+PKP031	74	dici	dici	dici)	linguistic		_	False	False	False	False				_	0-4(0)	0-4(?)
+PKP031	74	che	che	che	linguistic		_	False	False	False	False				_	0-2(0)	0-3(?)
+PKP031	74	tra	tra	tra]	linguistic		_	False	False	False	False				_		0-3(?)
+PKP031	74	i	i	i	linguistic		_	False	False	False	False				_		0-1(?)
+PKP031	74	buchetti	buchetti	buchetti	linguistic		_	False	False	False	False				_		0-1(?)
 PKP031	74	non	non	non	linguistic		_	False	False	False	False				_		
 PKP031	74	è	è	è	linguistic		_	False	False	False	False				_		
 PKP031	74	che	che	che	linguistic		_	False	False	False	False				_		
 PKP031	74	che	che	che	linguistic		_	False	False	False	False				_		
 PKP031	74	trapassa	trapassa?	trapas[sa?]	linguistic	End=148.405	ascending	False	False	False	False				_		
-PKP038	75	è	è	[è	linguistic	Begin=145.79	_	False	False	False	False				_		0-1(73+74)
-PKP038	75	simile	simile	simile	linguistic		_	False	False	False	False				_		0-6(73+74)
-PKP038	75	alla	alla	alla	linguistic		_	False	False	False	False				_		0-4(73+74)
-PKP038	75	mia	mia,	mia,]	linguistic	End=146.74	weakly_ascending	False	False	False	False				_		0-3(73+74)
+PKP038	75	è	è	[è	linguistic	Begin=145.89	_	False	False	False	False				_		0-1(74)
+PKP038	75	simile	simile	simile	linguistic		_	False	False	False	False				_		0-6(74)
+PKP038	75	alla	alla	alla	linguistic		_	False	False	False	False				_		0-4(74)
+PKP038	75	mia	mia,	mia,]	linguistic	End=146.74	weakly_ascending	False	False	False	False				_		0-3(74)
 PKP012	76	sì	sì	[sì]	linguistic	Begin=148.125	_	False	False	False	False				_		0-2(74)
 PKP012	76	è	è	è	linguistic		_	False	False	False	False				_		0-1(74)
 PKP012	76	xx	xx	xx	linguistic		_	True	False	False	False				_		
@@ -594,7 +594,7 @@ PKP012	89	preparano	preparano	preparano	linguistic		_	False	False	False	False			
 PKP012	89	prima	prima	prima	linguistic	End=182.385	_	False	False	False	False				_		
 PKP012	90	perché	perché	perché	linguistic	Begin=182.555	_	False	False	False	False				_		
 PKP012	90	dai	dai	dai	linguistic	End=183.225	_	False	False	False	False				_		
-PKP031	91	beh	beh	beh	linguistic	Begin=183.22	_	False	False	False	False				_		
+PKP031	91	beh	beh	beh	linguistic	Begin=183.32	_	False	False	False	False				_		
 PKP031	91	beppe	beppe	beppe	linguistic		_	False	False	False	False				_		
 PKP031	91	allora	allora	allora	linguistic		_	False	False	False	False				_		
 PKP031	91	può	può	può	linguistic		_	False	False	False	False				_		
@@ -644,7 +644,7 @@ PKP012	96	i	i	i	linguistic		_	False	False	False	False				_
 PKP012	96	suoi	suoi.	suoi.	linguistic	End=199.06	descending	False	False	False	False				_		
 PKP038	97	devi	devi	devi	linguistic	Begin=199.235	_	False	False	False	False				_		
 PKP038	97	sederti	sederti	sederti	linguistic		_	False	False	False	False				_		
-PKP038	97	là	là,	là,	linguistic	End=200.555	weakly_ascending	False	False	False	False				_		
+PKP038	97	là	là,	là,	linguistic	End=200.455	weakly_ascending	False	False	False	False				_		
 PKP011	98	buonasera	buonasera	buonasera	linguistic	Begin=200.55	_	False	False	False	False				_		
 PKP011	98	bellezze	bellezze.	bellezze.	linguistic	End=201.725	descending	False	False	False	False				_		
 PKP031	99	no	NO	NO	linguistic	Begin=201.745	_	False	False	False	False				high		
@@ -690,9 +690,9 @@ PKP012	103	non	non	non	linguistic	Begin=210.5	_	False	False	False	False				_
 PKP012	103	so	so,	so,	linguistic	End=211.02	weakly_ascending	False	False	False	False				_		
 PKP031	104	eh	eh	eh	linguistic	Begin=211.035	_	False	False	False	False				_		
 PKP031	104	da	da	da	linguistic		_	False	False	False	False				_		
-PKP031	104	adesso	adesso	ades[so]	linguistic	End=211.835	_	False	False	False	False				_		4-6(105)
-PKP038	105	vabbè	vabbè	[vabbè]	linguistic	Begin=211.79	_	False	False	False	False				_		0-5(104)
-PKP038	105	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		0-1(104)
+PKP031	104	adesso	adesso	ades[so]	linguistic	End=211.835	_	False	False	False	False				_		4-6(?)
+PKP038	105	vabbè	vabbè	[vabbè]	linguistic	Begin=211.89	_	False	False	False	False				_		0-5(?)
+PKP038	105	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		0-1(?)
 PKP038	105	andiamo	andiamo	andiamo	linguistic		_	False	False	False	False				_		
 PKP038	105	là	là	là	linguistic		_	False	False	False	False				_		
 PKP038	105	e	e::	e::	linguistic		_	False	False	False	False	0x2			_		
@@ -1059,12 +1059,12 @@ PKP012	153	casa	casa	casa	linguistic		_	False	False	False	False				_
 PKP012	153	a	a	a	linguistic		_	False	False	False	False				_		
 PKP012	153	sto	sto	sto	linguistic		_	False	False	False	False				_		
 PKP012	153	punto	punto	[punto]	linguistic	End=446.845	_	False	False	False	False				_		4-5(154)
-PKP011	154	ma	ma	[ma	linguistic	Begin=446.385	_	False	False	False	False				_		0-2(?)
-PKP011	154	poverina	poverina?	po]verina?	linguistic	End=447.355	ascending	False	False	False	False				_		0-4(?)
-PKP012	155	no	NO	[NO]	linguistic	Begin=447.275	_	False	False	False	False				high		0-2(154)
-PKP012	155	ma	ma	ma	linguistic		_	False	False	False	False				_		0-1(154)
-PKP012	155	scusa	scusa	[scusa]	linguistic		_	False	False	False	False				_		2-5(156)
-PKP012	155	guarda	guarda	guarda	linguistic		_	False	False	False	False				_		0-3(156)
+PKP011	154	ma	ma	[ma	linguistic	Begin=446.385	_	False	False	False	False				_		0-2(153)
+PKP011	154	poverina	poverina?	po]verina?	linguistic	End=447.355	ascending	False	False	False	False				_		0-4(153)
+PKP012	155	no	NO	[NO]	linguistic	Begin=447.375	_	False	False	False	False				high		0-2(?)
+PKP012	155	ma	ma	ma	linguistic		_	False	False	False	False				_		0-1(?)
+PKP012	155	scusa	scusa	[scusa]	linguistic		_	False	False	False	False				_		2-5(?)
+PKP012	155	guarda	guarda	guarda	linguistic		_	False	False	False	False				_		0-3(?)
 PKP012	155	che	che	che	linguistic		_	False	False	False	False				_		
 PKP012	155	ore	ore	ore	linguistic		_	False	False	False	False				_		
 PKP012	155	sono	sono,	sono,	linguistic	End=449.285	weakly_ascending	False	False	False	False				_		
@@ -1122,7 +1122,7 @@ PKP038	161	me	me	me	linguistic		_	False	False	False	False				_
 PKP038	161	ne	ne	ne	linguistic		_	False	False	False	False				_		
 PKP038	161	frega	frega	frega	linguistic		_	False	False	False	False				_		
 PKP038	161	più	più	più	linguistic	End=463.515	_	False	False	False	False				_		
-PKP012	162	cioè	cioè	cioè	linguistic	Begin=463.5	_	False	False	False	False				_		
+PKP012	162	cioè	cioè	cioè	linguistic	Begin=463.6	_	False	False	False	False				_		
 PKP012	162	cosa	cosa	cosa	linguistic		_	False	False	False	False				_		
 PKP012	162	devo	devo	devo	linguistic		_	False	False	False	False				_		
 PKP012	162	dirti	dirti?	dirti?	linguistic		ascending	False	False	False	False				_		
@@ -1193,7 +1193,7 @@ PKP031	176	so	so	so	linguistic		_	False	False	False	False				_
 PKP031	176	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
 PKP031	176	mi	mi	mi	linguistic		_	False	False	False	False				_		
 PKP031	176	x	x	x	linguistic	End=497.87	_	True	False	False	False				_		
-PKP038	177	ha	ha	ha	linguistic	Begin=497.86	_	False	False	False	False				_		
+PKP038	177	ha	ha	ha	linguistic	Begin=497.96000000000004	_	False	False	False	False				_		
 PKP038	177	portato	portato	portato	linguistic		_	False	False	False	False				_		
 PKP038	177	sfiga	sfiga	sfiga	linguistic		_	False	False	False	False				_		
 PKP038	177	quella	quella	quella	linguistic		_	False	False	False	False				_		
@@ -1229,15 +1229,15 @@ PKP031	184	ze	ze	ze]	linguistic		_	False	False	False	False				_		0-2(183)
 PKP031	184	che	che	che	linguistic		_	False	False	False	False				_		0-1(183)
 PKP031	184	manca	manca	manca	linguistic		_	False	False	False	False				_		
 PKP031	184	tanto	tanto	[tanto]	linguistic	End=513.115	_	False	False	False	False				_		2-5(185)
-PKP012	185	non	non	[non	linguistic	Begin=512.485	_	False	False	False	False				_		0-3(?)
-PKP012	185	credo	credo	credo]	linguistic		_	False	False	False	False				_		0-5(?)
-PKP012	185	che	che	che	linguistic		_	False	False	False	False				_		0-1(?)
+PKP012	185	non	non	[non	linguistic	Begin=512.485	_	False	False	False	False				_		0-3(184)
+PKP012	185	credo	credo	credo]	linguistic		_	False	False	False	False				_		0-5(184)
+PKP012	185	che	che	che	linguistic		_	False	False	False	False				_		0-1(184)
 PKP012	185	si	si	si	linguistic		_	False	False	False	False				_		
 PKP012	185	possa	possa	possa	linguistic		_	False	False	False	False				_		
 PKP012	185	fare	fare	fare	linguistic		_	False	False	False	False				_		
-PKP012	185	sai	sai	sai	linguistic	End=514.505	_	False	False	False	False				_		
-PKP011	186	beh	beh	[beh	linguistic	Begin=514.48	_	False	False	False	False				_		0-3(185+187)
-PKP011	186	dai	dai	dai]	linguistic	End=515.03	_	False	False	False	False				_		0-3(185+187)
+PKP012	185	sai	sai	sai	linguistic	End=514.405	_	False	False	False	False				_		
+PKP011	186	beh	beh	[beh	linguistic	Begin=514.48	_	False	False	False	False				_		0-3(187)
+PKP011	186	dai	dai	dai]	linguistic	End=515.03	_	False	False	False	False				_		0-3(187)
 PKP031	187	eh	eh	[eh	linguistic	Begin=514.48	_	False	False	False	False				_		0-2(?)
 PKP031	187	bisogna	bisogna	bisogna	linguistic		_	False	False	False	False				_		0-7(?)
 PKP031	187	vedere	vedere	vedere	linguistic		_	False	False	False	False				_		0-6(?)
@@ -1277,14 +1277,14 @@ PKP031	192	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 PKP031	192	due	due	due	linguistic		_	False	False	False	False				_		
 PKP031	192	gruppi	gruppi	gruppi	linguistic		_	False	False	False	False				_		
 PKP031	192	sep~	sep~	sep~	linguistic	End=524.545	_	False	True	False	False				_		
-PKP012	193	eh	eh	eh	linguistic	Begin=524.53	_	False	False	False	False				_		
+PKP012	193	eh	eh	eh	linguistic	Begin=524.63	_	False	False	False	False				_		
 PKP012	193	sì	sì	sì	linguistic		_	False	False	False	False				_		
 PKP012	193	perché	perchè	perchè	linguistic		_	False	False	False	False				_		
 PKP012	193	è	è	è	linguistic		_	False	False	False	False				_		
-PKP012	193	impossibile	impossibile	[impossibile	linguistic		_	False	False	False	False				_		0-11(?)
-PKP012	193	se	se	se	linguistic		_	False	False	False	False				_		0-2(?)
-PKP012	193	no	no	no]	linguistic		_	False	False	False	False				_		0-2(?)
-PKP012	193	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-1(?)
+PKP012	193	impossibile	impossibile	[impossibile	linguistic		_	False	False	False	False				_		0-11(194)
+PKP012	193	se	se	se	linguistic		_	False	False	False	False				_		0-2(194)
+PKP012	193	no	no	no]	linguistic		_	False	False	False	False				_		0-2(194)
+PKP012	193	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-1(194)
 PKP012	193	o	o	o	linguistic		_	False	False	False	False				_		
 PKP012	193	non	non	non	linguistic		_	False	False	False	False				_		
 PKP012	193	si	si	si	linguistic		_	False	False	False	False				_		
@@ -1537,16 +1537,16 @@ PKP012	251	cosa	cosa?	cosa?	linguistic		ascending	False	False	False	False				_
 PKP012	251	{ride}	{ride}	{ride}	metalinguistic	End=653.395	_	False	False	False	False				_		
 PKP038	252	non	non	non	linguistic	Begin=653.435	_	False	False	False	False				_		
 PKP038	252	so	so:	so:	linguistic	End=653.995	_	False	False	False	False	1x1			_		
-PKP038	253	infatti	infatti	[infatti	linguistic	Begin=654.78	_	False	False	False	False				_		0-7(?)
-PKP038	253	pensavo	pensavo	pensavo]	linguistic		_	False	False	False	False				_		0-7(?)
-PKP038	253	di	di::	di::	linguistic	End=655.96	_	False	False	False	False	1x2			_		0-1(?)
+PKP038	253	infatti	infatti	[infatti	linguistic	Begin=654.78	_	False	False	False	False				_		0-7(254)
+PKP038	253	pensavo	pensavo	pensavo]	linguistic		_	False	False	False	False				_		0-7(254)
+PKP038	253	di	di::	di::	linguistic	End=655.86	_	False	False	False	False	1x2			_		0-1(254)
 PKP031	254	cosa	cosa	[cosa	linguistic	Begin=654.79	_	False	False	False	False				_		0-4(253)
 PKP031	254	il	il	il	linguistic		_	False	False	False	False				_		0-2(253)
 PKP031	254	tè	tè?	tè?]	linguistic	End=655.58	ascending	False	False	False	False				_		0-2(253)
-PKP011	255	vuoi	vuoi	[vuoi	linguistic	Begin=655.945	_	False	False	False	False				_		0-4(?)
-PKP011	255	quello	quello	quello	linguistic		_	False	False	False	False				_		0-6(?)
-PKP011	255	col	col	col	linguistic		_	False	False	False	False				_		0-3(?)
-PKP011	255	pigiama	pigiama?	(pigiama)?]	linguistic	End=656.815	ascending	False	False	False	False				_	1-7(0)	0-7(?)
+PKP011	255	vuoi	vuoi	[vuoi	linguistic	Begin=655.945	_	False	False	False	False				_		0-4(256)
+PKP011	255	quello	quello	quello	linguistic		_	False	False	False	False				_		0-6(256)
+PKP011	255	col	col	col	linguistic		_	False	False	False	False				_		0-3(256)
+PKP011	255	pigiama	pigiama?	(pigiama)?]	linguistic	End=656.815	ascending	False	False	False	False				_	1-7(0)	0-7(256)
 PKP012	256	no	NO	[NO	linguistic	Begin=655.995	_	False	False	False	False				high		0-2(255)
 PKP012	256	lo	lo	lo	linguistic		_	False	False	False	False				_		0-2(255)
 PKP012	256	smalto	smalto	smalto]	linguistic		_	False	False	False	False				_		0-6(255)
@@ -1564,7 +1564,7 @@ PKP031	259	il	il	il	linguistic		_	False	False	False	False				_
 PKP031	259	té	té	té	linguistic		_	False	False	False	False				_		
 PKP031	259	come	come	come	linguistic		_	False	False	False	False				_		
 PKP031	259	le	le	le	linguistic		_	False	False	False	False				_		
-PKP031	259	regine	regine	regine	linguistic	End=665.22	_	False	False	False	False				_		
+PKP031	259	regine	regine	regine	linguistic	End=665.12	_	False	False	False	False				_		
 PKP012	260	ho	ho	ho	linguistic	Begin=665.175	_	False	False	False	False				_		
 PKP012	260	mal	mal	mal	linguistic		_	False	False	False	False				_		
 PKP012	260	di	di	di	linguistic		_	False	False	False	False				_		
@@ -1575,7 +1575,7 @@ PKP012	261	però	però	però	linguistic	Begin=668.735	_	False	False	False	False	
 PKP012	261	sì	sì	sì	linguistic		_	False	False	False	False				_		
 PKP012	261	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 PKP012	261	è	è	è	linguistic		_	False	False	False	False				_		
-PKP012	261	vero	vero	vero	linguistic	End=670.625	_	False	False	False	False				_		
+PKP012	261	vero	vero	vero	linguistic	End=670.525	_	False	False	False	False				_		
 PKP031	262	tu	tu	tu	linguistic	Begin=670.615	_	False	False	False	False				_		
 PKP031	262	sei	sei	sei	linguistic		_	False	False	False	False				_		
 PKP031	262	un	un	un	linguistic		_	False	False	False	False				_		
@@ -1660,14 +1660,14 @@ PKP038	282	c'erano	c'erano	c'erano	error		_	False	False	False	False				_
 PKP038	282	questi	questi	[(questi	linguistic		_	False	False	False	False				_	1-6(0)	0-6(283)
 PKP038	282	qua	qua	qua)	linguistic		_	False	False	False	False				_	0-3(0)	0-3(283)
 PKP038	282	allora	allora?	allora?]	linguistic	End=710.525	ascending	False	False	False	False				_	0-2(0)	0-6(283)
-PKP031	283	eh	EH	[EH	linguistic	Begin=709.915	_	False	False	False	False				high		0-2(?)
-PKP031	283	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(?)
-PKP031	283	no	no	no]	linguistic		_	False	False	False	False				_		0-2(?)
-PKP031	283	ma	ma	ma	linguistic		_	False	False	False	False				_		0-1(?)
+PKP031	283	eh	EH	[EH	linguistic	Begin=709.915	_	False	False	False	False				high		0-2(282)
+PKP031	283	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(282)
+PKP031	283	no	no	no]	linguistic		_	False	False	False	False				_		0-2(282)
+PKP031	283	ma	ma	ma	linguistic		_	False	False	False	False				_		0-1(282)
 PKP031	283	è	è	è	linguistic		_	False	False	False	False				_		
 PKP031	283	una	una	una	linguistic		_	False	False	False	False				_		
 PKP031	283	carta	carta	carta	linguistic		_	False	False	False	False				_		
-PKP031	283	vabbè	vabbè	vabbè	linguistic	End=711.745	_	False	False	False	False				_		
+PKP031	283	vabbè	vabbè	vabbè	linguistic	End=711.645	_	False	False	False	False				_		
 PKP012	284	e	e	e	linguistic	Begin=711.73	_	False	False	False	False				_		
 PKP012	284	come	come?	come?	linguistic	End=712.69	ascending	False	False	False	False				_		
 PKP031	285	faccio	faccio	faccio	linguistic	Begin=712.725	_	False	False	False	False				_		
@@ -1872,8 +1872,8 @@ PKP038	321	non	non	non	linguistic		_	False	False	False	False				_
 PKP038	321	lo	lo	lo	linguistic		_	False	False	False	False				_		
 PKP038	321	so	so:	so:	linguistic	End=814.97	_	False	False	False	False	1x1			_		
 PKP012	322	eh	EH::?	EH:[:?]	linguistic	End=816.19	ascending	False	False	False	False	1x2			high		
-PKP038	323	ma	ma	[ma]	linguistic	Begin=816.105	_	False	False	False	False				_		0-2(322)
-PKP038	323	di	di	di	linguistic		_	False	False	False	False				_		0-1(322)
+PKP038	323	ma	ma	[ma]	linguistic	Begin=816.205	_	False	False	False	False				_		0-2(?)
+PKP038	323	di	di	di	linguistic		_	False	False	False	False				_		0-1(?)
 PKP038	323	solito	solito	solito	linguistic		_	False	False	False	False				_		
 PKP038	323	si	si	si	linguistic		_	False	False	False	False				_		
 PKP038	323	ubriaca	ubriaca	ubriaca	linguistic		_	False	False	False	False				_		
@@ -2057,12 +2057,12 @@ PKP011	349	adesso	adesso	adesso	linguistic	End=868.89	_	False	False	False	False	
 PKP031	350	no	no	no	linguistic	Begin=869.91	_	False	False	False	False				_		
 PKP031	350	davvero	davvero	davvero	linguistic		_	False	False	False	False				_		
 PKP031	350	come	come	°come	linguistic		_	False	False	False	False				low		
-PKP031	350	facciamo	facciamo	facciamo°	linguistic	End=871.06	_	False	False	False	False				low		
+PKP031	350	facciamo	facciamo	facciamo°	linguistic	End=870.9599999999999	_	False	False	False	False				low		
 PKP124	351	me	me	me	linguistic	Begin=871.055	_	False	False	False	False				_		
 PKP124	351	ne	ne	ne	linguistic		_	False	False	False	False				_		
-PKP124	351	vado	vado	[vado	linguistic		_	False	False	False	False				_		0-4(?)
-PKP124	351	via	via	via	linguistic		_	False	False	False	False				_		0-3(?)
-PKP124	351	allora	allora?	allora?]	linguistic	End=871.795	ascending	False	False	False	False				_		0-6(?)
+PKP124	351	vado	vado	[vado	linguistic		_	False	False	False	False				_		0-4(352)
+PKP124	351	via	via	via	linguistic		_	False	False	False	False				_		0-3(352)
+PKP124	351	allora	allora?	allora?]	linguistic	End=871.795	ascending	False	False	False	False				_		0-6(352)
 PKP011	352	no	no	[no	linguistic	Begin=871.06	_	False	False	False	False				_		0-2(?)
 PKP011	352	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
 PKP011	352	adesso	adesso	adesso	linguistic		_	False	False	False	False				_		0-6(?)
@@ -2136,10 +2136,10 @@ PKP124	363	no	no	no	linguistic		_	False	False	False	False				_
 PKP124	363	ma	ma	ma	linguistic		_	False	False	False	False				_		
 PKP124	363	xx	xx	xx	linguistic		_	True	False	False	False				_		
 PKP124	363	ti	ti	ti	linguistic		_	False	False	False	False				_		
-PKP124	363	ma	ma	[ma	linguistic		_	False	False	False	False				_		0-2(364+365)
-PKP124	363	ti	ti	ti	linguistic		_	False	False	False	False				_		0-2(364+365)
-PKP124	363	pare	pare?	pare?]	linguistic	End=889.78	ascending	False	False	False	False				_		0-4(364+365)
-PKP031	364	qualched'un,	qualched'un,	[qualched'un,]	error	End=889.775	_	False	False	False	False				_		0-11(363+365)
+PKP124	363	ma	ma	[ma	linguistic		_	False	False	False	False				_		0-2(364)
+PKP124	363	ti	ti	ti	linguistic		_	False	False	False	False				_		0-2(364)
+PKP124	363	pare	pare?	pare?]	linguistic	End=889.68	ascending	False	False	False	False				_		0-4(364)
+PKP031	364	qualched'un,	qualched'un,	[qualched'un,]	error	End=889.675	_	False	False	False	False				_		0-11(363)
 PKP011	365	ho	ho	ho	linguistic	Begin=889.77	_	False	False	False	False				_		
 PKP011	365	finito	finito?	finito?	linguistic	End=890.58	ascending	False	False	False	False				_		
 PKP031	366	però	però	[però	linguistic	Begin=891.48	_	False	False	False	False				_		0-4(367)
@@ -2231,7 +2231,7 @@ PKP012	380	banco	banco	banco	linguistic		_	False	False	False	False				_
 PKP012	380	a	a	a	linguistic		_	False	False	False	False				_		
 PKP012	380	volte	volte	volte	linguistic	End=921.36	_	False	False	False	False				_		
 PKP038	381	ma	ma	ma	linguistic	Begin=922.57	_	False	False	False	False				_		
-PKP038	381	parlava	parlava?	parlava?	linguistic	End=923.58	ascending	False	False	False	False				_		
+PKP038	381	parlava	parlava?	parlava?	linguistic	End=923.48	ascending	False	False	False	False				_		
 PKP012	382	sì	sì	sì	linguistic	End=923.84	_	False	False	False	False				_		
 PKP012	383	tipo	tipo	tipo	linguistic	Begin=926.865	_	False	False	False	False				_		
 PKP012	383	l'homo	l'homo	l'homo	error		_	False	False	False	False				_		
@@ -2247,7 +2247,7 @@ PKP038	386	allora	allora	allora	linguistic		_	False	False	False	False				_
 PKP038	386	è	è	è	linguistic		_	False	False	False	False				_		
 PKP038	386	asperger	asperger	asperger	linguistic	End=931.795	_	False	False	False	False				_		
 PKP012	387	cioè	cioè?	cioè?	linguistic	End=932.43	ascending	False	False	False	False				_		
-PKP038	388	perché	perché	perché	linguistic	Begin=932.42	_	False	False	False	False				_		
+PKP038	388	perché	perché	perché	linguistic	Begin=932.52	_	False	False	False	False				_		
 PKP038	388	s~	s~	s~	linguistic		_	False	True	False	False				_		
 PKP038	388	gli	gli	gli	linguistic		_	False	False	False	False				_		
 PKP038	388	asperger	asperger	asperger	linguistic		_	False	False	False	False				_		
@@ -2545,12 +2545,12 @@ PKP038	412	e	e	e	linguistic		_	False	False	False	False				_
 PKP038	412	mi	mi	mi	linguistic		_	False	False	False	False				_		
 PKP038	412	sono	sono	sono	linguistic		_	False	False	False	False				_		
 PKP038	412	incazzata	incazzata	incazzata	linguistic		_	False	False	False	False				_		
-PKP038	412	nera	nera	[nera]	linguistic	End=1031.66	_	False	False	False	False				_		2-4(?)
+PKP038	412	nera	nera	[nera]	linguistic	End=1031.5600000000002	_	False	False	False	False				_		2-4(413)
 PKP011	413	{ride}	{ride}	{ride}	metalinguistic	Begin=1029.43	_	False	False	False	False				_		
 PKP011	413	già	già	[già]	linguistic	End=1031.52	_	False	False	False	False				_		0-3(412)
-PKP011	414	è	è	[(è	linguistic	Begin=1031.64	_	False	False	False	False				_		0-1(?)
-PKP011	414	lunga	lunga	lunga)]	linguistic		_	False	False	False	False				_	0-5(0)	0-5(?)
-PKP011	414	{ride}	{ride}	{ride}	metalinguistic	End=1033.29	_	False	False	False	False				_	0-2(0)	0-3(?)
+PKP011	414	è	è	[(è	linguistic	Begin=1031.64	_	False	False	False	False				_		0-1(415)
+PKP011	414	lunga	lunga	lunga)]	linguistic		_	False	False	False	False				_	0-5(0)	0-5(415)
+PKP011	414	{ride}	{ride}	{ride}	metalinguistic	End=1033.29	_	False	False	False	False				_	0-2(0)	0-3(415)
 PKP031	415	ma	ma::	[ma::	linguistic	Begin=1031.66	_	False	False	False	False	1x2			_		0-2(414)
 PKP031	415	com~	com~	com~]	linguistic		_	False	True	False	False				_		0-4(414)
 PKP031	415	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		0-3(414)
@@ -2766,18 +2766,18 @@ PKP038	437	prendono	prendono	prendono	linguistic		_	False	False	False	False				_
 PKP038	437	in	in	in	linguistic		_	False	False	False	False				_		
 PKP038	437	giro	giro	giro	linguistic		_	False	False	False	False				_		
 PKP038	437	tutti	tutti	[tutti	linguistic		_	False	False	False	False				_		
-PKP038	437	ti	ti	ti	linguistic		_	False	False	False	False				_		0-2(440+439)
-PKP038	437	credo	credo	credo	linguistic		_	False	False	False	False				_		0-5(440+439)
-PKP038	437	che	che	che	linguistic		_	False	False	False	False				_		0-3(440+439)
-PKP038	437	la	la	la	linguistic		_	False	False	False	False				_		0-2(440+439)
-PKP038	437	prendono	prendono	>prendono	linguistic		_	False	False	False	False			6-8(1)	_		0-8(440+439)
-PKP038	437	in	in	in	linguistic		_	False	False	False	False			0-2(1)	_		0-2(440+439)
-PKP038	437	giro	giro	giro<	linguistic		_	False	False	False	False			0-4(1)	_		0-4(440+439)
-PKP038	437	fa	fa	fa	linguistic		_	False	False	False	False			0-2(1)	_		0-2(440+439)
-PKP038	437	la	la	la	linguistic		_	False	False	False	False			0-2(1)	_		0-2(440+439)
-PKP038	437	fa	fa	fa	linguistic		_	False	False	False	False			0-1(1)	_		0-2(440+439)
-PKP038	437	la	la	la	linguistic		_	False	False	False	False				_		0-2(440+439)
-PKP038	437	sapientina	sapientina	sapientina]	linguistic	End=1098.84	_	False	False	False	False				_		0-10(440+439)
+PKP038	437	ti	ti	ti	linguistic		_	False	False	False	False				_		0-2(439)
+PKP038	437	credo	credo	credo	linguistic		_	False	False	False	False				_		0-5(439)
+PKP038	437	che	che	che	linguistic		_	False	False	False	False				_		0-3(439)
+PKP038	437	la	la	la	linguistic		_	False	False	False	False				_		0-2(439)
+PKP038	437	prendono	prendono	>prendono	linguistic		_	False	False	False	False			6-8(1)	_		0-8(439)
+PKP038	437	in	in	in	linguistic		_	False	False	False	False			0-2(1)	_		0-2(439)
+PKP038	437	giro	giro	giro<	linguistic		_	False	False	False	False			0-4(1)	_		0-4(439)
+PKP038	437	fa	fa	fa	linguistic		_	False	False	False	False			0-2(1)	_		0-2(439)
+PKP038	437	la	la	la	linguistic		_	False	False	False	False			0-2(1)	_		0-2(439)
+PKP038	437	fa	fa	fa	linguistic		_	False	False	False	False			0-1(1)	_		0-2(439)
+PKP038	437	la	la	la	linguistic		_	False	False	False	False				_		0-2(439)
+PKP038	437	sapientina	sapientina	sapientina]	linguistic	End=1098.74	_	False	False	False	False				_		0-10(439)
 PKP031	438	vabbè	vabbè	[vabbè	linguistic	Begin=1090.69	_	False	False	False	False				_		0-5(437)
 PKP031	438	brava	brava:	<brava:>]	linguistic	End=1091.88	_	False	False	False	False	4x1	1-5(0)		_		0-5(437)
 PKP011	439	{ride}	{ride}	{ride}	metalinguistic	Begin=1095.73	_	False	False	False	False				_		
@@ -2788,40 +2788,40 @@ PKP011	439	come	come	come	linguistic		_	False	False	False	False				_
 PKP011	439	maestra	maestra	maestra	linguistic		_	False	False	False	False				_		
 PKP011	439	devi	devi	devi	linguistic		_	False	False	False	False				_		
 PKP011	439	difenderla	difenderla	difenderla]	linguistic	End=1100.26	_	False	False	False	False				_		
-PKP012	440	ma	MA	[MA	linguistic	Begin=1098.815	_	False	False	False	False				high		0-2(?)
-PKP012	440	almeno	ALMENO	ALMENO	linguistic		_	False	False	False	False				high		0-6(?)
-PKP012	440	sa	sa	sa	linguistic		_	False	False	False	False				_		0-2(?)
-PKP012	440	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(?)
-PKP012	440	arriva	arriva	arriva]	linguistic		_	False	False	False	False				_		0-6(?)
-PKP012	440	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		0-1(?)
+PKP012	440	ma	MA	[MA	linguistic	Begin=1098.815	_	False	False	False	False				high		0-2(439)
+PKP012	440	almeno	ALMENO	ALMENO	linguistic		_	False	False	False	False				high		0-6(439)
+PKP012	440	sa	sa	sa	linguistic		_	False	False	False	False				_		0-2(439)
+PKP012	440	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(439)
+PKP012	440	arriva	arriva	arriva]	linguistic		_	False	False	False	False				_		0-6(439)
+PKP012	440	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		0-1(439)
 PKP012	440	il	il	il	linguistic		_	False	False	False	False				_		
 PKP012	440	concetto	concetto	concetto	linguistic		_	False	False	False	False				_		
 PKP012	440	è	è	è	linguistic		_	False	False	False	False				_		
 PKP012	440	quello	quello	quello	linguistic	End=1101.795	_	False	False	False	False				_		
-PKP031	441	cioè	cioè	[cioè	linguistic	Begin=1101.76	_	False	False	False	False				_		0-4(?)
-PKP031	441	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-PKP031	441	l~	l~	l~	linguistic		_	False	True	False	False				_		0-2(?)
-PKP031	441	l'ha	l'ha	l'ha	error		_	False	False	False	False				_		0-4(?)
-PKP031	441	racconta	racconta	racconta	linguistic		_	False	False	False	False				_		0-8(?)
-PKP031	441	quando	quando	quando	linguistic		_	False	False	False	False				_		0-6(?)
-PKP031	441	va	va	va	linguistic		_	False	False	False	False				_		0-2(?)
-PKP031	441	a	a	a	linguistic		_	False	False	False	False				_		0-1(?)
-PKP031	441	fare	fare	fare	linguistic		_	False	False	False	False				_		0-4(?)
-PKP031	441	insomma	insomma	insomma]	linguistic	End=1105.28	_	False	False	False	False				_		0-7(?)
-PKP038	442	sì	sì	[sì	linguistic	Begin=1101.78	_	False	False	False	False				_		0-2(?)
-PKP038	442	però	però	però	linguistic		_	False	False	False	False				_		0-4(?)
-PKP038	442	sai	sai	sai	linguistic		_	False	False	False	False				_		0-3(?)
-PKP038	442	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-PKP038	442	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(?)
-PKP038	442	anche	anche	anche	linguistic		_	False	False	False	False				_		0-5(?)
-PKP038	442	gli	gli	gli	linguistic		_	False	False	False	False				_		0-3(?)
-PKP038	442	altri	altri	altri	linguistic		_	False	False	False	False				_		0-5(?)
-PKP038	442	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(?)
-PKP038	442	arrivano	arrivano	arrivano	linguistic		_	False	False	False	False				_		0-8(?)
-PKP038	442	non	non	non	linguistic		_	False	False	False	False				_		0-3(?)
-PKP038	442	è	è	è	linguistic		_	False	False	False	False				_		0-1(?)
-PKP038	442	che	che	che]	linguistic		_	False	False	False	False				_		0-3(?)
-PKP038	442	fanno	fanno	fanno	linguistic		_	False	False	False	False				_		0-1(?)
+PKP031	441	cioè	cioè	[cioè	linguistic	Begin=1101.86	_	False	False	False	False				_		0-4(442+443)
+PKP031	441	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(442+443)
+PKP031	441	l~	l~	l~	linguistic		_	False	True	False	False				_		0-2(442+443)
+PKP031	441	l'ha	l'ha	l'ha	error		_	False	False	False	False				_		0-4(442+443)
+PKP031	441	racconta	racconta	racconta	linguistic		_	False	False	False	False				_		0-8(442+443)
+PKP031	441	quando	quando	quando	linguistic		_	False	False	False	False				_		0-6(442+443)
+PKP031	441	va	va	va	linguistic		_	False	False	False	False				_		0-2(442+443)
+PKP031	441	a	a	a	linguistic		_	False	False	False	False				_		0-1(442+443)
+PKP031	441	fare	fare	fare	linguistic		_	False	False	False	False				_		0-4(442+443)
+PKP031	441	insomma	insomma	insomma]	linguistic	End=1105.28	_	False	False	False	False				_		0-7(442+443)
+PKP038	442	sì	sì	[sì	linguistic	Begin=1101.8799999999999	_	False	False	False	False				_		0-2(441+443)
+PKP038	442	però	però	però	linguistic		_	False	False	False	False				_		0-4(441+443)
+PKP038	442	sai	sai	sai	linguistic		_	False	False	False	False				_		0-3(441+443)
+PKP038	442	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(441+443)
+PKP038	442	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(441+443)
+PKP038	442	anche	anche	anche	linguistic		_	False	False	False	False				_		0-5(441+443)
+PKP038	442	gli	gli	gli	linguistic		_	False	False	False	False				_		0-3(441+443)
+PKP038	442	altri	altri	altri	linguistic		_	False	False	False	False				_		0-5(441+443)
+PKP038	442	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(441+443)
+PKP038	442	arrivano	arrivano	arrivano	linguistic		_	False	False	False	False				_		0-8(441+443)
+PKP038	442	non	non	non	linguistic		_	False	False	False	False				_		0-3(441+443)
+PKP038	442	è	è	è	linguistic		_	False	False	False	False				_		0-1(441+443)
+PKP038	442	che	che	che]	linguistic		_	False	False	False	False				_		0-3(441+443)
+PKP038	442	fanno	fanno	fanno	linguistic		_	False	False	False	False				_		0-1(441+443)
 PKP038	442	tutte	tutte	tutte	linguistic		_	False	False	False	False				_		
 PKP038	442	xx	xx	xx	linguistic	End=1106.78	_	True	False	False	False				_		
 PKP011	443	{ride}	{ride}	{ride}	metalinguistic	Begin=1102.585	_	False	False	False	False				_		
@@ -2954,8 +2954,8 @@ PKP031	461	la	la	la	linguistic		_	False	False	False	False				_
 PKP031	461	ma~	ma~	ma~	linguistic		_	False	True	False	False				_		
 PKP031	461	la	la	la	linguistic		_	False	False	False	False				_		
 PKP031	461	maestrina	maestrina	maestrina	linguistic	End=1143.495	_	False	False	False	False				_		
-PKP011	462	xxx	xxx	[xxx]	linguistic	Begin=1143.48	_	True	False	False	False				_		0-3(?)
-PKP011	462	{ride}	{ride}	{ride}	metalinguistic	End=1145.17	_	False	False	False	False				_		0-1(?)
+PKP011	462	xxx	xxx	[xxx]	linguistic	Begin=1143.58	_	True	False	False	False				_		0-3(463)
+PKP011	462	{ride}	{ride}	{ride}	metalinguistic	End=1145.17	_	False	False	False	False				_		0-1(463)
 PKP038	463	poi	poi	(poi)	linguistic	Begin=1145.0	_	False	False	False	False				_	0-3(0)	
 PKP038	463	ho	ho	ho	linguistic		_	False	False	False	False				_	0-1(0)	
 PKP038	463	detto	detto	detto	linguistic		_	False	False	False	False				_		
@@ -3115,7 +3115,7 @@ PKP031	477	hanno	hanno	hanno	linguistic		_	False	False	False	False				_
 PKP031	477	vita	vita	vita	linguistic		_	False	False	False	False				_		
 PKP031	477	breve	breve	breve	linguistic		_	False	False	False	False				_		
 PKP031	477	abbiamo	abbiamo	abbiamo	linguistic		_	False	False	False	False				_		
-PKP031	477	capito	capito	capito	linguistic	End=1191.945	_	False	False	False	False				_		
+PKP031	477	capito	capito	capito	linguistic	End=1191.845	_	False	False	False	False				_		
 PKP011	478	{ride}	{ride}	{ride}	metalinguistic	End=1191.48	_	False	False	False	False				_		
 PKP012	479	no	no	no	linguistic	Begin=1191.93	_	False	False	False	False				_		
 PKP012	479	vabbé	vabbé	vabbé	linguistic		_	False	False	False	False				_		
@@ -3125,7 +3125,7 @@ PKP012	479	sono	sono	sono	linguistic		_	False	False	False	False				_
 PKP012	479	anche	anche	anche	linguistic		_	False	False	False	False				_		
 PKP012	479	loro	loro	loro	linguistic		_	False	False	False	False				_		
 PKP012	479	non	non	non	linguistic		_	False	False	False	False				_		
-PKP012	479	puoi	puoi::	puo[i::]	linguistic	End=1194.3	_	False	False	False	False	3x2			_		3-4(?)
+PKP012	479	puoi	puoi::	puo[i::]	linguistic	End=1194.3	_	False	False	False	False	3x2			_		3-4(480)
 PKP011	480	eh	eh	[eh]	linguistic	End=1194.29	_	False	False	False	False				_		0-2(479)
 PKP038	481	sì	sì	sì	linguistic	Begin=1194.37	_	False	False	False	False				_		
 PKP038	481	appunto	appunto	appunto	linguistic		_	False	False	False	False				_		
@@ -3221,10 +3221,10 @@ PKP012	501	avete	avete	avete	linguistic		_	False	False	False	False				_
 PKP012	501	la	la	la	linguistic		_	False	False	False	False				_		
 PKP012	501	stessa	stessa	stessa	linguistic		_	False	False	False	False				_		
 PKP012	501	carnagione	carnagione:	carnagione:	linguistic	End=1233.44	_	False	False	False	False	9x1			_		
-PKP124	502	vabbé	vabbé:	°vabbé:	linguistic	Begin=1233.43	_	False	False	False	False	4x1			low		
+PKP124	502	vabbé	vabbé:	°vabbé:	linguistic	Begin=1233.53	_	False	False	False	False	4x1			low		
 PKP124	502	ma	ma	[ma	linguistic		_	False	False	False	False				low		
-PKP124	502	mi	mi	mi	linguistic		_	False	False	False	False				low		0-2(?)
-PKP124	502	xxxxxx	xxxxxx	xxx]xxx°	linguistic	End=1236.24	_	True	False	False	False				low		0-6(?)
+PKP124	502	mi	mi	mi	linguistic		_	False	False	False	False				low		0-2(504+503)
+PKP124	502	xxxxxx	xxxxxx	xxx]xxx°	linguistic	End=1236.24	_	True	False	False	False				low		0-6(504+503)
 PKP011	503	sorella	sorella	[sorella	linguistic	Begin=1234.105	_	False	False	False	False				_		0-7(502+504)
 PKP011	503	dai	dai	dai]	linguistic	End=1234.985	_	False	False	False	False				_		0-3(502+504)
 PKP038	504	{ride}	{ride}	{ride}	metalinguistic	End=1234.935	_	False	False	False	False				_		
@@ -3498,7 +3498,7 @@ PKP038	543	gli	gli	gli	linguistic		_	False	False	False	False				_
 PKP038	543	ho	ho	ho	linguistic		_	False	False	False	False				_		
 PKP038	543	fatto	fatto	fatto	linguistic		_	False	False	False	False				_		
 PKP038	543	vedere	vedere	vedere	linguistic		_	False	False	False	False				_		
-PKP038	543	anche	anche,	anche,	linguistic	End=1304.555	weakly_ascending	False	False	False	False				_		
+PKP038	543	anche	anche,	anche,	linguistic	End=1304.4550000000002	weakly_ascending	False	False	False	False				_		
 PKP011	544	{ride}	{ride}	{ride}	metalinguistic	End=1303.29	_	False	False	False	False				_		
 PKP031	545	ma	ma	ma	linguistic	Begin=1304.54	_	False	False	False	False				_		
 PKP031	545	c'è	c'è	c'è	error		_	False	False	False	False				_		
@@ -3666,7 +3666,7 @@ PKP038	570	è	è	è	linguistic	Begin=1339.975	_	False	False	False	False				_
 PKP038	570	bellissimo	bellissimo	bellissimo	linguistic		_	False	False	False	False				_		
 PKP038	570	lo	lo	lo	linguistic		_	False	False	False	False				_		
 PKP038	570	voglio	voglio	voglio	linguistic		_	False	False	False	False				_		
-PKP038	570	michela	michela	[miche(la)]	linguistic	End=1342.155	_	False	False	False	False				_	6-7(0)	0-7(571+572)
+PKP038	570	michela	michela	[miche(la)]	linguistic	End=1342.055	_	False	False	False	False				_	6-7(0)	0-7(571)
 PKP124	571	ah	ah	[ah	linguistic	Begin=1341.56	_	False	False	False	False				_		0-2(?)
 PKP124	571	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		0-8(?)
 PKP124	571	pensavo	pensavo	pensavo	linguistic		_	False	False	False	False				_		0-7(?)
@@ -3684,10 +3684,10 @@ PKP124	571	il	il	>il	linguistic		_	False	False	False	False				_		0-2(?)
 PKP124	571	mio	mio	mio	linguistic		_	False	False	False	False			0-3(0)	_		0-3(?)
 PKP124	571	compleanno	compleanno	compleanno<]	linguistic		_	False	False	False	False			0-10(0)	_		0-10(?)
 PKP124	571	{ride}	{ride}	{ride}	metalinguistic	End=1347.31	_	False	False	False	False			0-3(0)	_		0-4(?)
-PKP012	572	è	È	[È	linguistic	Begin=1342.15	_	False	False	False	False				high		0-1(570+571)
-PKP012	572	anche	anche	anche	linguistic		_	False	False	False	False				_		0-5(570+571)
-PKP012	572	troppo	troppo	troppo	linguistic		_	False	False	False	False				_		0-6(570+571)
-PKP012	572	grande	grande	grande]	linguistic	End=1343.56	_	False	False	False	False				_		0-6(570+571)
+PKP012	572	è	È	[È	linguistic	Begin=1342.15	_	False	False	False	False				high		0-1(571)
+PKP012	572	anche	anche	anche	linguistic		_	False	False	False	False				_		0-5(571)
+PKP012	572	troppo	troppo	troppo	linguistic		_	False	False	False	False				_		0-6(571)
+PKP012	572	grande	grande	grande]	linguistic	End=1343.56	_	False	False	False	False				_		0-6(571)
 PKP038	573	xx	xx	[xx	linguistic	Begin=1343.56	_	True	False	False	False				_		0-2(571)
 PKP038	573	da	da	da	linguistic		_	False	False	False	False				_		0-2(571)
 PKP038	573	cuccioli	cuccioli	cuccioli	linguistic		_	False	False	False	False				_		0-8(571)
@@ -3799,14 +3799,14 @@ PKP038	589	che	che	che	linguistic		_	False	False	False	False				_		0-1(588)
 PKP038	589	vuole	vuole	vuole	linguistic		_	False	False	False	False				_		
 PKP038	589	mia	mia	mia	linguistic		_	False	False	False	False				_		
 PKP038	589	mamma	mamma	mamma	linguistic		_	False	False	False	False				_		
-PKP038	589	invece	invece	[invece]	linguistic	End=1371.255	_	False	False	False	False				_		2-6(590+591)
-PKP011	590	è	è	[è	linguistic	Begin=1370.715	_	False	False	False	False				_		0-1(589+591)
-PKP011	590	alto	alto	alto]	linguistic		_	False	False	False	False				_		0-4(589+591)
-PKP011	590	quanto	quanto	quanto	linguistic		_	False	False	False	False				_		0-1(589+591)
+PKP038	589	invece	invece	[invece]	linguistic	End=1371.1550000000002	_	False	False	False	False				_		2-6(590)
+PKP011	590	è	è	[è	linguistic	Begin=1370.715	_	False	False	False	False				_		0-1(?)
+PKP011	590	alto	alto	alto]	linguistic		_	False	False	False	False				_		0-4(?)
+PKP011	590	quanto	quanto	quanto	linguistic		_	False	False	False	False				_		0-1(?)
 PKP011	590	me	me,	me,	linguistic	End=1371.625	weakly_ascending	False	False	False	False				_		
-PKP012	591	non	non	[non	linguistic	Begin=1371.18	_	False	False	False	False				_		0-3(589+590)
-PKP012	591	mi	mi	mi]	linguistic		_	False	False	False	False				_		0-2(589+590)
-PKP012	591	piace	piace	piace	linguistic	End=1371.88	_	False	False	False	False				_		0-1(589+590)
+PKP012	591	non	non	[non	linguistic	Begin=1371.18	_	False	False	False	False				_		0-3(590)
+PKP012	591	mi	mi	mi]	linguistic		_	False	False	False	False				_		0-2(590)
+PKP012	591	piace	piace	piace	linguistic	End=1371.88	_	False	False	False	False				_		0-1(590)
 PKP011	592	{ride}	{ride}	{ride}	metalinguistic	Begin=1372.535	_	False	False	False	False				_		
 PKP011	592	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 PKP011	592	s~	s~	s~	linguistic		_	False	True	False	False				_		
@@ -3947,7 +3947,7 @@ PKP038	614	con	con	con	linguistic	Begin=1424.73	_	False	False	False	False				_
 PKP038	614	xxx	xxx	xxx	linguistic		_	True	False	False	False				_		
 PKP038	614	non	non	non	linguistic		_	False	False	False	False				_		
 PKP038	614	potevo	potevo	potevo	linguistic	End=1425.72	_	False	False	False	False				_		
-PKP011	615	xxxx	xxxx	xxxx	linguistic	Begin=1425.7	_	True	False	False	False				_		
+PKP011	615	xxxx	xxxx	xxxx	linguistic	Begin=1425.8	_	True	False	False	False				_		
 PKP011	615	ha	ha	ha	linguistic		_	False	False	False	False				_		
 PKP011	615	cosato	cosato	cosato	linguistic	End=1427.33	_	False	False	False	False				_		
 PKP031	616	perché	perché	perché	linguistic	Begin=1427.36	_	False	False	False	False				_		
@@ -3994,14 +3994,14 @@ PKP011	622	infatti	infatti	infatti]	linguistic	End=1437.045	_	False	False	False	
 PKP038	623	zona	zona	[zona	linguistic	Begin=1436.39	_	False	False	False	False				_		0-4(621+624+622)
 PKP038	623	rossa	rossa	rossa]	linguistic	End=1437.19	_	False	False	False	False				_		0-5(621+624+622)
 PKP124	624	rossa	rossa:	[rossa:]	linguistic	End=1437.5	_	False	False	False	False	4x1			_		0-5(?)
-PKP012	625	no	no	[no	linguistic	Begin=1437.23	_	False	False	False	False				_		0-2(?)
-PKP012	625	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(?)
-PKP012	625	è	è	è]	linguistic		_	False	False	False	False				_		0-1(?)
-PKP012	625	xxx	XXX	XXX	linguistic		_	True	False	False	False				high		0-1(?)
+PKP012	625	no	no	[no	linguistic	Begin=1437.23	_	False	False	False	False				_		0-2(621+624)
+PKP012	625	ma	ma	ma	linguistic		_	False	False	False	False				_		0-2(621+624)
+PKP012	625	è	è	è]	linguistic		_	False	False	False	False				_		0-1(621+624)
+PKP012	625	xxx	XXX	XXX	linguistic		_	True	False	False	False				high		0-1(621+624)
 PKP012	625	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
 PKP012	625	che	che	che	linguistic		_	False	False	False	False				_		
 PKP012	625	è	è:	è:	linguistic	End=1439.23	_	False	False	False	False	0x1			_		
-PKP038	626	è	è	è	linguistic	Begin=1439.215	_	False	False	False	False				_		
+PKP038	626	è	è	è	linguistic	Begin=1439.3149999999998	_	False	False	False	False				_		
 PKP038	626	è	è	è	linguistic		_	False	False	False	False				_		
 PKP038	626	è	è	è	linguistic		_	False	False	False	False				_		
 PKP038	626	xxx	xxx	xxx	linguistic		_	True	False	False	False				_		
@@ -4064,23 +4064,23 @@ PKP012	635	hanno	hanno	hanno	linguistic		_	False	False	False	False				_
 PKP012	635	messe	messe	messe	linguistic		_	False	False	False	False				_		
 PKP012	635	venerdì	venerdì	venerdì	linguistic		_	False	False	False	False				_		
 PKP012	635	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
-PKP012	635	mattina	mattina	[mattina]	linguistic		_	False	False	False	False				_		0-7(?)
-PKP012	635	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-1(?)
-PKP012	635	guarda	guarda?	guarda?	linguistic	End=1459.61	ascending	False	False	False	False				_		
+PKP012	635	mattina	mattina	[mattina]	linguistic		_	False	False	False	False				_		0-7(636)
+PKP012	635	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-1(636)
+PKP012	635	guarda	guarda?	guarda?	linguistic	End=1459.51	ascending	False	False	False	False				_		
 PKP011	636	di	di	[di	linguistic	Begin=1458.42	_	False	False	False	False				_		0-2(635)
 PKP011	636	già	già:?	già:?]	linguistic	End=1458.99	ascending	False	False	False	False	2x1			_		0-3(635)
 PKP124	637	sì	sì	sì	linguistic	Begin=1459.6	_	False	False	False	False				_		
-PKP124	637	ma	ma	[ma	linguistic		_	False	False	False	False				_		0-2(?)
-PKP124	637	anche	anche	anche	linguistic		_	False	False	False	False				_		0-5(?)
-PKP124	637	in	in	in]	linguistic		_	False	False	False	False				_		0-2(?)
-PKP124	637	xxx	xxx	xxx	linguistic		_	True	False	False	False				_		0-1(?)
+PKP124	637	ma	ma	[ma	linguistic		_	False	False	False	False				_		0-2(638+639)
+PKP124	637	anche	anche	anche	linguistic		_	False	False	False	False				_		0-5(638+639)
+PKP124	637	in	in	in]	linguistic		_	False	False	False	False				_		0-2(638+639)
+PKP124	637	xxx	xxx	xxx	linguistic		_	True	False	False	False				_		0-1(638+639)
 PKP124	637	c'erano	c'erano	c'erano	error		_	False	False	False	False				_		
 PKP124	637	già	già	già	linguistic		_	False	False	False	False				_		
 PKP124	637	tutte	tutte	tutte	linguistic		_	False	False	False	False				_		
-PKP124	637	attaccate	attaccate	at[taccate	linguistic		_	False	False	False	False				_		4-9(?)
-PKP124	637	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-PKP124	637	è	è	è]	linguistic		_	False	False	False	False				_		0-1(?)
-PKP124	637	mio	mio?	mio?	linguistic	End=1463.64	ascending	False	False	False	False				_		0-3(?)
+PKP124	637	attaccate	attaccate	at[taccate	linguistic		_	False	False	False	False				_		4-9(640)
+PKP124	637	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(640)
+PKP124	637	è	è	è]	linguistic		_	False	False	False	False				_		0-1(640)
+PKP124	637	mio	mio?	mio?	linguistic	End=1463.64	ascending	False	False	False	False				_		0-3(640)
 PKP038	638	oh	oh	[oh	linguistic	Begin=1459.71	_	False	False	False	False				_		0-2(637+639)
 PKP038	638	è	è	è	linguistic		_	False	False	False	False				_		0-1(637+639)
 PKP038	638	vero	vero	vero]	linguistic	End=1460.51	_	False	False	False	False				_		0-4(637+639)
@@ -4112,21 +4112,21 @@ PKP038	645	dopo	dopo	dopo	linguistic		_	False	False	False	False				_
 PKP038	645	no	no?	no?	linguistic	End=1472.3	ascending	False	False	False	False				_		
 PKP031	646	sì	sì	°sì	linguistic	Begin=1472.325	_	False	False	False	False				low		
 PKP031	646	andiamo	andiamo,	andiamo,°	linguistic	End=1473.025	weakly_ascending	False	False	False	False				low		
-PKP012	647	paghiamo	paghiamo	paghiamo	linguistic	Begin=1473.005	_	False	False	False	False				_		
+PKP012	647	paghiamo	paghiamo	paghiamo	linguistic	Begin=1473.105	_	False	False	False	False				_		
 PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 PKP012	647	o	o	o	linguistic		_	False	False	False	False				_		
 PKP012	647	adesso	adesso	<adesso>	linguistic		_	False	False	False	False		0-6(0)		_		
 PKP012	647	cioè	cioè	cioè	linguistic		_	False	False	False	False		0-1(0)		_		
-PKP012	647	ragazzi	ragazzi	[ragazzi	linguistic		_	False	False	False	False				_		2-7(?)
-PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-PKP012	647	dopo	dopo	dopo	linguistic		_	False	False	False	False				_		0-4(?)
-PKP012	647	xx	xx	xx	linguistic		_	True	False	False	False				_		0-2(?)
-PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-PKP012	647	dopo	DOPO	DOPO	linguistic		_	False	False	False	False				high		0-4(?)
-PKP012	647	uno	uno	uno	linguistic		_	False	False	False	False				_		0-3(?)
-PKP012	647	alla	alla	alla	linguistic		_	False	False	False	False				_		0-4(?)
-PKP012	647	volta	volta	volta]	linguistic		_	False	False	False	False				_		0-5(?)
-PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
+PKP012	647	ragazzi	ragazzi	[ragazzi	linguistic		_	False	False	False	False				_		2-7(648+649)
+PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(648+649)
+PKP012	647	dopo	dopo	dopo	linguistic		_	False	False	False	False				_		0-4(648+649)
+PKP012	647	xx	xx	xx	linguistic		_	True	False	False	False				_		0-2(648+649)
+PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(648+649)
+PKP012	647	dopo	DOPO	DOPO	linguistic		_	False	False	False	False				high		0-4(648+649)
+PKP012	647	uno	uno	uno	linguistic		_	False	False	False	False				_		0-3(648+649)
+PKP012	647	alla	alla	alla	linguistic		_	False	False	False	False				_		0-4(648+649)
+PKP012	647	volta	volta	volta]	linguistic		_	False	False	False	False				_		0-5(648+649)
+PKP012	647	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(648+649)
 PKP012	647	vabbè	vabbè	vabbè	linguistic	End=1479.135	_	False	False	False	False				_		
 PKP011	648	dai	dai	[dai	linguistic	Begin=1475.0	_	False	False	False	False				_		0-3(647+649)
 PKP011	648	facciam	facciam	facciam	linguistic		_	False	False	False	False				_		0-7(647+649)
@@ -4214,8 +4214,8 @@ PKP124	665	che	che	che	linguistic		_	False	False	False	False				_
 PKP124	665	ze	ze	ze	linguistic		_	False	False	False	False				_		
 PKP124	665	tutto	tutto	tutto	linguistic		_	False	False	False	False				_		
 PKP124	665	mio	mio	mio	linguistic		_	False	False	False	False				_		
-PKP124	665	questo	questo	[questo	linguistic		_	False	False	False	False				_		0-6(666+667)
-PKP124	665	vero	vero?	vero?]	linguistic	End=1503.59	ascending	False	False	False	False				_		0-4(666+667)
+PKP124	665	questo	questo	[questo	linguistic		_	False	False	False	False				_		0-6(666)
+PKP124	665	vero	vero?	vero?]	linguistic	End=1503.49	ascending	False	False	False	False				_		0-4(666)
 PKP038	666	e	e	[e	linguistic	Begin=1502.675	_	False	False	False	False				_		0-1(?)
 PKP038	666	comunque	comunque	comunque	linguistic		_	False	False	False	False				_		0-8(?)
 PKP038	666	dicevo	dicevo	dicevo	linguistic		_	False	False	False	False				_		0-6(?)
@@ -4244,11 +4244,11 @@ PKP038	666	f~	f~	f~]	linguistic		_	False	True	False	False				_		0-2(?)
 PKP038	666	che	che	che	linguistic		_	False	False	False	False				_		0-3(?)
 PKP038	666	farò	farò	farò	linguistic		_	False	False	False	False				_		0-4(?)
 PKP038	666	proprio	proprio	proprio	linguistic		_	False	False	False	False				_		
-PKP038	666	così	così	così	linguistic	End=1510.295	_	False	False	False	False				_		
+PKP038	666	così	così	così	linguistic	End=1510.1950000000002	_	False	False	False	False				_		
 PKP011	667	{ride}	{ride}	{ride}	metalinguistic	Begin=1503.54	_	False	False	False	False				_		
-PKP011	667	ma	ma	[°ma	linguistic		_	False	False	False	False				low		0-2(665+666)
-PKP011	667	era	era	era	linguistic		_	False	False	False	False				low		0-3(665+666)
-PKP011	667	suo	suo	suo°]	linguistic	End=1504.81	_	False	False	False	False				low		0-3(665+666)
+PKP011	667	ma	ma	[°ma	linguistic		_	False	False	False	False				low		0-2(666)
+PKP011	667	era	era	era	linguistic		_	False	False	False	False				low		0-3(666)
+PKP011	667	suo	suo	suo°]	linguistic	End=1504.81	_	False	False	False	False				low		0-3(666)
 PKP011	668	ma	ma	[°ma	linguistic	Begin=1505.86	_	False	False	False	False				_		0-2(666)
 PKP011	668	come	come	come	linguistic		_	False	False	False	False				_		0-4(666)
 PKP011	668	xx	xx	xx	linguistic		_	True	False	False	False				_		0-2(666)
@@ -4261,7 +4261,7 @@ PKP011	669	ti	ti	°ti	linguistic	Begin=1510.275	_	False	False	False	False				low
 PKP011	669	ha	ha	ha	linguistic		_	False	False	False	False				low		
 PKP011	669	dato	dato	dato	linguistic		_	False	False	False	False				low		
 PKP011	669	uno	uno	uno	linguistic		_	False	False	False	False				low		
-PKP011	669	sputo	sputo?	s[puto?°]	linguistic	End=1511.265	ascending	False	False	False	False				low		2-5(?)
+PKP011	669	sputo	sputo?	s[puto?°]	linguistic	End=1511.265	ascending	False	False	False	False				low		2-5(670)
 PKP012	670	glielo	glielo	[glielo	linguistic	Begin=1510.615	_	False	False	False	False				_		0-6(669)
 PKP012	670	invii	invii	invii]	linguistic		_	False	False	False	False				_		0-5(669)
 PKP012	670	per	per	per	linguistic		_	False	False	False	False				_		0-1(669)
@@ -4269,30 +4269,30 @@ PKP012	670	posta	posta?	posta?	linguistic	End=1512.155	ascending	False	False	Fal
 PKP038	671	con	con	con	linguistic	Begin=1512.68	_	False	False	False	False				_		
 PKP038	671	le	le	le	linguistic		_	False	False	False	False				_		
 PKP038	671	poste	poste?	poste?	linguistic	End=1513.31	ascending	False	False	False	False				_		
-PKP011	672	ma	ma	>ma	linguistic	Begin=1513.27	_	False	False	False	False			0-2(0)	_		
+PKP011	672	ma	ma	>ma	linguistic	Begin=1513.37	_	False	False	False	False			0-2(0)	_		
 PKP011	672	sapete	sapete	sapete<	linguistic		_	False	False	False	False			0-6(0)	_		
 PKP011	672	xx	xx	xx	linguistic	End=1514.67	_	True	False	False	False			0-1(0)	_		
 PKP124	673	comunque	comunque:	°comunque:	linguistic	Begin=1514.69	_	False	False	False	False	7x1			low		
 PKP124	673	ho	ho	ho	linguistic		_	False	False	False	False				low		
-PKP124	673	ascoltato	ascoltato	[ascoltato	linguistic		_	False	False	False	False				low		2-9(674+675)
-PKP124	673	il	il	il	linguistic		_	False	False	False	False				low		0-2(674+675)
-PKP124	673	discorso	discorso	discorso	linguistic		_	False	False	False	False				low		0-8(674+675)
-PKP124	673	di	di	di	linguistic		_	False	False	False	False				low		0-2(674+675)
-PKP124	673	kamala	kamala	kamala	linguistic		_	False	False	False	False				low		0-6(674+675)
-PKP124	673	mi	mi	mi	linguistic		_	False	False	False	False				low		0-2(674+675)
-PKP124	673	sono	sono:	sono:	linguistic		_	False	False	False	False	3x1			low		0-4(674+675)
-PKP124	673	commossa	commossa	commossa	linguistic		_	False	False	False	False				low		0-8(674+675)
-PKP124	673	xx	xx	xx°]	linguistic	End=1519.26	_	True	False	False	False				low		0-2(674+675)
-PKP038	674	volevo	volevo	[volevo	linguistic	Begin=1515.22	_	False	False	False	False				_		0-6(673+675)
-PKP038	674	prendere	prendere	prendere	linguistic		_	False	False	False	False				_		0-8(673+675)
-PKP038	674	tipo	tipo	tipo	linguistic		_	False	False	False	False				_		0-4(673+675)
-PKP038	674	i	i	i	linguistic		_	False	False	False	False				_		0-1(673+675)
-PKP038	674	sacchett~	sacchett~	sacchett~	linguistic		_	False	True	False	False				_		0-9(673+675)
-PKP038	674	avete	avete	avete	linguistic		_	False	False	False	False				_		0-5(673+675)
-PKP038	674	presente	presente	presente	linguistic		_	False	False	False	False				_		0-8(673+675)
-PKP038	674	quelli	quelli	quelli	linguistic		_	False	False	False	False				_		0-6(673+675)
-PKP038	674	trasparenti	trasparenti	trasparenti	linguistic		_	False	False	False	False				_		0-11(673+675)
-PKP038	674	colorati	colorati?	colorati?]	linguistic	End=1519.27	ascending	False	False	False	False				_		0-8(673+675)
+PKP124	673	ascoltato	ascoltato	[ascoltato	linguistic		_	False	False	False	False				low		2-9(674)
+PKP124	673	il	il	il	linguistic		_	False	False	False	False				low		0-2(674)
+PKP124	673	discorso	discorso	discorso	linguistic		_	False	False	False	False				low		0-8(674)
+PKP124	673	di	di	di	linguistic		_	False	False	False	False				low		0-2(674)
+PKP124	673	kamala	kamala	kamala	linguistic		_	False	False	False	False				low		0-6(674)
+PKP124	673	mi	mi	mi	linguistic		_	False	False	False	False				low		0-2(674)
+PKP124	673	sono	sono:	sono:	linguistic		_	False	False	False	False	3x1			low		0-4(674)
+PKP124	673	commossa	commossa	commossa	linguistic		_	False	False	False	False				low		0-8(674)
+PKP124	673	xx	xx	xx°]	linguistic	End=1519.16	_	True	False	False	False				low		0-2(674)
+PKP038	674	volevo	volevo	[volevo	linguistic	Begin=1515.22	_	False	False	False	False				_		0-6(673)
+PKP038	674	prendere	prendere	prendere	linguistic		_	False	False	False	False				_		0-8(673)
+PKP038	674	tipo	tipo	tipo	linguistic		_	False	False	False	False				_		0-4(673)
+PKP038	674	i	i	i	linguistic		_	False	False	False	False				_		0-1(673)
+PKP038	674	sacchett~	sacchett~	sacchett~	linguistic		_	False	True	False	False				_		0-9(673)
+PKP038	674	avete	avete	avete	linguistic		_	False	False	False	False				_		0-5(673)
+PKP038	674	presente	presente	presente	linguistic		_	False	False	False	False				_		0-8(673)
+PKP038	674	quelli	quelli	quelli	linguistic		_	False	False	False	False				_		0-6(673)
+PKP038	674	trasparenti	trasparenti	trasparenti	linguistic		_	False	False	False	False				_		0-11(673)
+PKP038	674	colorati	colorati?	colorati?]	linguistic	End=1519.17	ascending	False	False	False	False				_		0-8(673)
 PKP011	675	xx	xx	xx	linguistic	Begin=1519.25	_	True	False	False	False				_		
 PKP011	675	devo	devo	devo	linguistic		_	False	False	False	False				_		
 PKP011	675	ancora	ancora	ancora	linguistic		_	False	False	False	False				_		
@@ -4301,7 +4301,7 @@ PKP011	675	{P}	{P}	{P}	shortpause		_	False	False	False	False				_
 PKP011	675	cioè	cioè	cioè	linguistic		_	False	False	False	False				_		
 PKP011	675	non	non	non	linguistic		_	False	False	False	False				_		
 PKP011	675	ho	ho	ho	linguistic		_	False	False	False	False				_		
-PKP011	675	visto	visto:	[visto:]	linguistic	End=1522.34	_	False	False	False	False	4x1			_		0-5(?)
+PKP011	675	visto	visto:	[visto:]	linguistic	End=1522.34	_	False	False	False	False	4x1			_		0-5(676+677)
 PKP124	676	joe	joe	[joe	linguistic	Begin=1521.57	_	False	False	False	False				_		0-3(?)
 PKP124	676	ho	ho	ho	linguistic		_	False	False	False	False				_		0-2(?)
 PKP124	676	iniziato	iniziato	iniziato]	linguistic		_	False	False	False	False				_		0-8(?)
@@ -5546,13 +5546,13 @@ PKP038	825	quando	quando	quando	linguistic		_	False	False	False	False				_
 PKP038	825	parla	parla	parla	linguistic	End=1818.58	_	False	False	False	False				_		
 PKP011	826	{ride}	{ride}	{ride}	metalinguistic	End=1819.335	_	False	False	False	False				_		
 PKP031	827	toshano	toshano	tosha[no]	linguistic	End=1819.565	_	False	False	False	False				_		5-7(?)
-PKP038	828	ma	ma	[ma	linguistic	Begin=1819.33	_	False	False	False	False				_		0-2(?)
-PKP038	828	perché	perché	perché	linguistic		_	False	False	False	False				_		0-6(?)
-PKP038	828	eh	eh	eh	linguistic		_	False	False	False	False				_		0-2(?)
-PKP038	828	eh	eh	eh	linguistic		_	False	False	False	False				_		0-2(?)
-PKP038	828	senti	senti	senti	linguistic		_	False	False	False	False				_		0-5(?)
-PKP038	828	come	come	come	linguistic		_	False	False	False	False				_		0-4(?)
-PKP038	828	parla	parla?	parla?]	linguistic	End=1821.71	ascending	False	False	False	False				_		0-5(?)
+PKP038	828	ma	ma	[ma	linguistic	Begin=1819.4299999999998	_	False	False	False	False				_		0-2(827+829)
+PKP038	828	perché	perché	perché	linguistic		_	False	False	False	False				_		0-6(827+829)
+PKP038	828	eh	eh	eh	linguistic		_	False	False	False	False				_		0-2(827+829)
+PKP038	828	eh	eh	eh	linguistic		_	False	False	False	False				_		0-2(827+829)
+PKP038	828	senti	senti	senti	linguistic		_	False	False	False	False				_		0-5(827+829)
+PKP038	828	come	come	come	linguistic		_	False	False	False	False				_		0-4(827+829)
+PKP038	828	parla	parla?	parla?]	linguistic	End=1821.71	ascending	False	False	False	False				_		0-5(827+829)
 PKP124	829	gianni	gianni	[gianni	linguistic	Begin=1819.37	_	False	False	False	False				_		0-6(?)
 PKP124	829	come	come	come	linguistic		_	False	False	False	False				_		0-4(?)
 PKP124	829	va	va	va	linguistic		_	False	False	False	False				_		0-2(?)

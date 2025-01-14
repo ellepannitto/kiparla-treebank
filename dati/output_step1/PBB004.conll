@@ -54,9 +54,9 @@ BOI013	17	però	però	però	linguistic	Begin=25.86	_	False	False	False	False				
 BOI013	17	è	è	è	linguistic		_	False	False	False	False				_		
 BOI013	17	quartiere	quartiere	quartiere	linguistic		_	False	False	False	False				_		
 BOI013	17	corticella	corticella	cortic[ella]	linguistic	End=27.392	_	False	False	False	False				_		6-10(18)
-BOI012	18	no	no	[n]o	linguistic	End=27.56	_	False	False	False	False				_		0-2(?)
-BOR005	19	ah	ah	[ah	linguistic	Begin=27.55	_	False	False	False	False				_		0-2(18)
-BOR005	19	okay	okay	okay]	linguistic	End=28.319	_	False	False	False	False				_		0-4(18)
+BOI012	18	no	no	[n]o	linguistic	End=27.56	_	False	False	False	False				_		0-2(17)
+BOR005	19	ah	ah	[ah	linguistic	Begin=27.650000000000002	_	False	False	False	False				_		0-2(?)
+BOR005	19	okay	okay	okay]	linguistic	End=28.319	_	False	False	False	False				_		0-4(?)
 BOR005	20	e	e	e	linguistic	Begin=28.77	_	False	False	False	False				_		
 BOR005	20	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BOR005	20	le	le	le	linguistic		_	False	False	False	False				_		
@@ -150,7 +150,7 @@ BOR005	36	la	la	la	linguistic		_	False	False	False	False				_
 BOR005	36	vostra	vostra	vostra	linguistic		_	False	False	False	False				_		
 BOR005	36	zona	zona?	zona?	linguistic	End=62.976	ascending	False	False	False	False				_		
 BOI013	37	{ride}	{ride}	{ride}	metalinguistic	End=64.646	_	False	False	False	False				_		
-BOI012	38	ah	ah	ah	linguistic	Begin=64.64	_	False	False	False	False				_		
+BOI012	38	ah	ah	ah	linguistic	Begin=64.74	_	False	False	False	False				_		
 BOI012	38	beh	beh:	beh:	linguistic		_	False	False	False	False	2x1			_		
 BOI012	38	se	se	se	linguistic		_	False	False	False	False				_		
 BOI012	38	avessi	avessi	avessi	linguistic		_	False	False	False	False				_		
@@ -209,9 +209,9 @@ BOR005	48	ah	a::h	a::h	linguistic	End=85.827	_	False	False	False	False	0x2			_
 BOR005	49	anche	a:nche	a:nche	linguistic	Begin=87.07	_	False	False	False	False	0x1			_		
 BOR005	49	tipo	tipo	tipo	linguistic		_	False	False	False	False				_		
 BOR005	49	mh	m:h	m:h	linguistic		_	False	False	False	False	0x1			_		
-BOR005	49	intend~	intend~	in[tend~]	linguistic	End=88.14	_	False	True	False	False				_		4-7(50)
-BOI013	50	di	di	[di]	linguistic	Begin=88.105	_	False	False	False	False				_		0-2(49)
-BOI013	50	autobus	autobus	autobus	linguistic	End=89.245	_	False	False	False	False				_		0-1(49)
+BOR005	49	intend~	intend~	in[tend~]	linguistic	End=88.14	_	False	True	False	False				_		4-7(?)
+BOI013	50	di	di	[di]	linguistic	Begin=88.205	_	False	False	False	False				_		0-2(?)
+BOI013	50	autobus	autobus	autobus	linguistic	End=89.245	_	False	False	False	False				_		0-1(?)
 BOI013	51	per	per	per	linguistic	Begin=89.5	_	False	False	False	False				_		
 BOI013	51	chi	chi	chi	linguistic		_	False	False	False	False				_		
 BOI013	51	va	va	va	linguistic		_	False	False	False	False				_		
@@ -564,16 +564,16 @@ BOI012	113	sta	sta	sta	linguistic		_	False	False	False	False				_
 BOI012	113	paura	paura	paura	linguistic		_	False	False	False	False				_		
 BOI012	113	non	non	non	linguistic		_	False	False	False	False				_		
 BOI012	113	mh	m:::h	°m:::h°	linguistic	End=208.387	_	False	False	False	False	0x3			low		
-BOR005	114	e	e	>e	linguistic	Begin=208.375	_	False	False	False	False			0-1(0)	_		
+BOR005	114	e	e	>e	linguistic	Begin=208.475	_	False	False	False	False			0-1(0)	_		
 BOR005	114	quindi	quindi	quindi	linguistic		_	False	False	False	False			0-6(0)	_		
 BOR005	114	tu	tu	tu	linguistic		_	False	False	False	False			0-2(0)	_		
 BOR005	114	non	non	non	linguistic		_	False	False	False	False			0-3(0)	_		
 BOR005	114	lo	lo	lo	linguistic		_	False	False	False	False			0-2(0)	_		
 BOR005	114	noti	noti	noti<	linguistic		_	False	False	False	False			0-4(0)	_		
 BOR005	114	questo	questo	ques[to	linguistic		_	False	False	False	False			0-1(0)	_		
-BOR005	114	cambiamento	cambiamento	cambiam]ento	linguistic		_	False	False	False	False				_		0-11(?)
+BOR005	114	cambiamento	cambiamento	cambiam]ento	linguistic		_	False	False	False	False				_		0-11(115)
 BOR005	114	in	in	in	linguistic		_	False	False	False	False				_		
-BOR005	114	peggio	peggio	p[eggio]	linguistic	End=210.595	_	False	False	False	False				_		5-6(?)
+BOR005	114	peggio	peggio	p[eggio]	linguistic	End=210.595	_	False	False	False	False				_		5-6(116+117)
 BOI012	115	no	no	[no]	linguistic	End=209.795	_	False	False	False	False				_		0-2(114)
 BOI012	116	no	no	[no]	linguistic	End=210.575	_	False	False	False	False				_		0-2(114+117)
 BOI013	117	ah	ah	[°ah°]	linguistic	Begin=210.315	_	False	False	False	False				low		0-2(114+116)
@@ -1108,7 +1108,7 @@ BOI012	212	a	a	a	linguistic		_	False	False	False	False			0-1(0)	_
 BOI012	212	milano	milano	milano	linguistic		_	False	False	False	False			0-1(0)	_		
 BOI012	212	che	che	che	linguistic		_	False	False	False	False				_		
 BOI012	212	a	a	a	linguistic		_	False	False	False	False				_		
-BOI012	212	bologna	bologna	bologna	linguistic	End=384.22	_	False	False	False	False				_		
+BOI012	212	bologna	bologna	bologna	linguistic	End=384.12	_	False	False	False	False				_		
 BOI013	213	è	è	è	linguistic	Begin=384.215	_	False	False	False	False				_		
 BOI013	213	troppo	troppo	troppo	linguistic		_	False	False	False	False				_		
 BOI013	213	grande	grande	grande	linguistic	End=385.065	_	False	False	False	False				_		
@@ -1774,22 +1774,22 @@ BOI012	340	io	io	io	linguistic		_	False	False	False	False				_
 BOI012	340	non	non	n[on	linguistic		_	False	False	False	False				_		
 BOI012	340	mi	mi	mi	linguistic		_	False	False	False	False				_		0-2(341)
 BOI012	340	ric~	ric~	ric~]	linguistic	End=637.975	_	False	True	False	False				_		0-4(341)
-BOI013	341	ah	AH	[AH	linguistic	Begin=637.635	_	False	False	False	False				high		0-2(?)
-BOI013	341	io	io	io]	linguistic		_	False	False	False	False				_		0-2(?)
-BOI013	341	sì	sì:	sì:	linguistic		_	False	False	False	False	1x1			_		0-1(?)
+BOI013	341	ah	AH	[AH	linguistic	Begin=637.635	_	False	False	False	False				high		0-2(340)
+BOI013	341	io	io	io]	linguistic		_	False	False	False	False				_		0-2(340)
+BOI013	341	sì	sì:	sì:	linguistic		_	False	False	False	False	1x1			_		0-1(340)
 BOI013	341	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BOI013	341	con	con	con	linguistic		_	False	False	False	False				_		
 BOI013	341	mio	mio	mio	linguistic		_	False	False	False	False				_		
 BOI013	341	padre	padre	padre	linguistic	End=639.225	_	False	False	False	False				_		
-BOI012	342	mh	mh	mh	linguistic	Begin=639.22	_	False	False	False	False				_		
+BOI012	342	mh	mh	mh	linguistic	Begin=639.32	_	False	False	False	False				_		
 BOI012	342	bambino	bambino,	bambino,	linguistic		weakly_ascending	False	False	False	False				_		
 BOI012	342	anch'io,	anch'io,	anch'io,	error		_	False	False	False	False				_		
 BOI012	342	da	da	da	linguistic		_	False	False	False	False				_		
 BOI012	342	piccolo	piccolo	piccolo	linguistic		_	False	False	False	False				_		
-BOI012	342	con	con	[con	linguistic		_	False	False	False	False				_		1-3(?)
-BOI012	342	i	i	i	linguistic		_	False	False	False	False				_		0-1(?)
-BOI012	342	miei	miei	miei	linguistic		_	False	False	False	False				_		0-4(?)
-BOI012	342	genitori	genitori	genitori]	linguistic	End=641.81	_	False	False	False	False				_		0-8(?)
+BOI012	342	con	con	[con	linguistic		_	False	False	False	False				_		1-3(343)
+BOI012	342	i	i	i	linguistic		_	False	False	False	False				_		0-1(343)
+BOI012	342	miei	miei	miei	linguistic		_	False	False	False	False				_		0-4(343)
+BOI012	342	genitori	genitori	genitori]	linguistic	End=641.81	_	False	False	False	False				_		0-8(343)
 BOI013	343	era	era	[era	linguistic	Begin=641.06	_	False	False	False	False				_		0-3(342)
 BOI013	343	la	la	la	linguistic		_	False	False	False	False				_		0-2(342)
 BOI013	343	classica	classica	class]ica	linguistic		_	False	False	False	False				_		0-7(342)
@@ -1852,9 +1852,9 @@ BOR005	352	sempre	sempre	sempre	linguistic		_	False	False	False	False				_
 BOR005	352	andati	andati	andati	linguistic		_	False	False	False	False				_		
 BOR005	352	su	su	su	linguistic		_	False	False	False	False				_		
 BOR005	352	a	a	a	linguistic		_	False	False	False	False				_		
-BOR005	352	piedi	piedi	pie[di]	linguistic	End=662.49	_	False	False	False	False				_		3-5(353)
-BOI012	353	no	no:	[no]:	linguistic	Begin=662.395	_	False	False	False	False	1x1			_		0-2(352)
-BOI012	353	io	io	>io	linguistic		_	False	False	False	False				_		0-1(352)
+BOR005	352	piedi	piedi	pie[di]	linguistic	End=662.49	_	False	False	False	False				_		3-5(?)
+BOI012	353	no	no:	[no]:	linguistic	Begin=662.495	_	False	False	False	False	1x1			_		0-2(?)
+BOI012	353	io	io	>io	linguistic		_	False	False	False	False				_		0-1(?)
 BOI012	353	son	son	son	linguistic		_	False	False	False	False			0-3(0)	_		
 BOI012	353	stato	stato	stato	linguistic		_	False	False	False	False			0-5(0)	_		
 BOI012	353	su	su	su	linguistic		_	False	False	False	False			0-2(0)	_		
@@ -2119,8 +2119,8 @@ BOI012	407	si	si	si	linguistic		_	False	False	False	False				_
 BOI012	407	sposano	sposano	sposano	linguistic	End=761.35	_	False	False	False	False				_		
 BOR005	408	ah	a::h	a::h	linguistic	End=762.265	_	False	False	False	False	0x2			_		
 BOR005	409	non	non	non	linguistic	Begin=762.375	_	False	False	False	False				_		
-BOR005	409	lo	lo	l[o	linguistic		_	False	False	False	False				_		1-2(410)
-BOR005	409	sapevo	sapevo	sap]e[vo]	linguistic	End=763.225	_	False	False	False	False				_		0-5(410)
+BOR005	409	lo	lo	l[o	linguistic		_	False	False	False	False				_		1-2(?)
+BOR005	409	sapevo	sapevo	sap]e[vo]	linguistic	End=763.125	_	False	False	False	False				_		0-5(?)
 BOI012	410	sì	sì	[sì]	linguistic	End=763.06	_	False	False	False	False				_		0-2(409)
 BOI013	411	vedi	vedi?	vedi?	linguistic	End=763.67	ascending	False	False	False	False				_		
 BOI012	412	un	un	un	linguistic	Begin=764.105	_	False	False	False	False				_		
@@ -2499,10 +2499,10 @@ BOR005	480	che	che	>che	linguistic	Begin=891.83	_	False	False	False	False			0-3(
 BOR005	480	si	si	si	linguistic		_	False	False	False	False			0-2(0)	_		
 BOR005	480	vede	vede	vede	linguistic		_	False	False	False	False			0-4(0)	_		
 BOR005	480	anche	anche	anche	linguistic		_	False	False	False	False			0-5(0)	_		
-BOR005	480	l'aeroporto,	l'aeroporto,	l'aeropor[to,<]	error	End=893.14	_	False	False	False	False			0-11(0)	_		10-11(481+482)
-BOI013	481	sì	sì	[sì]	linguistic	End=893.35	_	False	False	False	False				_		0-2(480+482)
-BOI012	482	anche	anche	[anche]	linguistic	Begin=893.07	_	False	False	False	False				_		0-5(480+481)
-BOI012	482	lo	lo	lo	linguistic		_	False	False	False	False				_		0-1(480+481)
+BOR005	480	l'aeroporto,	l'aeroporto,	l'aeropor[to,<]	error	End=893.14	_	False	False	False	False			0-11(0)	_		10-11(481)
+BOI013	481	sì	sì	[sì]	linguistic	End=893.35	_	False	False	False	False				_		0-2(?)
+BOI012	482	anche	anche	[anche]	linguistic	Begin=893.1700000000001	_	False	False	False	False				_		0-5(481)
+BOI012	482	lo	lo	lo	linguistic		_	False	False	False	False				_		0-1(481)
 BOI012	482	sta~	sta~	sta~	linguistic		_	False	True	False	False				_		
 BOI012	482	lo	lo:::	lo:::	linguistic		_	False	False	False	False	1x3			_		
 BOI012	482	lo	lo	lo	linguistic		_	False	False	False	False				_		
@@ -2819,7 +2819,7 @@ BOI012	530	portico	portico	portico	linguistic		_	False	False	False	False				_
 BOI012	530	quello	quello	quello	linguistic		_	False	False	False	False				_		
 BOI012	530	lì	lì	lì	linguistic		_	False	False	False	False				_		
 BOI012	530	sì	sì	s[ì]	linguistic	End=995.051	_	False	False	False	False				_		
-BOI013	531	che	che	[ch]e	linguistic	Begin=995.001	_	False	False	False	False				_		0-3(530)
+BOI013	531	che	che	[ch]e	linguistic	Begin=995.101	_	False	False	False	False				_		0-3(?)
 BOI013	531	poi	poi	poi	linguistic		_	False	False	False	False				_		
 BOI013	531	dicono	dicono	dicono	linguistic		_	False	False	False	False				_		
 BOI013	531	che	che	che	linguistic		_	False	False	False	False				_		
@@ -2911,8 +2911,8 @@ BOI013	549	la	la	la	linguistic		_	False	False	False	False			0-2(0)	_
 BOI013	549	madonna	madonna	madonna	linguistic		_	False	False	False	False			0-7(0)	_		
 BOI013	549	di	di	di	linguistic		_	False	False	False	False			0-2(0)	_		
 BOI013	549	san	san	san	linguistic		_	False	False	False	False			0-3(0)	_		
-BOI013	549	luca	luca,	lu[ca,<]	linguistic	End=1028.498	weakly_ascending	False	False	False	False			0-4(0)	_		3-4(550)
-BOR005	550	mhmh	mhmh	[m]hmh	linguistic	End=1028.782	_	False	False	False	False				_		0-3(549)
+BOI013	549	luca	luca,	lu[ca,<]	linguistic	End=1028.3980000000001	weakly_ascending	False	False	False	False			0-4(0)	_		3-4(?)
+BOR005	550	mhmh	mhmh	[m]hmh	linguistic	End=1028.782	_	False	False	False	False				_		0-3(?)
 BOI013	551	è	è	è	linguistic	Begin=1028.874	_	False	False	False	False				_		
 BOI013	551	scura	scura	scura	linguistic		_	False	False	False	False				_		
 BOI013	551	in	in	in	linguistic		_	False	False	False	False				_		
@@ -2982,10 +2982,10 @@ BOI012	560	città	città	città	linguistic		_	False	False	False	False				_
 BOI012	560	li	li	li	linguistic		_	False	False	False	False				_		
 BOI012	560	hanno	hanno	hanno	linguistic	End=1055.396	_	False	False	False	False				_		
 BOR005	561	sì	sì?	sì?	linguistic	End=1055.841	ascending	False	False	False	False				_		
-BOI013	562	beh	beh	>beh	linguistic	Begin=1055.835	_	False	False	False	False			0-3(0)	_		
-BOI013	562	cioè	cioè	ci[oè	linguistic		_	False	False	False	False			0-4(0)	_		3-4(?)
-BOI013	562	enr~	enr~	enr~<]	linguistic		_	False	True	False	False			0-4(0)	_		0-4(?)
-BOI013	562	siamo	siamo	siamo	linguistic		_	False	False	False	False			0-2(0)	_		0-3(?)
+BOI013	562	beh	beh	>beh	linguistic	Begin=1055.935	_	False	False	False	False			0-3(0)	_		
+BOI013	562	cioè	cioè	ci[oè	linguistic		_	False	False	False	False			0-4(0)	_		3-4(563)
+BOI013	562	enr~	enr~	enr~<]	linguistic		_	False	True	False	False			0-4(0)	_		0-4(563)
+BOI013	562	siamo	siamo	siamo	linguistic		_	False	False	False	False			0-2(0)	_		0-3(563)
 BOI013	562	andati	andati	andati	linguistic		_	False	False	False	False				_		
 BOI013	562	a	a	a	linguistic		_	False	False	False	False				_		
 BOI013	562	roma	roma	roma	linguistic		_	False	False	False	False				_		
@@ -3087,7 +3087,7 @@ BOI013	579	talmente	talmente	talmente	linguistic		_	False	False	False	False				_
 BOI013	579	io	io	io	linguistic		_	False	False	False	False				_		
 BOI013	579	non	non	non	linguistic		_	False	False	False	False				_		
 BOI013	579	compro	compro	>compro<	linguistic	End=1088.048	_	False	False	False	False			2-6(1)	_		
-BOI012	580	a	a	(a)	linguistic	Begin=1087.973	_	False	False	False	False				_	0-1(0)	
+BOI012	580	a	a	(a)	linguistic	Begin=1088.0729999999999	_	False	False	False	False				_	0-1(0)	
 BOI012	580	torre	torre	torre	linguistic		_	False	False	False	False				_	0-1(0)	
 BOI012	580	melissa	melissa	melissa	linguistic		_	False	False	False	False				_		
 BOI012	580	non	non	non	linguistic		_	False	False	False	False				_		
@@ -3123,7 +3123,7 @@ BOI013	586	{ride}	{ride}	{ride}	metalinguistic	End=1097.952	_	False	False	False	
 BOR005	587	e	e	e	linguistic	Begin=1098.243	_	False	False	False	False				_		
 BOR005	587	le	le	le	linguistic		_	False	False	False	False				_		
 BOR005	587	valanghe	valanghe	valanghe	linguistic	End=1099.126	_	False	False	False	False				_		
-BOI013	588	e	e	e	linguistic	Begin=1099.12	_	False	False	False	False				_		
+BOI013	588	e	e	e	linguistic	Begin=1099.2199999999998	_	False	False	False	False				_		
 BOI013	588	valanghe	valanghe	valanghe	linguistic		_	False	False	False	False				_		
 BOI013	588	che	che	che	linguistic		_	False	False	False	False				_		
 BOI013	588	vengono	vengono	vengono	linguistic		_	False	False	False	False				_		
@@ -3323,7 +3323,7 @@ BOI013	618	non	non	[non	linguistic		_	False	False	False	False				_
 BOI013	618	è	è	è	linguistic		_	False	False	False	False				_		
 BOI013	618	la	la:	la:]	linguistic	End=1177.583	_	False	False	False	False	1x1			_		1-2(619)
 BOI012	619	d'europa	d'europa	[d'europa]	error	End=1177.599	_	False	False	False	False				_		0-8(618)
-BOI013	620	d'europa	d'europa	d'europa	error	End=1178.579	_	False	False	False	False				_		
+BOI013	620	d'europa	d'europa	d'europa	error	End=1178.479	_	False	False	False	False				_		
 BOI012	621	mhmh	mhmh	mhmh	linguistic	End=1179.012	_	False	False	False	False				_		
 BOI013	622	eh	eh	>°eh	linguistic	Begin=1179.438	_	False	False	False	False			0-2(0)	low		
 BOI013	622	va~	va~	va~°	linguistic		_	False	True	False	False			0-3(0)	low		
@@ -3565,11 +3565,11 @@ BOI013	676	il	il	i]l	linguistic		_	False	False	False	False				_		0-2(675)
 BOI013	676	mio	mio	mio	linguistic		_	False	False	False	False				_		
 BOI013	676	lavoro	lavoro	lav[oro	linguistic		_	False	False	False	False				_		5-6(677)
 BOI013	676	dopo	dopo:	dopo:]	linguistic	End=1282.479	_	False	False	False	False	3x1			_		0-4(677)
-BOI012	677	ci	ci	[<ci	linguistic	Begin=1281.689	_	False	False	False	False		1-2(0)		_		0-2(?)
-BOI012	677	vuol	vuol	vuol	linguistic		_	False	False	False	False		0-4(0)		_		0-4(?)
-BOI012	677	del	del	del	linguistic		_	False	False	False	False		0-3(0)		_		0-3(?)
-BOI012	677	ricambio	ricambio:	ri]cambio:>	linguistic	End=1283.285	_	False	False	False	False	7x1	0-8(0)		_		0-5(?)
-BOI013	678	dopo	dopo	dopo	linguistic	Begin=1283.224	_	False	False	False	False				_		
+BOI012	677	ci	ci	[<ci	linguistic	Begin=1281.689	_	False	False	False	False		1-2(0)		_		0-2(676)
+BOI012	677	vuol	vuol	vuol	linguistic		_	False	False	False	False		0-4(0)		_		0-4(676)
+BOI012	677	del	del	del	linguistic		_	False	False	False	False		0-3(0)		_		0-3(676)
+BOI012	677	ricambio	ricambio:	ri]cambio:>	linguistic	End=1283.285	_	False	False	False	False	7x1	0-8(0)		_		0-5(676)
+BOI013	678	dopo	dopo	dopo	linguistic	Begin=1283.3239999999998	_	False	False	False	False				_		
 BOI013	678	i	i	i	linguistic		_	False	False	False	False				_		
 BOI013	678	cinquantanni	cinquantanni	cinquantanni	linguistic		_	False	False	False	False				_		
 BOI013	678	non	non	non	linguistic		_	False	False	False	False				_		
@@ -3754,16 +3754,16 @@ BOI012	719	gina	gina	gina	linguistic		_	False	False	False	False				_
 BOI012	719	eh	eh	eh	linguistic	End=1359.913	_	False	False	False	False				_		
 BOI012	720	eh	eh	°eh	linguistic	Begin=1360.078	_	False	False	False	False				low		
 BOI012	720	eh	e::h	[e::h°]	linguistic	End=1360.737	_	False	False	False	False	0x2			low		1-2(721)
-BOI013	721	no	no	[no	linguistic	Begin=1360.277	_	False	False	False	False				_		0-2(?)
-BOI013	721	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(?)
-BOI013	721	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(?)
-BOI013	721	sono	sono	sono]	linguistic		_	False	False	False	False				_		0-4(?)
-BOI013	721	i	i	i	linguistic		_	False	False	False	False				_		0-1(?)
+BOI013	721	no	no	[no	linguistic	Begin=1360.277	_	False	False	False	False				_		0-2(720)
+BOI013	721	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		0-3(720)
+BOI013	721	ci	ci	ci	linguistic		_	False	False	False	False				_		0-2(720)
+BOI013	721	sono	sono	sono]	linguistic		_	False	False	False	False				_		0-4(720)
+BOI013	721	i	i	i	linguistic		_	False	False	False	False				_		0-1(720)
 BOI013	721	privati	privati	privati	linguistic		_	False	False	False	False				_		
 BOI013	721	che	che	che	linguistic		_	False	False	False	False				_		
 BOI013	721	fanno	fanno	fanno	linguistic		_	False	False	False	False				_		
 BOI013	721	le	le	le	linguistic		_	False	False	False	False				_		
-BOI013	721	scelte	scelte	scelte	linguistic	End=1362.309	_	False	False	False	False				_		
+BOI013	721	scelte	scelte	scelte	linguistic	End=1362.209	_	False	False	False	False				_		
 BOI012	722	beh	beh	beh	linguistic	Begin=1362.28	_	False	False	False	False				_		
 BOI012	722	ma	ma	ma	linguistic		_	False	False	False	False				_		
 BOI012	722	i	i	i	linguistic		_	False	False	False	False				_		
@@ -4054,13 +4054,13 @@ BOI012	777	a	a	a	linguistic	Begin=1470.686	_	False	False	False	False				_
 BOI012	777	bologna	bologna	bologna	linguistic		_	False	False	False	False				_		
 BOI012	777	non	non	non	linguistic		_	False	False	False	False				_		
 BOI012	777	ne	ne	ne	linguistic		_	False	False	False	False				_		
-BOI012	777	viene	viene	vien[e]	linguistic	End=1471.845	_	False	False	False	False				_		4-5(778)
-BOI013	778	no	no	[n]o	linguistic	Begin=1471.803	_	False	False	False	False				_		0-2(777)
+BOI012	777	viene	viene	vien[e]	linguistic	End=1471.845	_	False	False	False	False				_		4-5(?)
+BOI013	778	no	no	[n]o	linguistic	Begin=1471.903	_	False	False	False	False				_		0-2(?)
 BOI013	778	vengono	vengono	vengono	linguistic		_	False	False	False	False				_		
 BOI013	778	quasi	quasi	quasi	linguistic		_	False	False	False	False				_		
 BOI013	778	tutti	tutti	tut[ti	linguistic		_	False	False	False	False				_		
-BOI013	778	da	da	da	linguistic		_	False	False	False	False				_		0-2(779)
-BOI013	778	giù	giù	gi]ù	linguistic	End=1473.58	_	False	False	False	False				_		0-3(779)
+BOI013	778	da	da	da	linguistic		_	False	False	False	False				_		0-2(?)
+BOI013	778	giù	giù	gi]ù	linguistic	End=1473.58	_	False	False	False	False				_		0-3(?)
 BOI012	779	eh	e::h	[e::h]	linguistic	End=1473.285	_	False	False	False	False	0x2			_		0-2(778)
 BOI013	780	da	da	da	linguistic	Begin=1473.819	_	False	False	False	False				_		
 BOI013	780	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
@@ -4099,7 +4099,7 @@ BOI013	785	che	che	che	linguistic	Begin=1486.209	_	False	False	False	False				_
 BOI013	785	lavorano	lavorano	lavorano	linguistic		_	False	False	False	False				_		
 BOI013	785	in	in	in	linguistic		_	False	False	False	False				_		
 BOI013	785	quelle	quelle::	quelle::	linguistic	End=1487.613	_	False	False	False	False	5x2			_		
-BOI012	786	sì	sì	>sì	linguistic	Begin=1487.608	_	False	False	False	False			0-2(0)	_		
+BOI012	786	sì	sì	>sì	linguistic	Begin=1487.7079999999999	_	False	False	False	False			0-2(0)	_		
 BOI012	786	ma	ma	ma	linguistic		_	False	False	False	False			0-2(0)	_		
 BOI012	786	questo	questo	questo	linguistic		_	False	False	False	False			0-6(0)	_		
 BOI012	786	non	non	non	linguistic		_	False	False	False	False			0-3(0)	_		
@@ -4126,25 +4126,25 @@ BOI012	788	sono	sono	sono	linguistic		_	False	False	False	False				_		0-4(787)
 BOI012	788	dei	dei	dei	linguistic		_	False	False	False	False				_		0-3(787)
 BOI012	788	po~	po~	po~]	linguistic	End=1492.273	_	False	True	False	False				_		0-3(787)
 BOI012	789	perché	perchè	perchè	linguistic	Begin=1492.741	_	False	False	False	False				_		
-BOI012	789	ci	ci	[ci	linguistic		_	False	False	False	False				_		0-2(?)
-BOI012	789	sono	sono	sono	linguistic		_	False	False	False	False				_		0-4(?)
-BOI012	789	dei	dei	dei	linguistic		_	False	False	False	False				_		0-3(?)
-BOI012	789	posti	posti	p]osti	linguistic		_	False	False	False	False				_		0-3(?)
+BOI012	789	ci	ci	[ci	linguistic		_	False	False	False	False				_		0-2(787)
+BOI012	789	sono	sono	sono	linguistic		_	False	False	False	False				_		0-4(787)
+BOI012	789	dei	dei	dei	linguistic		_	False	False	False	False				_		0-3(787)
+BOI012	789	posti	posti	p]osti	linguistic		_	False	False	False	False				_		0-3(787)
 BOI012	789	peggiori	peggiori	peggiori	linguistic		_	False	False	False	False				_		
 BOI012	789	dove	dove	dove	linguistic		_	False	False	False	False				_		
 BOI012	789	si	si	si	linguistic		_	False	False	False	False				_		
 BOI012	789	può	può	pu[ò	linguistic		_	False	False	False	False				_		
-BOI012	789	lavorare	lavorare	lavor]are	linguistic	End=1495.443	_	False	False	False	False				_		0-8(?)
+BOI012	789	lavorare	lavorare	lavor]are	linguistic	End=1495.443	_	False	False	False	False				_		0-8(790)
 BOI013	790	no	NO	[NO]	linguistic	End=1495.243	_	False	False	False	False				high		0-2(789)
-BOI013	791	perché	perchè	perchè	linguistic	Begin=1495.424	_	False	False	False	False				_		
+BOI013	791	perché	perchè	perchè	linguistic	Begin=1495.524	_	False	False	False	False				_		
 BOI013	791	giù	giù	giù	linguistic		_	False	False	False	False				_		
 BOI013	791	non	non	non	linguistic		_	False	False	False	False				_		
 BOI013	791	vengono	vengono	vengono	linguistic		_	False	False	False	False				_		
-BOI013	791	rispettati	rispettati	rispet[tati	linguistic		_	False	False	False	False				_		6-10(?)
-BOI013	791	i	i	i	linguistic		_	False	False	False	False				_		0-1(?)
-BOI013	791	diritti	diritti	dir]itti	linguistic		_	False	False	False	False				_		0-5(?)
+BOI013	791	rispettati	rispettati	rispet[tati	linguistic		_	False	False	False	False				_		6-10(792)
+BOI013	791	i	i	i	linguistic		_	False	False	False	False				_		0-1(792)
+BOI013	791	diritti	diritti	dir]itti	linguistic		_	False	False	False	False				_		0-5(792)
 BOI013	791	dei	dei	dei	linguistic		_	False	False	False	False				_		
-BOI013	791	lavoratori	lavoratori	lavora[tori]	linguistic	End=1498.264	_	False	False	False	False				_		8-10(?)
+BOI013	791	lavoratori	lavoratori	lavora[tori]	linguistic	End=1498.264	_	False	False	False	False				_		8-10(793)
 BOI012	792	e	e	[e	linguistic	Begin=1496.713	_	False	False	False	False				_		0-1(791)
 BOI012	792	allora	allora	allora]	linguistic	End=1497.267	_	False	False	False	False				_		0-6(791)
 BOI012	793	non	non	[non]	linguistic	Begin=1498.027	_	False	False	False	False				_		0-3(791)
@@ -4730,8 +4730,8 @@ BOI012	895	dalla	dalla	dalla	linguistic		_	False	False	False	False				_
 BOI012	895	tata	tata	(tata	linguistic		_	False	False	False	False				_	0-4(0)	
 BOI012	895	a	a	a	linguistic		_	False	False	False	False				_	0-1(0)	
 BOI012	895	xx	xx	[xx)]	linguistic	End=1716.845	_	True	False	False	False				_	0-2(0)	1-2(896)
-BOI013	896	sì	sì	[>sì	linguistic	Begin=1716.658	_	False	False	False	False			1-2(0)	_		0-2(?)
-BOI013	896	vabbè	vabbè	v]abbè	linguistic		_	False	False	False	False			0-5(0)	_		0-4(?)
+BOI013	896	sì	sì	[>sì	linguistic	Begin=1716.658	_	False	False	False	False			1-2(0)	_		0-2(895)
+BOI013	896	vabbè	vabbè	v]abbè	linguistic		_	False	False	False	False			0-5(0)	_		0-4(895)
 BOI013	896	poi	poi	poi	linguistic		_	False	False	False	False			0-3(0)	_		
 BOI013	896	vado	vado	vado	linguistic		_	False	False	False	False			0-4(0)	_		
 BOI013	896	anche	anche	anche	linguistic		_	False	False	False	False			0-5(0)	_		
@@ -4739,7 +4739,7 @@ BOI013	896	da	da	da	linguistic		_	False	False	False	False			0-2(0)	_
 BOI013	896	mia	mia	mia	linguistic		_	False	False	False	False			0-3(0)	_		
 BOI013	896	sorella	sorella	sorella	linguistic		_	False	False	False	False			0-7(0)	_		
 BOI013	896	io	io	io	linguistic		_	False	False	False	False			0-2(0)	_		
-BOI013	896	eh	eh	eh<	linguistic	End=1718.647	_	False	False	False	False			0-2(0)	_		
+BOI013	896	eh	eh	eh<	linguistic	End=1718.547	_	False	False	False	False			0-2(0)	_		
 BOR005	897	mh	mh	mh	linguistic	End=1718.876	_	False	False	False	False				_		
 BOI013	898	però	però	però	linguistic	Begin=1719.756	_	False	False	False	False				_		
 BOI013	898	quando	quando	quando	linguistic		_	False	False	False	False				_		
@@ -4808,7 +4808,7 @@ BOI012	908	tempo	tempo	tempo	linguistic		_	False	False	False	False				_
 BOI012	908	anche	anche	anche	linguistic		_	False	False	False	False				_		
 BOI012	908	a	a	a	linguistic		_	False	False	False	False				_		
 BOI012	908	sua	sua	sua	linguistic		_	False	False	False	False				_		
-BOI012	908	sorella	sorella	sorella	linguistic	End=1743.194	_	False	False	False	False				_		
+BOI012	908	sorella	sorella	sorella	linguistic	End=1743.094	_	False	False	False	False				_		
 BOR005	909	mh	m:h	[m[:h]	linguistic	End=1743.491	_	False	False	False	False	0x1			_		
 BOI013	910	poi	poi	[po]i	linguistic	Begin=1743.366	_	False	False	False	False				_		0-3(909)
 BOI013	910	chiu	chiu::	chiu::	linguistic		_	False	False	False	False	3x2			_		
@@ -4966,8 +4966,8 @@ BOI013	942	bianca	bianca,	bianca,	linguistic		weakly_ascending	False	False	False
 BOI013	942	io	io	io	linguistic		_	False	False	False	False				_		
 BOI013	942	c'ho	c'ho	c'ho	error		_	False	False	False	False				_		
 BOI013	942	i	i	i	linguistic		_	False	False	False	False				_		
-BOI013	942	miei	miei::::	miei::°:[:°]	linguistic	End=1796.749	_	False	False	False	False	3x4			_		
-BOI012	943	martedì	martedì	[m]artedì	linguistic	Begin=1796.672	_	False	False	False	False				_		0-3(942)
+BOI013	942	miei	miei::::	miei::°:[:°]	linguistic	End=1796.6490000000001	_	False	False	False	False	3x4			_		
+BOI012	943	martedì	martedì	[m]artedì	linguistic	Begin=1796.672	_	False	False	False	False				_		0-3(?)
 BOI012	943	ci	ci	ci	linguistic		_	False	False	False	False				_		
 BOI012	943	sei	sei	sei	linguistic		_	False	False	False	False				_		
 BOI012	943	te	te	te	linguistic		_	False	False	False	False				_		
@@ -5028,14 +5028,14 @@ BOI012	955	poi	poi::	poi::	linguistic		_	False	False	False	False	2x2			_
 BOI012	955	mi	mi	mi	linguistic		_	False	False	False	False				_		
 BOI012	955	sono	sono	sono	linguistic		_	False	False	False	False				_		
 BOI012	955	allontanato	allontanato	allon°t[anato°]	linguistic	End=1820.533	_	False	False	False	False				low		10-11(956)
-BOR005	956	per	per	[per	linguistic	Begin=1820.262	_	False	False	False	False				_		0-3(955)
-BOR005	956	il	il	il	linguistic		_	False	False	False	False				_		0-2(955)
-BOR005	956	calcio	calcio	c]alcio	linguistic		_	False	False	False	False				_		0-3(955)
+BOR005	956	per	per	[per	linguistic	Begin=1820.262	_	False	False	False	False				_		0-3(?)
+BOR005	956	il	il	il	linguistic		_	False	False	False	False				_		0-2(?)
+BOR005	956	calcio	calcio	c]alcio	linguistic		_	False	False	False	False				_		0-3(?)
 BOR005	956	o	o	o	linguistic		_	False	False	False	False				_		
 BOR005	956	per	per	per	linguistic		_	False	False	False	False				_		
 BOR005	956	il	il	il	linguistic		_	False	False	False	False				_		
 BOR005	956	basket	basket	bask[et]	linguistic	End=1821.539	_	False	False	False	False				_		
-BOI012	957	calcio	calcio	[c]alcio	linguistic	Begin=1821.498	_	False	False	False	False				_		0-3(956)
+BOI012	957	calcio	calcio	[c]alcio	linguistic	Begin=1821.598	_	False	False	False	False				_		0-3(?)
 BOI012	957	il	il	il	linguistic		_	False	False	False	False				_		
 BOI012	957	bas~	bas~	bas~	linguistic		_	False	True	False	False				_		
 BOI012	957	il	il	il	linguistic		_	False	False	False	False				_		
@@ -5089,9 +5089,9 @@ BOR005	964	gina	gina	gina	linguistic		_	False	False	False	False				_
 BOR005	964	mai	mai	mai	linguistic		_	False	False	False	False				_		
 BOR005	964	andata	andata	andata	linguistic		_	False	False	False	False				_		
 BOR005	964	allo	allo	allo	linguistic		_	False	False	False	False				_		
-BOR005	964	stadio	stadio?	stad[io?]	linguistic	End=1841.355	ascending	False	False	False	False				_		4-6(965)
-BOI013	965	sì	sì::	[sì]::	linguistic	Begin=1841.299	_	False	False	False	False	1x2			_		0-2(964)
-BOI013	965	io	io	io	linguistic		_	False	False	False	False				_		0-1(964)
+BOR005	964	stadio	stadio?	stad[io?]	linguistic	End=1841.355	ascending	False	False	False	False				_		4-6(?)
+BOI013	965	sì	sì::	[sì]::	linguistic	Begin=1841.399	_	False	False	False	False	1x2			_		0-2(?)
+BOI013	965	io	io	io	linguistic		_	False	False	False	False				_		0-1(?)
 BOI013	965	c'andavo	c'andavo	c'andavo	error		_	False	False	False	False				_		
 BOI013	965	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BOI013	965	seguivo	seguivo	seguivo	linguistic		_	False	False	False	False				_		
@@ -5644,9 +5644,9 @@ BOR005	1081	andare	andare	andare	linguistic		_	False	False	False	False				_
 BOR005	1081	a	a	a	linguistic		_	False	False	False	False				_		
 BOR005	1081	ballare	ballare	ballare	linguistic		_	False	False	False	False				_		
 BOR005	1081	in	in	in	linguistic		_	False	False	False	False				_		
-BOR005	1081	discoteca	discoteca?	discoteca?	linguistic	End=2046.132	ascending	False	False	False	False				_		
+BOR005	1081	discoteca	discoteca?	discoteca?	linguistic	End=2046.0320000000002	ascending	False	False	False	False				_		
 BOI013	1082	{ride}	{ride}	{ride}	metalinguistic	End=2043.418	_	False	False	False	False				_		
-BOI013	1083	living	living	[living]	linguistic	End=2046.706	_	False	False	False	False				_		0-6(?)
+BOI013	1083	living	living	[living]	linguistic	End=2046.706	_	False	False	False	False				_		0-6(1084)
 BOI012	1084	mi	mi	[mi	linguistic	Begin=2046.188	_	False	False	False	False				_		0-2(1083)
 BOI012	1084	capitava	capitava	capita]va	linguistic		_	False	False	False	False				_		0-8(1083)
 BOI012	1084	prima	prima	prima	linguistic		_	False	False	False	False				_		
@@ -5660,7 +5660,7 @@ BOI013	1085	poi	poi	poi	linguistic	Begin=2049.285	_	False	False	False	False				_
 BOI013	1085	sei	sei	sei	linguistic		_	False	False	False	False				_		
 BOI013	1085	diventato	diventato	diventato	linguistic		_	False	False	False	False				_		
 BOI013	1085	vecchio	vecchio	vecchio	linguistic	End=2050.391	_	False	False	False	False				_		
-BOI012	1086	finiti	finiti	finiti	linguistic	Begin=2050.348	_	False	False	False	False				_		
+BOI012	1086	finiti	finiti	finiti	linguistic	Begin=2050.448	_	False	False	False	False				_		
 BOI012	1086	di	di	di	linguistic		_	False	False	False	False				_		
 BOI012	1086	giochi	giochi	giochi	linguistic		_	False	False	False	False				_		
 BOI012	1086	perché	perchè	>perchè	linguistic		_	False	False	False	False			0-6(0)	_		
@@ -5718,10 +5718,10 @@ BOR005	1098	dove	dove	dove	linguistic		_	False	False	False	False				_
 BOR005	1098	andavi	andavi	andavi	linguistic		_	False	False	False	False				_		
 BOR005	1098	di	di	d[i	linguistic		_	False	False	False	False				_		1-2(1099)
 BOR005	1098	solito	solito	solito]	linguistic	End=2068.983	_	False	False	False	False				_		0-6(1099)
-BOI012	1099	ovunque	ovunque	[ovun]que	linguistic	Begin=2068.499	_	False	False	False	False				_		0-6(?)
+BOI012	1099	ovunque	ovunque	[ovun]que	linguistic	Begin=2068.499	_	False	False	False	False				_		0-6(1098)
 BOI012	1099	{P}	{P}	{P}	shortpause		_	False	False	False	False				_		
 BOI012	1099	ovunque	ovunque	ovunque	linguistic	End=2069.595	_	False	False	False	False				_		
-BOI013	1100	io	IO	IO	linguistic	Begin=2069.584	_	False	False	False	False				high		
+BOI013	1100	io	IO	IO	linguistic	Begin=2069.6839999999997	_	False	False	False	False				high		
 BOI013	1100	al	AL	AL	linguistic		_	False	False	False	False				high		
 BOI013	1100	living	LIVING	LIVING	linguistic	End=2070.691	_	False	False	False	False				high		
 BOI013	1101	e	e	e	linguistic	Begin=2071.113	_	False	False	False	False				_		
@@ -5770,7 +5770,7 @@ BOR005	1109	sono	sono	sono	linguistic		_	False	False	False	False				_
 BOR005	1109	ancora	ancora	ancora	linguistic		_	False	False	False	False				_		
 BOR005	1109	questi	questi	questi	linguistic		_	False	False	False	False				_		
 BOR005	1109	posti	posti?	posti?	linguistic	End=2088.856	ascending	False	False	False	False				_		
-BOI012	1110	no	no	no	linguistic	End=2089.111	_	False	False	False	False				_		
+BOI012	1110	no	no	no	linguistic	End=2089.011	_	False	False	False	False				_		
 BOI013	1111	no	no	no	linguistic	End=2089.307	_	False	False	False	False				_		
 BOI012	1112	il	il	>il	linguistic	Begin=2089.494	_	False	False	False	False			0-2(0)	_		
 BOI012	1112	living	living	living	linguistic		_	False	False	False	False			0-6(0)	_		
@@ -5936,7 +5936,7 @@ BOI012	1142	prevenire	prevenire	°prevenire	linguistic	Begin=2140.93	_	False	Fal
 BOI012	1142	era	era	era	linguistic		_	False	False	False	False				low		
 BOI012	1142	poi	poi	poi°	linguistic	End=2141.919	_	False	False	False	False				low		
 BOR005	1143	{ride}	{ride}	{ride}	metalinguistic	End=2142.839	_	False	False	False	False				_		
-BOI013	1144	però	però	però	linguistic	Begin=2142.796	_	False	False	False	False				_		
+BOI013	1144	però	però	però	linguistic	Begin=2142.8959999999997	_	False	False	False	False				_		
 BOI013	1144	è	è	è	linguistic		_	False	False	False	False				_		
 BOI013	1144	meglio	meglio	meglio	linguistic		_	False	False	False	False				_		
 BOI013	1144	curare	curare	curare	linguistic	End=2143.785	_	False	False	False	False				_		
