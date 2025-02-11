@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline"
-    DATE="2025-02-11T18:05:44+01:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2025-02-11T18:10:33+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
@@ -1000,8 +1000,8 @@
         <TIME_SLOT TIME_SLOT_ID="ts987" TIME_VALUE="1166062"/>
         <TIME_SLOT TIME_SLOT_ID="ts988" TIME_VALUE="1166077"/>
         <TIME_SLOT TIME_SLOT_ID="ts989" TIME_VALUE="1166552"/>
-        <TIME_SLOT TIME_SLOT_ID="ts990" TIME_VALUE="1167576"/>
-        <TIME_SLOT TIME_SLOT_ID="ts991" TIME_VALUE="1167762"/>
+        <TIME_SLOT TIME_SLOT_ID="ts990" TIME_VALUE="1167500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts991" TIME_VALUE="1167576"/>
         <TIME_SLOT TIME_SLOT_ID="ts992" TIME_VALUE="1167947"/>
         <TIME_SLOT TIME_SLOT_ID="ts993" TIME_VALUE="1170763"/>
         <TIME_SLOT TIME_SLOT_ID="ts994" TIME_VALUE="1172839"/>
@@ -3942,7 +3942,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a497"
-                TIME_SLOT_REF1="ts990" TIME_SLOT_REF2="ts994">
+                TIME_SLOT_REF1="ts991" TIME_SLOT_REF2="ts994">
                 <ANNOTATION_VALUE>id:496 ma sc[usa {P} (u)na cesta per buttare la b~ la bia]ncheria: la metterai nel bagnetto</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -7328,14 +7328,14 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a495"
-                TIME_SLOT_REF1="ts987" TIME_SLOT_REF2="ts991">
-                <ANNOTATION_VALUE>id:494 [eh cert]o così non mi devo muovere [no]</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts987" TIME_SLOT_REF2="ts990">
+                <ANNOTATION_VALUE>id:494 [eh cert]o così non mi devo muovere no</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a499"
                 TIME_SLOT_REF1="ts995" TIME_SLOT_REF2="ts999">
-                <ANNOTATION_VALUE>id:498 va [be:ne {P} comunque i~]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>id:498 va [be:ne {P} comunque] [i~]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -7401,7 +7401,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a529"
                 TIME_SLOT_REF1="ts1054" TIME_SLOT_REF2="ts1057">
-                <ANNOTATION_VALUE>id:529 [ma l'omino è molto &gt;ma non è&lt; non è fatto per attacarvi]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>id:529 [ma l'omino è molto &gt;ma non è&lt; non è] [fatto per attacarvi]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10415,7 +10415,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a525"
                 TIME_SLOT_REF1="ts1046" TIME_SLOT_REF2="ts1051">
-                <ANNOTATION_VALUE>id:525 [x comunque avre]bbe più senso l'omino quello dei [vestiti eh] eh]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>id:525 [x comunque avre]bbe più senso l'omino quello dei [vestiti eh eh]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
