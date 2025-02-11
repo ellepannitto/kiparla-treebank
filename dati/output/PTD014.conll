@@ -491,8 +491,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 22-28	TOI112	22	o	o	o	linguistic	_		_	_	_	_	_	_				_		
 22-29	TOI112	22	praticamente	praticamente	praticamente	linguistic	_		_	_	_	_	_	_				_		
 22-30	TOI112	22	nessuno	nessuno	nessuno	linguistic	_	End=219.15	_	_	_	_	_	_				_		
-23-0	TOR010	23	okay	okay	okay	linguistic	_	End=221.32	_	_	_	_	_	_				_		
-24-0	TOI112	24	{ride}	{ride}	{ride}	metalinguistic	_	End=221.32	_	_	_	_	_	_				_		
+23-0	TOI112	23	{ride}	{ride}	{ride}	metalinguistic	_	End=221.32	_	_	_	_	_	_				_		
+24-0	TOR010	24	okay	okay	okay	linguistic	_	End=221.32	_	_	_	_	_	_				_		
 25-0	TOR010	25	mh	mh	mh	linguistic	_	Begin=222.03	_	_	_	_	_	_				_		
 25-1	TOR010	25	hai	hai	hai	linguistic	_		_	_	_	_	_	_				_		
 25-2	TOR010	25	figli	figli?	figli?	linguistic	_		ascending	_	_	_	_	_				_		
@@ -2181,7 +2181,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 115-19	TOI112	115	perde	perde	perde	linguistic	_		_	_	_	_	_	_				_		
 115-20	TOI112	115	queste	queste	queste	linguistic	_		_	_	_	_	_	_				_		
 115-21	TOI112	115	abitudini	abitudini	abitudini	linguistic	_	End=1029.324	_	_	_	_	_	_				_		
-116-0	TOR010	116	okay	okay	okay	linguistic	_	Begin=1032.764	_	_	_	_	_	_				_		
+116-0	TOR010	116	okay	okay	okay	linguistic	_	Begin=1032.763	_	_	_	_	_	_				_		
 116-1	TOR010	116	finita	finita	finita	linguistic	_		_	_	_	_	_	_				_		
 116-2	TOR010	116	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 116-3	TOR010	116	intervista	inter[vista]	nter[vista]	linguistic	_		_	_	_	_	_	_				_		4-10(117)

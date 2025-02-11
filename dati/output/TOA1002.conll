@@ -715,7 +715,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 91-28	TO028	91	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
 91-29	TO028	91	faccio	faccio	faccio	linguistic	_		_	_	_	_	_	_				_		
 91-30	TO028	91	qua	qua	qua	linguistic	_	End=262.374	_	_	_	_	_	_				_		
-92-0	TO026	92	ah	[ah	[ah	linguistic	_	Begin=257.131	_	_	_	_	_	_				_		0-2(91)
+92-0	TO026	92	ah	[ah	[ah	linguistic	_	Begin=257.13	_	_	_	_	_	_				_		0-2(91)
 92-1	TO026	92	okay	okay]	okay]	linguistic	_	End=257.724	_	_	_	_	_	_				_		0-4(91)
 93-0	TO026	93	ah	ah	ah	linguistic	_	Begin=262.608	_	_	_	_	_	_				_		
 93-1	TO026	93	quindi	quindi	quindi	linguistic	_		_	_	_	_	_	_				_		
@@ -1472,7 +1472,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 181-15	TO028	181	materiali	materiali	materiali	linguistic	_		_	_	_	_	_	_				_		
 181-16	TO028	181	educativi	educativi	educativi	linguistic	_		_	_	_	_	_	_				_		
 181-17	TO028	181	multimediali	multimediali,	multimediali,	linguistic	_	End=514.806	weakly_ascending	_	_	_	_	_				_		
-182-0	TO028	182	e	e	e	linguistic	_	Begin=515.314	_	_	_	_	_	_				_		
+182-0	TO028	182	e	e	e	linguistic	_	Begin=515.313	_	_	_	_	_	_				_		
 182-1	TO028	182	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 182-2	TO028	182	altro	altro	altro	linguistic	_		_	_	_	_	_	_				_		
 182-3	TO028	182	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -2430,7 +2430,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 300-13	TO026	300	rimando	rimando	rimando	linguistic	_		_	_	_	_	_	_				_		
 300-14	TO026	300	via	via	via	linguistic	_		_	_	_	_	_	_				_		
 300-15	TO026	300	mail	mail	mail	linguistic	_		_	_	_	_	_	_				_		
-300-16	TO026	300	diciamo	diciamo	diciamo	linguistic	_	End=835.3299999999999	_	_	_	_	_	_				_		
+300-16	TO026	300	diciamo	diciamo	diciamo	linguistic	_	End=835.329	_	_	_	_	_	_				_		
 301-0	TO028	301	grazie	[grazie	[grazie	linguistic	_	Begin=832.641	_	_	_	_	_	_				_		0-6(300)
 301-1	TO028	301	mille	mille	mille	linguistic	_		_	_	_	_	_	_				_		0-5(300)
 301-2	TO028	301	allora	allora,]	allora,]	linguistic	_	End=833.644	weakly_ascending	_	_	_	_	_				_		0-6(300)

@@ -82,8 +82,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 14-6	PKP040	14	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 14-7	PKP040	14	siamo	siamo	siamo	linguistic	_		_	_	_	_	_	_				_		
 14-8	PKP040	14	mangiata	mangia[ta]	mangia[ta]	linguistic	_	End=33.02	_	_	_	_	_	_				_		6-8(16)
-15-0	PKP048	15	eh	[eh]	[eh]	linguistic	_	End=32.26	_	_	_	_	_	_				_		0-2(14)
-16-0	PKP048	16	mangiata	[man]giata	[man]giata	linguistic	_	Begin=32.76	_	_	_	_	_	_				_		0-3(14)
+15-0	PKP048	15	eh	[eh]	[eh]	linguistic	_	End=32.259	_	_	_	_	_	_				_		0-2(14)
+16-0	PKP048	16	mangiata	[man]giata	[man]giata	linguistic	_	Begin=32.759	_	_	_	_	_	_				_		0-3(14)
 16-1	PKP048	16	eh	eh	eh	linguistic	_	End=33.8	_	_	_	_	_	_				_		
 17-0	PKP048	17	buon	buon	buon	linguistic	_	Begin=43.51	_	_	_	_	_	_				_		
 17-1	PKP048	17	appetito	appetito	appetito	linguistic	_	End=44.42	_	_	_	_	_	_				_		
@@ -153,7 +153,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 35-2	PKP040	35	preso	preso	preso	linguistic	_		_	_	_	_	_	_				_		
 35-3	PKP040	35	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 35-4	PKP040	35	fuoco	fuo[co]	fuo[co]	linguistic	_	End=79.05	_	_	_	_	_	_				_		3-5(?)
-36-0	PKP048	36	ma	[ma]	[ma]	linguistic	_	Begin=79.08399999999999	_	_	_	_	_	_				_		0-2(?)
+36-0	PKP048	36	ma	[ma]	[ma]	linguistic	_	Begin=79.083	_	_	_	_	_	_				_		0-2(?)
 36-1	PKP048	36	sto	sto	sto	linguistic	_		_	_	_	_	_	_				_		
 36-2	PKP048	36	cristiano	cristiano	cristiano	linguistic	_		_	_	_	_	_	_				_		
 36-3	PKP048	36	non	non	non	linguistic	_		_	_	_	_	_	_				_		
@@ -278,7 +278,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 57-7	PKP041	57	velocemente	velocemente	velocemente	linguistic	_		_	_	_	_	_	_				_		
 57-8	PKP041	57	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 57-9	PKP041	57	casa	casa	casa	linguistic	_	End=124.51	_	_	_	_	_	_				_		
-58-0	PKP048	58	certo	certo	certo	linguistic	_	Begin=130.45	_	_	_	_	_	_				_		
+58-0	PKP048	58	certo	certo	certo	linguistic	_	Begin=130.449	_	_	_	_	_	_				_		
 58-1	PKP048	58	xxxx	xxxx	xxxx	linguistic	_		_	Unknown=Yes	_	_	_	_				_		
 58-2	PKP048	58	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 58-3	PKP048	58	quel	quel	quel	linguistic	_		_	_	_	_	_	_				_		
@@ -366,7 +366,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 74-2	PKP048	74	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 74-3	PKP048	74	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 74-4	PKP048	74	pane	pane	pane	linguistic	_		_	_	_	_	_	_				_		
-74-5	PKP048	74	grattuggiato	grattuggiato:	grattuggiato:	linguistic	_	End=163.23000000000002	_	_	_	_	_	_	11x1			_		
+74-5	PKP048	74	grattuggiato	grattuggiato:	grattuggiato:	linguistic	_	End=163.23	_	_	_	_	_	_	11x1			_		
 75-0	PKP041	75	ah	ah	ah	linguistic	_	End=163.61	_	_	_	_	_	_				_		
 76-0	PKP048	76	ho	ho	ho	linguistic	_	Begin=163.793	_	_	_	_	_	_				_		
 76-1	PKP048	76	messo	messo	messo	linguistic	_		_	_	_	_	_	_				_		
@@ -543,7 +543,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 113-7	PKP041	113	questa	questa	questa	linguistic	_		_	_	_	_	_	_				_		
 113-8	PKP041	113	questa	questa::	questa::	linguistic	_		_	_	_	_	_	_	5x2			_		
 113-9	PKP041	113	casa	casa	casa	linguistic	_		_	_	_	_	_	_				_		
-113-10	PKP041	113	abbandonata	abbandona:ta:,	abbandona:ta:,	linguistic	_	End=261.28	weakly_ascending	_	_	_	_	_	8x1,10x1			_		
+113-10	PKP041	113	abbandonata	abbandona:ta:,	abbandona:ta:,	linguistic	_	End=261.279	weakly_ascending	_	_	_	_	_	8x1,10x1			_		
 114-0	PKP041	114	e	e	e	linguistic	_	Begin=261.8	_	_	_	_	_	_				_		
 114-1	PKP041	114	c'	c'	c'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 114-2	PKP041	114	erano	erano	rano	linguistic	_		_	_	_	_	_	_				_		
@@ -600,7 +600,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 121-4	PKP041	121	idea	idea	dea	linguistic	_		_	_	_	_	_	_				_		0-4(122)
 121-5	PKP041	121	che	che	che	linguistic	_		_	_	_	_	_	_				_		0-3(122)
 121-6	PKP041	121	qualcuno	qualcuno	qualcuno	linguistic	_		_	_	_	_	_	_				_		0-8(122)
-121-7	PKP041	121	sia	sia]::	sia]::	linguistic	_	End=280.46999999999997	_	_	_	_	_	_	2x2			_		0-3(122)
+121-7	PKP041	121	sia	sia]::	sia]::	linguistic	_	End=280.469	_	_	_	_	_	_	2x2			_		0-3(122)
 122-0	PKP040	122	puo'	[puo'	[puo'	linguistic	_	Begin=278.26	_	_	_	Truncated=Yes	_	_				_		0-4(121)
 122-1	PKP040	122	darsi	darsi	darsi	linguistic	_		_	_	_	_	_	_				_		0-5(121)
 122-2	PKP040	122	pure	pure	pure	linguistic	_		_	_	_	_	_	_				_		0-4(121)
@@ -658,7 +658,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 133-0	PKP040	133	come	°come	°come	linguistic	_	Begin=312.089	_	_	_	_	_	_				low		
 133-1	PKP040	133	si	si	si	linguistic	_		_	_	_	_	_	_				low		
 133-2	PKP040	133	dice	dice?°	dice?°	linguistic	_	End=312.812	ascending	_	_	_	_	_				low		
-134-0	PKP041	134	unbelievable	unbelievab[le]	unbelievab[le]	linguistic	_	End=313.60999999999996	_	_	_	_	_	_				_		10-12(?)
+134-0	PKP041	134	unbelievable	unbelievab[le]	unbelievab[le]	linguistic	_	End=313.609	_	_	_	_	_	_				_		10-12(?)
 135-0	PKP039	135	unbeliev~	[un]believ~	[un]believ~	linguistic	_	End=314.05	_	_	Interrupted=Yes	_	_	_				_		0-2(?)
 136-0	PKP040	136	unbeliev~	unbeliev~	unbeliev~	linguistic	_	Begin=314.13	_	_	Interrupted=Yes	_	_	_				_		
 136-1	PKP040	136	ah	a:h	a:h	linguistic	_		_	_	_	_	_	_	0x1			_		
@@ -699,7 +699,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 145-11	PKP040	145	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 145-12	PKP040	145	era	era	era	linguistic	_		_	_	_	_	_	_				_		
 145-13	PKP040	145	una	una	una	linguistic	_		_	_	_	_	_	_				_		
-145-14	PKP040	145	bugia	bugia	bugia	linguistic	_	End=328.30199999999996	_	_	_	_	_	_				_		
+145-14	PKP040	145	bugia	bugia	bugia	linguistic	_	End=328.301	_	_	_	_	_	_				_		
 146-0	PKP041	146	mh	[mh]	[mh]	linguistic	_	End=328.636	_	_	_	_	_	_				_		0-2(147)
 147-0	PKP040	147	se	[se	[se	linguistic	_	Begin=328.402	_	_	_	_	_	_				_		0-2(146)
 147-1	PKP040	147	l'era	l']era	l']era	error	_		_	_	_	_	_	_				_		0-2(146)
@@ -754,7 +754,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 160-3	PKP048	160	campata	campa]:ta:,	campa]:ta:,	linguistic	_	End=346.629	weakly_ascending	_	_	_	_	_	4x1,6x1			_		0-5(159)
 161-0	PKP040	161	fa	fa	fa	linguistic	_	Begin=346.974	_	_	_	_	_	_				_		
 161-1	PKP040	161	niente	niente	niente	linguistic	_	End=347.46	_	_	_	_	_	_				_		
-162-0	PKP048	162	e	e	e	linguistic	_	Begin=347.55800000000005	_	_	_	_	_	_				_		
+162-0	PKP048	162	e	e	e	linguistic	_	Begin=347.558	_	_	_	_	_	_				_		
 162-1	PKP048	162	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		
 162-2	PKP048	162	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		
 162-3	PKP048	162	perso	perso	perso	linguistic	_		_	_	_	_	_	_				_		
@@ -1181,7 +1181,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 243-2	PKP039	243	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 243-3	PKP039	243	zucchini	zucchini	zucchini	linguistic	_	End=519.345	_	_	_	_	_	_				_		
 244-0	PKP040	244	ancora	ancora?	ancora?	linguistic	_	End=521.77	ascending	_	_	_	_	_				_		
-245-0	PKP040	245	scusa	scusa	scusa	linguistic	_	Begin=522.185	_	_	_	_	_	_				_		
+245-0	PKP040	245	scusa	scusa	scusa	linguistic	_	Begin=522.184	_	_	_	_	_	_				_		
 245-1	PKP040	245	ma	ma	ma	linguistic	_	End=522.59	_	_	_	_	_	_				_		
 246-0	PKP039	246	sì	sì	sì	linguistic	_	Begin=522.594	_	_	_	_	_	_				_		
 246-1	PKP039	246	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -1369,16 +1369,16 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 279-23	PKP048	279	cucini	cucini:	cucini:	linguistic	_	End=594.97	_	_	_	_	_	_	5x1			_		
 280-0	PKP048	280	il	<il	<il	linguistic	_	Begin=595.383	_	_	_	_	_	_		0-2(0)		_		
 280-1	PKP048	280	vapore	vapo:re:::>	vapo:re:::>	linguistic	_	End=596.69	_	_	_	_	_	_	3x1,5x3	0-6(0)		_		
-281-0	PKP040	281	vabbè	[vabbè	[vabbè	linguistic	_	Begin=596.78	_	_	_	_	_	_				_		0-5(282)
-281-1	PKP040	281	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		0-2(282)
-281-2	PKP040	281	noi	noi	noi	linguistic	_		_	_	_	_	_	_				_		0-3(282)
-281-3	PKP040	281	abbiamo	abbiamo]	abbiamo]	linguistic	_		_	_	_	_	_	_				_		0-7(282)
-281-4	PKP040	281	cambiato	cambiat[o	cambiat[o	linguistic	_		_	_	_	_	_	_				_		7-8(283)
-281-5	PKP040	281	le	le:::]	le:::]	linguistic	_	End=598.6	_	_	_	_	_	_	1x3			_		0-2(283)
-282-0	PKP048	282	le	[<le	[<le	linguistic	_	Begin=596.718	_	_	_	_	_	_		0-2(0)		_		0-2(281)
-282-1	PKP048	282	fiamme	fia:mme>]	fia:mme>]	linguistic	_	End=597.523	_	_	_	_	_	_	2x1	0-6(0)		_		0-6(281)
-283-0	PKP041	283	le	[le	[le	linguistic	_	Begin=597.895	_	_	_	_	_	_				_		0-2(281)
-283-1	PKP041	283	fiamme	fiamme?]	fiamme?]	linguistic	_	End=598.571	ascending	_	_	_	_	_				_		0-6(281)
+281-0	PKP048	281	le	[<le	[<le	linguistic	_	Begin=596.718	_	_	_	_	_	_		0-2(0)		_		0-2(282)
+281-1	PKP048	281	fiamme	fia:mme>]	fia:mme>]	linguistic	_	End=597.523	_	_	_	_	_	_	2x1	0-6(0)		_		0-6(282)
+282-0	PKP040	282	vabbè	[vabbè	[vabbè	linguistic	_	Begin=596.78	_	_	_	_	_	_				_		0-5(281)
+282-1	PKP040	282	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		0-2(281)
+282-2	PKP040	282	noi	noi	noi	linguistic	_		_	_	_	_	_	_				_		0-3(281)
+282-3	PKP040	282	abbiamo	abbiamo]	abbiamo]	linguistic	_		_	_	_	_	_	_				_		0-7(281)
+282-4	PKP040	282	cambiato	cambiat[o	cambiat[o	linguistic	_		_	_	_	_	_	_				_		7-8(283)
+282-5	PKP040	282	le	le:::]	le:::]	linguistic	_	End=598.6	_	_	_	_	_	_	1x3			_		0-2(283)
+283-0	PKP041	283	le	[le	[le	linguistic	_	Begin=597.895	_	_	_	_	_	_				_		0-2(282)
+283-1	PKP041	283	fiamme	fiamme?]	fiamme?]	linguistic	_	End=598.571	ascending	_	_	_	_	_				_		0-6(282)
 284-0	PKP048	284	fuoco	fuoco	fuoco	linguistic	_	Begin=599.168	_	_	_	_	_	_				_		
 284-1	PKP048	284	fiamme	fiamme	fiamme	linguistic	_	End=599.88	_	_	_	_	_	_				_		
 285-0	PKP040	285	abbiamo	abbiamo	abbiamo	linguistic	_	Begin=600.635	_	_	_	_	_	_				_		
@@ -1711,7 +1711,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 343-0	PKP048	343	piano	[(pia:no	[(pia:no	linguistic	_	Begin=714.47	_	_	_	_	_	_	2x1			_	0-5(0)	0-5(342)
 343-1	PKP048	343	piano	piano	piano	linguistic	_		_	_	_	_	_	_				_	0-5(0)	0-5(342)
 343-2	PKP048	343	piano	piano)]	piano)]	linguistic	_	End=715.661	_	_	_	_	_	_				_	0-5(0)	0-5(342)
-344-0	PKP048	344	senza	<SENZA	<SENZA	linguistic	_	Begin=716.3960000000001	_	_	_	_	_	_		0-5(0)		high		
+344-0	PKP048	344	senza	<SENZA	<SENZA	linguistic	_	Begin=716.396	_	_	_	_	_	_		0-5(0)		high		
 344-1	PKP048	344	olio	O:LIO	O:LIO	linguistic	_		_	_	_	_	_	_	0x1	0-4(0)		high		
 344-2	PKP048	344	senza	SENZA>	SENZA>	linguistic	_		_	_	_	_	_	_		0-5(0)		high		
 344-3	PKP048	344	no	no	no	linguistic	_		_	_	_	_	_	_				_		
@@ -1899,10 +1899,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 381-4	PKP048	381	servita	servita	servita	linguistic	_		_	_	_	_	_	_				_		
 381-5	PKP048	381	xxx	xxx	xxx	linguistic	_	End=803.54	_	Unknown=Yes	_	_	_	_				_		
 382-0	PKP041	382	eh	eh?	eh?	linguistic	_	End=804.115	ascending	_	_	_	_	_				_		
-383-0	PKP040	383	{ride}	{ride}	{ride}	metalinguistic	_	End=805.38	_	_	_	_	_	_				_		
-384-0	PKP048	384	{ride}	{ride}	{ride}	metalinguistic	_	Begin=804.149	_	_	_	_	_	_				_		
-384-1	PKP048	384	alla	alla	alla	linguistic	_		_	_	_	_	_	_				_		
-384-2	PKP048	384	boutique	boutique	boutique	linguistic	_	End=805.96	_	_	_	_	_	_				_		
+383-0	PKP048	383	{ride}	{ride}	{ride}	metalinguistic	_	Begin=804.149	_	_	_	_	_	_				_		
+383-1	PKP048	383	alla	alla	alla	linguistic	_		_	_	_	_	_	_				_		
+383-2	PKP048	383	boutique	boutique	boutique	linguistic	_	End=805.96	_	_	_	_	_	_				_		
+384-0	PKP040	384	{ride}	{ride}	{ride}	metalinguistic	_	End=805.38	_	_	_	_	_	_				_		
 385-0	PKP040	385	{ride}	{ride}	{ride}	metalinguistic	_	End=806.642	_	_	_	_	_	_				_		
 386-0	PKP048	386	xxxxxx	xxxx[xx]	xxxx[xx]	linguistic	_	End=809.265	_	Unknown=Yes	_	_	_	_				_		4-6(387)
 387-0	PKP040	387	si	[si	[si	linguistic	_	Begin=808.639	_	_	_	_	_	_				_		0-2(386)
@@ -3025,7 +3025,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 598-2	PKP040	598	hai	hai	hai	linguistic	_		_	_	_	_	_	_				_		
 598-3	PKP040	598	fatto	fatto	fatto	linguistic	_		_	_	_	_	_	_				_		
 598-4	PKP040	598	bene	bene	bene	linguistic	_	End=1300.67	_	_	_	_	_	_				_		
-599-0	PKP041	599	se	se	se	linguistic	_	Begin=1300.7659999999998	_	_	_	_	_	_				_		
+599-0	PKP041	599	se	se	se	linguistic	_	Begin=1300.765	_	_	_	_	_	_				_		
 599-1	PKP041	599	no	no:	no:	linguistic	_		_	_	_	_	_	_	1x1			_		
 599-2	PKP041	599	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 599-3	PKP041	599	prendevo	prendevo	prendevo	linguistic	_		_	_	_	_	_	_				_		
@@ -3069,7 +3069,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 604-8	PKP048	604	piazza	piazza	piazza	linguistic	_		_	_	_	_	_	_				_		
 604-9	PKP048	604	e	e:	e:	linguistic	_		_	_	_	_	_	_	0x1			_		
 604-10	PKP048	604	qualche	qualche	qualche	linguistic	_		_	_	_	_	_	_				_		
-604-11	PKP048	604	cosa	cosa	cosa	linguistic	_	End=1316.6200000000001	_	_	_	_	_	_				_		
+604-11	PKP048	604	cosa	cosa	cosa	linguistic	_	End=1316.62	_	_	_	_	_	_				_		
 605-0	PKP040	605	e	e	e	linguistic	_	Begin=1316.713	_	_	_	_	_	_				_		
 605-1	PKP040	605	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		
 605-2	PKP040	605	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -3113,7 +3113,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 614-5	PKP041	614	ci	ci	ci	linguistic	_		_	_	_	_	_	_				_		
 614-6	PKP041	614	sarà	sarà	sarà	linguistic	_	End=1331.455	_	_	_	_	_	_				_		
 615-0	PKP041	615	asciugamani	asciugama:ni,	asciugama:ni,	linguistic	_	End=1333.087	weakly_ascending	_	_	_	_	_	8x1			_		
-616-0	PKP040	616	comunque	comunque	comunque	linguistic	_	Begin=1333.1689999999999	_	_	_	_	_	_				_		
+616-0	PKP040	616	comunque	comunque	comunque	linguistic	_	Begin=1333.168	_	_	_	_	_	_				_		
 616-1	PKP040	616	fa	fa	fa	linguistic	_		_	_	_	_	_	_				_		
 616-2	PKP040	616	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		
 616-3	PKP040	616	pensato	pensato	pensato	linguistic	_		_	_	_	_	_	_				_		
@@ -3413,7 +3413,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 675-0	PKP041	675	ma	[°ma	[°ma	linguistic	_	Begin=1455.935	_	_	_	_	_	_				low		0-2(674)
 675-1	PKP041	675	che	che	che	linguistic	_		_	_	_	_	_	_				low		0-3(674)
 675-2	PKP041	675	stai	stai]	stai]	linguistic	_		_	_	_	_	_	_				low		0-4(674)
-675-3	PKP041	675	dicendo	dic[e:ndo?°]	dic[e:ndo?°]	linguistic	_	End=1457.0520000000001	ascending	_	_	_	_	_	3x1			low		3-7(676)
+675-3	PKP041	675	dicendo	dic[e:ndo?°]	dic[e:ndo?°]	linguistic	_	End=1457.052	ascending	_	_	_	_	_	3x1			low		3-7(676)
 676-0	PKP039	676	a	[a	[a	linguistic	_	Begin=1456.667	_	_	_	_	_	_				_		0-1(675)
 676-1	PKP039	676	me	me	me	linguistic	_		_	_	_	_	_	_				_		0-2(675)
 676-2	PKP039	676	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(675)
@@ -3543,8 +3543,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 697-1	PKP040	697	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 697-2	PKP040	697	centro	ce:ntro,	ce:ntro,	linguistic	_		weakly_ascending	_	_	_	_	_	1x1			_		
 697-3	PKP040	697	fare	fa:re,	fa:re,	linguistic	_	End=1495.85	weakly_ascending	_	_	_	_	_	1x1			_		
-698-0	PKP040	698	mh	[m::h]	[m::h]	linguistic	_	End=1496.436	_	_	_	_	_	_	0x2			_		0-2(699)
-699-0	PKP048	699	mh	[m::h]	[m::h]	linguistic	_	End=1496.436	_	_	_	_	_	_	0x2			_		0-2(698)
+698-0	PKP048	698	mh	[m::h]	[m::h]	linguistic	_	End=1496.436	_	_	_	_	_	_	0x2			_		0-2(699)
+699-0	PKP040	699	mh	[m::h]	[m::h]	linguistic	_	End=1496.436	_	_	_	_	_	_	0x2			_		0-2(698)
 700-0	PKP040	700	m'	m'	m'	linguistic	_	Begin=1496.499	_	_	_	_	_	SpaceAfter=No				_		
 700-1	PKP040	700	han	han	an	linguistic	_		_	_	_	_	_	_				_		
 700-2	PKP040	700	dato	dato	dato	linguistic	_		_	_	_	_	_	_				_		
@@ -4016,8 +4016,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 789-0	PKP040	789	pagliaccia	°paglia:cc(ia)°	°paglia:cc(ia)°	linguistic	_	End=1713.169	_	_	_	_	_	_	5x1			low	8-10(0)	
 790-0	PKP048	790	che	<che	<che	linguistic	_	Begin=1714.855	_	_	_	_	_	_		0-3(0)		_		
 790-1	PKP048	790	roba	ro:ba>	ro:ba>	linguistic	_	End=1715.67	_	_	_	_	_	_	1x1	0-4(0)		_		
-791-0	PKP040	791	{ride}	{ride}	{ride}	metalinguistic	_	End=1721.85	_	_	_	_	_	_				_		
-792-0	PKP041	792	{ride}	{ride}	{ride}	metalinguistic	_	End=1721.86	_	_	_	_	_	_				_		
+791-0	PKP041	791	{ride}	{ride}	{ride}	metalinguistic	_	End=1721.86	_	_	_	_	_	_				_		
+792-0	PKP040	792	{ride}	{ride}	{ride}	metalinguistic	_	End=1721.85	_	_	_	_	_	_				_		
 793-0	PKP040	793	i	i	i	linguistic	_	Begin=1722.686	_	_	_	_	_	_				_		
 793-1	PKP040	793	maschietti	maschietti	maschietti	linguistic	_		_	_	_	_	_	_				_		
 793-2	PKP040	793	sempre	sempre	sempre	linguistic	_		_	_	_	_	_	_				_		
@@ -4761,13 +4761,13 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 966-5	PKP040	966	chi	chi	chi	linguistic	_		_	_	_	_	_	_				_		
 966-6	PKP040	966	è	è?	è?	linguistic	_		ascending	_	_	_	_	_				_		
 966-7	PKP040	966	i	i	i	linguistic	_		_	_	_	_	_	_				_		
-966-8	PKP040	966	sofficini	sofficini::	sofficini::	linguistic	_	End=2052.189	_	_	_	_	_	_	8x2			_		
+966-8	PKP040	966	sofficini	sofficini::	sofficini::	linguistic	_	End=2052.188	_	_	_	_	_	_	8x2			_		
 967-0	PKP048	967	non	non	non	linguistic	_	Begin=2052.274	_	_	_	_	_	_				_		
 967-1	PKP048	967	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 967-2	PKP048	967	hai	hai	ai	linguistic	_		_	_	_	_	_	_				_		
 967-3	PKP048	967	visto	visto	visto	linguistic	_		_	_	_	_	_	_				_		
 967-4	PKP048	967	mai	mai:?	mai:?	linguistic	_	End=2053.369	ascending	_	_	_	_	_	2x1			_		
-968-0	PKP040	968	no	no	no	linguistic	_	End=2057.111	_	_	_	_	_	_				_		
+968-0	PKP040	968	no	no	no	linguistic	_	End=2057.11	_	_	_	_	_	_				_		
 969-0	PKP040	969	è	è	è	linguistic	_	Begin=2057.649	_	_	_	_	_	_				_		
 969-1	PKP040	969	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 969-2	PKP040	969	prima	prima	prima	linguistic	_		_	_	_	_	_	_				_		
@@ -4788,12 +4788,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 973-1	PKP039	973	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 973-2	PKP039	973	ha	ha	a	linguistic	_		_	_	_	_	_	_				_		
 973-3	PKP039	973	visto	visto?	visto?	linguistic	_	End=2065.773	ascending	_	_	_	_	_				_		
-974-0	PKP041	974	eccolo	eccolo	eccolo	linguistic	_	End=2066.825	_	_	_	_	_	_				_		
-975-0	PKP040	975	eccolo	e:ccolo	e:ccolo	linguistic	_	Begin=2066.923	_	_	_	_	_	_	0x1			_		
+974-0	PKP041	974	eccolo	eccolo	eccolo	linguistic	_	End=2066.824	_	_	_	_	_	_				_		
+975-0	PKP040	975	eccolo	e:ccolo	e:ccolo	linguistic	_	Begin=2066.922	_	_	_	_	_	_	0x1			_		
 975-1	PKP040	975	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 975-2	PKP040	975	alla	alla	alla	linguistic	_		_	_	_	_	_	_				_		
 975-3	PKP040	975	televisione	televisione	televisione	linguistic	_	End=2068.222	_	_	_	_	_	_				_		
-976-0	PKP048	976	dappertutto	dappertutto	dappertutto	linguistic	_	Begin=2068.807	_	_	_	_	_	_				_		
+976-0	PKP048	976	dappertutto	dappertutto	dappertutto	linguistic	_	Begin=2068.806	_	_	_	_	_	_				_		
 976-1	PKP048	976	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 976-2	PKP048	976	adesso	adesso	adesso	linguistic	_		_	_	_	_	_	_				_		
 976-3	PKP048	976	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -4807,7 +4807,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 976-11	PKP048	976	rosario	rosa:rio	rosa:rio	linguistic	_		_	_	_	_	_	_	3x1			_		
 976-12	PKP048	976	alle	alle	alle	linguistic	_		_	_	_	_	_	_				_		
 976-13	PKP048	976	sei	sei	sei	linguistic	_	End=2072.947	_	_	_	_	_	_				_		
-977-0	PKP048	977	poi	poi	poi	linguistic	_	Begin=2073.332	_	_	_	_	_	_				_		
+977-0	PKP048	977	poi	poi	poi	linguistic	_	Begin=2073.331	_	_	_	_	_	_				_		
 977-1	PKP048	977	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 977-2	PKP048	977	vedo	vedo:	vedo:	linguistic	_		_	_	_	_	_	_	3x1			_		
 977-3	PKP048	977	il	il:	il:	linguistic	_		_	_	_	_	_	_	1x1			_		
@@ -4816,7 +4816,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 977-6	PKP048	977	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
 977-7	PKP048	977	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 977-8	PKP048	977	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		
-977-9	PKP048	977	eh	eh	eh	linguistic	_	End=2076.151	_	_	_	_	_	_				_		
+977-9	PKP048	977	eh	eh	eh	linguistic	_	End=2076.15	_	_	_	_	_	_				_		
 978-0	PKP048	978	sono	sono	sono	linguistic	_	Begin=2076.606	_	_	_	_	_	_				_		
 978-1	PKP048	978	seduta	seduta	seduta	linguistic	_	End=2077.463	_	_	_	_	_	_				_		
 979-0	PKP048	979	e	e	e	linguistic	_	Begin=2078.379	_	_	_	_	_	_				_		
@@ -4828,12 +4828,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 979-6	PKP048	979	s~	s~	s~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
 979-7	PKP048	979	sempre	sempre	sempre	linguistic	_		_	_	_	_	_	_				_		
 979-8	PKP048	979	su	su	su	linguistic	_		_	_	_	_	_	_				_		
-979-9	PKP048	979	duemila	duemila:,	duemila:,	linguistic	_	End=2081.499	weakly_ascending	_	_	_	_	_	6x1			_		
+979-9	PKP048	979	duemila	duemila:,	duemila:,	linguistic	_	End=2081.498	weakly_ascending	_	_	_	_	_	6x1			_		
 980-0	PKP048	980	c'	c'	c'	linguistic	_	Begin=2081.684	_	_	_	_	_	SpaceAfter=No				_		
 980-1	PKP048	980	è	è		linguistic	_		_	_	_	_	_	_				_		
 980-2	PKP048	980	pure	pure	pure	linguistic	_		_	_	_	_	_	_				_		
 980-3	PKP048	980	questa	questa	questa	linguistic	_		_	_	_	_	_	_				_		
-980-4	PKP048	980	pubblicità	pubblicità:,	pubblicità:,	linguistic	_	End=2083.365	weakly_ascending	_	_	_	_	_	9x1			_		
+980-4	PKP048	980	pubblicità	pubblicità:,	pubblicità:,	linguistic	_	End=2083.364	weakly_ascending	_	_	_	_	_	9x1			_		
 981-0	PKP048	981	dopo	dopo	dopo	linguistic	_	Begin=2084.579	_	_	_	_	_	_				_		
 981-1	PKP048	981	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 981-2	PKP048	981	telegiornale	telegiornale	telegiornale	linguistic	_		_	_	_	_	_	_				_		
@@ -4844,10 +4844,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 981-7	PKP048	981	messa	messa,	messa,	linguistic	_	End=2087.288	weakly_ascending	_	_	_	_	_				_		
 982-0	PKP040	982	{tossisce}	{tossisce}	{tossisce}	metalinguistic	_	End=2088.896	_	_	_	_	_	_				_		
 983-0	PKP048	983	cambiano	cambiano	cambiano	linguistic	_	Begin=2089.752	_	_	_	_	_	_				_		
-983-1	PKP048	983	sempre	sempre:::	sempre:::	linguistic	_	End=2091.323	_	_	_	_	_	_	5x3			_		
+983-1	PKP048	983	sempre	sempre:::	sempre:::	linguistic	_	End=2091.322	_	_	_	_	_	_	5x3			_		
 984-0	PKP048	984	cattedrale	cattedrale	cattedrale	linguistic	_	End=2093.112	_	_	_	_	_	_				_		
 985-0	PKP040	985	{canticchia_pubblicità}	{canticchia_pubblicità}	{canticchia_pubblicità}	metalinguistic	_	End=2097.06	_	_	_	_	_	_				_		
-986-0	PKP048	986	ieri	ieri	ieri	linguistic	_	Begin=2097.0899999999997	_	_	_	_	_	_				_		
+986-0	PKP048	986	ieri	ieri	ieri	linguistic	_	Begin=2097.089	_	_	_	_	_	_				_		
 986-1	PKP048	986	sera	sera	sera	linguistic	_		_	_	_	_	_	_				_		
 986-2	PKP048	986	no	no	no	linguistic	_		_	_	_	_	_	_				_		
 986-3	PKP048	986	xxx	x[xx]	x[xx]	linguistic	_	End=2098.62	_	Unknown=Yes	_	_	_	_				_		1-3(988)

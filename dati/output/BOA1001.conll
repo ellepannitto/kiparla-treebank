@@ -355,7 +355,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 57-4	BO020	57	tesi	te:si	te:si	linguistic	_		_	_	_	_	_	_	1x1			_		
 57-5	BO020	57	eh	e::h	e::h	linguistic	_		_	_	_	_	ProsodicLink=Yes	_	0x2			_		
 57-6	BO020	57	mh	m:h	h	linguistic	_	End=127.836	_	_	_	_	_	_	0x1			_		
-58-0	BO020	58	dunque	dunque	dunque	linguistic	_	Begin=128.521	_	_	_	_	_	_				_		
+58-0	BO020	58	dunque	dunque	dunque	linguistic	_	Begin=128.52	_	_	_	_	_	_				_		
 58-1	BO020	58	lei	lei	lei	linguistic	_		_	_	_	_	_	_				_		
 58-2	BO020	58	mh	mh	mh	linguistic	_		_	_	_	_	_	_				_		
 58-3	BO020	58	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
@@ -704,7 +704,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 111-25	BO026	111	elle	elle	elle	linguistic	_		_	_	_	_	_	_				_		
 111-26	BO026	111	due	due?	due?	linguistic	_	End=257.356	ascending	_	_	_	_	_				_		
 112-0	BO020	112	sì	[sì,]	[sì,]	linguistic	_	End=253.436	weakly_ascending	_	_	_	_	_				_		0-2(111)
-113-0	BO020	113	sì	sì	sì	linguistic	_	Begin=257.455	_	_	_	_	_	_				_		
+113-0	BO020	113	sì	sì	sì	linguistic	_	Begin=257.454	_	_	_	_	_	_				_		
 113-1	BO020	113	e	e	e	linguistic	_		_	_	_	_	_	_				_		
 113-2	BO020	113	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 113-3	BO020	113	interazione	interazione	interazione	linguistic	_		_	_	_	_	_	_				_		
@@ -724,7 +724,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 113-17	BO020	113	era	era	ra 	linguistic	_		_	_	_	_	_	_				_		
 113-18	BO020	113	questo	questo.	uesto.	linguistic	_	End=263.127	descending	_	_	_	_	_				_		
 114-0	BO026	114	mh	[mh	[mh	linguistic	_	Begin=260.331	_	_	_	_	_	_				_		0-2(113)
-114-1	BO026	114	mh	mh,]	mh,]	linguistic	_	End=260.96	weakly_ascending	_	_	_	_	_				_		0-2(113)
+114-1	BO026	114	mh	mh,]	mh,]	linguistic	_	End=260.959	weakly_ascending	_	_	_	_	_				_		0-2(113)
 115-0	BO020	115	eh	e::h	e::h	linguistic	_	Begin=263.661	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
 115-1	BO020	115	mh	mh,	,	linguistic	_	End=264.829	weakly_ascending	_	_	_	_	_				_		
 116-0	BO020	116	io	io	io	linguistic	_	Begin=264.91	_	_	_	_	_	_				_		
@@ -746,7 +746,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 118-8	BO026	118	contesto	contesto	contesto	linguistic	_		_	_	_	_	_	_				_		
 118-9	BO026	118	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 118-10	BO026	118	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		
-118-11	BO026	118	no	no?	no?	linguistic	_	End=272.53799999999995	ascending	_	_	_	_	_				_		
+118-11	BO026	118	no	no?	no?	linguistic	_	End=272.537	ascending	_	_	_	_	_				_		
 119-0	BO020	119	sì	[sì.]	[sì.]	linguistic	_	End=269.978	descending	_	_	_	_	_				_		0-2(118)
 120-0	BO020	120	sì	sì.	sì.	linguistic	_	End=272.996	descending	_	_	_	_	_				_		
 121-0	BO026	121	eh	[e:h,]	[e:h,]	linguistic	_	End=273.881	weakly_ascending	_	_	_	_	_	0x1			_		0-2(122)
@@ -1354,8 +1354,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 209-21	BO026	209	lingue	lingue	lingue	linguistic	_		_	_	_	_	_	_				_		
 209-22	BO026	209	straniere	straniere	straniere	linguistic	_		_	_	_	_	_	_				_		
 209-23	BO026	209	vengono	vengono	vengono	linguistic	_		_	_	_	_	_	_				_		
-209-24	BO026	209	studiate	studiate,	studiate,	linguistic	_	End=516.511	weakly_ascending	_	_	_	_	_				_		
-210-0	BO026	210	se	se	se	linguistic	_	Begin=516.786	_	_	_	_	_	_				_		
+209-24	BO026	209	studiate	studiate,	studiate,	linguistic	_	End=516.51	weakly_ascending	_	_	_	_	_				_		
+210-0	BO026	210	se	se	se	linguistic	_	Begin=516.785	_	_	_	_	_	_				_		
 210-1	BO026	210	c'	c'	c'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 210-2	BO026	210	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 210-3	BO026	210	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -1936,7 +1936,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 286-20	BO026	286	e	e	e	linguistic	_		_	_	_	_	_	_				_		
 286-21	BO026	286	nove	nove,	nove,	linguistic	_	End=787.555	weakly_ascending	_	_	_	_	_				_		
 287-0	BO026	287	eh	e::h	e::h	linguistic	_	Begin=788.001	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
-287-1	BO026	287	mh	mh,	,	linguistic	_	End=789.5219999999999	weakly_ascending	_	_	_	_	_				_		
+287-1	BO026	287	mh	mh,	,	linguistic	_	End=789.521	weakly_ascending	_	_	_	_	_				_		
 288-0	BO020	288	sì	sì.	sì.	linguistic	_	End=790.1	descending	_	_	_	_	_				_		
 289-0	BO026	289	la	[la	[la	linguistic	_	Begin=790.666	_	_	_	_	_	_				_		0-2(290)
 289-1	BO026	289	la	la	la	linguistic	_		_	_	_	_	_	_				_		0-2(290)
@@ -1979,7 +1979,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 293-6	BO026	293	dodici	dodici,	dodici,	linguistic	_	End=801.906	weakly_ascending	_	_	_	_	_				_		
 294-0	BO020	294	mh	mh	mh	linguistic	_	Begin=802.146	_	_	_	_	_	_				_		
 294-1	BO020	294	mh	mh,	mh,	linguistic	_	End=802.744	weakly_ascending	_	_	_	_	_				_		
-295-0	BO026	295	una	una	una	linguistic	_	Begin=802.8430000000001	_	_	_	_	_	_				_		
+295-0	BO026	295	una	una	una	linguistic	_	Begin=802.843	_	_	_	_	_	_				_		
 295-1	BO026	295	dietro	dietro	dietro	linguistic	_		_	_	_	_	_	_				_		
 295-2	BO026	295	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 295-3	BO026	295	altra	altra	altra	linguistic	_		_	_	_	_	_	_				_		
@@ -2216,7 +2216,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 334-10	BO026	334	lessico	lessico	lessico	linguistic	_		_	_	_	_	_	_				_		
 334-11	BO026	334	le	le	le	linguistic	_		_	_	_	_	_	_				_		
 334-12	BO026	334	teniamo	teniamo	teniamo	linguistic	_		_	_	_	_	_	_				_		
-334-13	BO026	334	vicine	vicine.	vicine.	linguistic	_	End=900.7769999999999	descending	_	_	_	_	_				_		
+334-13	BO026	334	vicine	vicine.	vicine.	linguistic	_	End=900.776	descending	_	_	_	_	_				_		
 335-0	BO020	335	sì	sì.	sì.	linguistic	_	End=901.198	descending	_	_	_	_	_				_		
 336-0	BO026	336	perché	perché	perché	linguistic	_	Begin=901.198	_	_	_	_	_	_				_		
 336-1	BO026	336	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		
@@ -2554,12 +2554,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 393-4	BO020	393	italiano	italiano	italiano	linguistic	_		_	_	_	_	_	_		0-8(0)		_		
 393-5	BO020	393	elle	elle	elle	linguistic	_		_	_	_	_	_	_		0-4(0)		_		
 393-6	BO020	393	due	due,>	due,>	linguistic	_	End=1035.544	weakly_ascending	_	_	_	_	_		0-3(0)		_		
-394-0	BO020	394	e	e:,	e:,	linguistic	_	End=1037.225	weakly_ascending	_	_	_	_	_	0x1			_		
+394-0	BO020	394	e	e:,	e:,	linguistic	_	End=1037.224	weakly_ascending	_	_	_	_	_	0x1			_		
 395-0	BO020	395	eh	e:h,	e:h,	linguistic	_	End=1038.288	weakly_ascending	_	_	_	_	_	0x1			_		
 396-0	BO020	396	la	la	la	linguistic	_	Begin=1038.386	_	_	_	_	_	_				_		
 396-1	BO020	396	lingua	lingua	lingua	linguistic	_		_	_	_	_	_	_				_		
 396-2	BO020	396	straniera	straniera.	straniera.	linguistic	_	End=1039.728	descending	_	_	_	_	_				_		
-397-0	BO020	397	che	che	che	linguistic	_	Begin=1040.6	_	_	_	_	_	_				_		
+397-0	BO020	397	che	che	che	linguistic	_	Begin=1040.599	_	_	_	_	_	_				_		
 397-1	BO020	397	potrebbe	potrebbe	potrebbe	linguistic	_		_	_	_	_	_	_				_		
 397-2	BO020	397	essere	essere	essere	linguistic	_		_	_	_	_	_	_				_		
 397-3	BO020	397	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -2569,10 +2569,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 397-7	BO020	397	seconda	seconda	seconda	linguistic	_		_	_	_	_	_	_		0-7(0)		_		
 397-8	BO020	397	lingua	lingua	lingua	linguistic	_		_	_	_	_	_	_		0-6(0)		_		
 397-9	BO020	397	straniera	[stranie]ra.>	[stranie]ra.>	linguistic	_	End=1044.722	descending	_	_	_	_	_		0-9(0)		_		0-7(398)
-398-0	BO026	398	mh	[mh	[mh	linguistic	_	Begin=1043.811	_	_	_	_	_	_				_		0-2(397)
-398-1	BO026	398	mh	mh.]	mh.]	linguistic	_	End=1044.36	descending	_	_	_	_	_				_		0-2(397)
+398-0	BO026	398	mh	[mh	[mh	linguistic	_	Begin=1043.81	_	_	_	_	_	_				_		0-2(397)
+398-1	BO026	398	mh	mh.]	mh.]	linguistic	_	End=1044.359	descending	_	_	_	_	_				_		0-2(397)
 399-0	BO020	399	eh	e:h	e:h	linguistic	_	Begin=1045.971	_	_	_	_	ProsodicLink=Yes	_	0x1			_		
-399-1	BO020	399	mh	mh,	,	linguistic	_	End=1046.831	weakly_ascending	_	_	_	_	_				_		
+399-1	BO020	399	mh	mh,	,	linguistic	_	End=1046.83	weakly_ascending	_	_	_	_	_				_		
 400-0	BO026	400	oppure	oppure	oppure	linguistic	_	Begin=1047.766	_	_	_	_	_	_				_		
 400-1	BO026	400	puo'	puo'	puo'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 400-2	BO026	400	essere	essere	essere	linguistic	_		_	_	_	_	_	_				_		
@@ -4163,7 +4163,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 641-0	BO026	641	mh	°mh.°	°mh.°	linguistic	_	End=1740.305	descending	_	_	_	_	_				low		
 642-0	BO026	642	eh	e::h	e::h	linguistic	_	Begin=1740.785	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
 642-1	BO026	642	mh	mh		linguistic	_	End=1741.662	_	_	_	_	_	_				_		
-643-0	BO020	643	perché	perché	perché	linguistic	_	Begin=1741.7459999999999	_	_	_	_	_	_				_		
+643-0	BO020	643	perché	perché	perché	linguistic	_	Begin=1741.745	_	_	_	_	_	_				_		
 643-1	BO020	643	co~	co~	co~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
 643-2	BO020	643	come	come	come	linguistic	_		_	_	_	_	_	_				_		
 643-3	BO020	643	faccio	faccio	faccio	linguistic	_		_	_	_	_	_	_				_		
@@ -4341,7 +4341,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 670-1	BO020	670	il	i]l	i]l	linguistic	_		_	_	_	_	_	_		0-2(0)		_		0-1(671)
 670-2	BO020	670	la	la,>	la,>	linguistic	_	End=1818.43	weakly_ascending	_	_	_	_	_		0-2(0)		_		
 671-0	BO026	671	sì	[sì.]	[sì.]	linguistic	_	End=1818.116	descending	_	_	_	_	_				_		0-2(670)
-672-0	BO026	672	eh	eh	eh	linguistic	_	Begin=1818.4879999999998	_	_	_	_	_	_				_		
+672-0	BO026	672	eh	eh	eh	linguistic	_	Begin=1818.487	_	_	_	_	_	_				_		
 672-1	BO026	672	pero'	pero'	pero'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 672-2	BO026	672	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 672-3	BO026	672	prima	prima	prima	linguistic	_		_	_	_	_	_	_				_		
@@ -4498,7 +4498,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 691-18	BO026	691	informazioni	info[rmazioni:,]	info[rmazioni:,]	linguistic	_	End=1882.802	weakly_ascending	_	_	_	_	_	11x1			_		4-12(692)
 692-0	BO020	692	relativi	[relativi	[relativi	linguistic	_	Begin=1881.868	_	_	_	_	_	_				_		0-8(691)
 692-1	BO020	692	a	a]:,	a]:,	linguistic	_	End=1883.034	weakly_ascending	_	_	_	_	_	0x1			_		0-1(691)
-693-0	BO026	693	informativi	informa[tivi]	informa[tivi]	linguistic	_	Begin=1883.1309999999999	_	_	_	_	_	_				_		7-11(694)
+693-0	BO026	693	informativi	informa[tivi]	informa[tivi]	linguistic	_	Begin=1883.13	_	_	_	_	_	_				_		7-11(694)
 693-1	BO026	693	poi	poi,	poi,	linguistic	_	End=1884.255	weakly_ascending	_	_	_	_	_				_		
 694-0	BO020	694	sì	[sì.]	[sì.]	linguistic	_	End=1883.795	descending	_	_	_	_	_				_		0-2(693)
 695-0	BO026	695	eh	e:h	e:h	linguistic	_	Begin=1884.746	_	_	_	_	_	_	0x1			_		
@@ -4822,10 +4822,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 757-0	BO020	757	alle	alle,	alle,	linguistic	_	End=2045.306	weakly_ascending	_	_	_	_	_				_		
 758-0	BO020	758	risposte	risposte	risposte	linguistic	_	Begin=2045.801	_	_	_	_	_	_				_		
 758-1	BO020	758	su	su::,	su::,	linguistic	_	End=2047.489	weakly_ascending	_	_	_	_	_	1x2			_		
-759-0	BO020	759	eh	e::h,	e::h,	linguistic	_	End=2049.316	weakly_ascending	_	_	_	_	_	0x2			_		
-760-0	BO020	760	le	le	le	linguistic	_	Begin=2049.45	_	_	_	_	_	_				_		
+759-0	BO020	759	eh	e::h,	e::h,	linguistic	_	End=2049.315	weakly_ascending	_	_	_	_	_	0x2			_		
+760-0	BO020	760	le	le	le	linguistic	_	Begin=2049.449	_	_	_	_	_	_				_		
 760-1	BO020	760	singole	s[ingole]	s[ingole]	linguistic	_		_	_	_	_	_	_				_		1-7(761)
-760-2	BO020	760	lingue	lingue.	lingue.	linguistic	_	End=2050.785	descending	_	_	_	_	_				_		
+760-2	BO020	760	lingue	lingue.	lingue.	linguistic	_	End=2050.784	descending	_	_	_	_	_				_		
 761-0	BO026	761	sì	[sì.]	[sì.]	linguistic	_	End=2050.203	descending	_	_	_	_	_				_		0-2(760)
 762-0	BO020	762	eh	e::h	e::h	linguistic	_	Begin=2051.971	_	_	_	_	_	_	0x2			_		
 762-1	BO020	762	l'	[(l'	[(l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_	0-2(0)	0-2(763)
@@ -4837,7 +4837,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 762-7	BO020	762	degli	de[gli	de[gli	linguistic	_		_	_	_	_	_	_				_		2-5(764)
 762-8	BO020	762	istituti	istitu]ti	istitu]ti	linguistic	_		_	_	_	_	_	_				_		0-6(764)
 762-9	BO020	762	sì	sì.	sì.	linguistic	_	End=2055.112	descending	_	_	_	_	_				_		
-763-0	BO026	763	allora	[allora	[allora	linguistic	_	Begin=2052.265	_	_	_	_	_	_				_		0-6(762)
+763-0	BO026	763	allora	[allora	[allora	linguistic	_	Begin=2052.264	_	_	_	_	_	_				_		0-6(762)
 763-1	BO026	763	lei	lei	lei	linguistic	_		_	_	_	_	_	_				_		0-3(762)
 763-2	BO026	763	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		0-2(762)
 763-3	BO026	763	preso	preso:,]	preso:,]	linguistic	_	End=2053.591	weakly_ascending	_	_	_	_	_	4x1			_		0-5(762)
@@ -4884,7 +4884,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 766-24	BO020	766	scolastico	scolastico,	scolastico,	linguistic	_	End=2070.357	weakly_ascending	_	_	_	_	_				_		
 767-0	BO026	767	solo	[solo	[solo	linguistic	_	Begin=2063.08	_	_	_	_	_	_				_		0-4(766)
 767-1	BO026	767	quali	quali	quali	linguistic	_		_	_	_	_	_	_				_		0-5(766)
-767-2	BO026	767	sono	sono.]	sono.]	linguistic	_	End=2064.236	descending	_	_	_	_	_				_		0-4(766)
+767-2	BO026	767	sono	sono.]	sono.]	linguistic	_	End=2064.235	descending	_	_	_	_	_				_		0-4(766)
 768-0	BO026	768	okay	[okay.]	[okay.]	linguistic	_	End=2065.5	descending	_	_	_	_	_				_		0-4(766)
 769-0	BO026	769	sì	[sì.]	[sì.]	linguistic	_	End=2067.668	descending	_	_	_	_	_				_		0-2(766)
 770-0	BO020	770	eh	e::h,	e::h,	linguistic	_	End=2071.581	weakly_ascending	_	_	_	_	_	0x2			_		
@@ -4894,7 +4894,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 771-3	BO020	771	insegnanti	insegnant[i	insegnant[i	linguistic	_		_	_	_	_	_	_				_		9-10(772)
 771-4	BO020	771	di	di,]	di,]	linguistic	_	End=2074.306	weakly_ascending	_	_	_	_	_				_		0-2(772)
 772-0	BO026	772	va	[va	[va	linguistic	_	Begin=2073.905	_	_	_	_	_	_				_		0-2(771)
-772-1	BO026	772	bene	be]ne.	be]ne.	linguistic	_	End=2074.555	descending	_	_	_	_	_				_		0-2(771)
+772-1	BO026	772	bene	be]ne.	be]ne.	linguistic	_	End=2074.554	descending	_	_	_	_	_				_		0-2(771)
 773-0	BO020	773	eh	eh	eh	linguistic	_	Begin=2074.646	_	_	_	_	ProsodicLink=Yes	_				_		
 773-1	BO020	773	elle	elle	le 	linguistic	_		_	_	_	_	_	_				_		
 773-2	BO020	773	esse	esse	sse 	linguistic	_		_	_	_	_	_	_				_		
@@ -4907,7 +4907,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 775-2	BO026	775	aggiornarci	aggiornarci	aggiornarci	linguistic	_		_	_	_	_	_	_				_		
 775-3	BO026	775	anche	anche	anche	linguistic	_		_	_	_	_	_	_				_		
 775-4	BO026	775	a	a:	a:	linguistic	_		_	_	_	_	ProsodicLink=Yes	_	0x1			_		
-775-5	BO026	775	mh	m:h,	h,	linguistic	_	End=2079.622	weakly_ascending	_	_	_	_	_	0x1			_		
+775-5	BO026	775	mh	m:h,	h,	linguistic	_	End=2079.621	weakly_ascending	_	_	_	_	_	0x1			_		
 776-0	BO026	776	a	a	a	linguistic	_	Begin=2079.886	_	_	_	_	_	_				_		
 776-1	BO026	776	metà	metà	metà	linguistic	_		_	_	_	_	_	_				_		
 776-2	BO026	776	giugno	giugno	giugno	linguistic	_		_	_	_	_	_	_				_		
@@ -4922,8 +4922,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 776-11	BO026	776	su	su	su	linguistic	_		_	_	_	_	_	_				_		
 776-12	BO026	776	questo	questo.	questo.	linguistic	_	End=2084.28	descending	_	_	_	_	_				_		
 777-0	BO026	777	mh	mh,	mh,	linguistic	_	End=2084.853	weakly_ascending	_	_	_	_	_				_		
-778-0	BO020	778	sì	sì.	sì.	linguistic	_	End=2085.285	descending	_	_	_	_	_				_		
-779-0	BO020	779	eh	e::h	e::h	linguistic	_	Begin=2085.41	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
+778-0	BO020	778	sì	sì.	sì.	linguistic	_	End=2085.284	descending	_	_	_	_	_				_		
+779-0	BO020	779	eh	e::h	e::h	linguistic	_	Begin=2085.409	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
 779-1	BO020	779	mh	m:h,	h,	linguistic	_	End=2086.926	weakly_ascending	_	_	_	_	_	0x1			_		
 780-0	BO026	780	anche	anche	anche	linguistic	_	Begin=2087.025	_	_	_	_	_	_				_		
 780-1	BO026	780	fra	fra	fra	linguistic	_		_	_	_	_	_	_				_		
@@ -4933,7 +4933,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 780-5	BO026	780	dice	dice	dice	linguistic	_		_	_	_	_	_	_				_		
 780-6	BO026	780	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 780-7	BO026	780	cosa	cosa:,	cosa:,	linguistic	_	End=2089.867	weakly_ascending	_	_	_	_	_	3x1			_		
-781-0	BO020	781	bene	bene	bene	linguistic	_	Begin=2090.086	_	_	_	_	_	_				_		
+781-0	BO020	781	bene	bene	bene	linguistic	_	Begin=2090.085	_	_	_	_	_	_				_		
 781-1	BO020	781	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
 781-2	BO020	781	nella	°nella:°	°nella:°	linguistic	_		_	_	_	_	_	_	4x1			low		
 781-3	BO020	781	periodo	periodo	periodo	linguistic	_		_	_	_	_	_	_				_		
@@ -4948,7 +4948,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 781-12	BO020	781	comunque	comunque	comunque	linguistic	_		_	_	_	_	_	_				_		
 781-13	BO020	781	agli	agli	agli	linguistic	_		_	_	_	_	_	_				_		
 781-14	BO020	781	esami	esami.	esami.	linguistic	_	End=2095.408	descending	_	_	_	_	_				_		
-782-0	BO020	782	eh	e::h	e::h	linguistic	_	Begin=2095.613	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
+782-0	BO020	782	eh	e::h	e::h	linguistic	_	Begin=2095.612	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
 782-1	BO020	782	mh	mh,	,	linguistic	_	End=2096.888	weakly_ascending	_	_	_	_	_				_		
 783-0	BO020	783	sì	sì	sì	linguistic	_	Begin=2096.98	_	_	_	_	_	_				_		
 783-1	BO020	783	comunque	comunque	comunque	linguistic	_		_	_	_	_	_	_				_		

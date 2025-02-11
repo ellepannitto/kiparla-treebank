@@ -1,6 +1,6 @@
 token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	intonation	unknown	interruption	truncation	prosodicLink	spaceafter	prolongations	slow_pace	fast_pace	volume	guesses	overlaps
 0-0	BO026	0	ditemi	ditemi.	ditemi.	linguistic	_	End=13.218	descending	_	_	_	_	_				_		
-1-0	BO040	1	sì	sì	sì	linguistic	_	Begin=13.315999999999999	_	_	_	_	_	_				_		
+1-0	BO040	1	sì	sì	sì	linguistic	_	Begin=13.315	_	_	_	_	_	_				_		
 1-1	BO040	1	eh	eh	eh	linguistic	_		_	_	_	_	_	_				_		
 1-2	BO040	1	noi	<no::i	<no::i	linguistic	_		_	_	_	_	_	_	1x2	0-3(0)		_		
 1-3	BO040	1	abbiamo	abbiamo	abbiamo	linguistic	_		_	_	_	_	_	_		0-7(0)		_		
@@ -269,7 +269,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 46-3	BO026	46	parte	parte	parte	linguistic	_		_	_	_	_	_	_				_		0-5(45)
 46-4	BO026	46	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(45)
 46-5	BO026	46	sì	sì.]	sì.]	linguistic	_	End=115.821	descending	_	_	_	_	_				_		0-2(45)
-47-0	BO040	47	sì	<sì.>	<sì.>	linguistic	_	End=116.77300000000001	descending	_	_	_	_	_		0-2(0)		_		
+47-0	BO040	47	sì	<sì.>	<sì.>	linguistic	_	End=116.773	descending	_	_	_	_	_		0-2(0)		_		
 48-0	BO026	48	okay	okay.	okay.	linguistic	_	End=117.39	descending	_	_	_	_	_				_		
 49-0	BO026	49	e	e	e	linguistic	_	Begin=117.771	_	_	_	_	_	_				_		
 49-1	BO026	49	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		

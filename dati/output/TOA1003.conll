@@ -48,7 +48,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 4-5	TO065	4	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		
 4-6	TO065	4	come	come	come	linguistic	_		_	_	_	_	_	_				_		
 4-7	TO065	4	facciamo	facciamo?	facciamo?	linguistic	_	End=15.302	ascending	_	_	_	_	_				_		
-5-0	TO071	5	ehm	e::hm	e::hm	linguistic	_	Begin=16.002	_	_	_	_	_	_	0x2			_		
+5-0	TO071	5	ehm	e::hm	e::hm	linguistic	_	Begin=16.001	_	_	_	_	_	_	0x2			_		
 5-1	TO071	5	nel	nel	nel	linguistic	_		_	_	_	_	_	_				_		
 5-2	TO071	5	momento	momento	momento	linguistic	_		_	_	_	_	_	_				_		
 5-3	TO071	5	in	in	in	linguistic	_		_	_	_	_	_	_				_		
@@ -877,7 +877,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 121-2	TO061	121	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		
 121-3	TO061	121	trovato	trovato	trovato	linguistic	_		_	_	_	_	_	_				_		
 121-4	TO061	121	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		
-121-5	TO061	121	quello	quello.	quello.	linguistic	_	End=261.28	descending	_	_	_	_	_				_		
+121-5	TO061	121	quello	quello.	quello.	linguistic	_	End=261.279	descending	_	_	_	_	_				_		
 122-0	TO065	122	ecco	ec[co.	ec[co.	linguistic	_	Begin=261.581	descending	_	_	_	_	_				_		2-4(123)
 122-1	TO065	122	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		0-2(123)
 122-2	TO065	122	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		0-2(123)
@@ -888,7 +888,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 122-7	TO065	122	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 122-8	TO065	122	qualche	qualche	qualche	linguistic	_		_	_	_	_	_	_				_		
 122-9	TO065	122	biblioteca	bi[blioteca?]	bi[blioteca?]	linguistic	_	End=265.204	ascending	_	_	_	_	_				_		2-10(124)
-123-0	TO061	123	pero'	[pero',	[pero',	linguistic	_	Begin=261.905	weakly_ascending	_	_	_	_	_				_		0-5(122)
+123-0	TO061	123	pero'	[pero',	[pero',	linguistic	_	Begin=261.904	weakly_ascending	_	_	_	_	_				_		0-5(122)
 123-1	TO061	123	ehm	e:hm.	e:hm.	linguistic	_		descending	_	_	_	_	_	0x1			_		0-3(122)
 123-2	TO061	123	non	non:	non:	linguistic	_		_	_	_	_	_	_	2x1			_		0-3(122)
 123-3	TO061	123	mh	mh.]	mh.]	linguistic	_	End=263.762	descending	_	_	_	_	_				_		0-2(122)
@@ -1634,12 +1634,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 246-27	TO061	246	modo	modo	modo	linguistic	_		_	_	_	_	_	_				_		
 246-28	TO061	246	specifico	specifico	specifico	linguistic	_		_	_	_	_	_	_				_		
 246-29	TO061	246	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
-246-30	TO061	246	argomento	argomento.	argomento.	linguistic	_	End=516.05	descending	_	_	_	_	_				_		
-247-0	TO061	247	ci	ci	ci	linguistic	_	Begin=516.059	_	_	_	_	_	_				_		
+246-30	TO061	246	argomento	argomento.	argomento.	linguistic	_	End=516.049	descending	_	_	_	_	_				_		
+247-0	TO061	247	ci	ci	ci	linguistic	_	Begin=516.058	_	_	_	_	_	_				_		
 247-1	TO061	247	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
 247-2	TO061	247	soltanto	soltanto	soltanto	linguistic	_		_	_	_	_	_	_				_		
 247-3	TO061	247	degli	degli	degli	linguistic	_		_	_	_	_	_	_				_		
-247-4	TO061	247	spunti	spunti.	spunti.	linguistic	_	End=517.906	descending	_	_	_	_	_				_		
+247-4	TO061	247	spunti	spunti.	spunti.	linguistic	_	End=517.905	descending	_	_	_	_	_				_		
 248-0	TO061	248	cioè	[cioè	[cioè	linguistic	_	Begin=517.953	_	_	_	_	_	_				_		0-4(249)
 248-1	TO061	248	viene	viene	viene	linguistic	_		_	_	_	_	_	_				_		0-5(249)
 248-2	TO061	248	semplicemente	semplicemente	semplicemente	linguistic	_		_	_	_	_	_	_				_		0-13(249)
@@ -1650,7 +1650,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 249-3	TO065	249	cosa	cosa	cosa	linguistic	_		_	_	_	_	_	_				_		0-4(248)
 249-4	TO065	249	intende	intend]e?	intend]e?	linguistic	_		ascending	_	_	_	_	_				_		0-6(248)
 249-5	TO065	249	cioè	c[(io)è,]	c[(io)è,]	linguistic	_	End=520.034	weakly_ascending	_	_	_	_	_				_	1-3(0)	1-4(250)
-250-0	TO061	250	vie~	[vie~]	[vie~]	linguistic	_	Begin=519.906	_	_	Interrupted=Yes	_	ProsodicLink=Yes	_				_		0-4(?)
+250-0	TO061	250	vie~	[vie~]	[vie~]	linguistic	_	Begin=519.905	_	_	Interrupted=Yes	_	ProsodicLink=Yes	_				_		0-4(?)
 250-1	TO061	250	si	si	i	linguistic	_		_	_	_	_	_	_				_		
 250-2	TO061	250	dice	dice	dice	linguistic	_		_	_	_	_	_	_				_		
 250-3	TO061	250	che	che:	che:	linguistic	_		_	_	_	_	_	_	2x1			_		
@@ -1999,7 +1999,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 295-23	TO065	295	lee	lee,	lee,	linguistic	_	End=651.209	weakly_ascending	_	_	_	_	_				_		
 296-0	TO065	296	a	a,	a,	linguistic	_	End=651.953	weakly_ascending	_	_	_	_	_				_		
 297-0	TO065	297	questi	questi	questi	linguistic	_	Begin=653.075	_	_	_	_	_	_				_		
-297-1	TO065	297	fabliaux	fabliaux.	fabliaux.	linguistic	_	End=653.8589999999999	descending	_	_	_	_	_				_		
+297-1	TO065	297	fabliaux	fabliaux.	fabliaux.	linguistic	_	End=653.858	descending	_	_	_	_	_				_		
 298-0	TO061	298	questi	>questi	>questi	linguistic	_	Begin=653.958	_	_	_	_	_	_			0-6(0)	_		
 298-1	TO061	298	fabliaux	fabliaux.<	fabliaux.<	linguistic	_		descending	_	_	_	_	_			0-8(0)	_		
 298-2	TO061	298	sì	sì.	sì.	linguistic	_	End=654.813	descending	_	_	_	_	_				_		
@@ -2120,7 +2120,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 315-1	TO065	315	xxx	[(xxx).]	[(xxx).]	linguistic	_	End=689.458	descending	Unknown=Yes	_	_	_	_				_	0-3(1)	0-3(316)
 316-0	TO061	316	mhmh	[mhmh.]	[mhmh.]	linguistic	_	End=689.323	descending	_	_	_	_	_				_		0-4(315)
 317-0	TO061	317	certo	cer[(to)].	cer[(to)].	linguistic	_	End=690.355	descending	_	_	_	_	_				_	3-5(0)	3-5(?)
-318-0	TO065	318	per	[p]er	[p]er	linguistic	_	Begin=690.4010000000001	_	_	_	_	_	_				_		0-1(?)
+318-0	TO065	318	per	[p]er	[p]er	linguistic	_	Begin=690.401	_	_	_	_	_	_				_		0-1(?)
 318-1	TO065	318	fare	fare	fare	linguistic	_		_	_	_	_	_	_				_		
 318-2	TO065	318	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 318-3	TO065	318	piccolo	piccolo	piccolo	linguistic	_		_	_	_	_	_	_				_		
@@ -2971,7 +2971,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 490-8	TO065	490	uno	uno	uno	linguistic	_		_	_	_	_	_	_				_		
 490-9	TO065	490	sbagliato	sbagliato.	sbagliato.	linguistic	_	End=1025.817	descending	_	_	_	_	_				_		
 491-0	TO061	491	mh	[mh.]	[mh.]	linguistic	_	End=1024.607	descending	_	_	_	_	_				_		0-2(490)
-492-0	TO065	492	esistono	esistono	esistono	linguistic	_	Begin=1026.359	_	_	_	_	_	_				_		
+492-0	TO065	492	esistono	esistono	esistono	linguistic	_	Begin=1026.358	_	_	_	_	_	_				_		
 492-1	TO065	492	criteri	criteri	criteri	linguistic	_		_	_	_	_	_	_				_		
 492-2	TO065	492	coerenti	coerenti,	coerenti,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 492-3	TO065	492	e	e	e	linguistic	_		_	_	_	_	_	_				_		
@@ -2980,7 +2980,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 493-0	TO061	493	come	[come	[come	linguistic	_	Begin=1028.508	_	_	_	_	_	_				_		0-4(492)
 493-1	TO061	493	per	per	per	linguistic	_		_	_	_	_	_	_				_		0-3(492)
 493-2	TO061	493	la	la	la	linguistic	_		_	_	_	_	_	_				_		0-2(492)
-493-3	TO061	493	bibliografia	bibli]ografia.	bibli]ografia.	linguistic	_	End=1029.773	descending	_	_	_	_	_				_		0-5(492)
+493-3	TO061	493	bibliografia	bibli]ografia.	bibli]ografia.	linguistic	_	End=1029.772	descending	_	_	_	_	_				_		0-5(492)
 494-0	TO061	494	l'	l'	l'	linguistic	_	Begin=1030.038	_	_	_	Truncated=Yes	_	_				_		
 494-1	TO061	494	importante	importante	importante	linguistic	_		_	_	_	_	_	_				_		
 494-2	TO061	494	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -2988,7 +2988,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 494-4	TO061	494	coerenza	coerenza:	coerenza:	linguistic	_		_	_	_	_	_	_	7x1			_		
 494-5	TO061	494	all'	all'	all'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 494-6	TO061	494	int~	in[t~]	in[t~]	linguistic	_	End=1031.906	_	_	Interrupted=Yes	_	_	_				_		2-4(495)
-495-0	TO065	495	se	[se]	[se]	linguistic	_	Begin=1031.745	_	_	_	_	_	_				_		0-2(494)
+495-0	TO065	495	se	[se]	[se]	linguistic	_	Begin=1031.744	_	_	_	_	_	_				_		0-2(494)
 495-1	TO065	495	lei	lei	lei	linguistic	_		_	_	_	_	_	_				_		
 495-2	TO065	495	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		
 495-3	TO065	495	deciso	deciso	deciso	linguistic	_		_	_	_	_	_	_				_		
@@ -3026,18 +3026,18 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 497-14	TO065	497	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 497-15	TO065	497	data	data	data	linguistic	_		_	_	_	_	_	_				_		
 497-16	TO065	497	senza	senza	senza	linguistic	_		_	_	_	_	_	_				_		
-497-17	TO065	497	virgola	virgola,	virgola,	linguistic	_	End=1044.696	weakly_ascending	_	_	_	_	_				_		
+497-17	TO065	497	virgola	virgola,	virgola,	linguistic	_	End=1044.695	weakly_ascending	_	_	_	_	_				_		
 498-0	TO065	498	a	a	a	linguistic	_	Begin=1044.701	_	_	_	_	_	_				_		
 498-1	TO065	498	me	me	me	linguistic	_		_	_	_	_	_	_				_		
 498-2	TO065	498	sta	sta	sta	linguistic	_		_	_	_	_	_	_				_		
-498-3	TO065	498	bene	bene.	bene.	linguistic	_	End=1045.513	descending	_	_	_	_	_				_		
-499-0	TO061	499	sì	sì	sì	linguistic	_	Begin=1045.801	_	_	_	_	_	_				_		
-499-1	TO061	499	sì	sì.	sì.	linguistic	_	End=1046.408	descending	_	_	_	_	_				_		
+498-3	TO065	498	bene	bene.	bene.	linguistic	_	End=1045.512	descending	_	_	_	_	_				_		
+499-0	TO061	499	sì	sì	sì	linguistic	_	Begin=1045.8	_	_	_	_	_	_				_		
+499-1	TO061	499	sì	sì.	sì.	linguistic	_	End=1046.407	descending	_	_	_	_	_				_		
 500-0	TO065	500	a	(a)	(a)	linguistic	_	Begin=1046.646	_	_	_	_	_	_				_	0-1(0)	
 500-1	TO065	500	me	me	me	linguistic	_		_	_	_	_	_	_				_		
 500-2	TO065	500	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 500-3	TO065	500	piace	piace.	piace.	linguistic	_	End=1047.453	descending	_	_	_	_	_				_		
-501-0	TO065	501	pero'	pero'	pero'	linguistic	_	Begin=1047.745	_	_	_	Truncated=Yes	_	_				_		
+501-0	TO065	501	pero'	pero'	pero'	linguistic	_	Begin=1047.744	_	_	_	Truncated=Yes	_	_				_		
 501-1	TO065	501	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 501-2	TO065	501	sta	[sta	[sta	linguistic	_		_	_	_	_	_	_				_		0-3(502)
 501-3	TO065	501	benis~	benis~.]	benis~.]	linguistic	_	End=1048.812	descending	_	_	_	_	_				_		0-6(502)
@@ -3080,12 +3080,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 508-0	TO061	508	infatti	[infatti	[infatti	linguistic	_	Begin=1056.269	_	_	_	_	_	_				_		0-7(507)
 508-1	TO061	508	per	per]	per]	linguistic	_		_	_	_	_	_	_				_		0-3(507)
 508-2	TO061	508	quello	quello::	quello::	linguistic	_	End=1057.391	_	_	_	_	_	_	5x2			_		
-509-0	TO065	509	pero'	pero',	pero',	linguistic	_	Begin=1057.4859999999999	weakly_ascending	_	_	_	_	_				_		
+509-0	TO065	509	pero'	pero',	pero',	linguistic	_	Begin=1057.485	weakly_ascending	_	_	_	_	_				_		
 509-1	TO065	509	lei	lei	lei	linguistic	_		_	_	_	_	_	_				_		
 509-2	TO065	509	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
 509-3	TO065	509	puo'	puo',	puo',	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 509-4	TO065	509	tranquillamente	tranquillamente	tranquillamente	linguistic	_		_	_	_	_	_	_				_		
-509-5	TO065	509	utilizzare	utilizza[re.]	utilizza[re.]	linguistic	_	End=1059.9050000000002	descending	_	_	_	_	_				_		8-10(?)
+509-5	TO065	509	utilizzare	utilizza[re.]	utilizza[re.]	linguistic	_	End=1059.905	descending	_	_	_	_	_				_		8-10(?)
 510-0	TO061	510	va	[v]a	[v]a	linguistic	_	Begin=1059.908	_	_	_	_	_	_				_		0-1(?)
 510-1	TO061	510	bene	be[ne.]	be[ne.]	linguistic	_	End=1060.383	descending	_	_	_	_	_				_		2-4(?)
 511-0	TO065	511	l'	[l'	[l'	linguistic	_	Begin=1060.175	_	_	_	Truncated=Yes	_	_				_		0-2(510)
@@ -3676,7 +3676,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 615-5	TO061	615	pero'	per[o':	per[o':	linguistic	_		_	_	_	_	_	_	3x1			_		3-5(?)
 615-6	TO061	615	nel	nel	nel	linguistic	_		_	_	_	_	_	_				_		0-3(?)
 615-7	TO061	615	nella	nella	nella	linguistic	_		_	_	_	_	_	_				_		0-5(?)
-615-8	TO061	615	bibliografia	bibliografia::]	bibliografia::]	linguistic	_	End=1300.91	_	_	_	_	_	_	11x2			_		0-12(?)
+615-8	TO061	615	bibliografia	bibliografia::]	bibliografia::]	linguistic	_	End=1300.8100000000002	_	_	_	_	_	_	11x2			_		0-12(?)
 616-0	TO065	616	f~	[f~]	[f~]	linguistic	_	End=1297.799	_	_	Interrupted=Yes	_	_	_				_		0-2(?)
 617-0	TO065	617	e	[e	[e	linguistic	_	Begin=1298.592	_	_	_	_	_	_				_		0-1(615)
 617-1	TO065	617	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		0-3(615)
@@ -3850,11 +3850,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 644-2	TO061	644	che	che	che	linguistic	_		_	_	_	_	_	_				_		0-3(643)
 644-3	TO061	644	mi	mi]	mi]	linguistic	_		_	_	_	_	_	_				_		0-2(643)
 644-4	TO061	644	domando	domando.	domando.	linguistic	_	End=1353.01	descending	_	_	_	_	_				_		
-645-0	TO065	645	il	[il	[il	linguistic	_	Begin=1353.105	_	_	_	_	_	_				_		0-2(646)
-645-1	TO065	645	sistema	sistema]	sistema]	linguistic	_		_	_	_	_	_	_				_		0-7(646)
-645-2	TO065	645	rimane	rimane	rimane	linguistic	_		_	_	_	_	_	_				_		
-645-3	TO065	645	uguale	uguale.	uguale.	linguistic	_	End=1354.507	descending	_	_	_	_	_				_		
-646-0	TO061	646	se	[se:]	[se:]	linguistic	_	End=1353.603	_	_	_	_	_	_	1x1			_		0-2(645)
+645-0	TO061	645	se	[se:]	[se:]	linguistic	_	End=1353.603	_	_	_	_	_	_	1x1			_		0-2(646)
+646-0	TO065	646	il	[il	[il	linguistic	_	Begin=1353.105	_	_	_	_	_	_				_		0-2(645)
+646-1	TO065	646	sistema	sistema]	sistema]	linguistic	_		_	_	_	_	_	_				_		0-7(645)
+646-2	TO065	646	rimane	rimane	rimane	linguistic	_		_	_	_	_	_	_				_		
+646-3	TO065	646	uguale	uguale.	uguale.	linguistic	_	End=1354.507	descending	_	_	_	_	_				_		
 647-0	TO065	647	per	[per	[per	linguistic	_	Begin=1354.507	_	_	_	_	_	_				_		0-3(648)
 647-1	TO065	647	esempio	esempio	esempio	linguistic	_		_	_	_	_	_	_				_		0-7(648)
 647-2	TO065	647	in	in	in	linguistic	_		_	_	_	_	_	_				_		0-2(648)
@@ -3940,23 +3940,23 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 664-7	TO065	664	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 664-8	TO065	664	bibliografia	bibliogra[fia.]	bibliogra[fia.]	linguistic	_	End=1387.105	descending	_	_	_	_	_				_		9-12(665)
 665-0	TO061	665	sciogl~	[sciogl~.]	[sciogl~.]	linguistic	_	End=1387.019	descending	_	_	_	_	_				_		0-7(664)
-666-0	TO061	666	sì	[sì	[sì	linguistic	_	Begin=1387.12	_	_	_	_	_	_				_		0-2(667)
-666-1	TO061	666	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(667)
-666-2	TO061	666	più	più	più	linguistic	_		_	_	_	_	_	_				_		0-3(667)
-666-3	TO061	666	molto	molto	molto	linguistic	_		_	_	_	_	_	_				_		0-5(667)
-666-4	TO061	666	più	più	più	linguistic	_		_	_	_	_	_	_				_		0-3(667)
-666-5	TO061	666	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(667)
-666-6	TO061	666	agevole	agevole	agevole	linguistic	_		_	_	_	_	_	_				_		0-7(667)
-666-7	TO061	666	in	in	in	linguistic	_		_	_	_	_	_	_				_		0-2(667)
-666-8	TO061	666	effetti	effetti.]	effetti.]	linguistic	_	End=1389.613	descending	_	_	_	_	_				_		0-7(667)
-667-0	TO065	667	e	[e	[e	linguistic	_	Begin=1387.105	_	_	_	_	_	_				_		0-1(666)
-667-1	TO065	667	secondo	secondo	secondo	linguistic	_		_	_	_	_	_	_				_		0-7(666)
-667-2	TO065	667	me	me	me	linguistic	_		_	_	_	_	_	_				_		0-2(666)
-667-3	TO065	667	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		0-6(666)
-667-4	TO065	667	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(666)
-667-5	TO065	667	agevola	agevola	agevola	linguistic	_		_	_	_	_	_	_				_		0-7(666)
-667-6	TO065	667	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(666)
-667-7	TO065	667	lavoro	lav]oro.	lav]oro.	linguistic	_	End=1389.859	descending	_	_	_	_	_				_		0-3(666)
+666-0	TO065	666	e	[e	[e	linguistic	_	Begin=1387.105	_	_	_	_	_	_				_		0-1(667)
+666-1	TO065	666	secondo	secondo	secondo	linguistic	_		_	_	_	_	_	_				_		0-7(667)
+666-2	TO065	666	me	me	me	linguistic	_		_	_	_	_	_	_				_		0-2(667)
+666-3	TO065	666	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		0-6(667)
+666-4	TO065	666	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(667)
+666-5	TO065	666	agevola	agevola	agevola	linguistic	_		_	_	_	_	_	_				_		0-7(667)
+666-6	TO065	666	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(667)
+666-7	TO065	666	lavoro	lav]oro.	lav]oro.	linguistic	_	End=1389.859	descending	_	_	_	_	_				_		0-3(667)
+667-0	TO061	667	sì	[sì	[sì	linguistic	_	Begin=1387.12	_	_	_	_	_	_				_		0-2(666)
+667-1	TO061	667	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(666)
+667-2	TO061	667	più	più	più	linguistic	_		_	_	_	_	_	_				_		0-3(666)
+667-3	TO061	667	molto	molto	molto	linguistic	_		_	_	_	_	_	_				_		0-5(666)
+667-4	TO061	667	più	più	più	linguistic	_		_	_	_	_	_	_				_		0-3(666)
+667-5	TO061	667	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(666)
+667-6	TO061	667	agevole	agevole	agevole	linguistic	_		_	_	_	_	_	_				_		0-7(666)
+667-7	TO061	667	in	in	in	linguistic	_		_	_	_	_	_	_				_		0-2(666)
+667-8	TO061	667	effetti	effetti.]	effetti.]	linguistic	_	End=1389.613	descending	_	_	_	_	_				_		0-7(666)
 668-0	TO065	668	semplifica	semplifica	semplifica	linguistic	_	Begin=1389.859	_	_	_	_	_	_				_		
 668-1	TO065	668	anche	anche,	anche,	linguistic	_	End=1391.216	weakly_ascending	_	_	_	_	_				_		
 669-0	TO061	669	mh	mh.	mh.	linguistic	_	End=1391.503	descending	_	_	_	_	_				_		
@@ -4289,7 +4289,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 735-0	TO065	735	questo	questo	questo	linguistic	_	Begin=1495.677	_	_	_	_	_	_				_		
 735-1	TO065	735	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 735-2	TO065	735	va	va	va	linguistic	_		_	_	_	_	_	_				_		
-735-3	TO065	735	bene	bene.	bene.	linguistic	_	End=1496.5330000000001	descending	_	_	_	_	_				_		
+735-3	TO065	735	bene	bene.	bene.	linguistic	_	End=1496.533	descending	_	_	_	_	_				_		
 736-0	TO061	736	mh	mh.	mh.	linguistic	_	End=1496.736	descending	_	_	_	_	_				_		
 737-0	TO065	737	ma	ma	ma	linguistic	_	Begin=1496.828	_	_	_	_	_	_				_		
 737-1	TO065	737	non	non	non	linguistic	_		_	_	_	_	_	_				_		
@@ -4369,7 +4369,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 748-0	TO061	748	da	[da	[da	linguistic	_	Begin=1519.067	_	_	_	_	_	_				_		0-2(747)
 748-1	TO061	748	subito	subi]to.	subi]to.	linguistic	_	End=1519.859	descending	_	_	_	_	_				_		0-4(747)
 749-0	TO061	749	mhmh	(mhmh)	(mhmh)	linguistic	_	End=1520.306	_	_	_	_	_	_				_	0-4(0)	
-750-0	TO065	750	allora	allora	allora	linguistic	_	Begin=1520.3719999999998	_	_	_	_	_	_				_		
+750-0	TO065	750	allora	allora	allora	linguistic	_	Begin=1520.371	_	_	_	_	_	_				_		
 750-1	TO065	750	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 750-2	TO065	750	unico	unico	unico	linguistic	_		_	_	_	_	_	_				_		
 750-3	TO065	750	dubbio	dubbio	dubbio	linguistic	_		_	_	_	_	_	_				_		
@@ -4496,7 +4496,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 769-11	TO065	769	me	me	me	linguistic	_		_	_	_	_	_	_				_		
 769-12	TO065	769	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
 769-13	TO065	769	m~	m~	m~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
-769-14	TO065	769	{ride}	{ride}	{ride}	metalinguistic	_	End=1554.0700000000002	_	_	_	_	_	_				_		
+769-14	TO065	769	{ride}	{ride}	{ride}	metalinguistic	_	End=1554.07	_	_	_	_	_	_				_		
 770-0	TO061	770	ah	[a:h	[a:h	linguistic	_	Begin=1554.167	_	_	_	_	_	_	0x1			_		0-2(771)
 770-1	TO061	770	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(771)
 770-2	TO061	770	fanno	fanno.]	fanno.]	linguistic	_	End=1555.105	descending	_	_	_	_	_				_		0-5(771)
@@ -4511,7 +4511,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 773-1	TO065	773	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 773-2	TO065	773	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 773-3	TO065	773	sciocchezza	sciocchezza	sciocchezza	linguistic	_		_	_	_	_	_	_				_		
-773-4	TO065	773	questa	que[sta.]	que[sta.]	linguistic	_	End=1558.6080000000002	descending	_	_	_	_	_				_		3-6(?)
+773-4	TO065	773	questa	que[sta.]	que[sta.]	linguistic	_	End=1558.608	descending	_	_	_	_	_				_		3-6(?)
 774-0	TO061	774	certo	[c]er[to.	[c]er[to.	linguistic	_	Begin=1558.612	descending	_	_	_	_	_				_		3-5(?)
 774-1	TO061	774	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		0-2(?)
 774-2	TO061	774	sì	sì.]	sì.]	linguistic	_	End=1559.407	descending	_	_	_	_	_				_		0-2(?)
@@ -4998,7 +4998,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 859-3	TO065	859	bruttissime	bruttissime	bruttissime	linguistic	_		_	_	_	_	_	_				_		
 859-4	TO065	859	esperienze	esperi[enze.]	esperi[enze.]	linguistic	_	End=1709.427	descending	_	_	_	_	_				_		6-10(?)
 860-0	TO061	860	~perienze.	[~perienze.]	[~perienze.]	error	_	End=1709.434	_	_	_	_	_	_				_		0-9(859)
-861-0	TO065	861	cioè	cio[è.	cio[è.	linguistic	_	Begin=1709.5269999999998	descending	_	_	_	_	_				_		3-4(862)
+861-0	TO065	861	cioè	cio[è.	cio[è.	linguistic	_	Begin=1709.526	descending	_	_	_	_	_				_		3-4(862)
 861-1	TO065	861	con	con	con	linguistic	_		_	_	_	_	_	_				_		0-3(862)
 861-2	TO065	861	problemi	pr]oblemi	pr]oblemi	linguistic	_		_	_	_	_	_	_				_		0-2(862)
 861-3	TO065	861	all'	all'	all'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -5899,7 +5899,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1035-0	TO065	1035	mh	[m:h,]	[m:h,]	linguistic	_	End=2003.5	weakly_ascending	_	_	_	_	_	0x1			_		0-2(?)
 1036-0	TO061	1036	no	[n]o:?	[n]o:?	linguistic	_	Begin=2003.313	ascending	_	_	_	_	_	1x1			_		0-1(1035)
 1036-1	TO061	1036	di	[di	[di	linguistic	_		_	_	_	_	_	_				_		0-2(1037)
-1036-2	TO061	1036	troppo	t]roppo?	t]roppo?	linguistic	_	End=2004.4050000000002	ascending	_	_	_	_	_				_		0-1(1037)
+1036-2	TO061	1036	troppo	t]roppo?	t]roppo?	linguistic	_	End=2004.405	ascending	_	_	_	_	_				_		0-1(1037)
 1037-0	TO065	1037	no	[no.]	[no.]	linguistic	_	End=2004.034	descending	_	_	_	_	_				_		0-2(1036)
 1038-0	TO065	1038	no	[no	[no	linguistic	_	Begin=2004.499	_	_	_	_	_	_				_		0-2(1039)
 1038-1	TO065	1038	troppo	troppo.]	troppo.]	linguistic	_	End=2005.226	descending	_	_	_	_	_				_		0-6(1039)
@@ -6027,7 +6027,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1057-0	TO061	1057	certo	[certo.	[certo.	linguistic	_	Begin=2046.302	descending	_	_	_	_	_				_		0-5(1056)
 1057-1	TO061	1057	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		0-2(1056)
 1057-2	TO061	1057	sì	sì.]	sì.]	linguistic	_	End=2047.244	descending	_	_	_	_	_				_		0-2(1056)
-1058-0	TO065	1058	cioè	c(io)è	c(io)è	linguistic	_	Begin=2047.3319999999999	_	_	_	_	_	_				_	1-3(0)	
+1058-0	TO065	1058	cioè	c(io)è	c(io)è	linguistic	_	Begin=2047.331	_	_	_	_	_	_				_	1-3(0)	
 1058-1	TO065	1058	abbiamo	abbiamo	abbiamo	linguistic	_		_	_	_	_	_	_				_		
 1058-2	TO065	1058	visto	visto	visto	linguistic	_		_	_	_	_	_	_				_		
 1058-3	TO065	1058	che	che	che	linguistic	_		_	_	_	_	_	_				_		
@@ -6046,7 +6046,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1059-3	TO065	1059	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 1059-4	TO065	1059	montaiglon	montaiglon	montaiglon	linguistic	_		_	_	_	_	_	_				_		
 1059-5	TO065	1059	raynaud	rayna[ud,]	rayna[ud,]	linguistic	_	End=2054.109	weakly_ascending	_	_	_	_	_				_		5-7(1060)
-1060-0	TO061	1060	mh	[mh	[mh	linguistic	_	Begin=2053.709	_	_	_	_	_	_				_		0-2(1059)
+1060-0	TO061	1060	mh	[mh	[mh	linguistic	_	Begin=2053.708	_	_	_	_	_	_				_		0-2(1059)
 1060-1	TO061	1060	mh	mh.]	mh.]	linguistic	_	End=2054.118	descending	_	_	_	_	_				_		0-2(1059)
 1061-0	TO065	1061	pero'	pero'	pero'	linguistic	_	Begin=2055.435	_	_	_	Truncated=Yes	_	_				_		
 1061-1	TO065	1061	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		
@@ -6102,7 +6102,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1068-0	TO065	1068	come	[come	[come	linguistic	_	Begin=2069.511	_	_	_	_	_	_				_		0-4(1067)
 1068-1	TO065	1068	primo	primo	primo	linguistic	_		_	_	_	_	_	_				_		0-5(1067)
 1068-2	TO065	1068	approccio	app]roc[cio.	app]roc[cio.	linguistic	_		descending	_	_	_	_	_				_		0-3(1067),6-9(1069)
-1068-3	TO065	1068	esatto	esat]to.	esat]to.	linguistic	_	End=2071.595	descending	_	_	_	_	_				_		0-4(1069)
+1068-3	TO065	1068	esatto	esat]to.	esat]to.	linguistic	_	End=2071.594	descending	_	_	_	_	_				_		0-4(1069)
 1069-0	TO061	1069	ho	[ho	[ho	linguistic	_	Begin=2070.678	_	_	_	_	_	_				_		0-2(1068)
 1069-1	TO061	1069	capito	capito.]	capito.]	linguistic	_	End=2071.395	descending	_	_	_	_	_				_		0-6(1068)
 1070-0	TO065	1070	e	e	e	linguistic	_	Begin=2071.597	_	_	_	_	_	_				_		
@@ -6114,7 +6114,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1070-6	TO065	1070	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 1070-7	TO065	1070	traduzione	traduzione	traduzione	linguistic	_		_	_	_	_	_	_				_		
 1070-8	TO065	1070	in	in	in	linguistic	_		_	_	_	_	_	_				_		
-1070-9	TO065	1070	italiano	ital[iano.]	ital[iano.]	linguistic	_	End=2075.604	descending	_	_	_	_	_				_		4-8(1071)
+1070-9	TO065	1070	italiano	ital[iano.]	ital[iano.]	linguistic	_	End=2075.603	descending	_	_	_	_	_				_		4-8(1071)
 1071-0	TO061	1071	sì	[sì.	[sì.	linguistic	_	Begin=2075.203	descending	_	_	_	_	_				_		0-2(1070)
 1071-1	TO061	1071	e	e]	e]	linguistic	_		_	_	_	_	_	_				_		0-1(1070)
 1071-2	TO061	1071	infatti	infa[tti.]	infa[tti.]	linguistic	_	End=2076.417	descending	_	_	_	_	_				_		4-7(1072)
@@ -6137,7 +6137,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1073-9	TO065	1073	al	al	al	linguistic	_		_	_	_	_	_	_				_		
 1073-10	TO065	1073	francese	francese	francese	linguistic	_		_	_	_	_	_	_				_		
 1073-11	TO065	1073	antico	antico.	antico.	linguistic	_	End=2083.103	descending	_	_	_	_	_				_		
-1074-0	TO061	1074	io	[io	[io	linguistic	_	Begin=2078.901	_	_	_	_	_	_				_		0-2(1073)
+1074-0	TO061	1074	io	[io	[io	linguistic	_	Begin=2078.9	_	_	_	_	_	_				_		0-2(1073)
 1074-1	TO061	1074	so	so	so	linguistic	_		_	_	_	_	_	_				_		0-2(1073)
 1074-2	TO061	1074	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(1073)
 1074-3	TO061	1074	francese	francese	francese	linguistic	_		_	_	_	_	_	_				_		0-8(1073)
@@ -6148,7 +6148,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1074-8	TO061	1074	non	non	non	linguistic	_		_	_	_	_	_	_				_		0-3(1073)
 1074-9	TO061	1074	so	so:	so:	linguistic	_		_	_	_	_	_	_	1x1			_		0-2(1073)
 1074-10	TO061	1074	eh	eh.]	eh.]	linguistic	_	End=2082.011	descending	_	_	_	_	_				_		0-2(1073)
-1075-0	TO065	1075	poi	poi	poi	linguistic	_	Begin=2083.22	_	_	_	_	_	_				_		
+1075-0	TO065	1075	poi	poi	poi	linguistic	_	Begin=2083.219	_	_	_	_	_	_				_		
 1075-1	TO065	1075	vedremo	vedremo,	vedremo,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 1075-2	TO065	1075	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 1075-3	TO065	1075	magari	magari	magari	linguistic	_		_	_	_	_	_	_				_		
@@ -6162,7 +6162,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1075-11	TO065	1075	per	per	per	linguistic	_		_	_	_	_	_	_				_		
 1075-12	TO065	1075	aiutarla	aiutarla	aiutarla	linguistic	_		_	_	_	_	_	_				_		
 1075-13	TO065	1075	ma	ma	ma	linguistic	_	End=2088.302	_	_	_	_	_	_				_		
-1076-0	TO065	1076	dopo	dopo	dopo	linguistic	_	Begin=2088.988	_	_	_	_	_	_				_		
+1076-0	TO065	1076	dopo	dopo	dopo	linguistic	_	Begin=2088.987	_	_	_	_	_	_				_		
 1076-1	TO065	1076	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 1076-2	TO065	1076	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 1076-3	TO065	1076	pero'	pero'	pero'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -6187,7 +6187,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1079-0	TO061	1079	quindi	quindi	quindi	linguistic	_	Begin=2095.505	_	_	_	_	_	_				_		
 1079-1	TO061	1079	dovrò	dovrò	dovrò	linguistic	_		_	_	_	_	_	_				_		
 1079-2	TO061	1079	poi	[poi::]	[poi::]	linguistic	_	End=2096.808	_	_	_	_	_	_	2x2			_		0-3(1080)
-1080-0	TO065	1080	e	[e	[e	linguistic	_	Begin=2096.008	_	_	_	_	_	_				_		0-1(1079)
+1080-0	TO065	1080	e	[e	[e	linguistic	_	Begin=2096.007	_	_	_	_	_	_				_		0-1(1079)
 1080-1	TO065	1080	citare	citare	citare	linguistic	_		_	_	_	_	_	_				_		0-6(1079)
 1080-2	TO065	1080	secondo	s]econdo	s]econdo	linguistic	_		_	_	_	_	_	_				_		0-1(1079)
 1080-3	TO065	1080	anche	anche	anche	linguistic	_		_	_	_	_	_	_				_		
@@ -6677,7 +6677,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1161-16	TO065	1161	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 1161-17	TO065	1161	problema	problema.	problema.	linguistic	_	End=2280.61	descending	_	_	_	_	_				_		
 1162-0	TO061	1162	perfetto	perfetto.	perfetto.	linguistic	_	End=2281.308	descending	_	_	_	_	_				_		
-1163-0	TO065	1163	ehm	e:hm	e:hm	linguistic	_	Begin=2281.3959999999997	_	_	_	_	ProsodicLink=Yes	_	0x1			_		
+1163-0	TO065	1163	ehm	e:hm	e:hm	linguistic	_	Begin=2281.395	_	_	_	_	ProsodicLink=Yes	_	0x1			_		
 1163-1	TO065	1163	ha	ha	a	linguistic	_		_	_	_	_	_	_				_		
 1163-2	TO065	1163	pubblicato	pubblicato	pubblicato	linguistic	_		_	_	_	_	_	_				_		
 1163-3	TO065	1163	anche	anche	anche	linguistic	_		_	_	_	_	_	_				_		
@@ -7126,7 +7126,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1248-2	TO061	1248	ci	ci	ci	linguistic	_		_	_	_	_	_	_				_		0-2(1247)
 1248-3	TO061	1248	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(1247)
 1248-4	TO061	1248	pensato	p]ensato.	p]ensato.	linguistic	_	End=2607.61	descending	_	_	_	_	_				_		0-1(1247)
-1249-0	TO065	1249	eh	e:h	e:h	linguistic	_	Begin=2607.7039999999997	_	_	_	_	_	_	0x1			_		
+1249-0	TO065	1249	eh	e:h	e:h	linguistic	_	Begin=2607.703	_	_	_	_	_	_	0x1			_		
 1249-1	TO065	1249	la	[la	[la	linguistic	_		_	_	_	_	_	_				_		0-2(1250)
 1249-2	TO065	1249	prossima	prossima	prossima	linguistic	_		_	_	_	_	_	_				_		0-8(1250)
 1249-3	TO065	1249	volta	volta	volta	linguistic	_		_	_	_	_	_	_				_		0-5(1250)
@@ -7904,7 +7904,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1366-7	TO061	1366	nel	[nel:]	[nel:]	linguistic	_	End=2874.104	_	_	_	_	_	_	2x1			_		0-3(1367)
 1367-0	TO065	1367	eh	[eh	[eh	linguistic	_	Begin=2873.54	_	_	_	_	_	_				_		0-2(1366)
 1367-1	TO065	1367	sì	sì.]	sì.]	linguistic	_	End=2874.139	descending	_	_	_	_	_				_		0-2(1366)
-1368-0	TO061	1368	nella	nella	nella	linguistic	_	Begin=2874.2039999999997	_	_	_	_	_	_				_		
+1368-0	TO061	1368	nella	nella	nella	linguistic	_	Begin=2874.203	_	_	_	_	_	_				_		
 1368-1	TO061	1368	scrittu~	scrittu~	scrittu~	linguistic	_	End=2874.767	_	_	Interrupted=Yes	_	_	_				_		
 1369-0	TO065	1369	ciao	ciao	ciao	linguistic	_	Begin=2874.979	_	_	_	_	_	_				_		
 1369-1	TO065	1369	daniel	daniel	daniel	linguistic	_	End=2875.729	_	_	_	_	_	_				_		
@@ -8483,7 +8483,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1476-0	TO061	1476	sì	[sì	[sì	linguistic	_	Begin=3134.15	_	_	_	_	_	_				_		0-2(1475)
 1476-1	TO061	1476	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(1475)
 1476-2	TO061	1476	evito	e]vito.	e]vito.	linguistic	_	End=3134.941	descending	_	_	_	_	_				_		0-1(1475)
-1477-0	TO065	1477	e	e	e	linguistic	_	Begin=3135.0209999999997	_	_	_	_	_	_				_		
+1477-0	TO065	1477	e	e	e	linguistic	_	Begin=3135.02	_	_	_	_	_	_				_		
 1477-1	TO065	1477	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 1477-2	TO065	1477	evidenze	evidenze,	evidenze,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 1477-3	TO065	1477	allora	allora	allora	linguistic	_		_	_	_	_	_	_				_		
@@ -8923,14 +8923,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1553-13	TO065	1553	e	e	e	linguistic	_		_	_	_	_	_	_				_		
 1553-14	TO065	1553	cognome	cognome.	cognome.	linguistic	_	End=3392.505	descending	_	_	_	_	_				_		
 1554-0	TO065	1554	no	no?	no?	linguistic	_	End=3393.016	ascending	_	_	_	_	_				_		
-1555-0	TO061	1555	sì	[sì.]	[sì.]	linguistic	_	End=3393.302	descending	_	_	_	_	_				_		0-2(1556)
-1556-0	TO065	1556	michelangelo	[mich]elan[gelo	[mich]elan[gelo	linguistic	_	Begin=3393.016	_	_	_	_	_	_				_		0-4(1555),8-12(1557)
-1556-1	TO065	1556	picone	picone.]	picone.]	linguistic	_	End=3394.302	descending	_	_	_	_	_				_		0-6(1557)
-1557-0	TO061	1557	e	[e	[e	linguistic	_	Begin=3393.478	_	_	_	_	_	_				_		0-1(1556)
-1557-1	TO061	1557	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		0-3(1556)
-1557-2	TO061	1557	dopo	dopo	dopo	linguistic	_		_	_	_	_	_	_				_		0-4(1556)
-1557-3	TO061	1557	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		0-4(1556)
-1557-4	TO061	1557	con	co]n	co]n	linguistic	_		_	_	_	_	_	_				_		0-2(1556)
+1555-0	TO065	1555	michelangelo	[mich]elan[gelo	[mich]elan[gelo	linguistic	_	Begin=3393.016	_	_	_	_	_	_				_		0-4(1556),8-12(1557)
+1555-1	TO065	1555	picone	picone.]	picone.]	linguistic	_	End=3394.302	descending	_	_	_	_	_				_		0-6(1557)
+1556-0	TO061	1556	sì	[sì.]	[sì.]	linguistic	_	End=3393.302	descending	_	_	_	_	_				_		0-2(1555)
+1557-0	TO061	1557	e	[e	[e	linguistic	_	Begin=3393.478	_	_	_	_	_	_				_		0-1(1555)
+1557-1	TO061	1557	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		0-3(1555)
+1557-2	TO061	1557	dopo	dopo	dopo	linguistic	_		_	_	_	_	_	_				_		0-4(1555)
+1557-3	TO061	1557	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		0-4(1555)
+1557-4	TO061	1557	con	co]n	co]n	linguistic	_		_	_	_	_	_	_				_		0-2(1555)
 1557-5	TO061	1557	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 1557-6	TO061	1557	cognome	cognome.	cognome.	linguistic	_	End=3395.099	descending	_	_	_	_	_				_		
 1558-0	TO065	1558	va	va	va	linguistic	_	Begin=3395.219	_	_	_	_	_	_				_		
@@ -8954,16 +8954,16 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1564-2	TO065	1564	essere	es[sere	es[sere	linguistic	_		_	_	_	_	_	_				_		2-6(?)
 1564-3	TO065	1564	coerenti	c]oeren[ti.]	c]oeren[ti.]	linguistic	_	End=3402.648	descending	_	_	_	_	_				_		6-8(?)
 1565-0	TO061	1565	mh	[mh.]	[mh.]	linguistic	_	End=3402.099	descending	_	_	_	_	_				_		0-2(1564)
-1566-0	TO061	1566	sì	[sì	[sì	linguistic	_	Begin=3402.679	_	_	_	_	_	_				_		0-2(1567)
-1566-1	TO061	1566	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		0-2(1567)
-1566-2	TO061	1566	sì	sì,	sì,	linguistic	_		weakly_ascending	_	_	_	_	_				_		0-2(1567)
-1566-3	TO061	1566	non	non	non	linguistic	_		_	_	_	_	_	_				_		0-3(1567)
-1566-4	TO061	1566	me	me	me	linguistic	_		_	_	_	_	_	_				_		0-2(1567)
-1566-5	TO061	1566	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		0-2(1567)
-1566-6	TO061	1566	ero	ero	ero	linguistic	_		_	_	_	_	_	_				_		0-3(1567)
-1566-7	TO061	1566	accorta	ac]cort[a.]	ac]cort[a.]	linguistic	_	End=3404.181	descending	_	_	_	_	_				_		0-2(1567),6-7(1568)
-1567-0	TO065	1567	altrimenti	[altrimenti,]	[altrimenti,]	linguistic	_	End=3403.582	weakly_ascending	_	_	_	_	_				_		0-10(1566)
-1568-0	TO065	1568	no	[no,]	[no,]	linguistic	_	Begin=3403.989	weakly_ascending	_	_	_	_	_				_		0-2(1566)
+1566-0	TO065	1566	altrimenti	[altrimenti,]	[altrimenti,]	linguistic	_	End=3403.582	weakly_ascending	_	_	_	_	_				_		0-10(1567)
+1567-0	TO061	1567	sì	[sì	[sì	linguistic	_	Begin=3402.679	_	_	_	_	_	_				_		0-2(1566)
+1567-1	TO061	1567	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		0-2(1566)
+1567-2	TO061	1567	sì	sì,	sì,	linguistic	_		weakly_ascending	_	_	_	_	_				_		0-2(1566)
+1567-3	TO061	1567	non	non	non	linguistic	_		_	_	_	_	_	_				_		0-3(1566)
+1567-4	TO061	1567	me	me	me	linguistic	_		_	_	_	_	_	_				_		0-2(1566)
+1567-5	TO061	1567	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		0-2(1566)
+1567-6	TO061	1567	ero	ero	ero	linguistic	_		_	_	_	_	_	_				_		0-3(1566)
+1567-7	TO061	1567	accorta	ac]cort[a.]	ac]cort[a.]	linguistic	_	End=3404.181	descending	_	_	_	_	_				_		0-2(1566),6-7(1568)
+1568-0	TO065	1568	no	[no,]	[no,]	linguistic	_	Begin=3403.989	weakly_ascending	_	_	_	_	_				_		0-2(1567)
 1568-1	TO065	1568	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		
 1568-2	TO065	1568	certo	cer[to.]	cer[to.]	linguistic	_	End=3404.78	descending	_	_	_	_	_				_		3-5(1569)
 1569-0	TO061	1569	mh	[mh.]	[mh.]	linguistic	_	End=3404.797	descending	_	_	_	_	_				_		0-2(1568)

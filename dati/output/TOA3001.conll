@@ -82,7 +82,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 9-11	TO033	9	da	da	da	linguistic	_		_	_	_	_	_	_				_		
 9-12	TO033	9	lucilla	lucilla,	lucilla,	linguistic	_	End=33.085	weakly_ascending	_	_	_	_	_				_		
 10-0	TO033	10	e	e:::	e:::	linguistic	_	End=34.134	_	_	_	_	_	_	0x3			_		
-11-0	TO029	11	a	a	a	linguistic	_	Begin=34.227000000000004	_	_	_	_	_	_				_		
+11-0	TO029	11	a	a	a	linguistic	_	Begin=34.227	_	_	_	_	_	_				_		
 11-1	TO029	11	milano	mila[no?]	mila[no?]	linguistic	_	End=34.757	ascending	_	_	_	_	_				_		4-6(12)
 12-0	TO034	12	a	[a	[a	linguistic	_	Begin=34.598	_	_	_	_	_	_				_		0-1(11)
 12-1	TO034	12	milano	mi]lano	mi]lano	linguistic	_	End=35.2	_	_	_	_	_	_				_		0-2(11)
@@ -658,8 +658,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 76-3	TO029	76	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 76-4	TO029	76	schifezza	schifezza	schifezza	linguistic	_		_	_	_	_	_	_				_		
 76-5	TO029	76	dai	dai	dai	linguistic	_	End=256.274	_	_	_	_	_	_				_		
-77-0	TO034	77	sì	sì	sì	linguistic	_	End=256.794	_	_	_	_	_	_				_		
-78-0	TO033	78	ma	ma	ma	linguistic	_	Begin=258.167	_	_	_	_	_	_				_		
+77-0	TO034	77	sì	sì	sì	linguistic	_	End=256.793	_	_	_	_	_	_				_		
+78-0	TO033	78	ma	ma	ma	linguistic	_	Begin=258.166	_	_	_	_	_	_				_		
 78-1	TO033	78	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 78-2	TO033	78	vorrei	vorrei	vorrei	linguistic	_		_	_	_	_	_	_				_		
 78-3	TO033	78	farla	farla	farla	linguistic	_		_	_	_	_	_	_				_		
@@ -1408,7 +1408,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 163-5	TO034	163	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 163-6	TO034	163	domanda	doman[da]	doman[da]	linguistic	_	End=511.876	_	_	_	_	_	_				_		5-7(164)
 164-0	TO029	164	eh	[eh]	[eh]	linguistic	_	End=511.841	_	_	_	_	_	_				_		0-2(163)
-165-0	TO034	165	quindi	quindi	quindi	linguistic	_	End=512.502	_	_	_	_	_	_				_		
+165-0	TO034	165	quindi	quindi	quindi	linguistic	_	End=512.501	_	_	_	_	_	_				_		
 166-0	TO034	166	ti	ti	ti	linguistic	_	Begin=512.923	_	_	_	_	_	_				_		
 166-1	TO034	166	puoi	puoi	puoi	linguistic	_		_	_	_	_	_	_				_		
 166-2	TO034	166	laureare	laureare	laureare	linguistic	_		_	_	_	_	_	_				_		
@@ -1426,7 +1426,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 168-1	TO029	168	mai	mai	mai	linguistic	_		_	_	_	_	_	_				_		
 168-2	TO029	168	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		
 168-3	TO029	168	marina	mari:na	mari:na	linguistic	_		_	_	_	_	_	_	3x1			_		
-168-4	TO029	168	ragazzi	ragazzi::	ragazzi::	linguistic	_	End=518.415	_	_	_	_	_	_	6x2			_		
+168-4	TO029	168	ragazzi	ragazzi::	ragazzi::	linguistic	_	End=518.414	_	_	_	_	_	_	6x2			_		
 169-0	TO029	169	ma	ma	ma	linguistic	_	Begin=521.099	_	_	_	_	_	_				_		
 169-1	TO029	169	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 169-2	TO029	169	xx	xx	xx	linguistic	_		_	Unknown=Yes	_	_	_	_				_		
@@ -1962,7 +1962,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 222-14	TO033	222	appello	appello	appello	linguistic	_		_	_	_	_	_	_				_		
 222-15	TO033	222	del	del	del	linguistic	_		_	_	_	_	_	_				_		
 222-16	TO033	222	del	del	del	linguistic	_		_	_	_	_	_	_				_		
-222-17	TO033	222	sedici	sedici,	sedici,	linguistic	_	End=710.7379999999999	weakly_ascending	_	_	_	_	_				_		
+222-17	TO033	222	sedici	sedici,	sedici,	linguistic	_	End=710.738	weakly_ascending	_	_	_	_	_				_		
 223-0	TO034	223	mh	mh	mh	linguistic	_	Begin=710.803	_	_	_	_	_	_				_		
 223-1	TO034	223	sì	sì	sì	linguistic	_	End=711.307	_	_	_	_	_	_				_		
 224-0	TO033	224	in	in	in	linguistic	_	Begin=712.709	_	_	_	_	_	_				_		
@@ -2881,7 +2881,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 327-1	TO029	327	chiudo	chiudo	chiudo	linguistic	_		_	_	_	_	_	_				_		
 327-2	TO029	327	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 327-3	TO029	327	xx	xx	xx	linguistic	_	End=1023.996	_	Unknown=Yes	_	_	_	_				_		
-328-0	TO033	328	cioè	cioè	cioè	linguistic	_	Begin=1025.618	_	_	_	_	_	_				_		
+328-0	TO033	328	cioè	cioè	cioè	linguistic	_	Begin=1025.617	_	_	_	_	_	_				_		
 328-1	TO033	328	e	e	e	linguistic	_		_	_	_	_	_	_				_		
 328-2	TO033	328	poi	poi,	poi,	linguistic	_	End=1026.381	weakly_ascending	_	_	_	_	_				_		
 329-0	TO033	329	per	per	per	linguistic	_	Begin=1027.026	_	_	_	_	_	_				_		
@@ -2891,7 +2891,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 329-4	TO033	329	del	del	del	linguistic	_		_	_	_	_	_	_				_		
 329-5	TO033	329	comportamento	comportamento	comportamento	linguistic	_		_	_	_	_	_	_				_		
 329-6	TO033	329	de~	de~	de~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
-329-7	TO033	329	dei	dei	dei	linguistic	_	End=1030.33	_	_	_	_	_	_				_		
+329-7	TO033	329	dei	dei	dei	linguistic	_	End=1030.329	_	_	_	_	_	_				_		
 330-0	TO033	330	della	della	della	linguistic	_	Begin=1031.79	_	_	_	_	_	_				_		
 330-1	TO033	330	quota	quota	quota	linguistic	_		_	_	_	_	_	_				_		
 330-2	TO033	330	marocchina	marocchina	marocchina	linguistic	_		_	_	_	_	_	_				_		
@@ -2899,7 +2899,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 330-4	TO033	330	xx	xx	xx	linguistic	_		_	Unknown=Yes	_	_	_	_				_		0-2(?)
 330-5	TO033	330	xxxx	xxxx]	xxxx]	linguistic	_	End=1034.307	_	Unknown=Yes	_	_	_	_				_		0-4(?)
 331-0	TO034	331	ah	[ah	[ah	linguistic	_	Begin=1033.162	_	_	_	_	_	_				_		0-2(330)
-331-1	TO034	331	sì	sì?]	sì?]	linguistic	_	End=1033.724	ascending	_	_	_	_	_				_		0-2(330)
+331-1	TO034	331	sì	sì?]	sì?]	linguistic	_	End=1033.723	ascending	_	_	_	_	_				_		0-2(330)
 332-0	TO029	332	madonna	[mado:::nna,]	[mado:::nna,]	linguistic	_	End=1035.251	weakly_ascending	_	_	_	_	_	3x3			_		0-7(330+333)
 333-0	TO034	333	racconta	[racconta	[racconta	linguistic	_	Begin=1033.778	_	_	_	_	_	_				_		0-8(330+332)
 333-1	TO034	333	racconta	racconta]	racconta]	linguistic	_	End=1035.252	_	_	_	_	_	_				_		0-8(330+332)
@@ -2912,14 +2912,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 335-0	TO029	335	raccontatemi	raccontatemi	raccontatemi	linguistic	_	Begin=1038.007	_	_	_	_	_	_				_		
 335-1	TO029	335	tutto	[tu:]tto	[tu:]tto	linguistic	_	End=1039.584	_	_	_	_	_	_	1x1			_		0-2(336)
 336-0	TO033	336	allora	[allora]	[allora]	linguistic	_	End=1039.415	_	_	_	_	_	_				_		0-6(335)
-337-0	TO033	337	a	a	a	linguistic	_	Begin=1040.216	_	_	_	_	_	_				_		
+337-0	TO033	337	a	a	a	linguistic	_	Begin=1040.215	_	_	_	_	_	_				_		
 337-1	TO033	337	tutti	tutti	tutti	linguistic	_		_	_	_	_	_	_				_		
 337-2	TO033	337	praticamente	praticamente,	praticamente,	linguistic	_	End=1041.887	weakly_ascending	_	_	_	_	_				_		
 338-0	TO033	338	mancano	mancano:::	mancano:::	linguistic	_	End=1044.333	_	_	_	_	_	_	6x3			_		
 339-0	TO033	339	a	a	a	linguistic	_	Begin=1044.813	_	_	_	_	_	_				_		
 339-1	TO033	339	lunedì	lunedì	lunedì	linguistic	_		_	_	_	_	_	_				_		
 339-2	TO033	339	mancavano	mancavano	mancavano	linguistic	_		_	_	_	_	_	_				_		
-339-3	TO033	339	due	due,	due,	linguistic	_	End=1046.417	weakly_ascending	_	_	_	_	_				_		
+339-3	TO033	339	due	due,	due,	linguistic	_	End=1046.416	weakly_ascending	_	_	_	_	_				_		
 340-0	TO033	340	o	o	o	linguistic	_	Begin=1047.011	_	_	_	_	_	_				_		
 340-1	TO033	340	più	più	più	linguistic	_		_	_	_	_	_	_				_		
 340-2	TO033	340	esami	esami	esami	linguistic	_		_	_	_	_	_	_				_		
@@ -2950,7 +2950,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 345-4	TO033	345	venerdì	venerdì	venerdì	linguistic	_		_	_	_	_	_	_				_		
 345-5	TO033	345	prossimo	prossimo	prossimo	linguistic	_		_	_	_	_	_	_				_		
 345-6	TO033	345	finisce	finisce	finisce	linguistic	_		_	_	_	_	_	_				_		
-345-7	TO033	345	non~	non~	non~	linguistic	_	End=1056.5780000000002	_	_	Interrupted=Yes	_	_	_				_		
+345-7	TO033	345	non~	non~	non~	linguistic	_	End=1056.578	_	_	Interrupted=Yes	_	_	_				_		
 346-0	TO029	346	della	[della	[della	linguistic	_	Begin=1053.419	_	_	_	_	_	_				_		0-5(345)
 346-1	TO029	346	sessione	sessione?	sessione?	linguistic	_		ascending	_	_	_	_	_				_		0-8(345)
 346-2	TO029	346	che	che	che	linguistic	_		_	_	_	_	_	_				_		0-3(345)
@@ -3196,7 +3196,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 381-2	TO029	381	straordinario	strao[rdinario?]	strao[rdinario?]	linguistic	_	End=1132.818	ascending	_	_	_	_	_				_		5-13(382)
 382-0	TO033	382	allora~	[allora]~	[allora]~	linguistic	_	Begin=1132.392	_	_	Interrupted=Yes	_	_	_				_		0-6(381)
 382-1	TO033	382	no	no	no	linguistic	_		_	_	_	_	_	_				_		
-382-2	TO033	382	xxx	xxx	xxx	linguistic	_	End=1133.8860000000002	_	Unknown=Yes	_	_	_	_				_		
+382-2	TO033	382	xxx	xxx	xxx	linguistic	_	End=1133.886	_	Unknown=Yes	_	_	_	_				_		
 383-0	TO034	383	eh	e::h	e::h	linguistic	_	Begin=1133.961	_	_	_	_	_	_	0x2			_		
 383-1	TO034	383	straordinario	straordinario	straordinario	linguistic	_	End=1135.363	_	_	_	_	_	_				_		
 384-0	TO033	384	tipo	tipo	tipo	linguistic	_	Begin=1135.739	_	_	_	_	_	_				_		
@@ -3312,7 +3312,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 394-18	TO033	394	tre	tre	tre	linguistic	_		_	_	_	_	_	_				_		
 394-19	TO033	394	tre	tre	tre	linguistic	_		_	_	_	_	_	_				_		
 394-20	TO033	394	a	a	a	linguistic	_		_	_	_	_	_	_				_		
-394-21	TO033	394	gennaio	gennaio,	gennaio,	linguistic	_	End=1168.9850000000001	weakly_ascending	_	_	_	_	_				_		
+394-21	TO033	394	gennaio	gennaio,	gennaio,	linguistic	_	End=1168.985	weakly_ascending	_	_	_	_	_				_		
 395-0	TO034	395	ma	ma	ma	linguistic	_	Begin=1169.065	_	_	_	_	_	_				_		
 395-1	TO034	395	lui	lui	lui	linguistic	_		_	_	_	_	_	_				_		
 395-2	TO034	395	si	si	si	linguistic	_		_	_	_	_	_	_				_		
@@ -3331,7 +3331,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 396-1	TO029	396	quindi	quindi	quindi	linguistic	_		_	_	_	_	_	_				_		
 396-2	TO029	396	xxx	[xxx]	[xxx]	linguistic	_	End=1175.779	_	Unknown=Yes	_	_	_	_				_		0-3(397)
 397-0	TO033	397	eh	[e::h]	[e::h]	linguistic	_	End=1175.936	_	_	_	_	_	_	0x2			_		0-2(396)
-398-0	TO034	398	e	[e	[e	linguistic	_	Begin=1175.9589999999998	_	_	_	_	_	_				_		0-1(?)
+398-0	TO034	398	e	[e	[e	linguistic	_	Begin=1175.958	_	_	_	_	_	_				_		0-1(?)
 398-1	TO034	398	aspetta	aspe]tta	aspe]tta	linguistic	_		_	_	_	_	_	_				_		0-4(?)
 398-2	TO034	398	e	e	e	linguistic	_		_	_	_	_	_	_				_		
 398-3	TO034	398	la	la	la	linguistic	_		_	_	_	_	_	_				_		
@@ -3661,7 +3661,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 428-0	TO029	428	scriviamo	[scriviamo	[scriviamo	linguistic	_	Begin=1265.206	_	_	_	_	_	_				_		0-9(427)
 428-1	TO029	428	un	un]	un]	linguistic	_		_	_	_	_	_	_				_		0-2(427)
 428-2	TO029	428	pamphlet	pamphlet	pamphlet	linguistic	_	End=1266.384	_	_	_	_	_	_				_		
-429-0	TO033	429	no	no	no	linguistic	_	Begin=1266.4379999999999	_	_	_	_	_	_				_		
+429-0	TO033	429	no	no	no	linguistic	_	Begin=1266.437	_	_	_	_	_	_				_		
 429-1	TO033	429	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		
 429-2	TO033	429	più	più	più	linguistic	_		_	_	_	_	_	_				_		
 429-3	TO033	429	che	che	che	linguistic	_		_	_	_	_	_	_				_		
@@ -4979,7 +4979,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 572-4	TO034	572	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 572-5	TO034	572	professori	professori	professori	linguistic	_		_	_	_	_	_	_				_		
 572-6	TO034	572	che	che:::	che:::	linguistic	_	End=1627.899	_	_	_	_	_	_	2x3			_		
-573-0	TO029	573	perché	perché:::	perché:::	linguistic	_	Begin=1627.9869999999999	_	_	_	_	_	_	5x3			_		
+573-0	TO029	573	perché	perché:::	perché:::	linguistic	_	Begin=1627.986	_	_	_	_	_	_	5x3			_		
 573-1	TO029	573	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
 573-2	TO029	573	fanno	fanno	fanno	linguistic	_		_	_	_	_	_	_				_		
 573-3	TO029	573	per	[per	[per	linguistic	_		_	_	_	_	_	_				_		0-3(574)
@@ -5115,7 +5115,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 588-16	TO033	588	xxx	[xxx]	[xxx]	linguistic	_	End=1681.792	_	Unknown=Yes	_	_	_	_				_		0-3(589+590)
 589-0	TO034	589	esatto	[esa:]::tto	[esa:]::tto	linguistic	_	End=1682.199	_	_	_	_	_	_	2x3			_		0-3(588+590)
 590-0	TO029	590	odio	[odio]	[odio]	linguistic	_	End=1681.791	_	_	_	_	_	_				_		0-4(588+589)
-591-0	TO033	591	cioè	cioè	cioè	linguistic	_	Begin=1682.2549999999999	_	_	_	_	_	_				_		
+591-0	TO033	591	cioè	cioè	cioè	linguistic	_	Begin=1682.254	_	_	_	_	_	_				_		
 591-1	TO033	591	odio	odio	odio	linguistic	_		_	_	_	_	_	_				_		
 591-2	TO033	591	interrazziale	[interra]zziale	[interra]zziale	linguistic	_		_	_	_	_	_	_				_		0-7(592)
 591-3	TO033	591	cioè	cioè	cioè	linguistic	_	End=1684.831	_	_	_	_	_	_				_		

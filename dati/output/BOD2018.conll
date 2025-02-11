@@ -221,7 +221,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 27-9	BO118	27	tipo	tipo	tipo	linguistic	_		_	_	_	_	_	_				_		
 27-10	BO118	27	avete	avete	avete	linguistic	_		_	_	_	_	_	_				_		
 27-11	BO118	27	il	il	il	linguistic	_		_	_	_	_	_	_				_		
-27-12	BO118	27	giardino	giardino::,	giardino::,	linguistic	_	End=94.55000000000001	weakly_ascending	_	_	_	_	_	7x2			_		
+27-12	BO118	27	giardino	giardino::,	giardino::,	linguistic	_	End=94.55	weakly_ascending	_	_	_	_	_	7x2			_		
 28-0	BO140	28	abbiamo	abbia:mo:	abbia:mo:	linguistic	_	Begin=94.63	_	_	_	_	_	_	4x1,6x1			_		
 28-1	BO140	28	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
 28-2	BO140	28	me	(me:)	(me:)	linguistic	_		_	_	_	_	_	_	1x1			_	0-2(0)	
@@ -306,7 +306,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 34-17	BO140	34	appennini	appennini::	appennini::	linguistic	_		_	_	_	_	_	_	8x2			_		
 34-18	BO140	34	è	è:	è:	linguistic	_	End=126.04	_	_	_	_	_	_	0x1			_		
 35-0	BO140	35	è	è:	è:	linguistic	_	Begin=126.833	_	_	_	_	_	_	0x1			_		
-35-1	BO140	35	bello	bello.	bello.	linguistic	_	End=128.2	descending	_	_	_	_	_				_		
+35-1	BO140	35	bello	bello.	bello.	linguistic	_	End=128.199	descending	_	_	_	_	_				_		
 36-0	BO118	36	ehm	e:::hm	e:::hm	linguistic	_	Begin=128.52	_	_	_	_	_	_	0x3			_		
 36-1	BO118	36	coi	coi	coi	linguistic	_		_	_	_	_	_	_				_		
 36-2	BO118	36	vicini	vicini	vicini	linguistic	_		_	_	_	_	_	_				_		
@@ -733,7 +733,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 73-10	BO118	73	anda'	anda'	anda'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 73-11	BO118	73	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 73-12	BO118	73	centro	centro?	centro?	linguistic	_	End=292.55	ascending	_	_	_	_	_				_		
-74-0	BO140	74	sì	sì	sì	linguistic	_	Begin=292.64500000000004	_	_	_	_	_	_				_		
+74-0	BO140	74	sì	sì	sì	linguistic	_	Begin=292.645	_	_	_	_	_	_				_		
 74-1	BO140	74	generalmente	generalmente	generalmente	linguistic	_		_	_	_	_	_	_				_		
 74-2	BO140	74	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
 74-3	BO140	74	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		
@@ -1144,7 +1144,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 112-6	BO140	112	via	via	via	linguistic	_		_	_	_	_	_	_				_		
 112-7	BO140	112	nomeluogo	nomeluogo,	nomeluogo,	linguistic	_	End=432.04	weakly_ascending	_	_	_	_	_				_		
 113-0	BO118	113	okay	okay	okay	linguistic	_	End=432.75	_	_	_	_	_	_				_		
-114-0	BO140	114	e	e:	e:	linguistic	_	Begin=432.84000000000003	_	_	_	_	_	_	0x1			_		
+114-0	BO140	114	e	e:	e:	linguistic	_	Begin=432.84	_	_	_	_	_	_	0x1			_		
 114-1	BO140	114	proprio	proprio	proprio	linguistic	_		_	_	_	_	_	_				_		
 114-2	BO140	114	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 114-3	BO140	114	centro	centro:	centro:	linguistic	_		_	_	_	_	_	_	5x1			_		
@@ -1344,7 +1344,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 131-1	BO140	131	da	da	da	linguistic	_		_	_	_	_	_	_				_		
 131-2	BO140	131	fuori	fuo:ri	fuo:ri	linguistic	_		_	_	_	_	_	_	2x1			_		
 131-3	BO140	131	dici	[dici]?	[dici]?	linguistic	_	End=513.0	ascending	_	_	_	_	_				_		0-4(132)
-132-0	BO118	132	in	[in	[in	linguistic	_	Begin=512.165	_	_	_	_	_	_				_		0-2(131)
+132-0	BO118	132	in	[in	[in	linguistic	_	Begin=512.164	_	_	_	_	_	_				_		0-2(131)
 132-1	BO118	132	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		0-6(131)
 132-2	BO118	132	via	via	via	linguistic	_		_	_	_	_	_	_				_		0-3(131)
 132-3	BO118	132	xx	xx]	xx]	linguistic	_		_	Unknown=Yes	_	_	_	_				_		0-2(131)
@@ -1356,8 +1356,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 133-2	BO140	133	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 133-3	BO140	133	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		
 133-4	BO140	133	zona	zona	zona	linguistic	_		_	_	_	_	_	_				_		
-133-5	BO140	133	sì	sì.	sì.	linguistic	_	End=515.05	descending	_	_	_	_	_				_		
-134-0	BO140	134	ma	ma	ma	linguistic	_	Begin=515.31	_	_	_	_	_	_				_		
+133-5	BO140	133	sì	sì.	sì.	linguistic	_	End=515.049	descending	_	_	_	_	_				_		
+134-0	BO140	134	ma	ma	ma	linguistic	_	Begin=515.309	_	_	_	_	_	_				_		
 134-1	BO140	134	anche	anche	anche	linguistic	_		_	_	_	_	_	_				_		
 134-2	BO140	134	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		
 134-3	BO140	134	in	in	in	linguistic	_		_	_	_	_	_	_				_		
@@ -1422,14 +1422,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 138-19	BO140	138	anni	anni	anni	linguistic	_		_	_	_	_	_	_				_		
 138-20	BO140	138	cinquanta	cinquanta	cinquanta	linguistic	_		_	_	_	_	_	_				_		
 138-21	BO140	138	credo	credo.	credo.	linguistic	_	End=539.39	descending	_	_	_	_	_				_		
-139-0	BO118	139	sì	[sì	[sì	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-2(140)
-139-1	BO118	139	{P}	{P}]	{P}]	shortpause	_		_	_	_	_	_	_				_		0-3(140)
-139-2	BO118	139	penso	penso	penso	linguistic	_		_	_	_	_	_	_				_		
-139-3	BO118	139	di	di	di	linguistic	_		_	_	_	_	_	_				_		
-139-4	BO118	139	sì	sì.	sì.	linguistic	_	End=540.78	descending	_	_	_	_	_				_		
-140-0	BO140	140	non	[non	[non	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-3(139)
-140-1	BO140	140	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(139)
-140-2	BO140	140	so	so.]	so.]	linguistic	_	End=540.26	descending	_	_	_	_	_				_		0-2(139)
+139-0	BO140	139	non	[non	[non	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-3(140)
+139-1	BO140	139	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(140)
+139-2	BO140	139	so	so.]	so.]	linguistic	_	End=540.26	descending	_	_	_	_	_				_		0-2(140)
+140-0	BO118	140	sì	[sì	[sì	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-2(139)
+140-1	BO118	140	{P}	{P}]	{P}]	shortpause	_		_	_	_	_	_	_				_		0-3(139)
+140-2	BO118	140	penso	penso	penso	linguistic	_		_	_	_	_	_	_				_		
+140-3	BO118	140	di	di	di	linguistic	_		_	_	_	_	_	_				_		
+140-4	BO118	140	sì	sì.	sì.	linguistic	_	End=540.78	descending	_	_	_	_	_				_		
 141-0	BO118	141	poi	po:i	po:i	linguistic	_	Begin=542.48	_	_	_	_	_	_	1x1			_		
 141-1	BO118	141	ehm	ehm::	ehm::	linguistic	_	End=543.77	_	_	_	_	_	_	2x2			_		
 142-0	BO118	142	e	e	e	linguistic	_	Begin=544.8	_	_	_	_	_	_				_		
@@ -2358,7 +2358,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 219-2	BO140	219	tranquilla	tranquilla	tranquilla	linguistic	_		_	_	_	_	_	_				_		
 219-3	BO140	219	come	come	come	linguistic	_		_	_	_	_	_	_				_		
 219-4	BO140	219	zona	zona.	zona.	linguistic	_	End=869.409	descending	_	_	_	_	_				_		
-220-0	BO118	220	sì	sì	sì	linguistic	_	Begin=869.4970000000001	_	_	_	_	_	_				_		
+220-0	BO118	220	sì	sì	sì	linguistic	_	Begin=869.497	_	_	_	_	_	_				_		
 220-1	BO118	220	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		
 220-2	BO118	220	infatti	infatti,	infatti,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 220-3	BO118	220	già	già:	già:	linguistic	_		_	_	_	_	_	_	2x1			_		
@@ -2782,7 +2782,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 266-10	BO118	266	sta	sta	sta	linguistic	_		_	_	_	_	_	_				_		
 266-11	BO118	266	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 266-12	BO118	266	bologna	bologna	bologna	linguistic	_	End=1028.21	_	_	_	_	_	_				_		
-267-0	BO140	267	sì	sì	sì	linguistic	_	Begin=1029.138	_	_	_	_	_	_				_		
+267-0	BO140	267	sì	sì	sì	linguistic	_	Begin=1029.137	_	_	_	_	_	_				_		
 267-1	BO140	267	no	no	no	linguistic	_		_	_	_	_	_	_				_		
 267-2	BO140	267	beh	beh	beh	linguistic	_		_	_	_	_	_	_				_		
 267-3	BO140	267	quello	quello	quello	linguistic	_		_	_	_	_	_	_				_		
@@ -4177,7 +4177,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 396-4	BO140	396	università	università	università	linguistic	_		_	_	_	_	_	_				_		
 396-5	BO140	396	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 396-6	BO140	396	fermo	fermo	fermo	linguistic	_		_	_	_	_	_	_				_		
-396-7	BO140	396	proprio	proprio?	proprio?	linguistic	_	End=1522.6200000000001	ascending	_	_	_	_	_				_		
+396-7	BO140	396	proprio	proprio?	proprio?	linguistic	_	End=1522.62	ascending	_	_	_	_	_				_		
 397-0	BO118	397	no	no:,	no:,	linguistic	_	Begin=1522.707	weakly_ascending	_	_	_	_	_	1x1			_		
 397-1	BO118	397	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 397-2	BO118	397	ancona	ancona.	ancona.	linguistic	_	End=1523.67	descending	_	_	_	_	_				_		
@@ -4420,7 +4420,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 418-2	BO118	418	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(417)
 418-3	BO118	418	tipo	tipo]	tipo]	linguistic	_		_	_	_	_	_	_				_		0-4(417)
 418-4	BO118	418	un	un	un	linguistic	_		_	_	_	_	_	_				_		
-418-5	BO118	418	pub	pu:b	pu:b	linguistic	_	End=1597.8700000000001	_	_	_	_	_	_	1x1			_		
+418-5	BO118	418	pub	pu:b	pu:b	linguistic	_	End=1597.87	_	_	_	_	_	_	1x1			_		
 419-0	BO140	419	esatto	esatto	esatto	linguistic	_	End=1598.57	_	_	_	_	_	_				_		
 420-0	BO118	420	che	che	che	linguistic	_	Begin=1598.57	_	_	_	_	_	_				_		
 420-1	BO118	420	fa	fa:	fa:	linguistic	_		_	_	_	_	_	_	1x1			_		
@@ -4516,7 +4516,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 428-10	BO118	428	de	de	de	linguistic	_		_	_	_	_	_	_				_		
 428-11	BO118	428	tempio	te:mpio:,	te:mpio:,	linguistic	_	End=1628.01	weakly_ascending	_	_	_	_	_	1x1,5x1			_		
 429-0	BO140	429	mhmh	mhmh	mhmh	linguistic	_	End=1628.917	_	_	_	_	_	_				_		
-430-0	BO118	430	non	non	non	linguistic	_	Begin=1629.0049999999999	_	_	_	_	_	_				_		
+430-0	BO118	430	non	non	non	linguistic	_	Begin=1629.004	_	_	_	_	_	_				_		
 430-1	BO118	430	so	so	so	linguistic	_		_	_	_	_	_	_				_		
 430-2	BO118	430	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 430-3	BO118	430	che	che	che	linguistic	_		_	_	_	_	_	_				_		

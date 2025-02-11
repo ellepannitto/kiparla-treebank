@@ -173,7 +173,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 24-7	TO083	24	letto	letto	letto	linguistic	_		_	_	_	_	_	_				_		
 24-8	TO083	24	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 24-9	TO083	24	mia	mia	mia	linguistic	_		_	_	_	_	_	_				_		
-24-10	TO083	24	madre	madre,	madre,	linguistic	_	End=65.52	weakly_ascending	_	_	_	_	_				_		
+24-10	TO083	24	madre	madre,	madre,	linguistic	_	End=65.519	weakly_ascending	_	_	_	_	_				_		
 25-0	TO083	25	la	la	la	linguistic	_	Begin=65.94	_	_	_	_	_	_				_		
 25-1	TO083	25	stanza	stanza	stanza	linguistic	_		_	_	_	_	_	_				_		
 25-2	TO083	25	da	da	da	linguistic	_		_	_	_	_	_	_				_		
@@ -707,7 +707,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 95-30	TO083	95	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 95-31	TO083	95	po'	po'	po'	linguistic	_	End=259.38	_	_	_	_	_	_				_		
 96-0	TO999	96	certo	[certo.]	[certo.]	linguistic	_	End=256.351	descending	_	_	_	_	_				_		0-5(95)
-97-0	TO083	97	poi	poi	poi	linguistic	_	Begin=259.84	_	_	_	_	_	_				_		
+97-0	TO083	97	poi	poi	poi	linguistic	_	Begin=259.839	_	_	_	_	_	_				_		
 97-1	TO083	97	invece	invece	invece	linguistic	_		_	_	_	_	_	_				_		
 97-2	TO083	97	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 97-3	TO083	97	secondo	secondo	secondo	linguistic	_		_	_	_	_	_	_				_		
@@ -1441,7 +1441,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 195-11	TO083	195	così	così.	così.	linguistic	_	End=515.82	descending	_	_	_	_	_				_		
 196-0	TO083	196	eh	e:h	e:h	linguistic	_	Begin=516.525	_	_	_	_	ProsodicLink=Yes	_	0x1			_		
 196-1	TO083	196	mh	mh,	,	linguistic	_	End=517.477	weakly_ascending	_	_	_	_	_				_		
-197-0	TO999	197	non	non	non	linguistic	_	Begin=519.545	_	_	_	_	_	_				_		
+197-0	TO999	197	non	non	non	linguistic	_	Begin=519.544	_	_	_	_	_	_				_		
 197-1	TO999	197	so	so	so	linguistic	_		_	_	_	_	_	_				_		
 197-2	TO999	197	situazioni	situazioni	situazioni	linguistic	_		_	_	_	_	_	_				_		
 197-3	TO999	197	di	di	di	linguistic	_		_	_	_	_	_	_				_		
@@ -1727,7 +1727,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 229-30	TO083	229	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 229-31	TO083	229	acqua	acqua,	acqua,	linguistic	_	End=614.711	weakly_ascending	_	_	_	_	_				_		
 230-0	TO999	230	{ride}	{ride}	{ride}	metalinguistic	_	End=615.177	_	_	_	_	_	_				_		
-231-0	TO083	231	forse	forse	forse	linguistic	_	Begin=615.2760000000001	_	_	_	_	_	_				_		
+231-0	TO083	231	forse	forse	forse	linguistic	_	Begin=615.276	_	_	_	_	_	_				_		
 231-1	TO083	231	lì	lì	lì	linguistic	_		_	_	_	_	_	_				_		
 231-2	TO083	231	sarebbe	sarebbe	sarebbe	linguistic	_		_	_	_	_	_	_				_		
 231-3	TO083	231	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -2286,8 +2286,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 292-11	TO083	292	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 292-12	TO083	292	buoni	buoni	buoni	linguistic	_		_	_	_	_	_	_				_		
 292-13	TO083	292	rapporti	rapporti.	rapporti.	linguistic	_	End=811.533	descending	_	_	_	_	_				_		
-293-0	TO999	293	{ride}	{ride}	{ride}	metalinguistic	_	End=812.379	_	_	_	_	_	_				_		
-294-0	TO083	294	{ride}	{ride}	{ride}	metalinguistic	_	End=812.379	_	_	_	_	_	_				_		
+293-0	TO083	293	{ride}	{ride}	{ride}	metalinguistic	_	End=812.379	_	_	_	_	_	_				_		
+294-0	TO999	294	{ride}	{ride}	{ride}	metalinguistic	_	End=812.379	_	_	_	_	_	_				_		
 295-0	TO083	295	pero'	pero':	pero':	linguistic	_	Begin=812.853	_	_	_	_	_	_	3x1			_		
 295-1	TO083	295	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 295-2	TO083	295	mh	mh	mh	linguistic	_		_	_	_	_	_	_				_		
@@ -2555,7 +2555,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 326-5	TO999	326	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 326-6	TO999	326	ipotetica	ipo[tetic]a	ipo[tetic]a	linguistic	_		_	_	_	_	_	_				_		3-8(327)
 326-7	TO999	326	tua	tua	tua	linguistic	_		_	_	_	_	_	_				_		
-326-8	TO999	326	casa	casa.	casa.	linguistic	_	End=903.4929999999999	descending	_	_	_	_	_				_		
+326-8	TO999	326	casa	casa.	casa.	linguistic	_	End=903.492	descending	_	_	_	_	_				_		
 327-0	TO083	327	no	[no.]	[no.]	linguistic	_	End=902.875	descending	_	_	_	_	_				_		0-2(326)
 328-0	TO083	328	mai	mai.	mai.	linguistic	_	End=904.05	descending	_	_	_	_	_				_		
 329-0	TO083	329	mai	mai	mai	linguistic	_	Begin=904.63	_	_	_	_	_	_				_		
@@ -2606,11 +2606,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 334-5	TO999	334	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 334-6	TO999	334	convivere	convivere?	convivere?	linguistic	_	End=922.178	ascending	_	_	_	_	_				_		
 335-0	TO083	335	sì	sì.	sì.	linguistic	_	End=922.631	descending	_	_	_	_	_				_		
-336-0	TO999	336	dove	[dov]e	[dov]e	linguistic	_	Begin=922.975	_	_	_	_	_	_				_		0-3(337)
-336-1	TO999	336	vorreste	vorreste	vorreste	linguistic	_		_	_	_	_	_	_				_		
-336-2	TO999	336	andare	andare?	andare?	linguistic	_	End=924.03	ascending	_	_	_	_	_				_		
-337-0	TO083	337	l'	[l'	[l'	linguistic	_	Begin=922.975	_	_	_	Truncated=Yes	_	_				_		0-2(336)
-337-1	TO083	337	an~	an~]	an~]	linguistic	_	End=923.288	_	_	Interrupted=Yes	_	_	_				_		0-3(336)
+336-0	TO083	336	l'	[l'	[l'	linguistic	_	Begin=922.975	_	_	_	Truncated=Yes	_	_				_		0-2(337)
+336-1	TO083	336	an~	an~]	an~]	linguistic	_	End=923.288	_	_	Interrupted=Yes	_	_	_				_		0-3(337)
+337-0	TO999	337	dove	[dov]e	[dov]e	linguistic	_	Begin=922.975	_	_	_	_	_	_				_		0-3(336)
+337-1	TO999	337	vorreste	vorreste	vorreste	linguistic	_		_	_	_	_	_	_				_		
+337-2	TO999	337	andare	andare?	andare?	linguistic	_	End=924.03	ascending	_	_	_	_	_				_		
 338-0	TO083	338	e	e	e	linguistic	_	Begin=924.573	_	_	_	_	_	_				_		
 338-1	TO083	338	bah	bah	bah	linguistic	_		_	_	_	_	_	_				_		
 338-2	TO083	338	adesso	adesso	adesso	linguistic	_		_	_	_	_	_	_				_		
@@ -2878,7 +2878,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 380-0	TO083	380	preferibilmente	<preferibilmente>	<preferibilmente>	linguistic	_	Begin=1024.646	_	_	_	_	_	_		0-15(0)		_		
 380-1	TO083	380	rosso	rosso.	rosso.	linguistic	_	End=1025.935	descending	_	_	_	_	_				_		
 381-0	TO999	381	mhmh	mhmh,	mhmh,	linguistic	_	End=1026.778	weakly_ascending	_	_	_	_	_				_		
-382-0	TO083	382	eh	e::h	e::h	linguistic	_	Begin=1028.081	_	_	_	_	_	_	0x2			_		
+382-0	TO083	382	eh	e::h	e::h	linguistic	_	Begin=1028.08	_	_	_	_	_	_	0x2			_		
 382-1	TO083	382	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 382-2	TO083	382	giardino	giardino	giardino	linguistic	_		_	_	_	_	_	_				_		
 382-3	TO083	382	non	non	non	linguistic	_		_	_	_	_	_	_				_		
@@ -2894,7 +2894,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 382-13	TO083	382	farebbe	farebbe	farebbe	linguistic	_		_	_	_	_	_	_				_		
 382-14	TO083	382	piacere	piacere.	piacere.	linguistic	_	End=1032.096	descending	_	_	_	_	_				_		
 383-0	TO999	383	okay	okay.	okay.	linguistic	_	End=1032.911	descending	_	_	_	_	_				_		
-384-0	TO083	384	non	non	non	linguistic	_	Begin=1034.291	_	_	_	_	_	_				_		
+384-0	TO083	384	non	non	non	linguistic	_	Begin=1034.29	_	_	_	_	_	_				_		
 384-1	TO083	384	troppo	troppo	troppo	linguistic	_		_	_	_	_	_	_				_		
 384-2	TO083	384	grande	grande.	grande.	linguistic	_	End=1035.151	descending	_	_	_	_	_				_		
 385-0	TO999	385	senza	senza	senza	linguistic	_	Begin=1035.595	_	_	_	_	_	_				_		
@@ -2902,11 +2902,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 386-0	TO083	386	no	no	no	linguistic	_	Begin=1036.76	_	_	_	_	_	_				_		
 386-1	TO083	386	animale	animale.	animale.	linguistic	_	End=1037.422	descending	_	_	_	_	_				_		
 387-0	TO999	387	{ride}	{ride}	{ride}	metalinguistic	_	End=1038.233	_	_	_	_	_	_				_		
-388-0	TO083	388	piante	piante	piante	linguistic	_	Begin=1038.331	_	_	_	_	_	_				_		
+388-0	TO083	388	piante	piante	piante	linguistic	_	Begin=1038.33	_	_	_	_	_	_				_		
 388-1	TO083	388	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		
 388-2	TO083	388	grasse	grasse.	grasse.	linguistic	_	End=1039.401	descending	_	_	_	_	_				_		
 389-0	TO999	389	okay	okay.	okay.	linguistic	_	End=1041.17	descending	_	_	_	_	_				_		
-390-0	TO999	390	perché	perché	perché	linguistic	_	Begin=1041.513	_	_	_	_	_	_				_		
+390-0	TO999	390	perché	perché	perché	linguistic	_	Begin=1041.512	_	_	_	_	_	_				_		
 390-1	TO999	390	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 390-2	TO999	390	hai	hai	hai	linguistic	_		_	_	_	_	_	_				_		
 390-3	TO999	390	il	il	il	linguistic	_		_	_	_	_	_	_				_		
@@ -2918,8 +2918,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 391-3	TO083	391	proprio	proprio	proprio	linguistic	_		_	_	_	_	_	_				_		
 391-4	TO083	391	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 391-5	TO083	391	no	no.	no.	linguistic	_	End=1044.213	descending	_	_	_	_	_				_		
-392-0	TO999	392	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.86	_	_	_	_	_	_				_		
-393-0	TO083	393	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.86	_	_	_	_	_	_				_		
+392-0	TO083	392	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.859	_	_	_	_	_	_				_		
+393-0	TO999	393	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.859	_	_	_	_	_	_				_		
 394-0	TO999	394	okay	<okay,>	<okay,>	linguistic	_	End=1047.47	weakly_ascending	_	_	_	_	_		0-4(0)		_		
 395-0	TO999	395	eh	e:::h	e:::h	linguistic	_	Begin=1047.546	_	_	_	_	_	_	0x3			_		
 395-1	TO999	395	boh	boh	boh	linguistic	_		_	_	_	_	_	_				_		
@@ -3020,7 +3020,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 416-1	TO083	416	poco	poco.	poco.	linguistic	_	End=1092.055	descending	_	_	_	_	_				_		
 417-0	TO999	417	dialetto	dialetto	dialetto	linguistic	_	Begin=1092.44	_	_	_	_	_	_				_		
 417-1	TO999	417	ligure	ligure	ligure	linguistic	_		_	_	_	_	_	_				_		
-417-2	TO999	417	no	no?	no?	linguistic	_	End=1093.3890000000001	ascending	_	_	_	_	_				_		
+417-2	TO999	417	no	no?	no?	linguistic	_	End=1093.389	ascending	_	_	_	_	_				_		
 418-0	TO083	418	no	no.	no.	linguistic	_	End=1093.681	descending	_	_	_	_	_				_		
 419-0	TO083	419	zero	zero.	zero.	linguistic	_	Begin=1093.905	descending	_	_	_	_	_				_		
 419-1	TO083	419	eh	eh	eh	linguistic	_		_	_	_	_	_	_				_		

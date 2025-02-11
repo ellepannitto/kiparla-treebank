@@ -370,11 +370,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 66-15	BOI059	66	diventare	diventare	diventare	linguistic	_		_	_	_	_	_	_				_		
 66-16	BOI059	66	da	da	da	linguistic	_		_	_	_	_	_	_				_		
 66-17	BOI059	66	città	città	città	linguistic	_	End=128.323	_	_	_	_	_	_				_		
-67-0	BOI059	67	al	al	al	linguistic	_	Begin=128.515	_	_	_	_	_	_				_		
+67-0	BOI059	67	al	al	al	linguistic	_	Begin=128.514	_	_	_	_	_	_				_		
 67-1	BOI059	67	massimo	massimo	massimo	linguistic	_		_	_	_	_	_	_				_		
 67-2	BOI059	67	per	per	per	linguistic	_		_	_	_	_	_	_				_		
 67-3	BOI059	67	studenti	stude:nti	stude:nti	linguistic	_	End=129.985	_	_	_	_	_	_	4x1			_		
-68-0	BOI059	68	a	a	a	linguistic	_	Begin=130.426	_	_	_	_	_	_				_		
+68-0	BOI059	68	a	a	a	linguistic	_	Begin=130.425	_	_	_	_	_	_				_		
 68-1	BOI059	68	città	città	città	linguistic	_	End=131.572	_	_	_	_	_	_				_		
 69-0	BOI059	69	per	per	per	linguistic	_	Begin=131.954	_	_	_	_	_	_				_		
 69-1	BOI059	69	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -747,7 +747,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 122-16	BOI059	122	diventata	diventata	diventata	linguistic	_		_	_	_	_	_	_				_		
 122-17	BOI059	122	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 122-18	BOI059	122	barca	ba:rca	ba:rca	linguistic	_	End=259.413	_	_	_	_	_	_	1x1			_		
-123-0	BOI059	123	e	e	e	linguistic	_	Begin=259.674	_	_	_	_	_	_				_		
+123-0	BOI059	123	e	e	e	linguistic	_	Begin=259.673	_	_	_	_	_	_				_		
 123-1	BOI059	123	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		
 123-2	BOI059	123	adesso	adesso	adesso	linguistic	_		_	_	_	_	_	_				_		
 123-3	BOI059	123	non	non	non	linguistic	_		_	_	_	_	_	_				_		
@@ -755,7 +755,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 123-5	BOI059	123	più	più	più	linguistic	_		_	_	_	_	_	_				_		
 123-6	BOI059	123	da	da	da	linguistic	_		_	_	_	_	_	_				_		
 123-7	BOI059	123	nessuna	nessuna	nessuna	linguistic	_		_	_	_	_	_	_				_		
-123-8	BOI059	123	parte	parte	parte	linguistic	_	End=261.52	_	_	_	_	_	_				_		
+123-8	BOI059	123	parte	parte	parte	linguistic	_	End=261.519	_	_	_	_	_	_				_		
 124-0	BOI059	124	rimane	rimane	rimane	linguistic	_	End=262.58	_	_	_	_	_	_				_		
 125-0	BOI059	125	ci	ci	ci	linguistic	_	Begin=262.845	_	_	_	_	_	_				_		
 125-1	BOI059	125	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
@@ -1550,7 +1550,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 226-7	BOI059	226	discorso	discorso	discorso	linguistic	_		_	_	_	_	_	_				_		
 226-8	BOI059	226	fin	fin	fin	linguistic	_		_	_	_	_	_	_				_		
 226-9	BOI059	226	troppo	troppo	troppo	linguistic	_		_	_	_	_	_	_				_		
-226-10	BOI059	226	vago	vago	vago	linguistic	_	End=515.228	_	_	_	_	_	_				_		
+226-10	BOI059	226	vago	vago	vago	linguistic	_	End=515.227	_	_	_	_	_	_				_		
 227-0	BOI059	227	avendo	avendo	avendo	linguistic	_	Begin=515.765	_	_	_	_	_	_				_		
 227-1	BOI059	227	avuto	avuto	avuto	linguistic	_		_	_	_	_	_	_				_		
 227-2	BOI059	227	a	a	a	linguistic	_		_	_	_	_	_	_				_		
@@ -2796,7 +2796,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 410-11	BOI059	410	più	più	più	linguistic	_	End=898.872	_	_	_	_	_	_				_		
 411-0	BOR017	411	vade	vade	vade	linguistic	_	Begin=899.249	_	_	_	_	_	_				_		
 411-1	BOR017	411	retro	retr[o]	retr[o]	linguistic	_	End=899.852	_	_	_	_	_	_				_		4-5(?)
-412-0	BOI059	412	esatto	[e]satto	[e]satto	linguistic	_	Begin=899.9010000000001	_	_	_	_	_	_				_		0-1(?)
+412-0	BOI059	412	esatto	[e]satto	[e]satto	linguistic	_	Begin=899.901	_	_	_	_	_	_				_		0-1(?)
 412-1	BOI059	412	vade	vade	vade	linguistic	_		_	_	_	_	_	_				_		
 412-2	BOI059	412	retro	retro	retro	linguistic	_		_	_	_	_	_	_				_		
 412-3	BOI059	412	lì	lì	lì	linguistic	_		_	_	_	_	_	_				_		
@@ -3092,7 +3092,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 453-0	BOR017	453	secondo	[secondo	[secondo	linguistic	_	Begin=995.233	_	_	_	_	_	_				_		0-7(?)
 453-1	BOR017	453	lei	le]i	le]i	linguistic	_		_	_	_	_	_	_				_		0-2(?)
 453-2	BOR017	453	ovviamente	ovviament[e]	ovviament[e]	linguistic	_	End=996.528	_	_	_	_	_	_				_		9-10(?)
-454-0	BOI059	454	sì	[s]ì	[s]ì	linguistic	_	Begin=996.6030000000001	_	_	_	_	_	_				_		0-1(?)
+454-0	BOI059	454	sì	[s]ì	[s]ì	linguistic	_	Begin=996.603	_	_	_	_	_	_				_		0-1(?)
 454-1	BOI059	454	secondo	secondo	secondo	linguistic	_		_	_	_	_	_	_				_		
 454-2	BOI059	454	lei	lei	lei	linguistic	_		_	_	_	_	_	_				_		
 454-3	BOI059	454	pero'	>pero'	>pero'	linguistic	_		_	_	_	Truncated=Yes	_	_			0-5(0)	_		
@@ -3190,18 +3190,18 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 467-11	BOI059	467	delle	delle	delle	linguistic	_		_	_	_	_	_	_				_		
 467-12	BOI059	467	parole	parole	parole	linguistic	_		_	_	_	_	_	_				_		
 467-13	BOI059	467	standard	standard	standard	linguistic	_	End=1028.852	_	_	_	_	_	_				_		
-468-0	BOI059	468	non	non	non	linguistic	_	Begin=1029.542	_	_	_	_	_	_				_		
+468-0	BOI059	468	non	non	non	linguistic	_	Begin=1029.541	_	_	_	_	_	_				_		
 468-1	BOI059	468	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		
 468-2	BOI059	468	conosco	conosco	conosco	linguistic	_		_	_	_	_	_	_				_		
-468-3	BOI059	468	altri	altri	altri	linguistic	_	End=1031.07	_	_	_	_	_	_				_		
+468-3	BOI059	468	altri	altri	altri	linguistic	_	End=1031.069	_	_	_	_	_	_				_		
 469-0	BOI059	469	perché	perché	perché	linguistic	_	Begin=1031.443	_	_	_	_	_	_				_		
 469-1	BOI059	469	alla	alla	alla	linguistic	_		_	_	_	_	_	_				_		
 469-2	BOI059	469	fine	fine	fine	linguistic	_	End=1032.576	_	_	_	_	_	_				_		
-470-0	BOI059	470	non	non	non	linguistic	_	Begin=1033.004	_	_	_	_	_	_				_		
+470-0	BOI059	470	non	non	non	linguistic	_	Begin=1033.003	_	_	_	_	_	_				_		
 470-1	BOI059	470	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		
 470-2	BOI059	470	mai	mai	mai	linguistic	_		_	_	_	_	_	_				_		
 470-3	BOI059	470	avuto	avuto	avuto	linguistic	_	End=1034.318	_	_	_	_	_	_				_		
-471-0	BOI059	471	occasione	occasione	occasione	linguistic	_	Begin=1034.753	_	_	_	_	_	_				_		
+471-0	BOI059	471	occasione	occasione	occasione	linguistic	_	Begin=1034.752	_	_	_	_	_	_				_		
 471-1	BOI059	471	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 471-2	BOI059	471	amicizie	amicizie	amicizie	linguistic	_		_	_	_	_	_	_				_		
 471-3	BOI059	471	abbastanza	abbastanza	abbastanza	linguistic	_		_	_	_	_	_	_				_		
@@ -3397,7 +3397,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 498-10	BOI059	498	lingua	lingua	lingua	linguistic	_		_	_	_	_	_	_				_		
 498-11	BOI059	498	parlata	parla[ta]	parla[ta]	linguistic	_	End=1100.254	_	_	_	_	_	_				_		5-7(499)
 499-0	BOR017	499	esattamen~	°[esa]ttamen~°	°[esa]ttamen~°	linguistic	_	End=1100.776	_	_	Interrupted=Yes	_	_	_				low		0-3(498)
-500-0	BOI059	500	il	il	il	linguistic	_	Begin=1100.7949999999998	_	_	_	_	_	_				_		
+500-0	BOI059	500	il	il	il	linguistic	_	Begin=1100.794	_	_	_	_	_	_				_		
 500-1	BOI059	500	dialetto	dialetto	dialetto	linguistic	_		_	_	_	_	_	_				_		
 500-2	BOI059	500	nasce	nasce	nasce	linguistic	_		_	_	_	_	_	_				_		
 500-3	BOI059	500	come	come	come	linguistic	_		_	_	_	_	_	_				_		
@@ -5368,7 +5368,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 785-5	BOI059	785	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 785-6	BOI059	785	pomodoro	pomodoro	pomodoro	linguistic	_		_	_	_	_	_	_				_		
 785-7	BOI059	785	eventualmente	eventualmente	eventualmente	linguistic	_		_	_	_	_	_	_				_		
-785-8	BOI059	785	anche	anch[e]	anch[e]	linguistic	_	End=1749.1940000000002	_	_	_	_	_	_				_		4-5(?)
+785-8	BOI059	785	anche	anch[e]	anch[e]	linguistic	_	End=1749.194	_	_	_	_	_	_				_		4-5(?)
 786-0	BOR017	786	buono	°[b]uon[o]°	°[b]uon[o]°	linguistic	_	End=1749.833	_	_	_	_	_	_				low		4-5(?)
 787-0	BOI059	787	sì	[s]ì	[s]ì	linguistic	_	Begin=1749.838	_	_	_	_	_	_				_		0-1(?)
 787-1	BOI059	787	è	è	è	linguistic	_		_	_	_	_	_	_				_		

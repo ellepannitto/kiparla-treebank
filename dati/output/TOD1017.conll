@@ -1,6 +1,6 @@
 token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	intonation	unknown	interruption	truncation	prosodicLink	spaceafter	prolongations	slow_pace	fast_pace	volume	guesses	overlaps
 0-0	TO077	0	buongiorno	buongiorno	buongiorno	linguistic	_	End=3.52	_	_	_	_	_	_				_		
-1-0	TO077	1	dunque	dunque	dunque	linguistic	_	Begin=8.19	_	_	_	_	_	_				_		
+1-0	TO077	1	dunque	dunque	dunque	linguistic	_	Begin=8.189	_	_	_	_	_	_				_		
 1-1	TO077	1	eh	e:h	e:h	linguistic	_		_	_	_	_	_	_	0x1			_		
 1-2	TO077	1	prima	prima	prima	linguistic	_		_	_	_	_	_	_				_		
 1-3	TO077	1	di	di:	di:	linguistic	_		_	_	_	_	_	_	1x1			_		
@@ -37,7 +37,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 5-1	TO077	5	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		
 5-2	TO077	5	sul	sul	sul	linguistic	_		_	_	_	_	_	_				_		
 5-3	TO077	5	sessantotto	sessantotto	sessantotto	linguistic	_	End=31.872	_	_	_	_	_	_				_		
-6-0	TO077	6	alla	alla	alla	linguistic	_	Begin=32.135	_	_	_	_	_	_				_		
+6-0	TO077	6	alla	alla	alla	linguistic	_	Begin=32.134	_	_	_	_	_	_				_		
 6-1	TO077	6	quale	quale	quale	linguistic	_		_	_	_	_	_	_				_		
 6-2	TO077	6	eh	e:h	e:h	linguistic	_		_	_	_	_	_	_	0x1			_		
 6-3	TO077	6	dedicherò	dedicherò:	dedicherò:	linguistic	_		_	_	_	_	_	_	8x1			_		
@@ -197,10 +197,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 31-8	TO077	31	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 31-9	TO077	31	certo	certo	certo	linguistic	_		_	_	_	_	_	_				_		
 31-10	TO077	31	anticipo	anticipo	anticipo	linguistic	_	End=127.507	_	_	_	_	_	_				_		
-32-0	TO077	32	eh	e::h	e::h	linguistic	_	Begin=128.045	_	_	_	_	_	_	0x2			_		
+32-0	TO077	32	eh	e::h	e::h	linguistic	_	Begin=128.044	_	_	_	_	_	_	0x2			_		
 32-1	TO077	32	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 32-2	TO077	32	eh	e:::h	e:::h	linguistic	_	End=130.298	_	_	_	_	_	_	0x3			_		
-33-0	TO077	33	penso	penso	penso	linguistic	_	Begin=130.421	_	_	_	_	_	_				_		
+33-0	TO077	33	penso	penso	penso	linguistic	_	Begin=130.42	_	_	_	_	_	_				_		
 33-1	TO077	33	sia	sia	sia	linguistic	_		_	_	_	_	_	_				_		
 33-2	TO077	33	giusto	giusto	giusto	linguistic	_		_	_	_	_	_	_				_		
 33-3	TO077	33	darvi	darvi	darvi	linguistic	_		_	_	_	_	_	_				_		
@@ -469,8 +469,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 62-10	TO077	62	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 62-11	TO077	62	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 62-12	TO077	62	libreria	libreria	libreria	linguistic	_		_	_	_	_	_	_				_		
-62-13	TO077	62	pero'	pero'	pero'	linguistic	_	End=258.102	_	_	_	Truncated=Yes	_	_				_		
-63-0	TO077	63	eh	e:h	e:h	linguistic	_	Begin=258.21	_	_	_	_	_	_	0x1			_		
+62-13	TO077	62	pero'	pero'	pero'	linguistic	_	End=258.101	_	_	_	Truncated=Yes	_	_				_		
+63-0	TO077	63	eh	e:h	e:h	linguistic	_	Begin=258.209	_	_	_	_	_	_	0x1			_		
 63-1	TO077	63	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 63-2	TO077	63	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
 63-3	TO077	63	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
@@ -479,7 +479,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 63-6	TO077	63	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 63-7	TO077	63	attivato	attivato	attivato	linguistic	_		_	_	_	_	_	_				_		
 63-8	TO077	63	quindi	quindi	quindi	linguistic	_	End=261.457	_	_	_	_	_	_				_		
-64-0	TO077	64	poche	poche	poche	linguistic	_	Begin=261.717	_	_	_	_	_	_				_		
+64-0	TO077	64	poche	poche	poche	linguistic	_	Begin=261.716	_	_	_	_	_	_				_		
 64-1	TO077	64	parole	parole	parole	linguistic	_	End=262.932	_	_	_	_	_	_				_		
 65-0	TO077	65	soprattutto	soprattutto	soprattutto	linguistic	_	Begin=263.528	_	_	_	_	_	_				_		
 65-1	TO077	65	per	per	per	linguistic	_		_	_	_	_	_	_				_		
@@ -937,16 +937,16 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 120-6	TO077	120	fini~	fini~	fini~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
 120-7	TO077	120	avevo	avevo	avevo	linguistic	_		_	_	_	_	_	_				_		
 120-8	TO077	120	finito	finito	finito	linguistic	_	End=514.424	_	_	_	_	_	_				_		
-121-0	TO077	121	mercoledì	mercoledì	mercoledì	linguistic	_	Begin=514.713	_	_	_	_	_	_				_		
+121-0	TO077	121	mercoledì	mercoledì	mercoledì	linguistic	_	Begin=514.712	_	_	_	_	_	_				_		
 121-1	TO077	121	scorso	scorso	scorso	linguistic	_		_	_	_	_	_	_				_		
 121-2	TO077	121	quelle	quelle	quelle	linguistic	_		_	_	_	_	_	_				_		
-121-3	TO077	121	furono	furono	furono	linguistic	_	End=517.358	_	_	_	_	_	_				_		
+121-3	TO077	121	furono	furono	furono	linguistic	_	End=517.357	_	_	_	_	_	_				_		
 122-0	TO077	122	le	le	le	linguistic	_	Begin=517.585	_	_	_	_	_	_				_		
 122-1	TO077	122	prime	prime	prime	linguistic	_		_	_	_	_	_	_				_		
 122-2	TO077	122	elezioni	elezioni	elezioni	linguistic	_		_	_	_	_	_	_				_		
 122-3	TO077	122	da	da	da	linguistic	_		_	_	_	_	_	_				_		
 122-4	TO077	122	quando	quando	quando	linguistic	_	End=520.515	_	_	_	_	_	_				_		
-123-0	TO077	123	eh	e::h	e::h	linguistic	_	Begin=520.762	_	_	_	_	_	_	0x2			_		
+123-0	TO077	123	eh	e::h	e::h	linguistic	_	Begin=520.761	_	_	_	_	_	_	0x2			_		
 123-1	TO077	123	esisteva	esisteva	esisteva	linguistic	_		_	_	_	_	_	_				_		
 123-2	TO077	123	il	(il)	(il)	linguistic	_		_	_	_	_	_	_				_	0-2(0)	
 123-3	TO077	123	regno	regno	regno	linguistic	_		_	_	_	_	_	_				_		
@@ -1793,7 +1793,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 250-2	TO077	250	dello	dello	dello	linguistic	_		_	_	_	_	_	_				_		
 250-3	TO077	250	stato	stato	stato	linguistic	_		_	_	_	_	_	_				_		
 250-4	TO077	250	iugoslavo	iugoslavo,	iugoslavo,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
-250-5	TO077	250	quindi	quindi	quindi	linguistic	_	End=1046.715	_	_	_	_	_	_				_		
+250-5	TO077	250	quindi	quindi	quindi	linguistic	_	End=1046.714	_	_	_	_	_	_				_		
 251-0	TO077	251	l'	l'	l'	linguistic	_	Begin=1046.913	_	_	_	Truncated=Yes	_	_				_		
 251-1	TO077	251	impossibilità	impossibilità	impossibilità	linguistic	_		_	_	_	_	_	_				_		
 251-2	TO077	251	politica	politica	politica	linguistic	_	End=1049.654	_	_	_	_	_	_				_		
@@ -3395,7 +3395,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 487-10	TO077	487	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 487-11	TO077	487	loro	loro	loro	linguistic	_		_	_	_	_	_	_				_		
 487-12	TO077	487	roccaforte	roccaforte	roccaforte	linguistic	_	End=2065.973	_	_	_	_	_	_				_		
-488-0	TO077	488	{tossisce}	{tossisce}	{tossisce}	metalinguistic	_	Begin=2066.691	_	_	_	_	_	_				_		
+488-0	TO077	488	{tossisce}	{tossisce}	{tossisce}	metalinguistic	_	Begin=2066.69	_	_	_	_	_	_				_		
 488-1	TO077	488	questo	questo	questo	linguistic	_	End=2068.913	_	_	_	_	_	_				_		
 489-0	TO077	489	eh	e::h	e::h	linguistic	_	Begin=2069.63	_	_	_	_	_	_	0x2			_		
 489-1	TO077	489	porto'	porto'	porto'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -3425,7 +3425,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 492-4	TO077	492	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 492-5	TO077	492	apertamente	apertamente	apertamente	linguistic	_		_	_	_	_	_	_				_		
 492-6	TO077	492	rivoluzionario	rivoluzionario	rivoluzionario	linguistic	_	End=2091.868	_	_	_	_	_	_				_		
-493-0	TO077	493	eh	e:::h	e:::h	linguistic	_	Begin=2092.298	_	_	_	_	_	_	0x3			_		
+493-0	TO077	493	eh	e:::h	e:::h	linguistic	_	Begin=2092.297	_	_	_	_	_	_	0x3			_		
 493-1	TO077	493	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 493-2	TO077	493	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
 493-3	TO077	493	proposito	proposito:::	proposito:::	linguistic	_	End=2095.139	_	_	_	_	_	_	8x3			_		
@@ -6512,7 +6512,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 983-10	TO077	983	governo	governo	governo	linguistic	_		_	_	_	_	_	_				_		
 983-11	TO077	983	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 983-12	TO077	983	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
-983-13	TO077	983	io	io	io	linguistic	_	End=4097.199	_	_	_	_	_	_				_		
+983-13	TO077	983	io	io	io	linguistic	_	End=4097.198	_	_	_	_	_	_				_		
 984-0	TO077	984	alla	alla	alla	linguistic	_	Begin=4097.761	_	_	_	_	_	_				_		
 984-1	TO077	984	fine	fine	fine	linguistic	_		_	_	_	_	_	_				_		
 984-2	TO077	984	il	il	il	linguistic	_		_	_	_	_	_	_				_		
@@ -6522,7 +6522,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 984-6	TO077	984	leader	leader	leader	linguistic	_		_	_	_	_	_	_				_		
 984-7	TO077	984	liberali	liberali,	liberali,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 984-8	TO077	984	eccetera	eccetera,	eccetera,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
-984-9	TO077	984	eccetera	eccetera	eccetera	linguistic	_	End=4102.73	_	_	_	_	_	_				_		
+984-9	TO077	984	eccetera	eccetera	eccetera	linguistic	_	End=4102.729	_	_	_	_	_	_				_		
 985-0	TO077	985	accettarono	accettarono	accettarono	linguistic	_	Begin=4102.874	_	_	_	_	_	_				_		
 985-1	TO077	985	questa	questa	questa	linguistic	_		_	_	_	_	_	_				_		
 985-2	TO077	985	cosa	cosa	cosa	linguistic	_	End=4105.462	_	_	_	_	_	_				_		
@@ -6554,7 +6554,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 989-0	TO077	989	era	era	era	linguistic	_	Begin=4119.334	_	_	_	_	_	_				_		
 989-1	TO077	989	molto	molto	molto	linguistic	_		_	_	_	_	_	_				_		
 989-2	TO077	989	consueta	consueta,	consueta,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
-989-3	TO077	989	abituale	abituale	abituale	linguistic	_	End=4122.574	_	_	_	_	_	_				_		
+989-3	TO077	989	abituale	abituale	abituale	linguistic	_	End=4122.573	_	_	_	_	_	_				_		
 990-0	TO077	990	si	si	si	linguistic	_	Begin=4122.861	_	_	_	_	_	_				_		
 990-1	TO077	990	presento'	presento'	presento'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 990-2	TO077	990	dal	dal	dal	linguistic	_		_	_	_	_	_	_				_		
@@ -6571,13 +6571,13 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 990-13	TO077	990	formare	formare	formare	linguistic	_		_	_	_	_	_	_				_		
 990-14	TO077	990	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 990-15	TO077	990	nuovo	nuovo	nuovo	linguistic	_		_	_	_	_	_	_				_		
-990-16	TO077	990	governo	governo	governo	linguistic	_	End=4128.36	_	_	_	_	_	_				_		
-991-0	TO077	991	allora	>allora<	>allora<	linguistic	_	Begin=4128.588	_	_	_	_	_	_			0-6(0)	_		
+990-16	TO077	990	governo	governo	governo	linguistic	_	End=4128.359	_	_	_	_	_	_				_		
+991-0	TO077	991	allora	>allora<	>allora<	linguistic	_	Begin=4128.587	_	_	_	_	_	_			0-6(0)	_		
 991-1	TO077	991	questa	questa	questa	linguistic	_		_	_	_	_	_	_				_		
 991-2	TO077	991	dopo	dopo	dopo	linguistic	_		_	_	_	_	_	_				_		
 991-3	TO077	991	di	di	di	linguistic	_		_	_	_	_	_	_				_		
-991-4	TO077	991	che	che	che	linguistic	_	End=4130.98	_	_	_	_	_	_				_		
-992-0	TO077	992	allora	allora	allora	linguistic	_	Begin=4131.57	_	_	_	_	_	_				_		
+991-4	TO077	991	che	che	che	linguistic	_	End=4130.979	_	_	_	_	_	_				_		
+992-0	TO077	992	allora	allora	allora	linguistic	_	Begin=4131.569	_	_	_	_	_	_				_		
 992-1	TO077	992	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		
 992-2	TO077	992	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 992-3	TO077	992	quel	quel	quel	linguistic	_		_	_	_	_	_	_				_		
@@ -6588,14 +6588,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 993-2	TO077	993	squadre	squadre	squadre	linguistic	_		_	_	_	_	_	_				_		
 993-3	TO077	993	entrarono	entrarono	entrarono	linguistic	_		_	_	_	_	_	_				_		
 993-4	TO077	993	allora	allora	allora	linguistic	_		_	_	_	_	_	_				_		
-993-5	TO077	993	eccetera	eccetera	eccetera	linguistic	_	End=4138.038	_	_	_	_	_	_				_		
+993-5	TO077	993	eccetera	eccetera	eccetera	linguistic	_	End=4138.037	_	_	_	_	_	_				_		
 994-0	TO077	994	non	non	non	linguistic	_	Begin=4138.082	_	_	_	_	_	_				_		
 994-1	TO077	994	ci	ci	ci	linguistic	_		_	_	_	_	_	_				_		
 994-2	TO077	994	furono	furono	furono	linguistic	_		_	_	_	_	_	_				_		
 994-3	TO077	994	particolari	particolari	particolari	linguistic	_		_	_	_	_	_	_				_		
 994-4	TO077	994	episodi	episodi	episodi	linguistic	_		_	_	_	_	_	_				_		
 994-5	TO077	994	di	di	di	linguistic	_		_	_	_	_	_	_				_		
-994-6	TO077	994	violenza	violenza	violenza	linguistic	_	End=4142.088	_	_	_	_	_	_				_		
+994-6	TO077	994	violenza	violenza	violenza	linguistic	_	End=4142.087	_	_	_	_	_	_				_		
 995-0	TO077	995	in	in	in	linguistic	_	Begin=4142.314	_	_	_	_	_	_				_		
 995-1	TO077	995	quel	quel	quel	linguistic	_		_	_	_	_	_	_				_		
 995-2	TO077	995	caso	caso,	caso,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
@@ -6603,7 +6603,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 995-4	TO077	995	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 995-5	TO077	995	proprio	proprio	proprio	linguistic	_		_	_	_	_	_	_				_		
 995-6	TO077	995	la	la	la	linguistic	_		_	_	_	_	_	_				_		
-995-7	TO077	995	dialettica	dialettica	dialettica	linguistic	_	End=4146.373	_	_	_	_	_	_				_		
+995-7	TO077	995	dialettica	dialettica	dialettica	linguistic	_	End=4146.372	_	_	_	_	_	_				_		
 996-0	TO077	996	di	di	di	linguistic	_	Begin=4146.415	_	_	_	_	_	_				_		
 996-1	TO077	996	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 996-2	TO077	996	questi	questi	questi	linguistic	_		_	_	_	_	_	_				_		
@@ -6611,7 +6611,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 996-4	TO077	996	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 996-5	TO077	996	va	va	va	linguistic	_		_	_	_	_	_	_				_		
 996-6	TO077	996	tenuto	tenuto	tenuto	linguistic	_		_	_	_	_	_	_				_		
-996-7	TO077	996	presente	presente	presente	linguistic	_	End=4149.757	_	_	_	_	_	_				_		
+996-7	TO077	996	presente	presente	presente	linguistic	_	End=4149.756	_	_	_	_	_	_				_		
 997-0	TO077	997	perché	perché	perché	linguistic	_	Begin=4149.973	_	_	_	_	_	_				_		
 997-1	TO077	997	qui	qui	qui	linguistic	_		_	_	_	_	_	_				_		
 997-2	TO077	997	eh	e::h	e::h	linguistic	_		_	_	_	_	_	_	0x2			_		
@@ -6627,17 +6627,17 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 998-0	TO077	998	una	una	una	linguistic	_	Begin=4157.683	_	_	_	_	_	_				_		
 998-1	TO077	998	controversia	controversia	controversia	linguistic	_		_	_	_	_	_	_				_		
 998-2	TO077	998	fortissima	fortissima	fortissima	linguistic	_	End=4161.474	_	_	_	_	_	_				_		
-999-0	TO077	999	eh	e::h	e::h	linguistic	_	Begin=4161.878	_	_	_	_	_	_	0x2			_		
+999-0	TO077	999	eh	e::h	e::h	linguistic	_	Begin=4161.877	_	_	_	_	_	_	0x2			_		
 999-1	TO077	999	cioè	cioè	cioè	linguistic	_		_	_	_	_	_	_				_		
 999-2	TO077	999	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 999-3	TO077	999	marcia	marcia	marcia	linguistic	_		_	_	_	_	_	_				_		
 999-4	TO077	999	su	su	su	linguistic	_		_	_	_	_	_	_				_		
-999-5	TO077	999	roma	roma	roma	linguistic	_	End=4165.119	_	_	_	_	_	_				_		
+999-5	TO077	999	roma	roma	roma	linguistic	_	End=4165.118	_	_	_	_	_	_				_		
 1000-0	TO077	1000	fu	fu	fu	linguistic	_	Begin=4165.33	_	_	_	_	ProsodicLink=Yes	_				_		
 1000-1	TO077	1000	una	una	a 	linguistic	_		_	_	_	_	_	_				_		
 1000-2	TO077	1000	rivoluzione	rivoluzione	ivoluzione 	linguistic	_		_	_	_	_	_	_				_		
 1000-3	TO077	1000	fu	fu	u	linguistic	_	End=4168.336	_	_	_	_	_	_				_		
-1001-0	TO077	1001	un	un	un	linguistic	_	Begin=4168.409	_	_	_	_	_	_				_		
+1001-0	TO077	1001	un	un	un	linguistic	_	Begin=4168.408	_	_	_	_	_	_				_		
 1001-1	TO077	1001	colpo	colpo	colpo	linguistic	_		_	_	_	_	_	_				_		
 1001-2	TO077	1001	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 1001-3	TO077	1001	mano	mano,	mano,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
@@ -6669,10 +6669,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1004-6	TO077	1004	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 1004-7	TO077	1004	all'	all'	all'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 1004-8	TO077	1004	epoca	epoca	epoca	linguistic	_	End=4183.421	_	_	_	_	_	_				_		
-1005-0	TO077	1005	il	il	il	linguistic	_	Begin=4184.083	_	_	_	_	_	_				_		
+1005-0	TO077	1005	il	il	il	linguistic	_	Begin=4184.082	_	_	_	_	_	_				_		
 1005-1	TO077	1005	mondo	mondo	mondo	linguistic	_		_	_	_	_	_	_				_		
-1005-2	TO077	1005	liberale	liberale	liberale	linguistic	_	End=4185.659	_	_	_	_	_	_				_		
-1006-0	TO077	1006	vuoi	vuoi	vuoi	linguistic	_	Begin=4185.762	_	_	_	_	_	_				_		
+1005-2	TO077	1005	liberale	liberale	liberale	linguistic	_	End=4185.658	_	_	_	_	_	_				_		
+1006-0	TO077	1006	vuoi	vuoi	vuoi	linguistic	_	Begin=4185.761	_	_	_	_	_	_				_		
 1006-1	TO077	1006	per	per	per	linguistic	_		_	_	_	_	_	_				_		
 1006-2	TO077	1006	convinzione	convinzione,	convinzione,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 1006-3	TO077	1006	vuoi	vuoi::	vuoi::	linguistic	_		_	_	_	_	_	_	3x2			_		

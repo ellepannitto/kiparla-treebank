@@ -67,9 +67,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 15-3	BO146	15	pure	pure	pure	linguistic	_		_	_	_	_	_	_				_		
 15-4	BO146	15	francesco	francesco	francesco	linguistic	_		_	_	_	_	_	_				_		
 15-5	BO146	15	ciao	ciao	ciao	linguistic	_	End=18.51	_	_	_	_	_	_				_		
-16-0	BO146	16	{ride}	{ride}	{ride}	metalinguistic	_	End=19.23	_	_	_	_	_	_				_		
+16-0	BO139	16	{ride}	{ride}	{ride}	metalinguistic	_	End=19.48	_	_	_	_	_	_				_		
 17-0	BO147	17	{ride}	{ride}	{ride}	metalinguistic	_	End=19.23	_	_	_	_	_	_				_		
-18-0	BO139	18	{ride}	{ride}	{ride}	metalinguistic	_	End=19.48	_	_	_	_	_	_				_		
+18-0	BO146	18	{ride}	{ride}	{ride}	metalinguistic	_	End=19.23	_	_	_	_	_	_				_		
 19-0	BO145	19	{ride}	{ride}	{ride}	metalinguistic	_	End=19.23	_	_	_	_	_	_				_		
 20-0	BO145	20	alé	alé	alé	linguistic	_	Begin=19.9	_	_	_	_	_	_				_		
 20-1	BO145	20	lì	lì	lì	linguistic	_		_	_	_	_	_	_				_		
@@ -352,7 +352,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 85-1	BO147	85	quanti	quanti	quanti	linguistic	_		_	_	_	_	_	_				_		
 85-2	BO147	85	minuti	minuti:	minuti:	linguistic	_		_	_	_	_	_	_	5x1			_		
 85-3	BO147	85	devono	devono	devono	linguistic	_		_	_	_	_	_	_				_		
-85-4	BO147	85	essere	essere(?)	essere(?)	linguistic	_	End=129.182	ascending	_	_	_	_	_				_		
+85-4	BO147	85	essere	essere(?)	essere(?)	linguistic	_	End=129.181	ascending	_	_	_	_	_				_		
 86-0	BO139	86	mh	mh	mh	linguistic	_	End=130.017	_	_	_	_	_	_				_		
 87-0	BO139	87	quel	quel	quel	linguistic	_	Begin=130.472	_	_	_	_	_	_				_		
 87-1	BO139	87	che	che	che	linguistic	_		_	_	_	_	_	_				_		
@@ -746,7 +746,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 166-4	BO147	166	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
 166-5	BO147	166	stessa	stessa	stessa	linguistic	_		_	_	_	_	_	_				_		
 166-6	BO147	166	cosa	cosa	cosa	linguistic	_	End=258.396	_	_	_	_	_	_				_		
-167-0	BO147	167	pero'	pero'	pero'	linguistic	_	Begin=259.066	_	_	_	Truncated=Yes	_	_				_		
+167-0	BO147	167	pero'	pero'	pero'	linguistic	_	Begin=259.065	_	_	_	Truncated=Yes	_	_				_		
 167-1	BO147	167	con	con	con	linguistic	_		_	_	_	_	_	_				_		
 167-2	BO147	167	parole	parole	parole	linguistic	_		_	_	_	_	_	_				_		
 167-3	BO147	167	diverse	diverse	diverse	linguistic	_		_	_	_	_	_	_				_		
@@ -932,9 +932,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 202-2	BO145	202	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		
 202-3	BO145	202	detto	detto	detto	linguistic	_		_	_	_	_	_	_				_		
 202-4	BO145	202	{ride}	{ride}	{ride}	metalinguistic	_	End=338.207	_	_	_	_	_	_				_		
-203-0	BO146	203	{ride}	{ride}	{ride}	metalinguistic	_	End=338.207	_	_	_	_	_	_				_		
+203-0	BO139	203	{ride}	{ride}	{ride}	metalinguistic	_	End=338.207	_	_	_	_	_	_				_		
 204-0	BO147	204	{ride}	{ride}	{ride}	metalinguistic	_	End=338.207	_	_	_	_	_	_				_		
-205-0	BO139	205	{ride}	{ride}	{ride}	metalinguistic	_	End=338.207	_	_	_	_	_	_				_		
+205-0	BO146	205	{ride}	{ride}	{ride}	metalinguistic	_	End=338.207	_	_	_	_	_	_				_		
 206-0	BO147	206	lo	(lo)	(lo)	linguistic	_	Begin=338.277	_	_	_	_	_	_				_	0-2(0)	
 206-1	BO147	206	dico	dico	dico	linguistic	_		_	_	_	_	_	_				_		
 206-2	BO147	206	io	io	io	linguistic	_	End=339.117	_	_	_	_	_	_				_		
@@ -1127,7 +1127,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 255-4	BO146	255	quello	[quello]	[quello]	linguistic	_	End=403.593	_	_	_	_	_	_				_		0-6(256)
 256-0	BO147	256	cioè	[>cioè<]	[>cioè<]	linguistic	_	End=403.628	_	_	_	_	_	_			0-4(0)	_		0-4(255)
 257-0	BO145	257	xx	xx	xx	linguistic	_	End=404.618	_	Unknown=Yes	_	_	_	_				_		
-258-0	BO146	258	no	no	no	linguistic	_	Begin=404.70300000000003	_	_	_	_	_	_				_		
+258-0	BO146	258	no	no	no	linguistic	_	Begin=404.703	_	_	_	_	_	_				_		
 258-1	BO146	258	infatti	infatti	infatti	linguistic	_		_	_	_	_	_	_				_		
 258-2	BO146	258	xx	[(xx)]	[(xx)]	linguistic	_	End=405.553	_	Unknown=Yes	_	_	_	_				_	0-2(0)	0-2(259+260)
 259-0	BO147	259	vabbè	[vabbè	[vabbè	linguistic	_	Begin=405.143	_	_	_	_	_	_				_		0-5(258+260)
@@ -1287,7 +1287,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 284-8	BO147	284	gente	gente	gente	linguistic	_		_	_	_	_	_	_				_		
 284-9	BO147	284	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 284-10	BO147	284	stavo	stavo	stavo	linguistic	_		_	_	_	_	_	_				_		
-284-11	BO147	284	zitto	zitto	zitto	linguistic	_	End=439.24199999999996	_	_	_	_	_	_				_		
+284-11	BO147	284	zitto	zitto	zitto	linguistic	_	End=439.241	_	_	_	_	_	_				_		
 285-0	BO146	285	no	no	no	linguistic	_	Begin=439.328	_	_	_	_	_	_				_		
 285-1	BO146	285	capito	capito	capito	linguistic	_		_	_	_	_	_	_				_		
 285-2	BO146	285	pero'	pero'	pero'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -1483,7 +1483,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 336-6	BO146	336	alle	alle	alle	linguistic	_		_	_	_	_	_	_				_		
 336-7	BO146	336	registrazioni	registrazio[ni	registrazio[ni	linguistic	_		_	_	_	_	_	_				_		11-13(337+338)
 336-8	BO146	336	di	di	di	linguistic	_		_	_	_	_	_	_				_		0-2(337+338)
-336-9	BO146	336	lara	lara]	lara]	linguistic	_	End=520.617	_	_	_	_	_	_				_		0-4(337+338)
+336-9	BO146	336	lara	lara]	lara]	linguistic	_	End=520.616	_	_	_	_	_	_				_		0-4(337+338)
 337-0	BO147	337	porca	[>porca<	[>porca<	linguistic	_	Begin=519.077	_	_	_	_	_	_			0-5(0)	_		0-5(336+338)
 337-1	BO147	337	miseria	miseria:]	miseria:]	linguistic	_		_	_	_	_	_	_	6x1			_		0-7(336+338)
 337-2	BO147	337	{ride}	{ride}	{ride}	metalinguistic	_	End=520.5	_	_	_	_	_	_				_		
@@ -1496,7 +1496,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 338-6	BO139	338	sgamato	sgamato	sgamato	linguistic	_		_	_	_	_	_	_				_		
 338-7	BO139	338	alcuna	alcuna	alcuna	linguistic	_		_	_	_	_	_	_				_		
 338-8	BO139	338	gente	gente	gente	linguistic	_		_	_	_	_	_	_				_		
-338-9	BO139	338	tipo	tipo	tipo	linguistic	_	End=522.66	_	_	_	_	_	_				_		
+338-9	BO139	338	tipo	tipo	tipo	linguistic	_	End=522.659	_	_	_	_	_	_				_		
 339-0	BO147	339	no	NO::	NO::	linguistic	_	Begin=523.677	_	_	_	_	_	_	1x2			high		
 339-1	BO147	339	veramente	veramen[te?]	veramen[te?]	linguistic	_	End=525.457	ascending	_	_	_	_	_				_		7-9(340)
 340-0	BO139	340	sì	[sì	[sì	linguistic	_	Begin=525.01	_	_	_	_	_	_				_		0-2(339)
@@ -1675,7 +1675,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 382-0	BO139	382	{ride}	{ride}	{ride}	metalinguistic	_	End=586.858	_	_	_	_	_	_				_		
 383-0	BO146	383	{ride}	{ride}	{ride}	metalinguistic	_	End=588.148	_	_	_	_	_	_				_		
 384-0	BO147	384	{tossisce}	{tossisce}	{tossisce}	metalinguistic	_	End=590.648	_	_	_	_	_	_				_		
-385-0	BO145	385	non	non	non	linguistic	_	Begin=590.7130000000001	_	_	_	_	_	_				_		
+385-0	BO145	385	non	non	non	linguistic	_	Begin=590.713	_	_	_	_	_	_				_		
 385-1	BO145	385	oscurare	oscurare	oscurare	linguistic	_		_	_	_	_	_	_				_		
 385-2	BO145	385	per	per	per	linguistic	_		_	_	_	_	_	_				_		
 385-3	BO145	385	favore	favore	favore	linguistic	_		_	_	_	_	_	_				_		
@@ -1689,8 +1689,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 388-0	BO147	388	daniela	daniela	daniela	linguistic	_	Begin=593.938	_	_	_	_	_	_				_		
 388-1	BO147	388	gialli	gialli	gialli	linguistic	_	End=594.918	_	_	_	_	_	_				_		
 389-0	BO145	389	{ride}	{ride}	{ride}	metalinguistic	_	End=595.213	_	_	_	_	_	_				_		
-390-0	BO139	390	{ride}	{ride}	{ride}	metalinguistic	_	End=595.933	_	_	_	_	_	_				_		
-391-0	BO145	391	xxxxx	xxxxx	xxxxx	linguistic	_	End=596.603	_	Unknown=Yes	_	_	_	_				_		
+390-0	BO145	390	xxxxx	xxxxx	xxxxx	linguistic	_	End=596.603	_	Unknown=Yes	_	_	_	_				_		
+391-0	BO139	391	{ride}	{ride}	{ride}	metalinguistic	_	End=595.933	_	_	_	_	_	_				_		
 392-0	BO139	392	io	io	io	linguistic	_	Begin=596.923	_	_	_	_	_	_				_		
 392-1	BO139	392	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 392-2	BO139	392	d~	d~	d~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
@@ -2576,7 +2576,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 629-0	BO145	629	quello	[quello]	[quello]	linguistic	_	Begin=938.86	_	_	_	_	_	_				_		0-6(628)
 629-1	BO145	629	più	più	più	linguistic	_		_	_	_	_	_	_				_		
 629-2	BO145	629	grosso	grosso	grosso	linguistic	_		_	_	_	_	_	_				_		
-629-3	BO145	629	pero'	pero'	pero'	linguistic	_	End=939.8199999999999	_	_	_	Truncated=Yes	_	_				_		
+629-3	BO145	629	pero'	pero'	pero'	linguistic	_	End=939.819	_	_	_	Truncated=Yes	_	_				_		
 630-0	BO146	630	quello	[quello	[quello	linguistic	_	Begin=939.905	_	_	_	_	_	_				_		0-6(631)
 630-1	BO146	630	dell'	dell'	dell'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		0-5(631)
 630-2	BO146	630	anno	an]no	an]no	linguistic	_		_	_	_	_	_	_				_		0-2(631)
@@ -2826,7 +2826,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 673-1	BO147	673	devo	devo	devo	linguistic	_		_	_	_	_	_	_				_		
 673-2	BO147	673	fare	(fare)	(fare)	linguistic	_		_	_	_	_	_	_				_	0-4(0)	
 673-3	BO147	673	la	la	la	linguistic	_		_	_	_	_	_	_				_		
-673-4	BO147	673	doccia	doccia	doccia	linguistic	_	End=1024.407	_	_	_	_	_	_				_		
+673-4	BO147	673	doccia	doccia	doccia	linguistic	_	End=1024.406	_	_	_	_	_	_				_		
 674-0	BO145	674	io	io	io	linguistic	_	Begin=1024.71	_	_	_	_	_	_				_		
 674-1	BO145	674	no	[no]	[no]	linguistic	_	End=1025.432	_	_	_	_	_	_				_		0-2(675)
 675-0	BO146	675	xx	[xx]	[xx]	linguistic	_	Begin=1024.852	_	Unknown=Yes	_	_	_	_				_		0-2(674)
@@ -2840,7 +2840,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 678-2	BO147	678	cioè	>cioè<	>cioè<	linguistic	_		_	_	_	_	_	_			0-4(0)	_		
 678-3	BO147	678	nel	nel	nel	linguistic	_		_	_	_	_	_	_				_		
 678-4	BO147	678	senso	senso:	senso:	linguistic	_	End=1038.252	_	_	_	_	_	_	4x1			_		
-679-0	BO147	679	pensavo	>pensavo<	>pensavo<	linguistic	_	Begin=1038.572	_	_	_	_	_	_			0-7(0)	_		
+679-0	BO147	679	pensavo	>pensavo<	>pensavo<	linguistic	_	Begin=1038.571	_	_	_	_	_	_			0-7(0)	_		
 679-1	BO147	679	che	>che	>che	linguistic	_		_	_	_	_	_	_			0-3(1)	_		
 679-2	BO147	679	ne	ne	ne	linguistic	_		_	_	_	_	_	_			0-2(1)	_		
 679-3	BO147	679	so	so<	so<	linguistic	_		_	_	_	_	_	_			0-2(1)	_		
@@ -2956,7 +2956,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 700-0	BO147	700	ma	ma	ma	linguistic	_	Begin=1108.936	_	_	_	_	_	_				_		
 700-1	BO147	700	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 700-2	BO147	700	schifo	schifo	schifo	linguistic	_	End=1109.656	_	_	_	_	_	_				_		
-701-0	BO145	701	è	è	è	linguistic	_	Begin=1109.7459999999999	_	_	_	_	_	_				_		
+701-0	BO145	701	è	è	è	linguistic	_	Begin=1109.745	_	_	_	_	_	_				_		
 701-1	BO145	701	là	là	là	linguistic	_		_	_	_	_	_	_				_		
 701-2	BO145	701	dietro	dietro::	dietro::	linguistic	_	End=1111.236	_	_	_	_	_	_	5x2			_		
 702-0	BO139	702	è	è	è	linguistic	_	Begin=1112.72	_	_	_	_	_	_				_		
@@ -2972,7 +2972,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 707-0	BO139	707	ah	ah	ah	linguistic	_	Begin=1119.245	_	_	_	_	_	_				_		
 707-1	BO139	707	sì	sì?	sì?	linguistic	_	End=1119.745	ascending	_	_	_	_	_				_		
 708-0	BO145	708	sì	sì	sì	linguistic	_	End=1120.015	_	_	_	_	_	_				_		
-709-0	BO139	709	ah	ah	ah	linguistic	_	Begin=1120.1139999999998	_	_	_	_	_	_				_		
+709-0	BO139	709	ah	ah	ah	linguistic	_	Begin=1120.113	_	_	_	_	_	_				_		
 709-1	BO139	709	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 709-2	BO139	709	l'avevo	l'>avevo<	l'>avevo<	error	_		_	_	_	_	_	_			2-7(0)	_		
 709-3	BO139	709	visto	visto	visto	linguistic	_		_	_	_	_	_	_				_		
@@ -3061,7 +3061,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 736-4	BO146	736	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(735)
 736-5	BO146	736	prendi	prendi]	prendi]	linguistic	_	End=1156.761	_	_	_	_	_	_				_		0-6(735)
 737-0	BO145	737	{ride}	{ride}	{ride}	metalinguistic	_	End=1157.829	_	_	_	_	_	_				_		
-738-0	BO146	738	cioè	>cioè<	>cioè<	linguistic	_	Begin=1157.9199999999998	_	_	_	_	_	_			0-4(0)	_		
+738-0	BO146	738	cioè	>cioè<	>cioè<	linguistic	_	Begin=1157.919	_	_	_	_	_	_			0-4(0)	_		
 738-1	BO146	738	se	se	se	linguistic	_		_	_	_	_	_	_				_		
 738-2	BO146	738	me	me	me	linguistic	_		_	_	_	_	_	_				_		
 738-3	BO146	738	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		
@@ -3296,7 +3296,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 788-3	BO145	788	no	no	no	linguistic	_	End=1227.257	_	_	_	_	_	_				_		
 789-0	BO147	789	{ride}	{ride}	{ride}	metalinguistic	_	End=1228.677	_	_	_	_	_	_				_		
 790-0	BO145	790	s'	s'	s'	linguistic	_	Begin=1228.165	_	_	_	Truncated=Yes	_	_				_		
-790-1	BO145	790	aggrappa	aggrappa	aggrappa	linguistic	_	End=1228.8480000000002	_	_	_	_	_	_				_		
+790-1	BO145	790	aggrappa	aggrappa	aggrappa	linguistic	_	End=1228.848	_	_	_	_	_	_				_		
 791-0	BO139	791	{ride}	{ride}	{ride}	metalinguistic	_	End=1229.577	_	_	_	_	_	_				_		
 792-0	BO147	792	{ride}	{ride}	{ride}	metalinguistic	_	End=1232.044	_	_	_	_	_	_				_		
 793-0	BO145	793	te	te	te	linguistic	_	Begin=1232.135	_	_	_	_	_	_				_		
@@ -3365,21 +3365,21 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 810-2	BO139	810	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		
 810-3	BO139	810	faccia	faccia	faccia	linguistic	_		_	_	_	_	_	_				_		
 810-4	BO139	810	da	da	da	linguistic	_	End=1266.305	_	_	_	_	_	_				_		
-811-0	BO147	811	{ride}	{ride}	{ride}	metalinguistic	_	End=1267.708	_	_	_	_	_	_				_		
-812-0	BO139	812	che	che	che	linguistic	_	Begin=1266.763	_	_	_	_	_	_				_		
-812-1	BO139	812	non	non	non	linguistic	_		_	_	_	_	_	_				_		
-812-2	BO139	812	te	te	te	linguistic	_		_	_	_	_	_	_				_		
-812-3	BO139	812	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		
-812-4	BO139	812	frega	frega	frega	linguistic	_		_	_	_	_	_	_				_		
-812-5	BO139	812	un	un	un	linguistic	_		_	_	_	_	_	_				_		
-812-6	BO139	812	cazzo	c[azzo	c[azzo	linguistic	_		_	_	_	_	_	_				_		1-5(813)
-812-7	BO139	812	della	della	della	linguistic	_		_	_	_	_	_	_				_		0-5(813)
-812-8	BO139	812	vita	vita]	vita]	linguistic	_	End=1268.849	_	_	_	_	_	_				_		0-4(813)
-813-0	BO145	813	no	[no:	[no:	linguistic	_	Begin=1267.781	_	_	_	_	_	_	1x1			_		0-2(812)
-813-1	BO145	813	va	va	va	linguistic	_		_	_	_	_	_	_				_		0-2(812)
-813-2	BO145	813	bene	bene	bene	linguistic	_		_	_	_	_	_	_				_		0-4(812)
-813-3	BO145	813	vabbè	vabbè	vabbè	linguistic	_		_	_	_	_	_	_				_		0-5(812)
-813-4	BO145	813	lo	lo]	lo]	linguistic	_		_	_	_	_	_	_				_		0-2(812)
+811-0	BO139	811	che	che	che	linguistic	_	Begin=1266.763	_	_	_	_	_	_				_		
+811-1	BO139	811	non	non	non	linguistic	_		_	_	_	_	_	_				_		
+811-2	BO139	811	te	te	te	linguistic	_		_	_	_	_	_	_				_		
+811-3	BO139	811	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		
+811-4	BO139	811	frega	frega	frega	linguistic	_		_	_	_	_	_	_				_		
+811-5	BO139	811	un	un	un	linguistic	_		_	_	_	_	_	_				_		
+811-6	BO139	811	cazzo	c[azzo	c[azzo	linguistic	_		_	_	_	_	_	_				_		1-5(813)
+811-7	BO139	811	della	della	della	linguistic	_		_	_	_	_	_	_				_		0-5(813)
+811-8	BO139	811	vita	vita]	vita]	linguistic	_	End=1268.849	_	_	_	_	_	_				_		0-4(813)
+812-0	BO147	812	{ride}	{ride}	{ride}	metalinguistic	_	End=1267.708	_	_	_	_	_	_				_		
+813-0	BO145	813	no	[no:	[no:	linguistic	_	Begin=1267.781	_	_	_	_	_	_	1x1			_		0-2(811)
+813-1	BO145	813	va	va	va	linguistic	_		_	_	_	_	_	_				_		0-2(811)
+813-2	BO145	813	bene	bene	bene	linguistic	_		_	_	_	_	_	_				_		0-4(811)
+813-3	BO145	813	vabbè	vabbè	vabbè	linguistic	_		_	_	_	_	_	_				_		0-5(811)
+813-4	BO145	813	lo	lo]	lo]	linguistic	_		_	_	_	_	_	_				_		0-2(811)
 813-5	BO145	813	so	so	so	linguistic	_		_	_	_	_	_	_				_		
 813-6	BO145	813	già	già:	già:	linguistic	_		_	_	_	_	_	_	2x1			_		
 813-7	BO145	813	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		
@@ -3430,7 +3430,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 826-0	BO147	826	{ride}	{ride}	{ride}	metalinguistic	_	End=1290.363	_	_	_	_	_	_				_		
 827-0	BO145	827	che	che	che	linguistic	_	Begin=1292.28	_	_	_	_	_	_				_		
 827-1	BO145	827	è	è?	è?	linguistic	_	End=1292.588	ascending	_	_	_	_	_				_		
-828-0	BO145	828	{ride}	{ride}	{ride}	metalinguistic	_	End=1293.8970000000002	_	_	_	_	_	_				_		
+828-0	BO145	828	{ride}	{ride}	{ride}	metalinguistic	_	End=1293.897	_	_	_	_	_	_				_		
 829-0	BO139	829	esse	esse	esse	linguistic	_	Begin=1293.993	_	_	_	_	_	_				_		
 829-1	BO139	829	o	o	o	linguistic	_		_	_	_	_	_	_				_		
 829-2	BO139	829	esse	esse	esse	linguistic	_	End=1294.776	_	_	_	_	_	_				_		
@@ -3464,7 +3464,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 844-1	BO139	844	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 844-2	BO139	844	relazione	relazione	relazione	linguistic	_		_	_	_	_	_	_				_		
 844-3	BO139	844	in	in	in	linguistic	_		_	_	_	_	_	_				_		
-844-4	BO139	844	frantumi	frantumi	frantumi	linguistic	_	End=1310.1460000000002	_	_	_	_	_	_				_		
+844-4	BO139	844	frantumi	frantumi	frantumi	linguistic	_	End=1310.146	_	_	_	_	_	_				_		
 845-0	BO147	845	{ride}	{ride}	{ride}	metalinguistic	_	End=1310.825	_	_	_	_	_	_				_		
 846-0	BO145	846	{ride}	{ride}	{ride}	metalinguistic	_	End=1310.954	_	_	_	_	_	_				_		
 847-0	BO139	847	per	per	per	linguistic	_	Begin=1311.029	_	_	_	_	_	_				_		
@@ -3475,7 +3475,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 850-0	BO145	850	cioè	>cioè<	>cioè<	linguistic	_	Begin=1315.533	_	_	_	_	_	_			0-4(0)	_		
 850-1	BO145	850	{ride}	{ride}	{ride}	metalinguistic	_	End=1316.241	_	_	_	_	_	_				_		
 851-0	BO139	851	{ride}	{ride}	{ride}	metalinguistic	_	End=1319.875	_	_	_	_	_	_				_		
-852-0	BO145	852	non	non	non	linguistic	_	Begin=1319.9699999999998	_	_	_	_	_	_				_		
+852-0	BO145	852	non	non	non	linguistic	_	Begin=1319.969	_	_	_	_	_	_				_		
 852-1	BO145	852	sei	sei	sei	linguistic	_		_	_	_	_	_	_				_		
 852-2	BO145	852	serio	serio	serio	linguistic	_		_	_	_	_	_	_				_		
 852-3	BO145	852	con	con	con	linguistic	_		_	_	_	_	_	_				_		
@@ -3533,7 +3533,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 868-5	BO145	868	brutto	brutto	brutto	linguistic	_	End=1343.337	_	_	_	_	_	_				_		
 869-0	BO139	869	{ride}	{ride}	{ride}	metalinguistic	_	End=1345.428	_	_	_	_	_	_				_		
 870-0	BO139	870	{schiocca_un_bacio}	{schiocca_un_bacio}	{schiocca_un_bacio}	metalinguistic	_	End=1347.161	_	_	_	_	_	_				_		
-871-0	BO145	871	{ride}	{ride}	{ride}	metalinguistic	_	End=1348.2740000000001	_	_	_	_	_	_				_		
+871-0	BO145	871	{ride}	{ride}	{ride}	metalinguistic	_	End=1348.274	_	_	_	_	_	_				_		
 872-0	BO139	872	tra	tra	tra	linguistic	_	Begin=1348.369	_	_	_	_	_	_				_		
 872-1	BO139	872	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 872-2	BO139	872	altro	altro	altro	linguistic	_		_	_	_	_	_	_				_		
@@ -3593,7 +3593,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 890-0	BO145	890	ah	ah	ah	linguistic	_	Begin=1377.781	_	_	_	_	_	_				_		
 890-1	BO145	890	okay	okay	okay	linguistic	_		_	_	_	_	_	_				_		
 890-2	BO145	890	fantastico	fantastico	fantastico	linguistic	_		_	_	_	_	_	_				_		
-890-3	BO145	890	cazzo	cazzo	cazzo	linguistic	_	End=1379.6480000000001	_	_	_	_	_	_				_		
+890-3	BO145	890	cazzo	cazzo	cazzo	linguistic	_	End=1379.648	_	_	_	_	_	_				_		
 891-0	BO146	891	{ride}	{ride}	{ride}	metalinguistic	_	End=1380.699	_	_	_	_	_	_				_		
 892-0	BO139	892	quindi	>quindi<	>quindi<	linguistic	_	Begin=1380.01	_	_	_	_	_	_			0-6(0)	_		
 892-1	BO139	892	s~	s~	s~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
@@ -3805,7 +3805,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 933-11	BO139	933	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 933-12	BO139	933	roba	roba	roba	linguistic	_		_	_	_	_	_	_				_		
 933-13	BO139	933	deol	deol	deol	linguistic	_		_	_	_	_	_	_				_		
-933-14	BO139	933	genere	genere	genere	linguistic	_	End=1447.5310000000002	_	_	_	_	_	_				_		
+933-14	BO139	933	genere	genere	genere	linguistic	_	End=1447.531	_	_	_	_	_	_				_		
 934-0	BO145	934	è	è	è	linguistic	_	Begin=1447.626	_	_	_	_	_	_				_		
 934-1	BO145	934	già	già	già	linguistic	_		_	_	_	_	_	_				_		
 934-2	BO145	934	pericolosa	pericolosa	pericolosa	linguistic	_	End=1448.468	_	_	_	_	_	_				_		
@@ -4127,7 +4127,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 985-6	BO139	985	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
 985-7	BO139	985	pezzo	pezzo	pezzo	linguistic	_		_	_	_	_	_	_				_		
 985-8	BO139	985	xxxxxx	[xxxxxx]	[xxxxxx]	linguistic	_		_	Unknown=Yes	_	_	_	_				_		0-6(987)
-985-9	BO139	985	{ride}	{ride}	{ride}	metalinguistic	_	End=1570.2050000000002	_	_	_	_	_	_				_		
+985-9	BO139	985	{ride}	{ride}	{ride}	metalinguistic	_	End=1570.205	_	_	_	_	_	_				_		
 986-0	BO146	986	{ride}	{ride}	{ride}	metalinguistic	_	End=1569.266	_	_	_	_	_	_				_		
 987-0	BO146	987	xx	[xx]	[xx]	linguistic	_	End=1570.142	_	Unknown=Yes	_	_	_	_				_		0-2(985)
 988-0	BO145	988	{ride}	{ride}	{ride}	metalinguistic	_	End=1573.199	_	_	_	_	_	_				_		
@@ -4249,10 +4249,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1016-1	BO146	1016	yes	(yes	(yes	linguistic	_		_	_	_	_	_	_				_	0-3(0)	0-3(1015)
 1016-2	BO146	1016	indeed	indeed)]	indeed)]	linguistic	_	End=1610.016	_	_	_	_	_	_				_	0-6(0)	0-6(1015)
 1017-0	BO145	1017	je	(je:)	(je:)	linguistic	_	End=1610.824	_	_	_	_	_	_	1x1			_	0-2(0)	
-1018-0	BO147	1018	sì	sì	sì	linguistic	_	Begin=1610.886	_	_	_	_	_	_				_		
-1018-1	BO147	1018	ma	ma:	ma:	linguistic	_		_	_	_	_	ProsodicLink=Yes	_	1x1			_		
-1018-2	BO147	1018	mh	mh		linguistic	_	End=1611.891	_	_	_	_	_	_				_		
-1019-0	BO146	1019	{ride}	{ride}	{ride}	metalinguistic	_	End=1611.849	_	_	_	_	_	_				_		
+1018-0	BO146	1018	{ride}	{ride}	{ride}	metalinguistic	_	End=1611.849	_	_	_	_	_	_				_		
+1019-0	BO147	1019	sì	sì	sì	linguistic	_	Begin=1610.886	_	_	_	_	_	_				_		
+1019-1	BO147	1019	ma	ma:	ma:	linguistic	_		_	_	_	_	ProsodicLink=Yes	_	1x1			_		
+1019-2	BO147	1019	mh	mh		linguistic	_	End=1611.891	_	_	_	_	_	_				_		
 1020-0	BO145	1020	je	(je)	(je)	linguistic	_	Begin=1611.908	_	_	_	_	_	_				_	0-2(0)	
 1020-1	BO145	1020	{ride}	{ride}	{ride}	metalinguistic	_	End=1612.466	_	_	_	_	_	_				_		
 1021-0	BO146	1021	xx	xx	xx	linguistic	_	End=1613.222	_	Unknown=Yes	_	_	_	_				_		
@@ -4394,12 +4394,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1053-2	BO139	1053	entra	entra	entra	linguistic	_		_	_	_	_	_	_				_		
 1053-3	BO139	1053	{ride}	{ride}	{ride}	metalinguistic	_	End=1652.071	_	_	_	_	_	_				_		
 1054-0	BO139	1054	{ride}	{ride}	{ride}	metalinguistic	_	End=1653.259	_	_	_	_	_	_				_		
-1055-0	BO147	1055	immaginavo	[immaginavo]	[immaginavo]	linguistic	_	End=1654.179	_	_	_	_	_	_				_		0-10(1056)
-1056-0	BO139	1056	no	[no	[no	linguistic	_	Begin=1653.28	_	_	_	_	_	_				_		0-2(?)
-1056-1	BO139	1056	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(?)
-1056-2	BO139	1056	era	era]	era]	linguistic	_	End=1654.471	_	_	_	_	_	_				_		0-3(?)
-1057-0	BO145	1057	una	[una	[una	linguistic	_	Begin=1654.233	_	_	_	_	_	_				_		0-3(1056)
-1057-1	BO145	1057	cagata	ca]gata	ca]gata	linguistic	_		_	_	_	_	_	_				_		0-2(1056)
+1055-0	BO139	1055	no	[no	[no	linguistic	_	Begin=1653.28	_	_	_	_	_	_				_		0-2(?)
+1055-1	BO139	1055	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		0-3(?)
+1055-2	BO139	1055	era	era]	era]	linguistic	_	End=1654.471	_	_	_	_	_	_				_		0-3(?)
+1056-0	BO147	1056	immaginavo	[immaginavo]	[immaginavo]	linguistic	_	End=1654.179	_	_	_	_	_	_				_		0-10(1055)
+1057-0	BO145	1057	una	[una	[una	linguistic	_	Begin=1654.233	_	_	_	_	_	_				_		0-3(1055)
+1057-1	BO145	1057	cagata	ca]gata	ca]gata	linguistic	_		_	_	_	_	_	_				_		0-2(1055)
 1057-2	BO145	1057	l	l	l	linguistic	_		_	_	_	_	_	_				_		
 1057-3	BO145	1057	deve	deve	deve	linguistic	_		_	_	_	_	_	_				_		
 1057-4	BO145	1057	sparare	(sparare)	(sparare)	linguistic	_		_	_	_	_	_	_				_	0-7(0)	
@@ -4417,7 +4417,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1060-5	BO146	1060	scusa	scusa?]	scusa?]	linguistic	_	End=1657.366	ascending	_	_	_	_	_				_		0-5(1057)
 1061-0	BO139	1061	niente	niente	niente	linguistic	_	Begin=1657.5	_	_	_	_	_	_				_		
 1061-1	BO139	1061	{ride}	{ride}	{ride}	metalinguistic	_	End=1657.983	_	_	_	_	_	_				_		
-1062-0	BO146	1062	no	no	no	linguistic	_	Begin=1658.0449999999998	_	_	_	_	_	_				_		
+1062-0	BO146	1062	no	no	no	linguistic	_	Begin=1658.044	_	_	_	_	_	_				_		
 1062-1	BO146	1062	no	no	no	linguistic	_		_	_	_	_	_	_				_		
 1062-2	BO146	1062	vo~	vo~	vo~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
 1062-3	BO146	1062	x	x	x	linguistic	_		_	Unknown=Yes	_	_	_	_				_		
@@ -4821,7 +4821,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1148-0	BO145	1148	che	che	che	linguistic	_	Begin=1789.856	_	_	_	_	_	_				_		
 1148-1	BO145	1148	cos'	cos'	cos'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 1148-2	BO145	1148	è	è	è	linguistic	_		_	_	_	_	_	_				_		
-1148-3	BO145	1148	salato	salato?	salato?	linguistic	_	End=1790.7730000000001	ascending	_	_	_	_	_				_		
+1148-3	BO145	1148	salato	salato?	salato?	linguistic	_	End=1790.773	ascending	_	_	_	_	_				_		
 1149-0	BO139	1149	mh	mh	mh	linguistic	_	End=1791.51	_	_	_	_	_	_				_		
 1150-0	BO139	1150	xx	xx	xx	linguistic	_	End=1793.148	_	Unknown=Yes	_	_	_	_				_		
 1151-0	BO139	1151	metti	metti	metti	linguistic	_	Begin=1793.21	_	_	_	_	_	_				_		

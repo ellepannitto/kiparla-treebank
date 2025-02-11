@@ -299,7 +299,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 38-2	BOI046	38	migliore	migliore	migliore	linguistic	_		_	_	_	_	_	_				_		
 38-3	BOI046	38	ma	ma	ma	linguistic	_		_	_	_	_	_	_				_		
 38-4	BOI046	38	una	una	una	linguistic	_		_	_	_	_	_	_				_		
-38-5	BOI046	38	bella	bella	bella	linguistic	_	End=106.67500000000001	_	_	_	_	_	_				_		
+38-5	BOI046	38	bella	bella	bella	linguistic	_	End=106.675	_	_	_	_	_	_				_		
 39-0	BOR009	39	{ride}	{ride}	{ride}	metalinguistic	_	End=108.03	_	_	_	_	_	_				_		
 40-0	BOI045	40	{ride}	{ride}	{ride}	metalinguistic	_	End=108.086	_	_	_	_	_	_				_		
 41-0	BOI046	41	la	°la	°la	linguistic	_	Begin=107.912	_	_	_	_	_	_				low		
@@ -699,7 +699,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 78-14	BOI045	78	andare	andare	andare	linguistic	_		_	_	_	_	_	_				_		
 78-15	BOI045	78	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 78-16	BOI045	78	montagna	montagna	montagna	linguistic	_		_	_	_	_	_	_				_		
-78-17	BOI045	78	volendo	volendo	volendo	linguistic	_	End=257.131	_	_	_	_	_	_				_		
+78-17	BOI045	78	volendo	volendo	volendo	linguistic	_	End=257.13	_	_	_	_	_	_				_		
 79-0	BOI045	79	e	°e::	°e::	linguistic	_	Begin=257.689	_	_	_	_	_	_	0x2			low		
 79-1	BOI045	79	e	e	e	linguistic	_		_	_	_	_	_	_				low		
 79-2	BOI045	79	basta	basta	basta	linguistic	_		_	_	_	_	_	_				low		
@@ -1119,17 +1119,17 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 128-14	BOR009	128	già	già	già	linguistic	_		_	_	_	_	_	_				_		
 128-15	BOR009	128	era	era	era	linguistic	_		_	_	_	_	_	_				_		
 128-16	BOR009	128	nomeazienda	nomeazienda	nomeazienda	linguistic	_	End=382.976	_	_	_	_	_	_				_		
-129-0	BOR009	129	giusto	[°giusto°	[°giusto°	linguistic	_	Begin=383.197	_	_	_	_	_	_				low		0-6(?)
-129-1	BOR009	129	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		0-6(?)
-129-2	BOR009	129	so	so	so	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-129-3	BOR009	129	che	che]	che]	linguistic	_		_	_	_	_	_	_				_		0-3(?)
+129-0	BOR009	129	giusto	[°giusto°	[°giusto°	linguistic	_	Begin=383.197	_	_	_	_	_	_				low		0-6(130)
+129-1	BOR009	129	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		0-6(130)
+129-2	BOR009	129	so	so	so	linguistic	_		_	_	_	_	_	_				_		0-2(130)
+129-3	BOR009	129	che	che]	che]	linguistic	_		_	_	_	_	_	_				_		0-3(130)
 129-4	BOR009	129	prima	prima	prima	linguistic	_		_	_	_	_	_	_				_		
-129-5	BOR009	129	era	er[a,]	er[a,]	linguistic	_	End=384.746	weakly_ascending	_	_	_	_	_				_		2-3(?)
+129-5	BOR009	129	era	era,	era,	linguistic	_	End=384.746	weakly_ascending	_	_	_	_	_				_		
 130-0	BOI045	130	sì	[sì	[sì	linguistic	_	Begin=383.218	_	_	_	_	_	_				_		0-2(129)
 130-1	BOI045	130	sì	>sì	>sì	linguistic	_		_	_	_	_	_	_			0-2(0)	_		0-2(129)
 130-2	BOI045	130	sì	sì<]	sì<]	linguistic	_	End=384.109	_	_	_	_	_	_			0-2(0)	_		0-2(129)
-131-0	BOI046	131	atc	[a]t[c]	[a]t[c]	linguistic	_	End=385.215	_	_	_	_	_	_				_		2-3(?)
-132-0	BOI045	132	atc	[at]c	[at]c	linguistic	_	End=385.444	_	_	_	_	_	_				_		0-2(131)
+131-0	BOI046	131	nomeazienda	[no]me[azienda]	[no]me[azienda]	linguistic	_	End=385.215	_	_	_	_	_	_				_		4-11(?)
+132-0	BOI045	132	nomeazienda	[nome]azienda	[nome]azienda	linguistic	_	End=385.444	_	_	_	_	_	_				_		0-4(131)
 133-0	BOR009	133	nomeazienda	nomeazienda	nomeazienda	linguistic	_	Begin=385.53	_	_	_	_	_	_				_		
 133-1	BOR009	133	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 133-2	BOR009	133	quindi	quindi	quindi	linguistic	_		_	_	_	_	_	_				_		
@@ -1188,9 +1188,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 140-3	BOI046	140	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 140-4	BOI046	140	trovo	trovo	trovo	linguistic	_		_	_	_	_	_	_				_		
 140-5	BOI046	140	bene	b[ene]	b[ene]	linguistic	_	End=404.972	_	_	_	_	_	_				_		1-4(141)
-141-0	BOR009	141	si	[si	[si	linguistic	_	Begin=404.819	_	_	_	_	_	_				_		0-2(?)
-141-1	BOR009	141	sta	sta	sta	linguistic	_		_	_	_	_	_	_				_		0-3(?)
-141-2	BOR009	141	bene	bene]	bene]	linguistic	_	End=405.507	_	_	_	_	_	_				_		0-4(?)
+141-0	BOR009	141	si	[si	[si	linguistic	_	Begin=404.819	_	_	_	_	_	_				_		0-2(140)
+141-1	BOR009	141	sta	sta]	sta]	linguistic	_		_	_	_	_	_	_				_		0-3(140)
+141-2	BOR009	141	bene	[bene]	[bene]	linguistic	_	End=405.507	_	_	_	_	_	_				_		0-4(142)
 142-0	BOI045	142	ma	[ma	[ma	linguistic	_	Begin=405.065	_	_	_	_	_	_				_		0-2(141)
 142-1	BOI045	142	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(141)
 142-2	BOI045	142	una	una	una	linguistic	_		_	_	_	_	_	_				_		0-3(141)
@@ -1550,13 +1550,13 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 187-3	BOI046	187	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		0-6(186)
 187-4	BOI046	187	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(186)
 187-5	BOI046	187	ques~	ques~]	ques~]	linguistic	_	End=509.036	_	_	Interrupted=Yes	_	_	_				_		0-5(186)
-188-0	BOI046	188	il	[il	[il	linguistic	_	Begin=509.949	_	_	_	_	_	_				_		0-2(?)
-188-1	BOI046	188	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		0-6(?)
-188-2	BOI046	188	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(?)
-188-3	BOI046	188	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		0-6(?)
-188-4	BOI046	188	ci	°ci°	°ci°	linguistic	_		_	_	_	_	_	_				low		0-2(?)
-188-5	BOI046	188	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		0-4(?)
-188-6	BOI046	188	alcune	alcu]ne	alcu]ne	linguistic	_		_	_	_	_	_	_				_		0-4(?)
+188-0	BOI046	188	il	[il	[il	linguistic	_	Begin=509.949	_	_	_	_	_	_				_		0-2(186+189)
+188-1	BOI046	188	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		0-6(186+189)
+188-2	BOI046	188	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(186+189)
+188-3	BOI046	188	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		0-6(186+189)
+188-4	BOI046	188	ci	°ci°	°ci°	linguistic	_		_	_	_	_	_	_				low		0-2(186+189)
+188-5	BOI046	188	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		0-4(186+189)
+188-6	BOI046	188	alcune	alcu]ne	alcu]ne	linguistic	_		_	_	_	_	_	_				_		0-4(186+189)
 188-7	BOI046	188	fasce	fasce	fasce	linguistic	_		_	_	_	_	_	_				_		
 188-8	BOI046	188	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 188-9	BOI046	188	a	a	a	linguistic	_		_	_	_	_	_	_				_		
@@ -1568,12 +1568,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 188-15	BOI046	188	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 188-16	BOI046	188	sempre	sempre	sempre	linguistic	_		_	_	_	_	_	_				_		
 188-17	BOI046	188	pero'	pero'	pero'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
-188-18	BOI046	188	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
-188-19	BOI046	188	puo'	puo'	puo'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
+188-18	BOI046	188	{P}	[{P}	[{P}	shortpause	_		_	_	_	_	_	_				_		0-3(190)
+188-19	BOI046	188	puo'	p]uo'	p]uo'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		0-1(190)
 188-20	BOI046	188	capitare	capitare	capitare	linguistic	_	End=515.044	_	_	_	_	_	_				_		
 189-0	BOR009	189	ah	[a:h]	[a:h]	linguistic	_	End=510.897	_	_	_	_	_	_	0x1			_		0-2(186+188)
-190-0	BOI045	190	non	[(non	[(non	linguistic	_	Begin=513.955	_	_	_	_	_	_				_	0-3(0)	0-3(188)
-190-1	BOI045	190	sempre	sempre)]	sempre)]	linguistic	_	End=514.465	_	_	_	_	_	_				_	0-6(0)	0-6(188)
+190-0	BOI045	190	non	[non	[non	linguistic	_	Begin=513.767	_	_	_	_	_	_				_		0-3(188)
+190-1	BOI045	190	sempre	sempre]	sempre]	linguistic	_	End=514.465	_	_	_	_	_	_				_		0-6(188)
 191-0	BOI046	191	sicuramente	sicuramente	sicuramente	linguistic	_	Begin=515.155	_	_	_	_	_	_				_		
 191-1	BOI046	191	pero'	pero'	pero'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 191-2	BOI046	191	purtroppo	purtroppo	purtroppo	linguistic	_		_	_	_	_	_	_				_		
@@ -1603,7 +1603,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 191-26	BOI046	191	dietro	dietro	dietro	linguistic	_		_	_	_	_	_	_				_		
 191-27	BOI046	191	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 191-28	BOI046	191	angolo	angolo	ngolo	linguistic	_	End=522.716	_	_	_	_	_	_				_		
-192-0	BOI046	192	no	no	no	linguistic	_	Begin=522.959	_	_	_	_	_	_				_		
+192-0	BOI046	192	no	no	no	linguistic	_	Begin=522.958	_	_	_	_	_	_				_		
 192-1	BOI046	192	forse	forse	forse	linguistic	_		_	_	_	_	_	_				_		
 192-2	BOI046	192	secondo	secondo	secondo	linguistic	_		_	_	_	_	_	_				_		
 192-3	BOI046	192	me	me	me	linguistic	_		_	_	_	_	_	_				_		
@@ -1679,11 +1679,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 204-0	BOI045	204	{ride}	{ride}	{ride}	metalinguistic	_	End=544.612	_	_	_	_	_	_				_		
 205-0	BOR009	205	nessun	nessun	nessun	linguistic	_	Begin=543.83	_	_	_	_	_	_				_		
 205-1	BOR009	205	problema	prob[lema]	prob[lema]	linguistic	_	End=544.668	_	_	_	_	_	_				_		4-8(206)
-206-0	BOI046	206	mi	[mi	[mi	linguistic	_	Begin=544.373	_	_	_	_	_	_				_		0-2(?)
-206-1	BOI046	206	vuoi	vuoi	vuoi	linguistic	_		_	_	_	_	_	_				_		0-4(?)
-206-2	BOI046	206	rovinare	rovinare	rovinare	linguistic	_		_	_	_	_	_	_				_		0-8(?)
-206-3	BOI046	206	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		0-2(?)
-206-4	BOI046	206	intervista	intervi(sta)]	ntervi(sta)]	linguistic	_	End=545.54	_	_	_	_	_	_				_	6-10(0)	0-10(?)
+206-0	BOI046	206	mi	[mi]	[mi]	linguistic	_	Begin=544.373	_	_	_	_	_	_				_		0-2(205)
+206-1	BOI046	206	vuoi	[vuoi	[vuoi	linguistic	_		_	_	_	_	_	_				_		0-4(207)
+206-2	BOI046	206	rovinare	rovinare	rovinare	linguistic	_		_	_	_	_	_	_				_		0-8(207)
+206-3	BOI046	206	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		0-2(207)
+206-4	BOI046	206	intervista	intervi(sta)]	ntervi(sta)]	linguistic	_	End=545.54	_	_	_	_	_	_				_	6-10(0)	0-10(207)
 207-0	???	207	ti	[ti	[ti	linguistic	_	Begin=544.717	_	_	_	_	_	_				_		0-2(206)
 207-1	???	207	stavo	stavo	stavo	linguistic	_		_	_	_	_	_	_				_		0-5(206)
 207-2	???	207	pensando	pensando	pensando	linguistic	_		_	_	_	_	_	_				_		0-8(206)
@@ -1699,8 +1699,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 209-3	???	209	vedo	vedo	vedo	linguistic	_		_	_	_	_	_	_				_		
 209-4	???	209	più	più	più	linguistic	_	End=547.505	_	_	_	_	_	_				_		
 210-0	BOI046	210	{ride}	{ride}	{ride}	metalinguistic	_	End=547.505	_	_	_	_	_	_				_		
-211-0	BOI046	211	ecco	ecc[o]	ecc[o]	linguistic	_	End=547.855	_	_	_	_	_	_				_		3-4(?)
-212-0	???	212	scusate	[s]cusate	[s]cusate	linguistic	_	Begin=547.87	_	_	_	_	_	_				_		0-1(?)
+211-0	BOI046	211	ecco	ecc[o]	ecc[o]	linguistic	_	End=547.855	_	_	_	_	_	_				_		3-4(212)
+212-0	???	212	scusate	[s]cusate	[s]cusate	linguistic	_	Begin=547.72	_	_	_	_	_	_				_		0-1(211)
 212-1	???	212	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 212-2	???	212	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 212-3	???	212	ho	ho	o	linguistic	_		_	_	_	_	_	_				_		
@@ -2160,7 +2160,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 278-18	BOI046	278	ospedale	ospedale	spedale	linguistic	_		_	_	_	_	_	_				_		
 278-19	BOI046	278	qualcun	[qualcun	[qualcun	linguistic	_		_	_	_	_	_	_				_		0-7(280)
 278-20	BOI046	278	altro	altro]	altro]	linguistic	_	End=681.512	_	_	_	_	_	_				_		0-5(280)
-279-0	BOR009	279	eh	eh	eh	linguistic	_	End=679.741	_	_	_	_	_	_				_		
+279-0	BOR009	279	eh	[eh]	[eh]	linguistic	_	End=679.741	_	_	_	_	_	_				_		0-2(278)
 280-0	BOI045	280	e	[e	[e	linguistic	_	Begin=680.831	_	_	_	_	_	_				_		0-1(278)
 280-1	BOI045	280	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		0-3(278)
 280-2	BOI045	280	dispiace	dispia]ce	dispia]ce	linguistic	_		_	_	_	_	_	_				_		0-6(278)
@@ -2230,7 +2230,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 285-10	BOR009	285	mi	[mi:	[mi:	linguistic	_		_	_	_	_	_	_	1x1			_		0-2(286)
 285-11	BOR009	285	fanno	fan]no	fan]no	linguistic	_		_	_	_	_	_	_				_		0-3(286)
 285-12	BOR009	285	{ride}	{ride}	{ride}	metalinguistic	_		_	_	_	_	_	_				_		
-285-13	BOR009	285	rabbrividire	rabbrividire	rabbrividire	linguistic	_	End=702.8349999999999	_	_	_	_	_	_				_		
+285-13	BOR009	285	rabbrividire	rabbrividire	rabbrividire	linguistic	_	End=702.834	_	_	_	_	_	_				_		
 286-0	BOI045	286	eh	[e:h]	[e:h]	linguistic	_	End=701.874	_	_	_	_	_	_	0x1			_		0-2(285)
 287-0	BOI046	287	no	no	no	linguistic	_	Begin=702.933	_	_	_	_	_	_				_		
 287-1	BOI046	287	no	no	no	linguistic	_		_	_	_	_	_	_				_		
@@ -2618,8 +2618,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 337-0	BOI046	337	{ride}	{ride}	{ride}	metalinguistic	_	End=827.247	_	_	_	_	_	_				_		
 338-0	BOI046	338	no	no	no	linguistic	_	Begin=827.456	_	_	_	_	_	_				_		
 338-1	BOI046	338	no	no	no	linguistic	_		_	_	_	_	_	_				_		
-338-2	BOI046	338	effetivamnte	[effetivamnte	[effetivamnte	linguistic	_		_	_	_	_	_	_				_		
-338-3	BOI046	338	sì	sì	sì	linguistic	_	End=828.457	_	_	_	_	_	_				_		
+338-2	BOI046	338	effetivamente	[effetivamente	[effetivamente	linguistic	_		_	_	_	_	_	_				_		0-13(339)
+338-3	BOI046	338	sì	sì]	sì]	linguistic	_	End=828.457	_	_	_	_	_	_				_		0-2(339)
 339-0	BOI045	339	tu	[tu	[tu	linguistic	_	Begin=827.734	_	_	_	_	_	_				_		0-2(338)
 339-1	BOI045	339	a	a	a	linguistic	_		_	_	_	_	_	_				_		0-1(338)
 339-2	BOI045	339	bologna	bologna	bologna	linguistic	_		_	_	_	_	_	_				_		0-7(338)
@@ -2798,8 +2798,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 363-10	BOI046	363	tutto	tutto	tutto	linguistic	_		_	_	_	_	_	_				_		
 363-11	BOI046	363	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 363-12	BOI046	363	migliorabile	migliorabile	migliorabile	linguistic	_		_	_	_	_	_	_				_		
-363-13	BOI046	363	per	per	per	linguistic	_		_	_	_	_	_	_				_		
-363-14	BOI046	363	carità	carità>	carità>	linguistic	_	End=882.294	_	_	_	_	_	_				_		
+363-13	BOI046	363	per	>per	>per	linguistic	_		_	_	_	_	_	_			0-3(0)	_		
+363-14	BOI046	363	carità	carità<	carità<	linguistic	_	End=882.294	_	_	_	_	_	_			0-6(0)	_		
 364-0	BOI046	364	beh	°beh	°beh	linguistic	_	Begin=882.919	_	_	_	_	_	_				low		
 364-1	BOI046	364	poi	poi	poi	linguistic	_		_	_	_	_	_	_				low		
 364-2	BOI046	364	penso	penso	penso	linguistic	_		_	_	_	_	_	_				low		
@@ -2873,7 +2873,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 371-9	BOR009	371	persone	persone	persone	linguistic	_		_	_	_	_	_	_				_		
 371-10	BOR009	371	{ride}	{ride}	{ride}	metalinguistic	_	End=901.908	_	_	_	_	_	_				_		
 372-0	BOI046	372	mh	mh	mh	linguistic	_	Begin=901.722	_	_	_	_	_	_				_		
-372-1	BOI046	372	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
+372-1	BOI046	372	{P}	[{P}]	[{P}]	shortpause	_		_	_	_	_	_	_				_		0-3(?)
 372-2	BOI046	372	mh	mh	mh	linguistic	_		_	_	_	_	_	_				_		
 372-3	BOI046	372	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 372-4	BOI046	372	mia	[mia	[mia	linguistic	_		_	_	_	_	_	_				_		0-3(?)
@@ -2888,7 +2888,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 372-13	BOI046	372	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 372-14	BOI046	372	supereroi	supereroi	supereroi	linguistic	_		_	_	_	_	_	_				_		
 372-15	BOI046	372	{ride}	{ride}	{ride}	metalinguistic	_	End=906.669	_	_	_	_	_	_				_		
-373-0	BOI045	373	mh	mh	mh	linguistic	_	End=902.437	_	_	_	_	_	_				_		
+373-0	BOI045	373	mh	[mh]	[mh]	linguistic	_	End=902.437	_	_	_	_	_	_				_		0-2(372+374)
 374-0	BOR009	374	{ride}	{ride}	{ride}	metalinguistic	_	Begin=902.122	_	_	_	_	_	_				_		
 374-1	BOR009	374	no	no?	no?	linguistic	_		ascending	_	_	_	_	_				_		
 374-2	BOR009	374	{ride}	{ride}	{ride}	metalinguistic	_	End=903.452	_	_	_	_	_	_				_		
@@ -2941,8 +2941,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 385-5	BOI046	385	parte	parte	parte	linguistic	_		_	_	_	_	_	_				_		
 385-6	BOI046	385	ci	ci	ci	linguistic	_		_	_	_	_	_	_				_		
 385-7	BOI046	385	vai	vai	vai	linguistic	_		_	_	_	_	_	_				_		
-385-8	BOI046	385	vicino	vici[no]	vici[no]	linguistic	_	End=920.459	_	_	_	_	_	_				_		4-6(?)
-386-0	BOI045	386	eh	[e]:h	[e]:h	linguistic	_	Begin=920.486	_	_	_	_	_	_	0x1			_		0-1(?)
+385-8	BOI046	385	vicino	vicino	vicino	linguistic	_	End=920.459	_	_	_	_	_	_				_		
+386-0	BOI045	386	eh	e:h	e:h	linguistic	_	Begin=920.486	_	_	_	_	_	_	0x1			_		
 386-1	BOI045	386	sì	sì	sì	linguistic	_	End=921.106	_	_	_	_	_	_				_		
 387-0	BOI046	387	eh	e:h	e:h	linguistic	_	End=921.799	_	_	_	_	_	_	0x1			_		
 388-0	BOI045	388	che	che	che	linguistic	_	Begin=921.811	_	_	_	_	_	_				_		
@@ -3056,7 +3056,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 402-4	BOR009	402	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 402-5	BOR009	402	e	e::,	e::,	linguistic	_	End=960.486	weakly_ascending	_	_	_	_	_	0x2			_		
 403-0	BOI046	403	no	n::o	n::o	linguistic	_	End=961.015	_	_	_	_	_	_	0x2			_		
-404-0	BOI046	404	non	non::::	non::::	linguistic	_	Begin=961.175	_	_	_	_	_	_	2x4			_		
+404-0	BOI046	404	non	[non]::::	[non]::::	linguistic	_	Begin=961.175	_	_	_	_	_	_	2x4			_		0-3(405)
 404-1	BOI046	404	ce	ce	ce	linguistic	_		_	_	_	_	_	_				_		
 404-2	BOI046	404	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 404-3	BOI046	404	creiamo	creiamo	creiamo	linguistic	_		_	_	_	_	_	_				_		
@@ -3064,9 +3064,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 404-5	BOI046	404	senso	senso	senso	linguistic	_		_	_	_	_	_	_				_		
 404-6	BOI046	404	abbiamo	abbiamo	abbiamo	linguistic	_		_	_	_	_	_	_				_		
 404-7	BOI046	404	degli	degli	degli	linguistic	_		_	_	_	_	_	_				_		
-404-8	BOI046	404	stacchi	sta[cchi	sta[cchi	linguistic	_		_	_	_	_	_	_				_		3-7(?)
-404-9	BOI046	404	che	che	che	linguistic	_		_	_	_	_	_	_				_		0-3(?)
-404-10	BOI046	404	possono	possono]	possono]	linguistic	_	End=965.757	_	_	_	_	_	_				_		0-7(?)
+404-8	BOI046	404	stacchi	sta[cchi	sta[cchi	linguistic	_		_	_	_	_	_	_				_		3-7(406)
+404-9	BOI046	404	che	che	che	linguistic	_		_	_	_	_	_	_				_		0-3(406)
+404-10	BOI046	404	possono	possono]	possono]	linguistic	_	End=965.757	_	_	_	_	_	_				_		0-7(406)
 405-0	BOR009	405	no	[no]	[no]	linguistic	_	End=961.492	_	_	_	_	_	_				_		0-2(404)
 406-0	BOI045	406	vieni	[vieni	[vieni	linguistic	_	Begin=964.788	_	_	_	_	_	_				_		0-5(404)
 406-1	BOI045	406	un	un	un	linguistic	_		_	_	_	_	_	_				_		0-2(404)
@@ -3156,8 +3156,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 415-19	BOI046	415	capitato	capitato	capitato	linguistic	_		_	_	_	_	_	_				_		
 415-20	BOI046	415	pero'	pero'	pero'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 415-21	BOI046	415	{ride}	{ride}	{ride}	metalinguistic	_	End=986.698	_	_	_	_	_	_				_		
-416-0	BOI045	416	è	[è	[è	linguistic	_	Begin=985.444	_	_	_	_	_	_				_		0-1(415)
-416-1	BOI045	416	capitato	capit]ato	capit]ato	linguistic	_	End=986.254	_	_	_	_	_	_				_		0-5(415)
+416-0	BOI045	416	è	è	è	linguistic	_	Begin=985.444	_	_	_	_	_	_				_		
+416-1	BOI045	416	capitato	capitato	capitato	linguistic	_	End=986.254	_	_	_	_	_	_				_		
 417-0	BOR009	417	caspita	caspita	caspita	linguistic	_	Begin=986.446	_	_	_	_	_	_				_		
 417-1	BOR009	417	{ride}	{ride}	{ride}	metalinguistic	_	End=987.609	_	_	_	_	_	_				_		
 418-0	BOI046	418	sì	sì	sì	linguistic	_	Begin=987.726	_	_	_	_	_	_				_		
@@ -3210,8 +3210,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 427-0	BOI045	427	{ride}	{ride}	{ride}	metalinguistic	_	End=1000.429	_	_	_	_	_	_				_		
 428-0	BOR009	428	prestino	prestino	prestino	linguistic	_	Begin=1000.966	_	_	_	_	_	_				_		
 428-1	BOR009	428	per	per	per	linguistic	_		_	_	_	_	_	_				_		
-428-2	BOR009	428	pranzare	pranz[are	pranz[are	linguistic	_		_	_	_	_	_	_				_		
-428-3	BOR009	428	pero'	>pero'<	>pero'<	linguistic	_	End=1002.52	_	_	_	Truncated=Yes	_	_			0-5(0)	_		
+428-2	BOR009	428	pranzare	pranz[are	pranz[are	linguistic	_		_	_	_	_	_	_				_		5-8(429)
+428-3	BOR009	428	pero'	>pero'<]	>pero'<]	linguistic	_	End=1002.52	_	_	_	Truncated=Yes	_	_			0-5(0)	_		0-5(429)
 429-0	BOI046	429	eh	[e:h	[e:h	linguistic	_	Begin=1002.051	_	_	_	_	_	_	0x1			_		0-2(428)
 429-1	BOI046	429	ma	ma]	ma]	linguistic	_		_	_	_	_	_	_				_		0-2(428)
 429-2	BOI046	429	adesso	adesso	adesso	linguistic	_		_	_	_	_	_	_				_		
@@ -3237,12 +3237,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 435-1	BOI045	435	dalle	dalle	dalle	linguistic	_		_	_	_	_	_	_				_		
 435-2	BOI045	435	quattro	quattro	quattro	linguistic	_		_	_	_	_	_	_				_		
 435-3	BOI045	435	tu	[tu?]	[tu?]	linguistic	_	End=1011.634	ascending	_	_	_	_	_				_		0-2(436)
-436-0	BOI046	436	io	[[io]	[[io]	linguistic	_	Begin=1011.396	_	_	_	_	_	_				_		
+436-0	BOI046	436	io	[io]	[io]	linguistic	_	Begin=1011.396	_	_	_	_	_	_				_		0-2(435)
 436-1	BOI046	436	mh	mh	mh	linguistic	_		_	_	_	_	_	_				_		
 436-2	BOI046	436	dalle	dalle	dalle	linguistic	_		_	_	_	_	_	_				_		
 436-3	BOI046	436	sei	sei	sei	linguistic	_		_	_	_	_	_	_				_		
 436-4	BOI046	436	e	e	e	linguistic	_		_	_	_	_	_	_				_		
-436-5	BOI046	436	mezza	[mezza]	[mezza]	linguistic	_	End=1012.651	_	_	_	_	_	_				_		
+436-5	BOI046	436	mezza	[mezza]	[mezza]	linguistic	_	End=1012.651	_	_	_	_	_	_				_		0-5(437)
 437-0	BOI045	437	eh	[eh]	[eh]	linguistic	_	End=1012.629	_	_	_	_	_	_				_		0-2(436)
 438-0	BOI045	438	{ride}	{ride}	{ride}	metalinguistic	_	End=1013.896	_	_	_	_	_	_				_		
 439-0	BOR009	439	e	e	e	linguistic	_	Begin=1013.689	_	_	_	_	_	_				_		
@@ -3284,12 +3284,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 440-28	BOI046	440	dormire	dormire	dormire	linguistic	_		_	_	_	_	_	_				_		
 440-29	BOI046	440	presto	presto	presto	linguistic	_	End=1024.644	_	_	_	_	_	_				_		
 441-0	BOI045	441	sì	[sì]	[sì]	linguistic	_	End=1016.584	_	_	_	_	_	_				_		0-2(440)
-442-0	BOR009	442	{ride}	{ride}	{ride}	metalinguistic	_	End=1025.812	_	_	_	_	_	_				_		
+442-0	BOR009	442	{ride}	{ride}	{ride}	metalinguistic	_	End=1025.811	_	_	_	_	_	_				_		
 443-0	BOI046	443	sì	sì	sì	linguistic	_	Begin=1025.497	_	_	_	_	_	_				_		
 443-1	BOI046	443	no	no	no	linguistic	_		_	_	_	_	_	_				_		
 443-2	BOI046	443	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		
-443-3	BOI046	443	anche	anche	anche	linguistic	_	End=1026.322	_	_	_	_	_	_				_		
-444-0	BOI046	444	per	per	per	linguistic	_	Begin=1026.58	_	_	_	_	_	_				_		
+443-3	BOI046	443	anche	anche	anche	linguistic	_	End=1026.321	_	_	_	_	_	_				_		
+444-0	BOI046	444	per	per	per	linguistic	_	Begin=1026.579	_	_	_	_	_	_				_		
 444-1	BOI046	444	quanto	quanto	quanto	linguistic	_		_	_	_	_	_	_				_		
 444-2	BOI046	444	uno	uno	uno	linguistic	_		_	_	_	_	_	_				_		
 444-3	BOI046	444	stia	stia	stia	linguistic	_		_	_	_	_	_	_				_		
@@ -3299,8 +3299,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 444-7	BOI046	444	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 444-8	BOI046	444	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		
 444-9	BOI046	444	molto	molto	molto	linguistic	_		_	_	_	_	_	_				_		
-444-10	BOI046	444	tensivo	tensivo	tensivo	linguistic	_	End=1029.139	_	_	_	_	_	_				_		
-445-0	BOI046	445	devi	devi	devi	linguistic	_	Begin=1029.743	_	_	_	_	_	_				_		
+444-10	BOI046	444	tensivo	tensivo	tensivo	linguistic	_	End=1029.138	_	_	_	_	_	_				_		
+445-0	BOI046	445	devi	devi	devi	linguistic	_	Begin=1029.742	_	_	_	_	_	_				_		
 445-1	BOI046	445	stare	stare	stare	linguistic	_		_	_	_	_	_	_				_		
 445-2	BOI046	445	sempre	sempre	sempre	linguistic	_		_	_	_	_	_	_				_		
 445-3	BOI046	445	in	in	in	linguistic	_		_	_	_	_	_	_				_		
@@ -3315,14 +3315,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 445-12	BOI046	445	sinistra	sinistra	sinistra	linguistic	_		_	_	_	_	_	_				_		
 445-13	BOI046	445	ti	ti	ti	linguistic	_		_	_	_	_	_	_				_		
 445-14	BOI046	445	stanchi	stanchi	stanchi	linguistic	_	End=1033.324	_	_	_	_	_	_				_		
-446-0	BOI046	446	anche	anche	anche	linguistic	_	Begin=1033.503	_	_	_	_	_	_				_		
+446-0	BOI046	446	anche	anche	anche	linguistic	_	Begin=1033.502	_	_	_	_	_	_				_		
 446-1	BOI046	446	se	se	se	linguistic	_		_	_	_	_	_	_				_		
 446-2	BOI046	446	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 446-3	BOI046	446	fisico	fisico:	fisico:	linguistic	_		_	_	_	_	_	_	5x1			_		
 446-4	BOI046	446	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 446-5	BOI046	446	diciamo	(di)ciamo	(di)ciamo	linguistic	_		_	_	_	_	_	_				_	0-2(0)	
 446-6	BOI046	446	la	la	la	linguistic	_		_	_	_	_	_	_				_		
-446-7	BOI046	446	pancia	pancia	pancia	linguistic	_	End=1035.743	_	_	_	_	_	_				_		
+446-7	BOI046	446	pancia	pancia	pancia	linguistic	_	End=1035.742	_	_	_	_	_	_				_		
 447-0	BOR009	447	{ride}	{ride}	{ride}	metalinguistic	_	End=1037.117	_	_	_	_	_	_				_		
 448-0	BOI046	448	mpf	[mpf]	[mpf]	linguistic	_	End=1037.568	_	_	_	_	_	_				_		0-3(449)
 449-0	BOI045	449	e	[e	[e	linguistic	_	Begin=1037.258	_	_	_	_	_	_				_		0-1(448)
@@ -3333,7 +3333,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 450-2	BOI045	450	quattro	quattro	quattro	linguistic	_		_	_	_	_	_	_				_		
 450-3	BOI045	450	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 450-4	BOI045	450	è	è	è	linguistic	_		_	_	_	_	_	_				_		
-450-5	BOI045	450	proprio	proprio:	proprio:	linguistic	_	End=1041.022	_	_	_	_	_	_	6x1			_		
+450-5	BOI045	450	proprio	proprio:	proprio:	linguistic	_	End=1041.021	_	_	_	_	_	_	6x1			_		
 451-0	BOR009	451	ci	ci	ci	linguistic	_	Begin=1042.662	_	_	_	_	_	_				_		
 451-1	BOR009	451	si	[si	[si	linguistic	_		_	_	_	_	_	_				_		0-2(452)
 451-2	BOR009	451	abitua	abitua:]	abitua:]	linguistic	_		_	_	_	_	_	_	5x1			_		0-6(452)
@@ -3410,9 +3410,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 460-7	BOI046	460	queste	[(queste	[(queste	linguistic	_		_	_	_	_	_	_				_	0-6(0)	0-6(461)
 460-8	BOI046	460	cose	cose	cose	linguistic	_		_	_	_	_	_	_				_	0-4(0)	0-4(461)
 460-9	BOI046	460	qua	qua)]	qua)]	linguistic	_	End=1060.298	_	_	_	_	_	_				_	0-3(0)	0-3(461)
-461-0	BOI045	461	colpa	[colpa	[colpa	linguistic	_	Begin=1059.615	_	_	_	_	_	_				_		
-461-1	BOI045	461	della	della	della	linguistic	_		_	_	_	_	_	_				_		
-461-2	BOI045	461	sveglia	sve[glia	sve[glia	linguistic	_	End=1060.434	_	_	_	_	_	_				_		
+461-0	BOI045	461	colpa	[colpa	[colpa	linguistic	_	Begin=1059.615	_	_	_	_	_	_				_		0-5(460)
+461-1	BOI045	461	della	della	della	linguistic	_		_	_	_	_	_	_				_		0-5(460)
+461-2	BOI045	461	sveglia	sve]glia	sve]glia	linguistic	_	End=1060.434	_	_	_	_	_	_				_		0-3(460)
 462-0	BOI046	462	sì	sì	sì	linguistic	_	Begin=1060.738	_	_	_	_	_	_				_		
 462-1	BOI046	462	no	no	no	linguistic	_		_	_	_	_	_	_				_		
 462-2	BOI046	462	xxx	xxx	xxx	linguistic	_	End=1061.884	_	Unknown=Yes	_	_	_	_				_		
@@ -3449,25 +3449,25 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 466-19	BOR009	466	avete	avete	avete	linguistic	_		_	_	_	_	_	_				_		
 466-20	BOR009	466	moglie	mo:glie:	mo:glie:	linguistic	_		_	_	_	_	_	_	1x1,5x1			_		
 466-21	BOR009	466	figl~	figl~	figl~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
-466-22	BOR009	466	cioè	c[(io)è	c[(io)è	linguistic	_		_	_	_	_	_	_				_	1-3(0)	1-4(?)
-466-23	BOR009	466	si	si	si	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-466-24	BOR009	466	riesce	riesce	riesce	linguistic	_		_	_	_	_	_	_				_		0-6(?)
+466-22	BOR009	466	cioè	c(io)è	c(io)è	linguistic	_		_	_	_	_	_	_				_	1-3(0)	
+466-23	BOR009	466	si	[si	[si	linguistic	_		_	_	_	_	_	_				_		0-2(?)
+466-24	BOR009	466	riesce	rie][sce	rie][sce	linguistic	_		_	_	_	_	_	_				_		3-6(?)
 466-25	BOR009	466	a	a	a	linguistic	_		_	_	_	_	_	_				_		0-1(?)
 466-26	BOR009	466	conciliare	conciliare	conciliare	linguistic	_		_	_	_	_	_	_				_		0-10(?)
-466-27	BOR009	466	tutto	tutto?]	tutto?]	linguistic	_	End=1073.879	ascending	_	_	_	_	_				_		0-5(?)
-467-0	BOI046	467	sì	[sì:]	[sì:]	linguistic	_	End=1072.794	_	_	_	_	_	_	1x1			_		0-2(466+468)
-468-0	BOI045	468	sì	[sì	[sì	linguistic	_	Begin=1072.464	_	_	_	_	_	_				_		0-2(?)
-468-1	BOI045	468	io	io	io	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-468-2	BOI045	468	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-468-3	BOI045	468	due	due	due	linguistic	_		_	_	_	_	_	_				_		0-3(?)
-468-4	BOI045	468	figli	figli	figli	linguistic	_		_	_	_	_	_	_				_		0-5(?)
-468-5	BOI045	468	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-468-6	BOI045	468	moglie	moglie::]	moglie::]	linguistic	_	End=1074.556	_	_	_	_	_	_	5x2			_		0-6(?)
-469-0	BOI046	469	io	[io	[io	linguistic	_	Begin=1073.769	_	_	_	_	_	_				_		0-2(466+468)
-469-1	BOI046	469	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(466+468)
-469-2	BOI046	469	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		0-4(466+468)
-469-3	BOI046	469	la	la	la	linguistic	_		_	_	_	_	_	_				_		0-2(466+468)
-469-4	BOI046	469	moglie	mo]glie	mo]glie	linguistic	_		_	_	_	_	_	_				_		0-2(466+468)
+466-27	BOR009	466	tutto	tutto?]	tutto?]	linguistic	_	End=1073.67	ascending	_	_	_	_	_				_		0-5(?)
+467-0	BOI046	467	sì	[s][ì:]	[s][ì:]	linguistic	_	End=1072.794	_	_	_	_	_	_	1x1			_		1-2(?)
+468-0	BOI045	468	sì	[sì	[sì	linguistic	_	Begin=1072.464	_	_	_	_	_	_				_		0-2(466+467)
+468-1	BOI045	468	io	io	io	linguistic	_		_	_	_	_	_	_				_		0-2(466+467)
+468-2	BOI045	468	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(466+467)
+468-3	BOI045	468	due	due	due	linguistic	_		_	_	_	_	_	_				_		0-3(466+467)
+468-4	BOI045	468	figli	figli	figli	linguistic	_		_	_	_	_	_	_				_		0-5(466+467)
+468-5	BOI045	468	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(466+467)
+468-6	BOI045	468	moglie	mo][glie::]	mo][glie::]	linguistic	_	End=1074.556	_	_	_	_	_	_	5x2			_		0-2(466+467),2-6(469)
+469-0	BOI046	469	io	[io	[io	linguistic	_	Begin=1073.769	_	_	_	_	_	_				_		0-2(468)
+469-1	BOI046	469	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		0-2(468)
+469-2	BOI046	469	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		0-4(468)
+469-3	BOI046	469	la	la	la	linguistic	_		_	_	_	_	_	_				_		0-2(468)
+469-4	BOI046	469	moglie	mo]glie	mo]glie	linguistic	_		_	_	_	_	_	_				_		0-2(468)
 469-5	BOI046	469	e	e	e	linguistic	_		_	_	_	_	_	_				_		
 469-6	BOI046	469	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 469-7	BOI046	469	cane	cane	cane	linguistic	_	End=1075.105	_	_	_	_	_	_				_		
@@ -4040,8 +4040,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 533-1	BOR009	533	è	[è	[è	linguistic	_		_	_	_	_	_	_				_		0-1(534)
 533-2	BOR009	533	vero	vero]	vero]	linguistic	_		_	_	_	_	_	_				_		0-4(534)
 533-3	BOR009	533	{ride}	{ride}	{ride}	metalinguistic	_	End=1240.156	_	_	_	_	_	_				_		
-534-0	BOI046	534	questa	[>questa	[>questa	linguistic	_	Begin=1236.784	_	_	_	_	_	_				_		0-6(533)
-534-1	BOI046	534	proprio	(proprio)>]	(proprio)>]	linguistic	_		_	_	_	_	_	_				_	0-7(0)	0-7(533)
+534-0	BOI046	534	questa	[questa	[questa	linguistic	_	Begin=1236.784	_	_	_	_	_	_				_		0-6(533)
+534-1	BOI046	534	proprio	(proprio)]	(proprio)]	linguistic	_		_	_	_	_	_	_				_	0-7(0)	0-7(533)
 534-2	BOI046	534	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 534-3	BOI046	534	devo	devo	devo	linguistic	_		_	_	_	_	_	_				_		
 534-4	BOI046	534	di'	di'.	di'.	linguistic	_		descending	_	_	_	_	_				_		
@@ -4137,15 +4137,15 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 547-4	BOI046	547	tante	ta[nte	ta[nte	linguistic	_		_	_	_	_	_	_				_		2-5(548)
 547-5	BOI046	547	cose	co]se	co]se	linguistic	_	End=1268.842	_	_	_	_	_	_				_		0-2(548)
 548-0	BOR009	548	eh	[eh]	[eh]	linguistic	_	End=1268.704	_	_	_	_	_	_				_		0-2(547)
-549-0	BOR009	549	vabbè	vabbè	vabbè	linguistic	_	Begin=1268.9279999999999	_	_	_	_	_	_				_		
-549-1	BOR009	549	c'	c'	c'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
-549-2	BOR009	549	è	è		linguistic	_		_	_	_	_	_	_				_		
-549-3	BOR009	549	il	il	il	linguistic	_		_	_	_	_	_	_				_		
-549-4	BOR009	549	porticato	porticat[o:	porticat[o:	linguistic	_		_	_	_	_	_	_	8x1			_		7-9(?)
-549-5	BOR009	549	di	di	di	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-549-6	BOR009	549	san	san	san	linguistic	_		_	_	_	_	_	_				_		0-3(?)
-549-7	BOR009	549	luca	lu]ca	lu]ca	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-549-8	BOR009	549	quello	[quello:]	[quello:]	linguistic	_	End=1271.562	_	_	_	_	_	_	5x1			_		0-6(?)
+549-0	BOR009	549	vabbè	vabbè	vabbè	linguistic	_	Begin=1268.928	_	_	_	_	_	_				_		
+549-1	BOR009	549	c'	[c'	[c'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		0-2(550)
+549-2	BOR009	549	è	è		linguistic	_		_	_	_	_	_	_				_		0-1(550)
+549-3	BOR009	549	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(550)
+549-4	BOR009	549	porticato	portica]t[o:	portica]t[o:	linguistic	_		_	_	_	_	_	_	8x1			_		0-7(550),7-9(551)
+549-5	BOR009	549	di	di	di	linguistic	_		_	_	_	_	_	_				_		0-2(551)
+549-6	BOR009	549	san	san	san	linguistic	_		_	_	_	_	_	_				_		0-3(551)
+549-7	BOR009	549	luca	lu]ca	lu]ca	linguistic	_		_	_	_	_	_	_				_		0-2(551)
+549-8	BOR009	549	quello	[quello:]	[quello:]	linguistic	_	End=1271.562	_	_	_	_	_	_	5x1			_		0-6(552)
 550-0	BOI045	550	eh	[eh	[eh	linguistic	_	Begin=1269.104	_	_	_	_	_	_				_		0-2(549)
 550-1	BOI045	550	va	(v)a	(v)a	linguistic	_		_	_	_	_	_	_				_	0-1(0)	0-2(549)
 550-2	BOI045	550	beh	(b)eh]	(b)eh]	linguistic	_	End=1269.685	_	_	_	_	_	_				_	0-1(1)	0-3(549)
@@ -4204,11 +4204,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 561-2	BOR009	561	immagino	immagino	immagino	linguistic	_	End=1282.471	_	_	_	_	_	_				_		
 562-0	BOI045	562	io	io	io	linguistic	_	Begin=1282.582	_	_	_	_	_	_				_		
 562-1	BOI045	562	sì	s[ì]	s[ì]	linguistic	_	End=1283.171	_	_	_	_	_	_				_		1-2(563)
-563-0	BOI046	563	lui	[lui	[lui	linguistic	_	Begin=1283.015	_	_	_	_	_	_				_		0-3(?)
-563-1	BOI046	563	a	a:	a:	linguistic	_		_	_	_	_	_	_	0x1			_		0-1(?)
-563-2	BOI046	563	occhi	occhi	occhi	linguistic	_		_	_	_	_	_	_				_		0-5(?)
-563-3	BOI046	563	chiusi	chiusi	chiusi	linguistic	_		_	_	_	_	_	_				_		0-6(?)
-563-4	BOI046	563	va	va]	va]	linguistic	_	End=1284.278	_	_	_	_	_	_				_		0-2(?)
+563-0	BOI046	563	lui	[lui]	[lui]	linguistic	_	Begin=1283.015	_	_	_	_	_	_				_		0-3(562)
+563-1	BOI046	563	a	[a:	[a:	linguistic	_		_	_	_	_	_	_	0x1			_		0-1(564)
+563-2	BOI046	563	occhi	occhi	occhi	linguistic	_		_	_	_	_	_	_				_		0-5(564)
+563-3	BOI046	563	chiusi	chiusi]	chiusi]	linguistic	_		_	_	_	_	_	_				_		0-6(564)
+563-4	BOI046	563	va	[va]	[va]	linguistic	_	End=1284.278	_	_	_	_	_	_				_		0-2(565)
 564-0	BOR009	564	tante	[tante	[tante	linguistic	_	Begin=1283.264	_	_	_	_	_	_				_		0-5(563)
 564-1	BOR009	564	volte	volte]	volte]	linguistic	_	End=1284.031	_	_	_	_	_	_				_		0-5(563)
 565-0	BOI045	565	sì	[sì]	[sì]	linguistic	_	Begin=1284.053	_	_	_	_	_	_				_		0-2(563)
@@ -4272,14 +4272,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 570-11	BOI045	570	fino	[fino	[fino	linguistic	_		_	_	_	_	_	_				_		0-4(572)
 570-12	BOI045	570	a	a]	a]	linguistic	_	End=1304.056	_	_	_	_	_	_				_		0-1(572)
 571-0	BOR009	571	mhmh	[°mhmh°]	[°mhmh°]	linguistic	_	End=1302.52	_	_	_	_	_	_				low		0-4(570)
-572-0	BOI046	572	il	[il	[il	linguistic	_	Begin=1303.573	_	_	_	_	_	_				_		0-2(?)
-572-1	BOI046	572	ghetto	ghetto	ghetto	linguistic	_		_	_	_	_	_	_				_		0-6(?)
-572-2	BOI046	572	il	il]	il]	linguistic	_		_	_	_	_	_	_				_		0-2(?)
+572-0	BOI046	572	il	[il	[il	linguistic	_	Begin=1303.573	_	_	_	_	_	_				_		0-2(570)
+572-1	BOI046	572	ghetto	ghetto	ghetto	linguistic	_		_	_	_	_	_	_				_		0-6(570)
+572-2	BOI046	572	il	il]	il]	linguistic	_		_	_	_	_	_	_				_		0-2(570)
 572-3	BOI046	572	ghetto	ghetto	ghetto	linguistic	_		_	_	_	_	_	_				_		
 572-4	BOI046	572	ebraico	ebraico	ebraico	linguistic	_		_	_	_	_	_	_				_		
 572-5	BOI046	572	ho	(>ho	(>ho	linguistic	_		_	_	_	_	_	_			0-2(0)	_	0-2(0)	
 572-6	BOI046	572	solo	solo	solo	linguistic	_		_	_	_	_	_	_			0-4(0)	_	0-4(0)	
-572-7	BOI046	572	visto	visto<)	visto<)	linguistic	_	End=1305.118	_	_	_	_	_	_			0-5(0)	_	0-5(0)	
+572-7	BOI046	572	visto	[visto]<)	[visto]<)	linguistic	_	End=1305.118	_	_	_	_	_	_			0-5(0)	_	0-5(0)	0-5(573)
 573-0	BOI045	573	il	[il	[il	linguistic	_	Begin=1304.817	_	_	_	_	_	_				_		0-2(572)
 573-1	BOI045	573	ghetto	ghetto	ghetto	linguistic	_		_	_	_	_	_	_				_		0-6(572)
 573-2	BOI045	573	ebraico	eb]raico	eb]raico	linguistic	_		_	_	_	_	_	_				_		0-2(572)
@@ -4393,8 +4393,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 593-1	BOI046	593	le	le	le	linguistic	_		_	_	_	_	_	_				_		0-2(592)
 593-2	BOI046	593	aspettative	asp]ettative	asp]ettative	linguistic	_		_	_	_	_	_	_				_		0-3(592)
 593-3	BOI046	593	onestamente	onestamente	onestamente	linguistic	_	End=1336.999	_	_	_	_	_	_				_		
-594-0	BOR009	594	addirittura	addirittur[a]	addirittur[a]	linguistic	_	End=1337.63	_	_	_	_	_	_				_		10-11(?)
-595-0	BOI046	595	sì	>[s]ì	>[s]ì	linguistic	_	Begin=1337.644	_	_	_	_	_	_			0-2(0)	_		0-1(?)
+594-0	BOR009	594	addirittura	addirittur[a]	addirittur[a]	linguistic	_	End=1337.755	_	_	_	_	_	_				_		10-11(595)
+595-0	BOI046	595	sì	>[s]ì	>[s]ì	linguistic	_	Begin=1337.59	_	_	_	_	_	_			0-2(0)	_		0-1(594)
 595-1	BOI046	595	sì	sì	sì	linguistic	_		_	_	_	_	_	_			0-2(0)	_		
 595-2	BOI046	595	sì	sì	sì	linguistic	_		_	_	_	_	_	_			0-2(0)	_		
 595-3	BOI046	595	sì	sì<	sì<	linguistic	_	End=1338.365	_	_	_	_	_	_			0-2(0)	_		

@@ -42,8 +42,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 9-1	TOR002	9	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 9-2	TOR002	9	siedo	siedo	siedo	linguistic	_		_	_	_	_	_	_				_		
 9-3	TOR002	9	qua	qua	qua	linguistic	_	End=13.438	_	_	_	_	_	_				_		
-10-0	TOR001	10	{ride}	{ride}	{ride}	metalinguistic	_	End=14.01	_	_	_	_	_	_				_		
-11-0	TOI075	11	{ride}	{ride}	{ride}	metalinguistic	_	End=14.01	_	_	_	_	_	_				_		
+10-0	TOI075	10	{ride}	{ride}	{ride}	metalinguistic	_	End=14.01	_	_	_	_	_	_				_		
+11-0	TOR001	11	{ride}	{ride}	{ride}	metalinguistic	_	End=14.01	_	_	_	_	_	_				_		
 12-0	TOR001	12	okay	okay,	okay,	linguistic	_	End=14.988	weakly_ascending	_	_	_	_	_				_		
 13-0	TOR001	13	lei	lei	lei	linguistic	_	Begin=15.341	_	_	_	_	_	_				_		
 13-1	TOR001	13	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		
@@ -298,15 +298,15 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 65-11	TOI075	65	molto	molto	molto	linguistic	_		_	_	_	_	_	_				_		
 65-12	TOI075	65	chic	chic.	chic.	linguistic	_	End=126.662	descending	_	_	_	_	_				_		
 66-0	TOR001	66	okay	[okay]	[okay]	linguistic	_	End=123.603	_	_	_	_	_	_				_		0-4(65)
-67-0	TOR001	67	okay	[okay]	[okay]	linguistic	_	End=127.581	_	_	_	_	_	_				_		0-4(68)
-68-0	TOI075	68	xx	[xx]	[xx]	linguistic	_	End=127.581	_	Unknown=Yes	_	_	_	_				_		0-2(67)
+67-0	TOI075	67	xx	[xx]	[xx]	linguistic	_	End=127.581	_	Unknown=Yes	_	_	_	_				_		0-2(68)
+68-0	TOR001	68	okay	[okay]	[okay]	linguistic	_	End=127.581	_	_	_	_	_	_				_		0-4(67)
 69-0	TOI075	69	c'	c'	c'	linguistic	_	Begin=127.645	_	_	_	_	_	SpaceAfter=No				_		
 69-1	TOI075	69	eran	eran	ran	linguistic	_		_	_	_	_	_	_				_		
 69-2	TOI075	69	tutti	tutti	tutti	linguistic	_		_	_	_	_	_	_				_		
 69-3	TOI075	69	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 69-4	TOI075	69	nobili	nobili	nobili	linguistic	_	End=129.258	_	_	_	_	_	_				_		
 70-0	TOR001	70	mhmh	mhmh	mhmh	linguistic	_	End=129.502	_	_	_	_	_	_				_		
-71-0	TOI075	71	che	che	che	linguistic	_	Begin=129.599	_	_	_	_	_	_				_		
+71-0	TOI075	71	che	che	che	linguistic	_	Begin=129.598	_	_	_	_	_	_				_		
 71-1	TOI075	71	abitavano	abitavano	abitavano	linguistic	_		_	_	_	_	_	_				_		
 71-2	TOI075	71	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 71-3	TOI075	71	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		
@@ -570,12 +570,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 123-5	TOR001	123	dire	dire	dire	linguistic	_		_	_	_	_	_	_				_		
 123-6	TOR001	123	avere	avere	avere	linguistic	_		_	_	_	_	_	_				_		
 123-7	TOR001	123	il	il	il	linguistic	_		_	_	_	_	_	_				_		
-123-8	TOR001	123	razionamento	raziona[mento?]	raziona[mento?]	linguistic	_	End=256.943	ascending	_	_	_	_	_				_		7-12(124)
-124-0	TOI075	124	e	[e::]	[e::]	linguistic	_	Begin=256.715	_	_	_	_	_	_	0x2			_		0-1(123)
+123-8	TOR001	123	razionamento	raziona[mento?]	raziona[mento?]	linguistic	_	End=256.942	ascending	_	_	_	_	_				_		7-12(124)
+124-0	TOI075	124	e	[e::]	[e::]	linguistic	_	Begin=256.714	_	_	_	_	_	_	0x2			_		0-1(123)
 124-1	TOI075	124	c'	c'	c'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 124-2	TOI075	124	erano	erano	rano	linguistic	_		_	_	_	_	_	_				_		
 124-3	TOI075	124	delle	delle	delle	linguistic	_		_	_	_	_	_	_				_		
-124-4	TOI075	124	tessere	tessere	tessere	linguistic	_	End=258.715	_	_	_	_	_	_				_		
+124-4	TOI075	124	tessere	tessere	tessere	linguistic	_	End=258.714	_	_	_	_	_	_				_		
 125-0	TOR001	125	mhmh	mhmh	mhmh	linguistic	_	End=259.16	_	_	_	_	_	_				_		
 126-0	TOI075	126	x	x	x	linguistic	_	End=259.384	_	Unknown=Yes	_	_	_	_				_		
 127-0	TOI075	127	per	per	per	linguistic	_	Begin=259.767	_	_	_	_	_	_				_		
@@ -951,9 +951,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 200-3	TOI075	200	casa	casa	casa	linguistic	_		_	_	_	_	_	_				_		
 200-4	TOI075	200	rimanevano	rimanevano	rimanevano	linguistic	_		_	_	_	_	_	_				_		
 200-5	TOI075	200	tutti	tutti	tutti	linguistic	_	End=438.286	_	_	_	_	_	_				_		
-201-0	TOR001	201	certo	[certo]	[certo]	linguistic	_	End=439.0	_	_	_	_	_	_				_		0-5(202+203)
+201-0	TOI075	201	invece	[invece]	[invece]	linguistic	_	End=439.0	_	_	_	_	_	_				_		0-6(202+203)
 202-0	TOR002	202	mhmh	[mhmh]	[mhmh]	linguistic	_	End=439.0	_	_	_	_	_	_				_		0-4(201+203)
-203-0	TOI075	203	invece	[invece]	[invece]	linguistic	_	End=439.0	_	_	_	_	_	_				_		0-6(201+202)
+203-0	TOR001	203	certo	[certo]	[certo]	linguistic	_	End=439.0	_	_	_	_	_	_				_		0-5(201+202)
 204-0	TOI075	204	si	(si	(si	linguistic	_	Begin=439.274	_	_	_	_	_	_				_	0-2(0)	
 204-1	TOI075	204	facevano	facevano)	facevano)	linguistic	_		_	_	_	_	_	_				_	0-8(0)	
 204-2	TOI075	204	i	i	i	linguistic	_		_	_	_	_	_	_				_		
@@ -1008,8 +1008,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 214-4	TOI075	214	costruito	costruito	costruito	linguistic	_		_	_	_	_	_	_				_		
 214-5	TOI075	214	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
 214-6	TOI075	214	rifugio	rifugio	rifugio	linguistic	_	End=466.927	_	_	_	_	_	_				_		
-215-0	TOR001	215	mhmhmh	[mhmhmh]	[mhmhmh]	linguistic	_	End=468.091	_	_	_	_	_	_				_		0-6(216)
-216-0	TOI075	216	sotterraneo	[sotterraneo]	[sotterraneo]	linguistic	_	End=468.091	_	_	_	_	_	_				_		0-11(215)
+215-0	TOI075	215	sotterraneo	[sotterraneo]	[sotterraneo]	linguistic	_	End=468.091	_	_	_	_	_	_				_		0-11(216)
+216-0	TOR001	216	mhmhmh	[mhmhmh]	[mhmhmh]	linguistic	_	End=468.091	_	_	_	_	_	_				_		0-6(215)
 217-0	TOR001	217	certo	certo	certo	linguistic	_	End=468.957	_	_	_	_	_	_				_		
 218-0	TOR001	218	okay	okay	okay	linguistic	_	End=470.288	_	_	_	_	_	_				_		
 219-0	TOR001	219	e	e::	e::	linguistic	_	Begin=471.629	_	_	_	_	ProsodicLink=Yes	_	0x2			_		
@@ -1105,7 +1105,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 236-0	TOI075	236	perché	perché	perché	linguistic	_	End=510.372	_	_	_	_	_	_				_		
 237-0	TOI075	237	a	a	a	linguistic	_	Begin=510.788	_	_	_	_	_	_				_		
 237-1	TOI075	237	volte	volte	volte	linguistic	_	End=511.49	_	_	_	_	_	_				_		
-238-0	TOI075	238	quelli	quelli	quelli	linguistic	_	Begin=512.035	_	_	_	_	_	_				_		
+238-0	TOI075	238	quelli	quelli	quelli	linguistic	_	Begin=512.034	_	_	_	_	_	_				_		
 238-1	TOI075	238	con	con	con	linguistic	_		_	_	_	_	_	_				_		
 238-2	TOI075	238	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 238-3	TOI075	238	bicicletta	bicicletta	bicicletta	linguistic	_		_	_	_	_	_	_				_		
@@ -1121,12 +1121,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 240-1	TOI075	240	vietato	vietato	vietato	linguistic	_		_	_	_	_	_	_				_		
 240-2	TOI075	240	circolare	circolare	circolare	linguistic	_		_	_	_	_	_	_				_		
 240-3	TOI075	240	in	in	in	linguistic	_		_	_	_	_	_	_				_		
-240-4	TOI075	240	bicicletta	bicicletta	bicicletta	linguistic	_	End=519.574	_	_	_	_	_	_				_		
+240-4	TOI075	240	bicicletta	bicicletta	bicicletta	linguistic	_	End=519.573	_	_	_	_	_	_				_		
 241-0	TOI075	241	automobili	automobili	automobili	linguistic	_	Begin=519.868	_	_	_	_	_	_				_		
 241-1	TOI075	241	neanche	neanche	neanche	linguistic	_		_	_	_	_	_	_				_		
 241-2	TOI075	241	a	[a	[a	linguistic	_		_	_	_	_	_	_				_		0-1(242)
 241-3	TOI075	241	parlarne	parlarne]	parlarne]	linguistic	_	End=522.327	_	_	_	_	_	_				_		0-8(242)
-242-0	TOR001	242	neanche	[neanche	[neanche	linguistic	_	Begin=521.334	_	_	_	_	_	_				_		0-7(241)
+242-0	TOR001	242	neanche	[neanche	[neanche	linguistic	_	Begin=521.333	_	_	_	_	_	_				_		0-7(241)
 242-1	TOR001	242	a	a	a	linguistic	_		_	_	_	_	_	_				_		0-1(241)
 242-2	TOR001	242	parlarne	parlarne]	parlarne]	linguistic	_	End=522.323	_	_	_	_	_	_				_		0-8(241)
 243-0	TOR002	243	in	in	in	linguistic	_	Begin=522.614	_	_	_	_	_	_				_		
@@ -1339,8 +1339,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 283-4	TOI075	283	votano	votano	votano	linguistic	_		_	_	_	_	_	_				_		
 283-5	TOI075	283	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 283-6	TOI075	283	dicio~	dicio~	dicio~	linguistic	_	End=624.632	_	_	Interrupted=Yes	_	_	_				_		
-284-0	TOR001	284	certo	[certo]	[certo]	linguistic	_	End=624.635	_	_	_	_	_	_				_		0-5(283+285)
-285-0	TOR002	285	diciotto	[diciotto]	[diciotto]	linguistic	_	End=624.635	_	_	_	_	_	_				_		0-8(283+284)
+284-0	TOR002	284	diciotto	[diciotto]	[diciotto]	linguistic	_	End=624.635	_	_	_	_	_	_				_		0-8(283+285)
+285-0	TOR001	285	certo	[certo]	[certo]	linguistic	_	End=624.635	_	_	_	_	_	_				_		0-5(283+284)
 286-0	TOI075	286	allora	allora	allora	linguistic	_	Begin=624.751	_	_	_	_	_	_				_		
 286-1	TOI075	286	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 286-2	TOI075	286	voto	voto	voto	linguistic	_		_	_	_	_	_	_				_		
@@ -1408,8 +1408,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 300-2	TOI075	300	poteva	poteva	poteva	linguistic	_		_	_	_	_	_	_				_		
 300-3	TOI075	300	scappare	scappare	scappare	linguistic	_		_	_	_	_	_	_				_		
 300-4	TOI075	300	eh	eh	eh	linguistic	_	End=656.291	_	_	_	_	_	_				_		
-301-0	TOR001	301	{ride}	{ride}	{ride}	metalinguistic	_	End=656.614	_	_	_	_	_	_				_		
-302-0	TOR002	302	{ride}	{ride}	{ride}	metalinguistic	_	End=656.614	_	_	_	_	_	_				_		
+301-0	TOR002	301	{ride}	{ride}	{ride}	metalinguistic	_	End=656.614	_	_	_	_	_	_				_		
+302-0	TOR001	302	{ride}	{ride}	{ride}	metalinguistic	_	End=656.614	_	_	_	_	_	_				_		
 303-0	TOI075	303	tutti	tutti	tutti	linguistic	_	Begin=656.688	_	_	_	_	_	_				_		
 303-1	TOI075	303	inquadrati	inquadrati:	inquadrati:	linguistic	_		_	_	_	_	_	_	9x1			_		
 303-2	TOI075	303	{ride}	{ride}	{ride}	metalinguistic	_	End=658.401	_	_	_	_	_	_				_		
@@ -1482,9 +1482,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 316-3	TOI075	316	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 316-4	TOI075	316	divisa	divisa	divisa	linguistic	_		_	_	_	_	_	_				_		
 316-5	TOI075	316	balilla	balilla	balilla	linguistic	_	End=684.855	_	_	_	_	_	_				_		
-317-0	TOR001	317	{ride}	{ride}	{ride}	metalinguistic	_	End=685.573	_	_	_	_	_	_				_		
+317-0	TOI075	317	xx	xx	xx	linguistic	_	End=685.573	_	Unknown=Yes	_	_	_	_				_		
 318-0	TOR002	318	{ride}	{ride}	{ride}	metalinguistic	_	End=685.573	_	_	_	_	_	_				_		
-319-0	TOI075	319	xx	xx	xx	linguistic	_	End=685.573	_	Unknown=Yes	_	_	_	_				_		
+319-0	TOR001	319	{ride}	{ride}	{ride}	metalinguistic	_	End=685.573	_	_	_	_	_	_				_		
 320-0	TOI075	320	poi	(poi)	(poi)	linguistic	_	End=686.684	_	_	_	_	_	_				_	0-3(0)	
 321-0	TOI075	321	tanto	tanto	tanto	linguistic	_	Begin=687.485	_	_	_	_	_	_				_		
 321-1	TOI075	321	quando	quando	quando	linguistic	_		_	_	_	_	_	_				_		
@@ -1511,8 +1511,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 326-0	TOR002	326	eh	[eh	[eh	linguistic	_	Begin=695.14	_	_	_	_	_	_				_		0-2(325)
 326-1	TOR002	326	beh	beh]	beh]	linguistic	_	End=695.582	_	_	_	_	_	_				_		0-3(325)
 327-0	TOR001	327	certo	certo	certo	linguistic	_	End=696.129	_	_	_	_	_	_				_		
-328-0	TOR001	328	{ride}	{ride}	{ride}	metalinguistic	_	End=696.673	_	_	_	_	_	_				_		
-329-0	TOI075	329	{ride}	{ride}	{ride}	metalinguistic	_	End=696.673	_	_	_	_	_	_				_		
+328-0	TOI075	328	{ride}	{ride}	{ride}	metalinguistic	_	End=696.673	_	_	_	_	_	_				_		
+329-0	TOR001	329	{ride}	{ride}	{ride}	metalinguistic	_	End=696.673	_	_	_	_	_	_				_		
 330-0	TOI075	330	x	[x]	[x]	linguistic	_	End=698.49	_	Unknown=Yes	_	_	_	_				_		0-1(331)
 331-0	TOR002	331	e	[e]	[e]	linguistic	_	Begin=698.284	_	_	_	_	_	_				_		0-1(330)
 331-1	TOR002	331	come	come	come	linguistic	_		_	_	_	_	_	_				_		
@@ -1959,8 +1959,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 403-6	TOI075	403	permettesse	permettesse	permettesse	linguistic	_		_	_	_	_	_	_				_		
 403-7	TOI075	403	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 403-8	TOI075	403	vivere	vivere	vivere	linguistic	_	End=905.504	_	_	_	_	_	_				_		
-404-0	TOR001	404	{ride}	{ride}	{ride}	metalinguistic	_	End=904.699	_	_	_	_	_	_				_		
-405-0	TOR002	405	{ride}	{ride}	{ride}	metalinguistic	_	End=904.699	_	_	_	_	_	_				_		
+404-0	TOR002	404	{ride}	{ride}	{ride}	metalinguistic	_	End=904.699	_	_	_	_	_	_				_		
+405-0	TOR001	405	{ride}	{ride}	{ride}	metalinguistic	_	End=904.699	_	_	_	_	_	_				_		
 406-0	TOR001	406	certo	cer[to]	cer[to]	linguistic	_	End=906.302	_	_	_	_	_	_				_		3-5(407)
 407-0	TOI075	407	e	[e]	[e]	linguistic	_	Begin=906.119	_	_	_	_	_	_				_		0-1(406)
 407-1	TOI075	407	quindi	quindi	quindi	linguistic	_	End=906.835	_	_	_	_	_	_				_		
@@ -2010,8 +2010,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 416-0	TOI075	416	tifoso	tifoso	tifoso	linguistic	_	Begin=929.93	_	_	_	_	_	_				_		
 416-1	TOI075	416	del	del	del	linguistic	_		_	_	_	_	_	_				_		
 416-2	TOI075	416	torino	tori:no,	tori:no,	linguistic	_	End=931.825	weakly_ascending	_	_	_	_	_	3x1			_		
-417-0	TOR001	417	{ride}	{ride}	{ride}	metalinguistic	_	End=932.12	_	_	_	_	_	_				_		
-418-0	TOI075	418	{ride}	{ride}	{ride}	metalinguistic	_	End=932.12	_	_	_	_	_	_				_		
+417-0	TOI075	417	{ride}	{ride}	{ride}	metalinguistic	_	End=932.12	_	_	_	_	_	_				_		
+418-0	TOR001	418	{ride}	{ride}	{ride}	metalinguistic	_	End=932.12	_	_	_	_	_	_				_		
 419-0	TOI075	419	quindi	(quindi)	(quindi)	linguistic	_	Begin=932.179	_	_	_	_	_	_				_	0-6(0)	
 419-1	TOI075	419	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
 419-2	TOI075	419	stato	stato	stato	linguistic	_		_	_	_	_	_	_				_		
@@ -2097,12 +2097,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 432-9	TOI075	432	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
 432-10	TOI075	432	bestie	bestie	bestie	linguistic	_		_	_	_	_	_	_				_		
 432-11	TOI075	432	rare	ra:re	ra:re	linguistic	_	End=972.911	_	_	_	_	_	_	1x1			_		
-433-0	TOR002	433	mhmh	[mhmh]	[mhmh]	linguistic	_	End=974.016	_	_	_	_	_	_				_		0-4(434)
-434-0	TOI075	434	io	[io	[io	linguistic	_	Begin=973.315	_	_	_	_	_	_				_		0-2(433)
-434-1	TOI075	434	sono	sono]	sono]	linguistic	_		_	_	_	_	_	_				_		0-4(433)
-434-2	TOI075	434	uno	uno	uno	linguistic	_		_	_	_	_	_	_				_		
-434-3	TOI075	434	dei	dei	dei	linguistic	_		_	_	_	_	_	_				_		
-434-4	TOI075	434	pochi	pochi	pochi	linguistic	_	End=974.989	_	_	_	_	_	_				_		
+433-0	TOI075	433	io	[io	[io	linguistic	_	Begin=973.315	_	_	_	_	_	_				_		0-2(434)
+433-1	TOI075	433	sono	sono]	sono]	linguistic	_		_	_	_	_	_	_				_		0-4(434)
+433-2	TOI075	433	uno	uno	uno	linguistic	_		_	_	_	_	_	_				_		
+433-3	TOI075	433	dei	dei	dei	linguistic	_		_	_	_	_	_	_				_		
+433-4	TOI075	433	pochi	pochi	pochi	linguistic	_	End=974.989	_	_	_	_	_	_				_		
+434-0	TOR002	434	mhmh	[mhmh]	[mhmh]	linguistic	_	End=974.016	_	_	_	_	_	_				_		0-4(433)
 435-0	TOI075	435	ancora	ancora	ancora	linguistic	_	Begin=975.166	_	_	_	_	_	_				_		
 435-1	TOI075	435	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 435-2	TOI075	435	sa	sa	sa	linguistic	_		_	_	_	_	_	_				_		
@@ -2174,8 +2174,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 448-3	TOI075	448	facile	facile	facile	linguistic	_		_	_	_	_	_	_				_		
 448-4	TOI075	448	parlare	parlare	parlare	linguistic	_		_	_	_	_	_	_				_		
 448-5	TOI075	448	romeno	ROMENO	ROMENO	linguistic	_	End=1007.731	_	_	_	_	_	_				high		
-449-0	TOR001	449	{ride}	{ride}	{ride}	metalinguistic	_	End=1008.109	_	_	_	_	_	_				_		
-450-0	TOR002	450	{ride}	{ride}	{ride}	metalinguistic	_	End=1008.109	_	_	_	_	_	_				_		
+449-0	TOR002	449	{ride}	{ride}	{ride}	metalinguistic	_	End=1008.109	_	_	_	_	_	_				_		
+450-0	TOR001	450	{ride}	{ride}	{ride}	metalinguistic	_	End=1008.109	_	_	_	_	_	_				_		
 451-0	TOI075	451	o	o	o	linguistic	_	Begin=1008.144	_	_	_	_	_	_				_		
 451-1	TOI075	451	spagnolo	spagnolo	spagnolo	linguistic	_	End=1009.254	_	_	_	_	_	_				_		
 452-0	TOI075	452	ci	ci	ci	linguistic	_	Begin=1009.531	_	_	_	_	_	_				_		
@@ -2225,15 +2225,15 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 461-5	TOI075	461	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 461-6	TOI075	461	bestia	bestia	bestia	linguistic	_		_	_	_	_	_	_				_		
 461-7	TOI075	461	rara	rara	rara	linguistic	_	End=1030.413	_	_	_	_	_	_				_		
-462-0	TOR001	462	{ride}	{ride}	{ride}	metalinguistic	_	End=1030.53	_	_	_	_	_	_				_		
-463-0	TOR002	463	{ride}	{ride}	{ride}	metalinguistic	_	End=1030.53	_	_	_	_	_	_				_		
+462-0	TOR002	462	{ride}	{ride}	{ride}	metalinguistic	_	End=1030.53	_	_	_	_	_	_				_		
+463-0	TOR001	463	{ride}	{ride}	{ride}	metalinguistic	_	End=1030.53	_	_	_	_	_	_				_		
 464-0	TOI075	464	non	non	non	linguistic	_	Begin=1031.472	_	_	_	_	_	_				_		
 464-1	TOI075	464	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 464-2	TOI075	464	ho	ho	o	linguistic	_		_	_	_	_	_	_				_		
 464-3	TOI075	464	più	più	più	linguistic	_		_	_	_	_	_	_				_		
 464-4	TOI075	464	vista	vista	vista	linguistic	_	End=1032.549	_	_	_	_	_	_				_		
-465-0	TOR001	465	{ride}	{ride}	{ride}	metalinguistic	_	End=1033.162	_	_	_	_	_	_				_		
-466-0	TOR002	466	{ride}	{ride}	{ride}	metalinguistic	_	End=1033.162	_	_	_	_	_	_				_		
+465-0	TOR002	465	{ride}	{ride}	{ride}	metalinguistic	_	End=1033.162	_	_	_	_	_	_				_		
+466-0	TOR001	466	{ride}	{ride}	{ride}	metalinguistic	_	End=1033.162	_	_	_	_	_	_				_		
 467-0	TOI075	467	non	non	non	linguistic	_	Begin=1033.326	_	_	_	_	_	_				_		
 467-1	TOI075	467	so	so	so	linguistic	_		_	_	_	_	_	_				_		
 467-2	TOI075	467	se	se	se	linguistic	_		_	_	_	_	_	_				_		
@@ -2241,12 +2241,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 467-4	TOI075	467	hanno	hanno	anno	linguistic	_		_	_	_	_	_	_				_		
 467-5	TOI075	467	già	già	già	linguistic	_		_	_	_	_	_	_				_		
 467-6	TOI075	467	rapita	[rapita]	[rapita]	linguistic	_		_	_	_	_	_	_				_		0-6(468)
-467-7	TOI075	467	{ride}	{ride}	{ride}	metalinguistic	_	End=1035.254	_	_	_	_	_	_				_		
+467-7	TOI075	467	{ride}	{ride}	{ride}	metalinguistic	_	End=1035.253	_	_	_	_	_	_				_		
 468-0	TOR002	468	l'	[l'	[l'	linguistic	_	Begin=1034.248	_	_	_	_	_	SpaceAfter=No				_		0-2(467)
 468-1	TOR002	468	hanno	hanno	anno	linguistic	_		_	_	_	_	_	_				_		0-5(467)
 468-2	TOR002	468	mandata	mandata]	mandata]	linguistic	_		_	_	_	_	_	_				_		0-7(467)
 468-3	TOR002	468	via	via	via	linguistic	_		_	_	_	_	_	_				_		
-468-4	TOR002	468	{ride}	{ride}	{ride}	metalinguistic	_	End=1035.408	_	_	_	_	_	_				_		
+468-4	TOR002	468	{ride}	{ride}	{ride}	metalinguistic	_	End=1035.407	_	_	_	_	_	_				_		
 469-0	TOI075	469	è	è	è	linguistic	_	Begin=1035.557	_	_	_	_	_	_				_		
 469-1	TOI075	469	sparita	sparita	sparita	linguistic	_		_	_	_	_	_	_				_		
 469-2	TOI075	469	dalla	dalla	dalla	linguistic	_		_	_	_	_	_	_				_		
@@ -2259,15 +2259,15 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 470-5	TOI075	470	ci	ci	ci	linguistic	_		_	_	_	_	_	_				_		
 470-6	TOI075	470	fosse	fosse	fosse	linguistic	_		_	_	_	_	_	_				_		
 470-7	TOI075	470	questa	questa	questa	linguistic	_		_	_	_	_	_	_				_		
-470-8	TOI075	470	ragazza	ragazza	ragazza	linguistic	_	End=1042.543	_	_	_	_	_	_				_		
+470-8	TOI075	470	ragazza	ragazza	ragazza	linguistic	_	End=1042.542	_	_	_	_	_	_				_		
 471-0	TOI075	471	così	°così°	°così°	linguistic	_	End=1043.526	_	_	_	_	_	_				low		
 472-0	TOI075	472	piemontese	piemontese	piemontese	linguistic	_	Begin=1043.778	_	_	_	_	_	_				_		
 472-1	TOI075	472	doc	DOC	DOC	linguistic	_	End=1045.491	_	_	_	_	_	_				high		
-473-0	TOR001	473	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.867	_	_	_	_	_	_				_		
+473-0	TOI075	473	e	e	e	linguistic	_	Begin=1046.159	_	_	_	_	_	_				_		
+473-1	TOI075	473	invece	invece	invece	linguistic	_		_	_	_	_	_	_				_		
+473-2	TOI075	473	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.867	_	_	_	_	_	_				_		
 474-0	TOR002	474	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.867	_	_	_	_	_	_				_		
-475-0	TOI075	475	e	e	e	linguistic	_	Begin=1046.159	_	_	_	_	_	_				_		
-475-1	TOI075	475	invece	invece	invece	linguistic	_		_	_	_	_	_	_				_		
-475-2	TOI075	475	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.867	_	_	_	_	_	_				_		
+475-0	TOR001	475	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.867	_	_	_	_	_	_				_		
 476-0	TOR001	476	ma	ma	ma	linguistic	_	Begin=1047.938	_	_	_	_	_	_				_		
 476-1	TOR001	476	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 476-2	TOR001	476	a	a	a	linguistic	_		_	_	_	_	_	_				_		
@@ -2372,8 +2372,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 494-9	TOI075	494	quasi	quasi	quasi	linguistic	_		_	_	_	_	_	_				_		
 494-10	TOI075	494	spariti	spariti	spariti	linguistic	_		_	_	_	_	_	_				_		
 494-11	TOI075	494	quindi	quindi	quindi	linguistic	_	End=1099.808	_	_	_	_	_	_				_		
-495-0	TOR001	495	{ride}	{ride}	{ride}	metalinguistic	_	End=1099.816	_	_	_	_	_	_				_		
-496-0	TOR002	496	{ride}	{ride}	{ride}	metalinguistic	_	End=1099.816	_	_	_	_	_	_				_		
+495-0	TOR002	495	{ride}	{ride}	{ride}	metalinguistic	_	End=1099.816	_	_	_	_	_	_				_		
+496-0	TOR001	496	{ride}	{ride}	{ride}	metalinguistic	_	End=1099.816	_	_	_	_	_	_				_		
 497-0	TOI075	497	c'	c'	c'	linguistic	_	Begin=1100.492	_	_	_	_	_	SpaceAfter=No				_		
 497-1	TOI075	497	è	è		linguistic	_		_	_	_	_	_	_				_		
 497-2	TOI075	497	poco	poco	poco	linguistic	_		_	_	_	_	_	_				_		
@@ -2637,7 +2637,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 543-6	TOI075	543	fogolar	fogolar	fogolar	linguistic	_		_	_	_	_	_	_				_		
 543-7	TOI075	543	furlan	furlan	furlan	linguistic	_	End=1214.258	_	_	_	_	_	_				_		
 544-0	TOR002	544	mhmh	mhmh	mhmh	linguistic	_	End=1214.545	_	_	_	_	_	_				_		
-545-0	TOI075	545	che	che	che	linguistic	_	Begin=1214.6219999999998	_	_	_	_	_	_				_		
+545-0	TOI075	545	che	che	che	linguistic	_	Begin=1214.621	_	_	_	_	_	_				_		
 545-1	TOI075	545	riuniva	riuniva	riuniva	linguistic	_		_	_	_	_	_	_				_		
 545-2	TOI075	545	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 545-3	TOI075	545	fur~	fur~	fur~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
@@ -2758,9 +2758,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 564-8	TOI075	564	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 564-9	TOI075	564	poca	poca	poca	linguistic	_		_	_	_	_	_	_				_		
 564-10	TOI075	564	distanza	distanza	distanza	linguistic	_	End=1266.498	_	_	_	_	_	_				_		
-565-0	TOR001	565	mhmh	[mhmh]	[mhmh]	linguistic	_	Begin=1266.602	_	_	_	_	_	_				_		0-4(566)
-565-1	TOR001	565	mhmh	mhmh	mhmh	linguistic	_	End=1267.557	_	_	_	_	_	_				_		
-566-0	TOI075	566	insomma	[insomma]	[insomma]	linguistic	_	End=1267.068	_	_	_	_	_	_				_		0-7(565)
+565-0	TOI075	565	insomma	[insomma]	[insomma]	linguistic	_	End=1267.068	_	_	_	_	_	_				_		0-7(566)
+566-0	TOR001	566	mhmh	[mhmh]	[mhmh]	linguistic	_	Begin=1266.602	_	_	_	_	_	_				_		0-4(565)
+566-1	TOR001	566	mhmh	mhmh	mhmh	linguistic	_	End=1267.557	_	_	_	_	_	_				_		
 567-0	TOR001	567	e	e:::	e:::	linguistic	_	Begin=1268.225	_	_	_	_	_	_	0x3			_		
 567-1	TOR001	567	e	e	e	linguistic	_	End=1269.279	_	_	_	_	_	_				_		
 568-0	TOR001	568	in	in	in	linguistic	_	Begin=1270.552	_	_	_	_	_	_				_		
@@ -2951,9 +2951,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 604-9	TOI075	604	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
 604-10	TOI075	604	gli	gli	gli	linguistic	_		_	_	_	_	_	_				_		
 604-11	TOI075	604	zingari	zingari	zingari	linguistic	_	End=1352.551	_	_	_	_	_	_				_		
-605-0	TOR001	605	mhmh	[mhmh]	[mhmh]	linguistic	_	End=1353.57	_	_	_	_	_	_				_		0-4(606)
-606-0	TOI075	606	i	[i	[i	linguistic	_	Begin=1352.951	_	_	_	_	_	_				_		0-1(605)
-606-1	TOI075	606	rom	rom]	rom]	linguistic	_	End=1353.57	_	_	_	_	_	_				_		0-3(605)
+605-0	TOI075	605	i	[i	[i	linguistic	_	Begin=1352.951	_	_	_	_	_	_				_		0-1(606)
+605-1	TOI075	605	rom	rom]	rom]	linguistic	_	End=1353.57	_	_	_	_	_	_				_		0-3(606)
+606-0	TOR001	606	mhmh	[mhmh]	[mhmh]	linguistic	_	End=1353.57	_	_	_	_	_	_				_		0-4(605)
 607-0	TOI075	607	ma	ma	ma	linguistic	_	Begin=1353.823	_	_	_	_	_	_				_		
 607-1	TOI075	607	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 607-2	TOI075	607	per	per	per	linguistic	_		_	_	_	_	_	_				_		
@@ -3367,8 +3367,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 677-0	TOR002	677	sì	[sì]	[sì]	linguistic	_	End=1544.819	_	_	_	_	_	_				_		0-2(676)
 678-0	TOI075	678	il	il	il	linguistic	_	Begin=1545.103	_	_	_	_	_	_				_		
 678-1	TOI075	678	frigorifero	frigorifero	frigorifero	linguistic	_	End=1546.535	_	_	_	_	_	_				_		
-679-0	TOR001	679	{ride}	{ride}	{ride}	metalinguistic	_	End=1547.37	_	_	_	_	_	_				_		
-680-0	TOR002	680	{ride}	{ride}	{ride}	metalinguistic	_	End=1547.37	_	_	_	_	_	_				_		
+679-0	TOR002	679	{ride}	{ride}	{ride}	metalinguistic	_	End=1547.37	_	_	_	_	_	_				_		
+680-0	TOR001	680	{ride}	{ride}	{ride}	metalinguistic	_	End=1547.37	_	_	_	_	_	_				_		
 681-0	TOI075	681	o	o	o	linguistic	_	Begin=1547.425	_	_	_	_	_	_				_		
 681-1	TOI075	681	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 681-2	TOI075	681	lavatrice	lavatrice	lavatrice	linguistic	_		_	_	_	_	_	_				_		
@@ -3389,7 +3389,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 683-10	TOI075	683	nelle	nelle	nelle	linguistic	_		_	_	_	_	_	_				_		
 683-11	TOI075	683	case	ca:se	ca:se	linguistic	_	End=1555.995	_	_	_	_	_	_	1x1			_		
 684-0	TOR001	684	mhmhmhm	mhmhmhm	mhmhmhm	linguistic	_	End=1556.914	_	_	_	_	_	_				_		
-685-0	TOI075	685	a	a	a	linguistic	_	Begin=1557.0069999999998	_	_	_	_	_	_				_		
+685-0	TOI075	685	a	a	a	linguistic	_	Begin=1557.006	_	_	_	_	_	_				_		
 685-1	TOI075	685	casa	casa	casa	linguistic	_		_	_	_	_	_	_				_		
 685-2	TOI075	685	mia	mia	mia	linguistic	_		_	_	_	_	_	_				_		
 685-3	TOI075	685	il	il	il	linguistic	_		_	_	_	_	_	_				_		
@@ -3553,7 +3553,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 716-8	TOI075	716	male	male	male	linguistic	_		_	_	_	_	_	_				_		
 716-9	TOI075	716	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 716-10	TOI075	716	ovvio	ovvio	ovvio	linguistic	_		_	_	_	_	_	_				_		
-716-11	TOI075	716	che	che	che	linguistic	_	End=1678.4260000000002	_	_	_	_	_	_				_		
+716-11	TOI075	716	che	che	che	linguistic	_	End=1678.426	_	_	_	_	_	_				_		
 717-0	TOR002	717	{ride}	{ride}	{ride}	metalinguistic	_	End=1678.815	_	_	_	_	_	_				_		
 718-0	TOI075	718	non	non	non	linguistic	_	Begin=1678.822	_	_	_	_	_	_				_		
 718-1	TOI075	718	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -3650,8 +3650,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 734-5	TOI075	734	puo'	puo']	puo']	linguistic	_	End=1722.26	_	_	_	Truncated=Yes	_	_				_		0-4(735)
 735-0	TOR001	735	sì	[sì	[sì	linguistic	_	Begin=1721.59	_	_	_	_	_	_				_		0-2(734)
 735-1	TOR001	735	sì	sì]	sì]	linguistic	_	End=1722.307	_	_	_	_	_	_				_		0-2(734)
-736-0	TOR001	736	{ride}	{ride}	{ride}	metalinguistic	_	End=1723.221	_	_	_	_	_	_				_		
-737-0	TOI075	737	{ride}	{ride}	{ride}	metalinguistic	_	End=1723.221	_	_	_	_	_	_				_		
+736-0	TOI075	736	{ride}	{ride}	{ride}	metalinguistic	_	End=1723.221	_	_	_	_	_	_				_		
+737-0	TOR001	737	{ride}	{ride}	{ride}	metalinguistic	_	End=1723.221	_	_	_	_	_	_				_		
 738-0	TOR001	738	e	e	e	linguistic	_	Begin=1724.076	_	_	_	_	_	_				_		
 738-1	TOR001	738	altre	altre	altre	linguistic	_		_	_	_	_	_	_				_		
 738-2	TOR001	738	altre	altre	altre	linguistic	_		_	_	_	_	ProsodicLink=Yes	_				_		
@@ -3760,11 +3760,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 753-7	TOI075	753	bambino	bambi:no	bambi:no	linguistic	_		_	_	_	_	_	_	4x1			_		
 753-8	TOI075	753	sa	sa	sa	linguistic	_		_	_	_	_	_	_				_		
 753-9	TOI075	753	ognuno	ognuno	ognuno	linguistic	_	End=1768.334	_	_	_	_	_	_				_		
-754-0	TOR001	754	{ride}	{ride}	{ride}	metalinguistic	_	End=1770.04	_	_	_	_	_	_				_		
+754-0	TOI075	754	quand'	quand'	quand'	linguistic	_	Begin=1768.905	_	_	_	_	_	SpaceAfter=No				_		
+754-1	TOI075	754	era	era	ra	linguistic	_		_	_	_	_	_	_				_		
+754-2	TOI075	754	bambino	bambino	bambino	linguistic	_	End=1770.04	_	_	_	_	_	_				_		
 755-0	TOR002	755	{ride}	{ride}	{ride}	metalinguistic	_	End=1770.04	_	_	_	_	_	_				_		
-756-0	TOI075	756	quand'	quand'	quand'	linguistic	_	Begin=1768.905	_	_	_	_	_	SpaceAfter=No				_		
-756-1	TOI075	756	era	era	ra	linguistic	_		_	_	_	_	_	_				_		
-756-2	TOI075	756	bambino	bambino	bambino	linguistic	_	End=1770.04	_	_	_	_	_	_				_		
+756-0	TOR001	756	{ride}	{ride}	{ride}	metalinguistic	_	End=1770.04	_	_	_	_	_	_				_		
 757-0	TOI075	757	sembra	sembra	sembra	linguistic	_	Begin=1770.228	_	_	_	_	_	_				_		
 757-1	TOI075	757	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 757-2	TOI075	757	essere	essere	essere	linguistic	_		_	_	_	_	_	_				_		
@@ -4019,9 +4019,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 806-0	TOI075	806	e	e	e	linguistic	_	Begin=1881.578	_	_	_	_	_	_				_		
 806-1	TOI075	806	sto	sto	sto	linguistic	_		_	_	_	_	_	_				_		
 806-2	TOI075	806	benissimo	benissimo.	benissimo.	linguistic	_	End=1882.821	descending	_	_	_	_	_				_		
-807-0	TOR001	807	{ride}	{ride}	{ride}	metalinguistic	_	End=1883.737	_	_	_	_	_	_				_		
+807-0	TOI075	807	{ride}	{ride}	{ride}	metalinguistic	_	End=1883.737	_	_	_	_	_	_				_		
 808-0	TOR002	808	{ride}	{ride}	{ride}	metalinguistic	_	End=1883.737	_	_	_	_	_	_				_		
-809-0	TOI075	809	{ride}	{ride}	{ride}	metalinguistic	_	End=1883.737	_	_	_	_	_	_				_		
+809-0	TOR001	809	{ride}	{ride}	{ride}	metalinguistic	_	End=1883.737	_	_	_	_	_	_				_		
 810-0	TOI075	810	dico	dico	dico	linguistic	_	Begin=1883.758	_	_	_	_	_	_				_		
 810-1	TOI075	810	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 810-2	TOI075	810	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -4142,7 +4142,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 835-2	TOR002	835	si	si	si	linguistic	_		_	_	_	_	_	_				_		
 835-3	TOR002	835	farà	farà	farà	linguistic	_		_	_	_	_	_	_				_		
 835-4	TOR002	835	non	non	non	linguistic	_		_	_	_	_	_	_				_		
-835-5	TOR002	835	succederà	succederà	succederà	linguistic	_	End=1936.9540000000002	_	_	_	_	_	_				_		
+835-5	TOR002	835	succederà	succederà	succederà	linguistic	_	End=1936.954	_	_	_	_	_	_				_		
 836-0	TOI075	836	io	io	io	linguistic	_	End=1937.298	_	_	_	_	_	_				_		
 837-0	TOI075	837	per	per	per	linguistic	_	Begin=1937.674	_	_	_	_	_	_				_		
 837-1	TOI075	837	me	me	me	linguistic	_	End=1938.322	_	_	_	_	_	_				_		
@@ -4211,8 +4211,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 852-6	TOI075	852	governanti	governanti	governanti	linguistic	_		_	_	_	_	_	_				_		
 852-7	TOI075	852	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 852-8	TOI075	852	adesso	adesso	adesso	linguistic	_	End=1968.981	_	_	_	_	_	_				_		
-853-0	TOR001	853	{ride}	{ride}	{ride}	metalinguistic	_	End=1971.113	_	_	_	_	_	_				_		
-854-0	TOR002	854	{ride}	{ride}	{ride}	metalinguistic	_	End=1971.113	_	_	_	_	_	_				_		
+853-0	TOR002	853	{ride}	{ride}	{ride}	metalinguistic	_	End=1971.113	_	_	_	_	_	_				_		
+854-0	TOR001	854	{ride}	{ride}	{ride}	metalinguistic	_	End=1971.113	_	_	_	_	_	_				_		
 855-0	TOR002	855	una	una	una	linguistic	_	Begin=1972.506	_	_	_	_	_	_				_		
 855-1	TOR002	855	gara	gara	gara	linguistic	_		_	_	_	_	_	_				_		
 855-2	TOR002	855	a	a	a	linguistic	_		_	_	_	_	_	_				_		

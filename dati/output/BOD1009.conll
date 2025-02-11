@@ -226,7 +226,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 25-0	BO102	25	intera	intera,	intera,	linguistic	_	Begin=128.0	weakly_ascending	_	_	_	_	_				_		
 25-1	BO102	25	si	si	si	linguistic	_		_	_	_	_	_	_				_		
 25-2	BO102	25	puó	puó	puó	linguistic	_		_	_	_	_	_	_				_		
-25-3	BO102	25	dire	dire.	dire.	linguistic	_	End=129.42	descending	_	_	_	_	_				_		
+25-3	BO102	25	dire	dire.	dire.	linguistic	_	End=129.419	descending	_	_	_	_	_				_		
 26-0	BO102	26	per	per	per	linguistic	_	Begin=132.2	_	_	_	_	_	_				_		
 26-1	BO102	26	cui	cui	cui	linguistic	_		_	_	_	_	_	_				_		
 26-2	BO102	26	studiamo	studiamo,	studiamo,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
@@ -2028,7 +2028,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 173-9	BO102	173	vancouver	vancouver,	vancouver,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 173-10	BO102	173	eh	eh?	eh?	linguistic	_	End=1030.64	ascending	_	_	_	_	_				_		
 174-0	BO102	174	a	a	a	linguistic	_	Begin=1031.856	_	_	_	_	_	_				_		
-174-1	BO102	174	loambrabang	(loambrabang),	(loambrabang),	linguistic	_	End=1033.687	weakly_ascending	_	_	_	_	_				_	0-11(0)	
+174-1	BO102	174	loambrabang	(loambrabang),	(loambrabang),	linguistic	_	End=1033.686	weakly_ascending	_	_	_	_	_				_	0-11(0)	
 175-0	BO102	175	a	a	a	linguistic	_	Begin=1035.374	_	_	_	_	_	_				_		
 175-1	BO102	175	ulan	ulan	ulan	linguistic	_		_	_	_	_	_	_				_		
 175-2	BO102	175	bator	bator,	bator,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
@@ -2037,9 +2037,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 176-0	BO102	176	non	non	non	linguistic	_	Begin=1039.333	_	_	_	_	_	_				_		
 176-1	BO102	176	trattiamoci	trattiamoci	trattiamoci	linguistic	_		_	_	_	_	_	_				_		
 176-2	BO102	176	male	male,	male,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
-176-3	BO102	176	mh	mh?	mh?	linguistic	_	End=1040.812	ascending	_	_	_	_	_				_		
+176-3	BO102	176	mh	mh?	mh?	linguistic	_	End=1040.811	ascending	_	_	_	_	_				_		
 177-0	BO102	177	a	a	a	linguistic	_	Begin=1042.499	_	_	_	_	_	_				_		
-177-1	BO102	177	capetown	capetown,	capetown,	linguistic	_	End=1044.041	weakly_ascending	_	_	_	_	_				_		
+177-1	BO102	177	capetown	capetown,	capetown,	linguistic	_	End=1044.04	weakly_ascending	_	_	_	_	_				_		
 178-0	BO102	178	a	a	a	linguistic	_	Begin=1048.006	_	_	_	_	_	_				_		
 178-1	BO102	178	tutti	tutti	tutti	linguistic	_		_	_	_	_	_	_				_		
 178-2	BO102	178	gli	gli	gli	linguistic	_		_	_	_	_	_	_				_		
@@ -3953,7 +3953,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 370-4	BO102	370	altri	altri	altri	linguistic	_		_	_	_	_	_	_				_		
 370-5	BO102	370	due	due	due	linguistic	_		_	_	_	_	_	_				_		
 370-6	BO102	370	piccoli	piccoli.	piccoli.	linguistic	_		descending	_	_	_	_	_				_		
-370-7	BO102	370	no	no?	no?	linguistic	_	End=2048.18	ascending	_	_	_	_	_				_		
+370-7	BO102	370	no	no?	no?	linguistic	_	End=2048.179	ascending	_	_	_	_	_				_		
 371-0	BO102	371	anche	anche:	anche:	linguistic	_	Begin=2048.61	_	_	_	_	_	_	4x1			_		
 371-1	BO102	371	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 371-2	BO102	371	dal	>dal	>dal	linguistic	_		_	_	_	_	_	_			0-3(0)	_		
@@ -3981,7 +3981,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 373-7	BO102	373	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		
 373-8	BO102	373	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 373-9	BO102	373	mercatore	mercatore,	mercatore,	linguistic	_	End=2062.828	weakly_ascending	_	_	_	_	_				_		
-374-0	BO102	374	politica	politica.	politica.	linguistic	_	End=2065.236	descending	_	_	_	_	_				_		
+374-0	BO102	374	politica	politica.	politica.	linguistic	_	End=2065.235	descending	_	_	_	_	_				_		
 375-0	BO102	375	infatti	infatti	infatti	linguistic	_	Begin=2065.9	_	_	_	_	_	_				_		
 375-1	BO102	375	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 375-2	BO102	375	carta	carta	carta	linguistic	_		_	_	_	_	_	_				_		

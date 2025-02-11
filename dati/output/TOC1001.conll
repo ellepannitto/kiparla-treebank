@@ -174,7 +174,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 24-0	TO003	24	quella	quella:	quella:	linguistic	_	Begin=63.564	_	_	_	_	_	_	5x1			_		
 24-1	TO003	24	{P}	[{P}	[{P}	shortpause	_		_	_	_	_	_	_				_		0-3(25)
 24-2	TO003	24	così	co]sì.	co]sì.	linguistic	_	End=64.527	descending	_	_	_	_	_				_		0-2(25)
-25-0	TO002	25	certo	[°certo°]	[°certo°]	linguistic	_	End=64.341	_	_	_	_	_	_				low		0-5(24)
+25-0	TO002	25	certo	[°certo°]	[°certo°]	linguistic	_	End=64.34	_	_	_	_	_	_				low		0-5(24)
 26-0	TO003	26	poi	poi	poi	linguistic	_	Begin=65.05	_	_	_	_	_	_				_		
 26-1	TO003	26	soprattutto	soprattutto:	soprattutto:	linguistic	_		_	_	_	_	_	_	10x1			_		
 26-2	TO003	26	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -692,9 +692,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 64-11	TO002	64	per	per	per	linguistic	_		_	_	_	_	_	_				_		
 64-12	TO002	64	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 64-13	TO002	64	imm~	imm~	imm~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
-64-14	TO002	64	.e:::::h	(.)e:::::h	(.)e:::::h	error	_		_	_	_	_	_	_				_		
-64-15	TO002	64	all'	all'	all'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
-64-16	TO002	64	immigrazione	immigrazione.	immigrazione.	linguistic	_	End=250.256	descending	_	_	_	_	_				_		
+64-14	TO002	64	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
+64-15	TO002	64	eh	e:::::h	e:::::h	linguistic	_		_	_	_	_	_	_	0x5			_		
+64-16	TO002	64	all'	all'	all'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
+64-17	TO002	64	immigrazione	immigrazione.	immigrazione.	linguistic	_	End=250.256	descending	_	_	_	_	_				_		
 65-0	TO002	65	perché	[per]ché	[per]ché	linguistic	_	End=251.015	_	_	_	_	_	_				_		0-3(66)
 66-0	TO003	66	beh	[beh]	[beh]	linguistic	_	End=250.779	_	_	_	_	_	_				_		0-3(65)
 67-0	TO002	67	perché	perché?	perché?	linguistic	_	End=251.619	ascending	_	_	_	_	_				_		
@@ -721,8 +722,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 70-10	TO003	70	teoria	teoria	teoria	linguistic	_		_	_	_	_	_	_				_		
 70-11	TO003	70	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 70-12	TO003	70	everett	everett	everett	linguistic	_		_	_	_	_	_	_				_		
-70-13	TO003	70	lee	lee,	lee,	linguistic	_	End=259.621	weakly_ascending	_	_	_	_	_				_		
-71-0	TO003	71	che	che	che	linguistic	_	Begin=259.871	_	_	_	_	_	_				_		
+70-13	TO003	70	lee	lee,	lee,	linguistic	_	End=259.62	weakly_ascending	_	_	_	_	_				_		
+71-0	TO003	71	che	che	che	linguistic	_	Begin=259.87	_	_	_	_	_	_				_		
 71-1	TO003	71	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		
 71-2	TO003	71	elaborato	elaborato:	elaborato:	linguistic	_		_	_	_	_	_	_	8x1			_		
 71-3	TO003	71	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -1084,7 +1085,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 103-13	TO002	103	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 103-14	TO002	103	quello	quello	quello	linguistic	_		_	_	_	_	_	_				_		
 103-15	TO002	103	che	che	che	linguistic	_		_	_	_	_	_	_				_		
-103-16	TO002	103	{ride}	{ride}	{ride}	metalinguistic	_	End=378.28099999999995	_	_	_	_	_	_				_		
+103-16	TO002	103	{ride}	{ride}	{ride}	metalinguistic	_	End=378.28	_	_	_	_	_	_				_		
 104-0	TO003	104	{ride}	{ride}	{ride}	metalinguistic	_	End=379.928	_	_	_	_	_	_				_		
 105-0	TO002	105	ragioni	ragioni	ragioni	linguistic	_	Begin=379.77	_	_	_	_	_	_				_		
 105-1	TO002	105	sull'	sull'	sull'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -1365,15 +1366,15 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 136-0	TO002	136	e	e	e	linguistic	_	Begin=485.515	_	_	_	_	_	_				_		
 136-1	TO002	136	con	con	con	linguistic	_		_	_	_	_	_	_				_		
 136-2	TO002	136	cui	cui,	cui,	linguistic	_	End=486.133	weakly_ascending	_	_	_	_	_				_		
-137-0	TO002	137	posso	[posso:	[posso:	linguistic	_	Begin=486.8	_	_	_	_	ProsodicLink=Yes	_	4x1			_		0-5(138)
-137-1	TO002	137	mh	m:h]	h] 	linguistic	_		_	_	_	_	_	_	0x1			_		0-2(138)
-137-2	TO002	137	soddisfare	soddisfare	oddisfare 	linguistic	_		_	_	_	_	_	_				_		
-137-3	TO002	137	o	o	 	linguistic	_		_	_	_	_	_	_				_		
-137-4	TO002	137	posso	posso	osso	linguistic	_	End=490.044	_	_	_	_	_	_				_		
-138-0	TO003	138	sì	[sì	[sì	linguistic	_	Begin=486.8	_	_	_	_	_	_				_		0-2(137)
-138-1	TO003	138	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		0-2(137)
-138-2	TO003	138	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(137)
-138-3	TO003	138	vero	vero.]	vero.]	linguistic	_	End=487.833	descending	_	_	_	_	_				_		0-4(137)
+137-0	TO003	137	sì	[sì	[sì	linguistic	_	Begin=486.8	_	_	_	_	_	_				_		0-2(138)
+137-1	TO003	137	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		0-2(138)
+137-2	TO003	137	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(138)
+137-3	TO003	137	vero	vero.]	vero.]	linguistic	_	End=487.833	descending	_	_	_	_	_				_		0-4(138)
+138-0	TO002	138	posso	[posso:	[posso:	linguistic	_	Begin=486.8	_	_	_	_	ProsodicLink=Yes	_	4x1			_		0-5(137)
+138-1	TO002	138	mh	m:h]	h] 	linguistic	_		_	_	_	_	_	_	0x1			_		0-2(137)
+138-2	TO002	138	soddisfare	soddisfare	oddisfare 	linguistic	_		_	_	_	_	_	_				_		
+138-3	TO002	138	o	o	 	linguistic	_		_	_	_	_	_	_				_		
+138-4	TO002	138	posso	posso	osso	linguistic	_	End=490.044	_	_	_	_	_	_				_		
 139-0	TO002	139	eh	e:h	e:h	linguistic	_	Begin=490.805	_	_	_	_	ProsodicLink=Yes	_	0x1			_		
 139-1	TO002	139	mh	m:h	h	linguistic	_	End=491.866	_	_	_	_	_	_	0x1			_		
 140-0	TO002	140	rimborsare	rimborsare	rimborsare	linguistic	_	Begin=492.735	_	_	_	_	_	_				_		
@@ -1434,8 +1435,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 145-8	TO003	145	che	che	he 	linguistic	_		_	_	_	_	_	_				_		
 145-9	TO003	145	va	va	a 	linguistic	_		_	_	_	_	_	_				_		
 145-10	TO003	145	considerata	considerata	onsiderata 	linguistic	_		_	_	_	_	_	_				_		
-145-11	TO003	145	perché	perché:	erché:	linguistic	_	End=512.886	_	_	_	_	_	_	5x1			_		
-146-0	TO003	146	e	e	e	linguistic	_	Begin=513.358	_	_	_	_	_	_				_		
+145-11	TO003	145	perché	perché:	erché:	linguistic	_	End=512.885	_	_	_	_	_	_	5x1			_		
+146-0	TO003	146	e	e	e	linguistic	_	Begin=513.357	_	_	_	_	_	_				_		
 146-1	TO003	146	comunque	comunque	comunque	linguistic	_		_	_	_	_	_	_				_		
 146-2	TO003	146	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 146-3	TO003	146	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
@@ -1456,8 +1457,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 146-18	TO003	146	parla	parla	parla	linguistic	_		_	_	_	_	_	_				_		
 146-19	TO003	146	propriamente	propriamente	propriamente	linguistic	_		_	_	_	_	_	_				_		
 146-20	TO003	146	di	di	di	linguistic	_		_	_	_	_	_	_				_		
-146-21	TO003	146	transnazionalismo	transnazionalismo,	transnazionalismo,	linguistic	_	End=520.66	weakly_ascending	_	_	_	_	_				_		
-147-0	TO003	147	cioè	cioè	cioè	linguistic	_	Begin=520.963	_	_	_	_	_	_				_		
+146-21	TO003	146	transnazionalismo	transnazionalismo,	transnazionalismo,	linguistic	_	End=520.659	weakly_ascending	_	_	_	_	_				_		
+147-0	TO003	147	cioè	cioè	cioè	linguistic	_	Begin=520.962	_	_	_	_	_	_				_		
 147-1	TO003	147	dei	dei	dei	linguistic	_		_	_	_	_	_	_				_		
 147-2	TO003	147	legami	lega:mi,	lega:mi,	linguistic	_		weakly_ascending	_	_	_	_	_	3x1			_		
 147-3	TO003	147	che	che	che	linguistic	_		_	_	_	_	_	_				_		
@@ -1842,22 +1843,22 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 184-0	TO003	184	sì	[sì	[sì	linguistic	_	Begin=666.878	_	_	_	_	ProsodicLink=Yes	_				_		0-2(183)
 184-1	TO003	184	sì	sì]	] 	linguistic	_		_	_	_	_	_	_				_		0-2(183)
 184-2	TO003	184	prego	prego.	rego.	linguistic	_	End=667.5	descending	_	_	_	_	_				_		
-185-0	TO002	185	{il	{il	{il	metalinguistic	_	Begin=667.5	_	_	_	_	_	_				_		
-185-1	TO002	185	docente	docente	docente	linguistic	_		_	_	_	_	_	_				_		
-185-2	TO002	185	interrompe	interrompe	interrompe	linguistic	_		_	_	_	_	_	_				_		
-185-3	TO002	185	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
-185-4	TO002	185	interrogazione	interrogazione	interrogazione	linguistic	_		_	_	_	_	_	_				_		
-185-5	TO002	185	per	per	per	linguistic	_		_	_	_	_	_	_				_		
-185-6	TO002	185	consultarsi	consultarsi	consultarsi	linguistic	_		_	_	_	_	_	_				_		
-185-7	TO002	185	con	con	con	linguistic	_		_	_	_	_	_	_				_		
-185-8	TO002	185	il	il	il	linguistic	_		_	_	_	_	_	_				_		
-185-9	TO002	185	collega}	collega}	collega}	error	_	End=669.6	_	_	_	_	_	_				_		
-186-0	???	186	okay	okay	okay	linguistic	_	Begin=667.5	_	_	_	_	_	_				_		
-186-1	???	186	quest~	quest~	quest~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
-186-2	???	186	è	è	è	linguistic	_		_	_	_	_	_	_				_		
-186-3	???	186	preparato	preparato	preparato	linguistic	_		_	_	_	_	_	_				_		
-186-4	???	186	sto	sto	sto	linguistic	_		_	_	_	_	_	_				_		
-186-5	???	186	ragazzo	ragazzo,	ragazzo,	linguistic	_	End=669.6	weakly_ascending	_	_	_	_	_				_		
+185-0	???	185	okay	okay	okay	linguistic	_	Begin=667.5	_	_	_	_	_	_				_		
+185-1	???	185	quest~	quest~	quest~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
+185-2	???	185	è	è	è	linguistic	_		_	_	_	_	_	_				_		
+185-3	???	185	preparato	preparato	preparato	linguistic	_		_	_	_	_	_	_				_		
+185-4	???	185	sto	sto	sto	linguistic	_		_	_	_	_	_	_				_		
+185-5	???	185	ragazzo	ragazzo,	ragazzo,	linguistic	_	End=669.6	weakly_ascending	_	_	_	_	_				_		
+186-0	TO002	186	{il	{il	{il	metalinguistic	_	Begin=667.5	_	_	_	_	_	_				_		
+186-1	TO002	186	docente	docente	docente	linguistic	_		_	_	_	_	_	_				_		
+186-2	TO002	186	interrompe	interrompe	interrompe	linguistic	_		_	_	_	_	_	_				_		
+186-3	TO002	186	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
+186-4	TO002	186	interrogazione	interrogazione	interrogazione	linguistic	_		_	_	_	_	_	_				_		
+186-5	TO002	186	per	per	per	linguistic	_		_	_	_	_	_	_				_		
+186-6	TO002	186	consultarsi	consultarsi	consultarsi	linguistic	_		_	_	_	_	_	_				_		
+186-7	TO002	186	con	con	con	linguistic	_		_	_	_	_	_	_				_		
+186-8	TO002	186	il	il	il	linguistic	_		_	_	_	_	_	_				_		
+186-9	TO002	186	collega}	collega}	collega}	error	_	End=669.6	_	_	_	_	_	_				_		
 187-0	TO002	187	ah	a:h	a:h	linguistic	_	End=672.155	_	_	_	_	_	_	0x1			_		
 188-0	TO002	188	mh	m:h	m:h	linguistic	_	End=674.108	_	_	_	_	_	_	0x1			_		
 189-0	TO003	189	{ride}	{ride}	{ride}	metalinguistic	_	End=677.403	_	_	_	_	_	_				_		
@@ -2550,9 +2551,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 297-2	TO003	297	come	come	come	linguistic	_		_	_	_	_	_	_				_		
 297-3	TO003	297	parametro	parametro	parametro	linguistic	_		_	_	_	_	_	_				_		
 297-4	TO003	297	potrebbe	potrebbe	potrebbe	linguistic	_		_	_	_	_	_	_				_		
-297-5	TO003	297	essere	essere,	essere,	linguistic	_	End=1024.878	weakly_ascending	_	_	_	_	_				_		
-298-0	TO003	298	eh	e::h	e::h	linguistic	_	End=1026.485	_	_	_	_	_	_	0x2			_		
-299-0	TO003	299	per	per	per	linguistic	_	Begin=1026.571	_	_	_	_	_	_				_		
+297-5	TO003	297	essere	essere,	essere,	linguistic	_	End=1024.877	weakly_ascending	_	_	_	_	_				_		
+298-0	TO003	298	eh	e::h	e::h	linguistic	_	End=1026.484	_	_	_	_	_	_	0x2			_		
+299-0	TO003	299	per	per	per	linguistic	_	Begin=1026.57	_	_	_	_	_	_				_		
 299-1	TO003	299	verificare	verificare	verificare	linguistic	_		_	_	_	_	_	_				_		
 299-2	TO003	299	appunto	appunto	appunto	linguistic	_		_	_	_	_	_	_				_		
 299-3	TO003	299	un	un	un	linguistic	_		_	_	_	_	_	_				_		
@@ -2560,7 +2561,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 299-5	TO003	299	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 299-6	TO003	299	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 299-7	TO003	299	determinato	determinato	determinato	linguistic	_		_	_	_	_	_	_				_		
-299-8	TO003	299	fenomeno	fenomeno	fenomeno	linguistic	_	End=1030.841	_	_	_	_	_	_				_		
+299-8	TO003	299	fenomeno	fenomeno	fenomeno	linguistic	_	End=1030.84	_	_	_	_	_	_				_		
 300-0	TO003	300	ma	ma	ma	linguistic	_	Begin=1031.568	_	_	_	_	_	_				_		
 300-1	TO003	300	poi	poi:	poi:	linguistic	_		_	_	_	_	_	_	2x1			_		
 300-2	TO003	300	cer~	cer~	cer~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
@@ -2570,7 +2571,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 300-6	TO003	300	a	a	a	linguistic	_		_	_	_	_	_	_				_		
 300-7	TO003	300	scala	scala	scala	linguistic	_		_	_	_	_	_	_				_		
 300-8	TO003	300	locale	locale	locale	linguistic	_	End=1035.316	_	_	_	_	_	_				_		
-301-0	TO003	301	mh	mh	mh	linguistic	_	Begin=1035.993	_	_	_	_	_	_				_		
+301-0	TO003	301	mh	mh	mh	linguistic	_	Begin=1035.992	_	_	_	_	_	_				_		
 301-1	TO003	301	sperando	sperando	sperando	linguistic	_		_	_	_	_	_	_				_		
 301-2	TO003	301	che	che	che	linguistic	_		_	_	_	_	_	_				_		
 301-3	TO003	301	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
@@ -2578,8 +2579,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 301-5	TO003	301	appunto	appunto	appunto	linguistic	_		_	_	_	_	_	_				_		
 301-6	TO003	301	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 301-7	TO003	301	scala	scala	scala	linguistic	_		_	_	_	_	_	_				_		
-301-8	TO003	301	globale	globale	globale	linguistic	_	End=1039.465	_	_	_	_	_	_				_		
-302-0	TO003	302	è	è	è	linguistic	_	Begin=1039.465	_	_	_	_	_	_				_		
+301-8	TO003	301	globale	globale	globale	linguistic	_	End=1039.464	_	_	_	_	_	_				_		
+302-0	TO003	302	è	è	è	linguistic	_	Begin=1039.464	_	_	_	_	_	_				_		
 302-1	TO003	302	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 302-2	TO003	302	ragionamento	ragionamento	ragionamento	linguistic	_		_	_	_	_	_	_				_		
 302-3	TO003	302	un	un	un	linguistic	_		_	_	_	_	_	_				_		
@@ -2604,7 +2605,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 303-14	TO002	303	modo	modo	modo	linguistic	_		_	_	_	_	_	_				_		
 303-15	TO002	303	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 303-16	TO002	303	cui	cui	cui	linguistic	_		_	_	_	_	_	_				_		
-303-17	TO002	303	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.561	_	_	_	_	_	_				_		
+303-17	TO002	303	{ride}	{ride}	{ride}	metalinguistic	_	End=1046.56	_	_	_	_	_	_				_		
 304-0	TO003	304	{ride}	{ride}	{ride}	metalinguistic	_	End=1047.28	_	_	_	_	_	_				_		
 305-0	TO002	305	le	le	le	linguistic	_	Begin=1047.28	_	_	_	_	_	_				_		
 305-1	TO002	305	istuzioni	istuzioni	istuzioni	linguistic	_		_	_	_	_	_	_				_		
@@ -3591,7 +3592,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 441-2	TO002	441	discorso	discorso	discorso	linguistic	_		_	_	_	_	_	_				_		
 441-3	TO002	441	dei	dei	dei	linguistic	_		_	_	_	_	_	_				_		
 441-4	TO002	441	saperi	saperi	saperi	linguistic	_		_	_	_	_	_	_				_		
-441-5	TO002	441	locali	locali,	locali,	linguistic	_	End=1455.7340000000002	weakly_ascending	_	_	_	_	_				_		
+441-5	TO002	441	locali	locali,	locali,	linguistic	_	End=1455.734	weakly_ascending	_	_	_	_	_				_		
 442-0	TO003	442	sì	sì	sì	linguistic	_	End=1456.238	_	_	_	_	_	_				_		
 443-0	TO002	443	puo'	puo'	puo'	linguistic	_	Begin=1456.898	_	_	_	Truncated=Yes	_	_				_		
 443-1	TO002	443	entrare	entrare	entrare	linguistic	_		_	_	_	_	_	_				_		

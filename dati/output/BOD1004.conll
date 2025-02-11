@@ -1886,11 +1886,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 167-13	BO093	167	sperimentando	sperimentando	sperimentando	linguistic	_		_	_	_	_	_	_				_		
 167-14	BO093	167	moltissimi	moltissimi	moltissimi	linguistic	_		_	_	_	_	_	_				_		
 167-15	BO093	167	approcci	approcci	approcci	linguistic	_		_	_	_	_	_	_				_		
-167-16	BO093	167	cosiddetti	cosiddetti	cosiddetti	linguistic	_	End=1026.522	_	_	_	_	_	_				_		
+167-16	BO093	167	cosiddetti	cosiddetti	cosiddetti	linguistic	_	End=1026.521	_	_	_	_	_	_				_		
 168-0	BO093	168	con	con	con	linguistic	_	Begin=1026.924	_	_	_	_	_	_				_		
 168-1	BO093	168	dei	dei	dei	linguistic	_		_	_	_	_	_	_				_		
 168-2	BO093	168	farmaci	farmaci	farmaci	linguistic	_		_	_	_	_	_	_				_		
-168-3	BO093	168	antiaggreganti	antiaggreganti.	antiaggreganti.	linguistic	_	End=1029.388	descending	_	_	_	_	_				_		
+168-3	BO093	168	antiaggreganti	antiaggreganti.	antiaggreganti.	linguistic	_	End=1029.387	descending	_	_	_	_	_				_		
 169-0	BO093	169	cioè	cioè	cioè	linguistic	_	Begin=1030.001	_	_	_	_	_	_				_		
 169-1	BO093	169	dei	dei	dei	linguistic	_		_	_	_	_	_	_				_		
 169-2	BO093	169	f~	f~	f~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
@@ -1912,7 +1912,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 171-0	BO093	171	in	in	in	linguistic	_	Begin=1040.006	_	_	_	_	_	_				_		
 171-1	BO093	171	realtà	realtà	realtà	linguistic	_	End=1040.998	_	_	_	_	_	_				_		
 172-0	BO093	172	eh	e:::h	e:::h	linguistic	_	End=1042.595	_	_	_	_	_	_	0x3			_		
-173-0	BO093	173	nessuno	nessuno	nessuno	linguistic	_	Begin=1043.118	_	_	_	_	_	_				_		
+173-0	BO093	173	nessuno	nessuno	nessuno	linguistic	_	Begin=1043.117	_	_	_	_	_	_				_		
 173-1	BO093	173	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 173-2	BO093	173	questi	questi	questi	linguistic	_		_	_	_	_	_	_				_		
 173-3	BO093	173	di	di	di	linguistic	_		_	_	_	_	_	_				_		
@@ -3691,7 +3691,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 358-6	BO093	358	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 358-7	BO093	358	queste	queste	queste	linguistic	_		_	_	_	_	_	_				_		
 358-8	BO093	358	neurofibrille	neurofibrille,	neurofibrille,	linguistic	_	End=2050.65	weakly_ascending	_	_	_	_	_				_		
-359-0	BO093	359	è	è	è	linguistic	_	Begin=2051.008	_	_	_	_	_	_				_		
+359-0	BO093	359	è	è	è	linguistic	_	Begin=2051.007	_	_	_	_	_	_				_		
 359-1	BO093	359	principlamente	principlamente	principlamente	linguistic	_		_	_	_	_	_	_				_		
 359-2	BO093	359	una	una	una	linguistic	_		_	_	_	_	_	_				_		
 359-3	BO093	359	morte	morte	morte	linguistic	_		_	_	_	_	_	_				_		
@@ -3735,8 +3735,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 364-3	BO093	364	livello	livello	livello	linguistic	_		_	_	_	_	_	_				_		
 364-4	BO093	364	delle	delle	delle	linguistic	_		_	_	_	_	_	_				_		
 364-5	BO093	364	malattie	malattie	malattie	linguistic	_		_	_	_	_	_	_				_		
-364-6	BO093	364	neurodegenerative	neurodegenerative.	neurodegenerative.	linguistic	_	End=2077.14	descending	_	_	_	_	_				_		
-365-0	BO093	365	e	e	e	linguistic	_	Begin=2078.198	_	_	_	_	_	_				_		
+364-6	BO093	364	neurodegenerative	neurodegenerative.	neurodegenerative.	linguistic	_	End=2077.139	descending	_	_	_	_	_				_		
+365-0	BO093	365	e	e	e	linguistic	_	Begin=2078.197	_	_	_	_	_	_				_		
 365-1	BO093	365	questo	questo	questo	linguistic	_		_	_	_	_	_	_				_		
 365-2	BO093	365	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 365-3	BO093	365	comune	comune	comune	linguistic	_		_	_	_	_	_	_				_		
