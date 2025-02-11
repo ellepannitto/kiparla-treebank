@@ -170,6 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# CUSTOM FILES
 *.pfsx
 *.eaf.001
 *.bak
+*.mp3
+*.wav
