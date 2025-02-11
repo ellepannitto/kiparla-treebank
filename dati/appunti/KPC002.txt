@@ -1,0 +1,6 @@
+unità 184: "veramente" invece di "bello"
+333-334-335 non so come sistemare
+365 367 ignora errore
+444 445 446 caso che non ho considerato nello script
+
+TODO: da 541 in poi
