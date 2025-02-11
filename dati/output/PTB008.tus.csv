@@ -1,0 +1,914 @@
+tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents	W:non_jefferson	W:pauses_trim	W:prosodic_trim	W:moved_boundaries	E:volume	E:pace	E:guess	E:overlap	E:overlap_mismatch	E:overlap_duration	T:shortpauses	T:metalinguistic	T:errors	T:linguistic	annotation	correct	text
+0	TOR005	0.0	1.005	1.005	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	avvi:o	avvi:o	avvio
+1	TOR005	1.101	1.807	0.706	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	okay	okay	okay
+2	TOR005	1.807	2.924	1.117	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm:	ehm:	ehm
+3	TOR005	3.203	4.554	1.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	signora margherita erica	signora margherita erica	signora margherita erica
+4	TOI024	4.554	6.837	2.283	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	[sì (.)] io:: mi chiamo margherita erica.	[sì {P}] io:: mi chiamo margherita erica.	sì {P} io mi chiamo margherita erica
+5	TOR005	4.554	5.229	0.675	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[giusto?]	[giusto?]	giusto
+6	TOR005	6.894	8.492	1.598	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	mi mi ripete [il cognome?]	mi mi ripete [il cognome?]	mi mi ripete il cognome
+7	TOI024	7.506	8.75	1.244	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[dopo all'anagra]fe	[dopo all'anagra]fe	dopo all' anagrafe
+8	TOI024	8.75	9.418	0.668	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	bianchi	bianchi	bianchi
+9	TOR005	9.42	10.05	0.63	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	bianchi	bianchi	bianchi
+10	TOI024	10.05	11.351	1.301	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((porzione rimossa per motivi di privacy))	{porzione_rimossa_per_motivi_di_privacy}	{porzione_rimossa_per_motivi_di_privacy}
+11	TOR005	10.965	12.01	1.045	True	0	0	0	0	0	0	0	False	False	False	False	True	_	0	0	0	1	[o]kay	[o]kay	okay
+12	TOI024	12.01	14.522	2.512	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	e devo proprio firmare così perché::	e devo proprio firmare così perché::	e devo proprio firmare così perché
+13	TOI024	15.142	16.929	1.787	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	all'anagrafe è scritto così	all'anagrafe è scritto così	all' anagrafe è scritto così
+14	TOI024	17.176	18.31	1.134	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[mi viene da ridere]	[mi viene da ridere]	mi viene da ridere
+15	TOR005	17.176	18.31	1.134	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[e quindi e ce~]	[e quindi e ce~]	e quindi e ce~
+16	TOR005	18.31	18.903	0.593	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	eh [(giusto)]	eh [(giusto)]	eh giusto
+17	TOI024	18.539	21.496	2.957	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[no perché] all'inizio mettevo solo margherita primo nome	[no perché] all'inizio mettevo solo margherita primo nome	no perché all' inizio mettevo solo margherita primo nome
+18	TOI024	21.597	23.003	1.406	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	e ho avuto dei problemi	e ho avuto dei problemi	e ho avuto dei problemi
+19	TOI024	23.288	25.614	2.326	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	m(i) han cambiato il codice fiscale per quello	m(i) han cambiato il codice fiscale per quello	mi han cambiato il codice fiscale per quello
+20	TOR005	25.614	26.23	0.616	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	davvero?	davvero?	davvero
+21	TOI024	26.24	27.195	0.955	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	sì sì sì	sì sì sì	sì sì sì
+22	TOR005	27.507	29.387	1.88	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	eh credo che ci voglia la virgola	eh credo che ci voglia la virgola	eh credo che ci voglia la virgola
+23	TOR005	29.387	31.716	2.329	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	per non eh:: (.) fra il primo e il secondo nome	per non eh:: {P} fra il primo e il secondo nome	per non eh {P} fra il primo e il secondo nome
+24	TOI024	31.721	33.496	1.775	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	ah sì, [non lo so non lo so]	ah sì, [non lo so non lo so]	ah sì non lo so non lo so
+25	TOR005	32.02	33.496	1.476	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	[per evitarlo (.) credo]	[per evitarlo {P} credo]	per evitarlo {P} credo
+26	TOI024	33.496	34.3	0.804	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	eh margherita e~	eh margherita e~	eh margherita e~
+27	TOR005	34.307	35.056	0.749	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	2	però vabbè	pero' vabbè	pero' vabbè
+28	TOI024	35.06	35.507	0.447	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+29	TOR005	35.558	37.724	2.166	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	allora io eh le chiedo prima qualche dato	allora io eh le chiedo prima qualche dato	allora io eh le chiedo prima qualche dato
+30	TOR005	37.724	41.89	4.166	True	0	0	0	0	0	0	0	False	False	False	False	True	32=1.408,31=0.693	0	0	0	17	che serve: a me questo qui così poi [mi faccio il mio schemino con tutti i parlanti]	che serve: a me questo qui così poi [mi faccio il mio schemino con tutti i parlanti]	che serve a me questo qui così poi mi faccio il mio schemino con tutti i parlanti
+31	TOI024	39.787	40.48	0.693	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+32	TOI024	40.482	41.89	1.408	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[sì sì sì sì]	[sì sì sì sì]	sì sì sì sì
+33	TOR005	41.89	43.33	1.44	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	le chiedo quanti anni ha:?	le chiedo quanti anni ha:?	le chiedo quanti anni ha
+34	TOI024	43.33	45.64	2.31	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	3	[eh settan]totto purt[roppo] ((ride))	[eh settan]totto purt[roppo] {ride}	eh settantotto purtroppo {ride}
+35	TOR005	43.33	44.132	0.802	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[se::]	[se::]	se
+36	TOR005	44.766	46.379	1.613	True	0	0	0	0	0	0	0	False	False	False	False	True	34=0.874,37=0.739	0	0	0	2	[eh:: purtroppo]	[eh:: purtroppo]	eh purtroppo
+37	TOI024	45.64	47.174	1.534	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[eh però] li porto:	[eh pero'] li porto:	eh pero' li porto
+38	TOI024	47.174	47.837	0.663	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+39	TOI024	48.07	49.325	1.255	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[per conto mio] bene	[per conto mio] bene	per conto mio bene
+40	TOR005	48.075	48.823	0.748	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[e:]	[e:]	e
+41	TOR005	49.325	51.037	1.712	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	eh no assolu[tamente]	eh no assolu[tamente]	eh no assolutamente
+42	TOI024	50.103	53.072	2.969	True	0	0	0	0	0	0	0	False	False	False	False	True	41=0.934,43=0.962,44=0.670	0	0	0	9	[sto ancora bene] sto ancora [bene di salute parlo]	[sto ancora bene] sto ancora [bene di salute parlo]	sto ancora bene sto ancora bene di salute parlo
+43	TOR005	51.44	52.402	0.962	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[eh: ehm]	[eh: ehm]	eh ehm
+44	TOR005	52.402	53.771	1.369	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[è nata in] provincia?	[è nata in] provincia?	è nata in provincia
+45	TOI024	53.782	54.831	1.049	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	no io torino	no io torino	no io torino
+46	TOR005	54.846	56.104	1.258	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	okay tori[no]	okay tori[no]	okay torino
+47	TOI024	55.539	56.104	0.565	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[torino.]	[torino.]	torino
+48	TOI024	56.104	56.704	0.6	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[qua.]	[qua.]	qua
+49	TOR005	56.104	58.65	2.546	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[e quindi ri]siede anche qui [a torino]	[e quindi ri]siede anche qui [a torino]	e quindi risiede anche qui a torino
+50	TOI024	57.805	58.95	1.145	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	[sì (.) a tori]no sì.	[sì {P} a tori]no sì.	sì {P} a torino sì
+51	TOR005	58.955	59.905	0.95	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	<okay>	<okay>	okay
+52	TOR005	61.123	62.203	1.08	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	<torino>	<torino>	torino
+53	TOR005	62.273	63.89	1.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	ehm::: mh	ehm::: mh	ehm mh
+54	TOR005	63.89	65.158	1.268	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	ti~ titolo di studio?	ti~ titolo di studio?	ti~ titolo di studio
+55	TOI024	65.42	69.494	4.074	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	ah le le medie inferiori [come l'avviamento commer]ciale una volta c'era quello	ah le le medie inferiori [come l'avviamento commer]ciale una volta c'era quello	ah le le medie inferiori come l' avviamento commerciale una volta c' era quello
+56	TOR005	66.948	67.983	1.035	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[perfetto]	[perfetto]	perfetto
+57	TOI024	69.601	72.51	2.909	True	0	0	0	0	0	0	0	False	False	False	False	True	58=0.864,59=2.029	2	0	0	5	[eh eh (.) avviamento commerciale (.) sì]	[eh eh {P} avviamento commerciale {P} sì]	eh eh {P} avviamento commerciale {P} sì
+58	TOR005	69.617	70.481	0.864	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[perfetto]	[perfetto]	perfetto
+59	TOR005	70.481	72.517	2.036	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[<medie> inferiori benissimo]	[<medie> inferiori benissimo]	medie inferiori benissimo
+60	TOR005	72.517	74.085	1.568	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	questi sono solo dati miei	questi sono solo dati miei	questi sono solo dati miei
+61	TOI024	74.134	74.501	0.367	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+62	TOR005	74.622	76.13	1.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	possiamo passare (.) alle	possiamo passare {P} alle	possiamo passare {P} alle
+63	TOI024	76.13	76.676	0.546	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+64	TOR005	76.13	78.381	2.251	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[alle doma]ndine chia[miamole co(sì)]	[alle doma]ndine chia[miamole co(sì)]	alle domandine chiamiamole così
+65	TOI024	77.392	78.38	0.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh sì.]	[mh sì.]	mh sì
+66	TOR005	78.381	79.27	0.889	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	non si preoccupi	non si preoccupi	non si preoccupi
+67	TOI024	79.273	79.86	0.587	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì	sì	sì
+68	TOR005	79.86	80.688	0.828	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm:	ehm:	ehm
+69	TOR005	80.688	83.416	2.728	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	allora come le dicevo m::h l'intervista:	allora come le dicevo m::h l'intervista:	allora come le dicevo mh l' intervista
+70	TOR005	83.416	88.155	4.739	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	m::h c(io)è la raccolta dati (.) serve appunto a:d avere mh una paronamica	m::h c(io)è la raccolta dati {P} serve appunto a:d avere mh una paronamica	mh cioè la raccolta dati {P} serve appunto ad avere mh una paronamica
+71	TOI024	88.155	88.593	0.438	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+72	TOR005	88.155	90.502	2.347	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	[di quelli che] sono gli abi[tanti] di torino	[di quelli che] sono gli abi[tanti] di torino	di quelli che sono gli abitanti di torino
+73	TOI024	89.215	89.751	0.536	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+74	TOR005	90.683	92.998	2.315	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	e::h (.) di oggi e del passato	e::h {P} di oggi e del passato	eh {P} di oggi e del passato
+75	TOR005	92.998	97.617	4.619	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	okay quindi le farò qualche domanda su com'è torino oggi come la vede lei e come era	okay quindi le farò qualche domanda su com'è torino oggi come la vede lei e come era	okay quindi le farò qualche domanda su com' è torino oggi come la vede lei e come era
+76	TOR005	97.617	98.845	1.228	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	allora	allora	allora
+77	TOR005	99.082	101.835	2.753	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	inanzitutto (.) <le> eh devo chiedere:	inanzitutto {P} <le> eh devo chiedere:	inanzitutto {P} le eh devo chiedere
+78	TOR005	101.835	105.269	3.434	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	c(io)è le voglio chiedere (.) da quanto tempo vive a torino nel senso	c(io)è le voglio chiedere {P} da quanto tempo vive a torino nel senso	cioè le voglio chiedere {P} da quanto tempo vive a torino nel senso
+79	TOR005	105.269	107.844	2.575	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	ha vissuto sempre qui lei, o[: ha avuto]	ha vissuto sempre qui lei, [o: ha avuto]	ha vissuto sempre qui lei o ha avuto
+80	TOI024	106.854	108.79	1.936	True	0	0	0	0	0	0	0	False	False	False	False	True	79=0.990,81=0.942	0	0	0	6	[da quando son nata sempre qua.]	[da quando son nata sempre qua.]	da quando son nata sempre qua
+81	TOR005	107.848	110.752	2.904	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	[okay quindi (.)] torinese di nascita e di[::]	[okay quindi {P}] torinese di nascita e d[i::]	okay quindi {P} torinese di nascita e di
+82	TOI024	110.196	111.643	1.447	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[sì sì] sì sempre qua.	[sì sì] sì sempre qua.	sì sì sì sempre qua
+83	TOR005	111.663	113.183	1.52	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	e:: di adozione	e:: di adozione	e di adozione
+84	TOR005	113.183	114.838	1.655	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	e:: in famiglia?	e:: in famiglia?	e in famiglia
+85	TOR005	114.838	118.443	3.605	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	10	per quanto riguarda: (.) le lingue (.) che parlavate anche i dialetti	per quanto riguarda: {P} le lingue {P} che parlavate anche i dialetti	per quanto riguarda {P} le lingue {P} che parlavate anche i dialetti
+86	TOR005	118.455	121.891	3.436	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	co[me: m]:h con i suoi geni[tori quando era piccola fratelli]	co[me: m]:h con i suoi geni[tori quando era piccola fratelli]	come mh con i suoi genitori quando era piccola fratelli
+87	TOI024	118.744	119.236	0.492	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+88	TOI024	120.114	123.141	3.027	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[ma eh:: diciamo]:: mh	[ma eh:: diciamo]:: mh	ma eh diciamo mh
+89	TOI024	123.278	129.83	6.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	in:: famiglia eh piemontese praticamente. solo che c'era mio nonno che abitavamo: insieme	in:: famiglia eh piemontese praticamente. solo che c'era mio nonno che abitavamo: insieme	in famiglia eh piemontese praticamente solo che c' era mio nonno che abitavamo insieme
+90	TOI024	129.96	131.142	1.182	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	che era calabrese	che era calabrese	che era calabrese
+91	TOR005	131.142	131.543	0.401	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ah	ah	ah
+92	TOI024	131.543	132.634	1.091	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	papà di mia mamma	papà di mia mamma	papà di mia mamma
+93	TOI024	132.97	135.06	2.09	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	e quindi lui parlava italiano	e quindi lui parlava italiano	e quindi lui parlava italiano
+94	TOI024	135.06	136.02	0.96	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+95	TOR005	135.06	136.023	0.963	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	giustamen(te)	giustamen(te)	giustamente
+96	TOR005	136.029	137.308	1.279	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	e: non [non c'e~]	e: non [non c'e~]	e non non c' e~
+97	TOI024	136.725	139.223	2.498	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[io invece] con mia mamma e mio papà piemontese	[io invece] con mia mamma e mio papà piemontese	io invece con mia mamma e mio papà piemontese
+98	TOR005	139.228	144.864	5.636	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	19	okay e e il nonno ogni tanto come dire la eh mh ce l'aveva qualche: cadenza qualche:: m:h	okay e e il nonno ogni tanto come dire la eh mh ce l'aveva qualche: cadenza qualche:: m:h	okay e e il nonno ogni tanto come dire la eh mh ce l' aveva qualche cadenza qualche mh
+99	TOI024	144.864	148.722	3.858	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	eh ma io me non me lo ri[cordo per]ché è mancato io ero pic[cola]	eh ma io me non me lo ri[cordo per]ché è mancato io ero pic[cola]	eh ma io me non me lo ricordo perché è mancato io ero piccola
+100	TOR005	146.308	146.884	0.576	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+101	TOR005	148.169	149.158	0.989	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ah o]ka[y]	[ah o]ka[y]	ah okay
+102	TOI024	148.94	150.735	1.795	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[eh] però lui parlava italiano	[eh] pero' lui parlava italiano	eh pero' lui parlava italiano
+103	TOR005	150.751	151.654	0.903	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	benis[simo]	benis[simo]	benissimo
+104	TOI024	151.083	152.082	0.999	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[era]:	[era]:	era
+105	TOI024	152.568	155.99	3.422	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	della poli[zia] pa~ penso che parlasse ital[iano be]ne:	della poli[zia] pa~ penso che parlasse ital[iano be]ne:	della polizia pa~ penso che parlasse italiano bene
+106	TOR005	153.267	153.794	0.527	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+107	TOR005	154.997	155.485	0.488	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]	[ah]	ah
+108	TOR005	155.995	157.224	1.229	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	certo [certo] certo	certo [certo] certo	certo certo certo
+109	TOI024	156.323	156.696	0.373	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+110	TOR005	157.709	160.489	2.78	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	e:: che lavoro ha fatto lei: signora in vita sua?	e:: che lavoro ha fatto lei: signora in vita sua?	e che lavoro ha fatto lei signora in vita sua
+111	TOI024	160.489	165.851	5.362	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	io: ho allora ho iniziato il primo lavoro come commessa in un negozio di abbigliamento	io: ho allora ho iniziato il primo lavoro come commessa in un negozio di abbigliamento	io ho allora ho iniziato il primo lavoro come commessa in un negozio di abbigliamento
+112	TOR005	166.123	167.962	1.839	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	esiste ancora quel negozio?	esiste ancora quel negozio?	esiste ancora quel negozio
+113	TOI024	168.095	169.818	1.723	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	sì esiste ma::	sì esiste ma::	sì esiste ma
+114	TOI024	170.424	172.043	1.619	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	è: a porta palazzo	è: a porta palazzo	è a porta palazzo
+115	TOI024	172.043	174.031	1.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[sotto la] galleria::	[sotto la] galleria::	sotto la galleria
+116	TOR005	172.043	172.507	0.464	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]	[ah]	ah
+117	TOI024	174.425	177.184	2.759	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	deve essere um~ galleria umberto primo mi pare	deve essere um~ galleria umberto primo mi pare	deve essere um~ galleria umberto primo mi pare
+118	TOR005	177.184	177.71	0.526	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+119	TOI024	177.71	181.335	3.625	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	e una volta era proprio in piazza della repubblica era un:	e una volta era proprio in piazza della repubblica era un:	e una volta era proprio in piazza della repubblica era un
+120	TOI024	181.545	182.855	1.31	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	un negozio:	un negozio:	un negozio
+121	TOI024	183.108	185.954	2.846	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	con ventidue commesse eravamo [una volta]	con ventidue commesse eravamo [una volta]	con ventidue commesse eravamo una volta
+122	TOR005	185.283	185.953	0.67	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[(a)mmazza]	[(a)mmazza]	ammazza
+123	TOI024	185.954	190.11	4.156	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	sì sì ventidue commesse c'era un lavoro enorme poi gradatamente	sì sì ventidue commesse c'era un lavoro enorme poi gradatamente	sì sì ventidue commesse c' era un lavoro enorme poi gradatamente
+124	TOI024	191.159	192.122	0.963	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh::	eh::	eh
+125	TOI024	192.122	197.197	5.075	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	adesso saranno solo più due o cosa non sono più andata a vedere non lo so più comuque	adesso saranno solo più due o cosa non sono più andata a vedere non lo so più comuque	adesso saranno solo più due o cosa non sono più andata a vedere non lo so più comuque
+126	TOI024	197.314	199.102	1.788	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	si è perso un po[chino]	si è perso un po[chino]	si è perso un pochino
+127	TOR005	198.465	199.1	0.635	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+128	TOI024	199.295	199.83	0.535	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+129	TOI024	200.382	205.519	5.137	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	e inizialmente appunto ho fatto la commessa e poi ho: incontrato mio marito che aveva il negozio	e inizialmente appunto ho fatto la commessa e poi ho: incontrato mio marito che aveva il negozio	e inizialmente appunto ho fatto la commessa e poi ho incontrato mio marito che aveva il negozio
+130	TOR005	205.633	208.43	2.797	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	s'è trasferi[ta nel negozio: del marito]	s'è trasferi[ta nel negozio: del marito]	s' è trasferita nel negozio del marito
+131	TOI024	206.511	208.43	1.919	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[e::h eh purtroppo e]	[e::h eh purtroppo e]	eh eh purtroppo e
+132	TOI024	208.43	210.89	2.46	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	purtroppo dico purtroppo perché ho lasciato::	purtroppo dico purtroppo perché ho lasciato::	purtroppo dico purtroppo perché ho lasciato
+133	TOR005	211.11	212.157	1.047	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[quell'altro lavoro]	[quell'altro lavoro]	quell' altro lavoro
+134	TOI024	211.111	213.943	2.832	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	6	[che preferivo] andare (preferivo) stare là ((ride))	[che preferivo] andare (preferivo) stare là {ride}	che preferivo andare preferivo stare là {ride}
+135	TOR005	212.157	213.344	1.187	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+136	TOI024	213.943	214.916	0.973	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+137	TOR005	214.916	216.02	1.104	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm:::	ehm:::	ehm
+138	TOI024	216.027	216.497	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+139	TOR005	216.027	216.9	0.873	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[se] mh	[se] mh	se mh
+140	TOR005	216.927	221.482	4.555	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	magari eh va anche oggi per negozi e vede un po' le commesse di oggi come sono [nota]:	magari eh va anche oggi per negozi e vede un po' le commesse di oggi come sono [nota]:	magari eh va anche oggi per negozi e vede un po' le commesse di oggi come sono nota
+141	TOI024	220.862	221.278	0.416	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+142	TOR005	221.482	223.5	2.018	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	un po' delle differen[ze fra::]	un po' delle differen[ze fra::]	un po' delle differenze fra
+143	TOI024	222.526	223.501	0.975	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[eh enormi]	[eh enormi]	eh enormi
+144	TOR005	223.65	224.308	0.658	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	davvero?	davvero?	davvero
+145	TOI024	224.308	227.684	3.376	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	enormi perché noi avevamo dei padroni	enormi perché noi avevamo dei padroni	enormi perché noi avevamo dei padroni
+146	TOI024	227.684	230.644	2.96	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	son morti tutti e due adesso ci sono:: m:h	son morti tutti e due adesso ci sono:: m:h	son morti tutti e due adesso ci sono mh
+147	TOI024	230.644	231.787	1.143	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	gli eredi	gli eredi	gli eredi
+148	TOR005	231.787	232.549	0.762	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì?	sì?	sì
+149	TOI024	232.549	234.673	2.124	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	che e:h al sabato:	che e:h al sabato:	che eh al sabato
+150	TOI024	235.023	238.639	3.616	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	c'era un (.) ventidue commesse si immagini il lavoro che c'era	c'era un {P} ventidue commesse si immagini il lavoro che c'era	c' era un {P} ventidue commesse si immagini il lavoro che c' era
+151	TOR005	238.639	239.088	0.449	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	certo	certo	certo
+152	TOI024	239.088	239.753	0.665	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	enorme	enorme	enorme
+153	TOI024	239.993	241.032	1.039	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	proprio enorme	proprio enorme	proprio enorme
+154	TOI024	241.032	243.913	2.881	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	arrivavan da tutto il circondario dei paesi	arrivavan da tutto il circondario dei paesi	arrivavan da tutto il circondario dei paesi
+155	TOI024	243.913	247.524	3.611	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	nei paesetti a comprare il sabato anche in settimana	nei paesetti a comprare il sabato anche in settimana	nei paesetti a comprare il sabato anche in settimana
+156	TOI024	248.16	250.923	2.763	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	perché avevamo cerimonia: di tutte (p~)	perché avevamo cerimonia: di tutte (p~)	perché avevamo cerimonia di tutte p~
+157	TOI024	251.023	251.991	0.968	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	pellicce	pellicce	pellicce
+158	TOR005	252.01	254.65	2.64	True	0	0	0	0	0	0	0	False	False	False	False	True	160=1.246,159=0.911	0	0	0	9	quindi [era un negozio di: di pregio comunque conosciuto]	quindi [era un negozio di: di pregio comunque conosciuto]	quindi era un negozio di di pregio comunque conosciuto
+159	TOI024	252.493	253.404	0.911	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[tutto tutto]	[tutto tutto]	tutto tutto
+160	TOI024	253.404	255.0	1.596	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[sì sì sì sì] sì:	[sì sì sì sì] sì:	sì sì sì sì sì
+161	TOI024	255.009	256.169	1.16	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh conosciuto	mh conosciuto	mh conosciuto
+162	TOI024	257.222	261.955	4.733	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	e::: e niente::: i padroni erano abbastanza severi eh	e::: e niente::: i padroni erano abbastanza severi eh	e e niente i padroni erano abbastanza severi eh
+163	TOI024	262.204	264.543	2.339	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	l~ anche solo com'è l'aspetto che	l~ anche solo com'è l'aspetto che	l~ anche solo com' è l' aspetto che
+164	TOI024	264.543	268.111	3.568	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	incutevano soggezione io non andavo neanche in bagno perché	incutevano soggezione io non andavo neanche in bagno perché	incutevano soggezione io non andavo neanche in bagno perché
+165	TOI024	268.116	268.45	0.334	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+166	TOR005	268.458	269.18	0.722	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	accidenti	accidenti	accidenti
+167	TOI024	269.184	270.61	1.426	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	dato che al saba[to]	dato che al saba[to]	dato che al sabato
+168	TOR005	270.189	270.61	0.421	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+169	TOI024	270.61	271.559	0.949	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+170	TOI024	271.669	274.205	2.536	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	e:h la chiave dovevamo darla a loro	e:h la chiave dovevamo darla a loro	eh la chiave dovevamo darla a loro
+171	TOI024	274.508	277.36	2.852	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	e (cioè) chiederla a loro pardon la chiave del bagno	e (cioè) chiederla a loro pardon la chiave del bagno	e cioè chiederla a loro pardon la chiave del bagno
+172	TOI024	277.361	280.002	2.641	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	dovevamo chiederla alla: alla signora alla cassa	dovevamo chiederla alla: alla signora alla cassa	dovevamo chiederla alla alla signora alla cassa
+173	TOI024	280.249	282.437	2.188	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	e io per non andare lì a chiedere	e io per non andare lì a chiedere	e io per non andare lì a chiedere
+174	TOR005	282.737	283.849	1.112	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	neanche andava in [bagno]	neanche andava in [bagno]	neanche andava in bagno
+175	TOI024	283.463	284.456	0.993	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[non a]ndavo	[non a]ndavo	non andavo
+176	TOR005	284.612	286.64	2.028	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	e invece la domenica era di riposo	e invece la domenica era di riposo	e invece la domenica era di riposo
+177	TOI024	286.64	288.701	2.061	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[sì beh certo anche il lune]dì mattino	[sì beh certo anche il lune]dì mattino	sì beh certo anche il lunedì mattino
+178	TOR005	286.64	288.002	1.362	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[però diciamo x]	[pero' diciamo x]	pero' diciamo x
+179	TOR005	288.701	289.194	0.493	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	x	x	x
+180	TOI024	289.482	291.365	1.883	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	ecco questa è un'altra: signora che	ecco questa è un'altra: signora che	ecco questa è un' altra signora che
+181	TOI024	291.365	292.612	1.247	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+182	TOR005	291.365	292.61	1.245	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	salve buongiorno	salve buongiorno	salve buongiorno
+183	???	294.121	296.438	2.317	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	vado solo a togliere [un po' di x]	vado solo a togliere [un po' di x]	vado solo a togliere un po' di x
+184	TOI024	295.14	297.085	1.945	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[e ah c'è una si]gnora	[e ah c'è una si]gnora	e ah c' è una signora
+185	TOI024	297.297	302.253	4.956	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	che dov'è andata, ha detto che andava a prendere il caffè che voleva rinnovare la tessera [x]	che dov'è andata, ha detto che andava a prendere il caffè che voleva rinnovare la tessera [x]	che dov' è andata ha detto che andava a prendere il caffè che voleva rinnovare la tessera x
+186	???	301.445	302.88	1.435	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[eh vabbè] (a)spetta (u)n att(imo)	[eh vabbè] (a)spetta (u)n att(imo)	eh vabbè aspetta un attimo
+187	???	302.88	304.19	1.31	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	poi deve andar [via?]	poi deve andar [via?]	poi deve andar via
+188	TOI024	303.465	305.539	2.074	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	#[no non] (è lì) ndua l'è?	[no non] (è lì) ndua l'è?	no non è lì ndua l' è
+189	???	305.541	306.06	0.519	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ah	ah	ah
+190	TOI024	306.061	307.027	0.966	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	#sai nen	sai nen	sai nen
+191	TOI024	307.648	308.855	1.207	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	è sparita già?	è sparita già?	è sparita già
+192	TOI024	309.239	310.753	1.514	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	AH È LEI È LEI È LEI È LEI	AH È LEI È LEI È LEI È LEI	ah è lei è lei è lei è lei
+193	TOI024	310.753	312.133	1.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	È LÌ È LÌ È LÌ È LÌ	È LÌ È LÌ È LÌ È LÌ	è lì è lì è lì è lì
+194	???	312.162	313.369	1.207	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	ARRIVO ARRIVO:	ARRIVO ARRIVO:	arrivo arrivo
+195	TOI024	313.369	314.676	1.307	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	cosa voleva, cosa	cosa voleva, cosa	cosa voleva cosa
+196	TOI024	352.647	353.6	0.953	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+197	TOR005	352.647	353.609	0.962	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	x	x	x
+198	TOI024	353.625	354.458	0.833	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ecco	ecco	ecco
+199	TOI024	355.037	356.31	1.273	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	sbagliano loro	sbagliano loro	sbagliano loro
+200	TOI024	356.606	358.13	1.524	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[xxx]	[xxx]	xxx
+201	TOR005	356.606	358.134	1.528	True	0	0	0	0	0	0	0	False	False	False	False	True	200=1.524	0	0	0	6	e danno la colpa agli altri	e danno la colpa agli altri	e danno la colpa agli altri
+202	TOI024	359.13	360.814	1.684	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	allora tornando a no(i)	allora tornando a no(i)	allora tornando a noi
+203	TOR005	360.947	361.375	0.428	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì	sì	sì
+204	TOI024	361.041	361.375	0.334	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+205	TOI024	361.375	362.101	0.726	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	dicevo	dicevo	dicevo
+206	TOR005	362.129	366.81	4.681	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	ehm: quindi sì [un po' insomma] la la la settimana lavorat[iva e un po' rispetto a]	ehm: quindi sì [un po' insomma] la la la settimana lavorat[iva e un po' rispetto a]	ehm quindi sì un po' insomma la la la settimana lavorativa e un po' rispetto a
+207	TOI024	363.129	363.687	0.558	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+208	TOI024	365.283	370.76	5.477	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	[sì sì ecco e~::]: erano erano molto severi ecco adesso penso che non è più così	[sì sì ecco e~::]: erano erano molto severi ecco adesso penso che non è più così	sì sì ecco e~ erano erano molto severi ecco adesso penso che non è più così
+209	TOI024	371.342	375.024	3.682	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	o almeno (là) vedo che sono molto più liberi molto più::	o almeno (là) vedo che sono molto più liberi molto più::	o almeno là vedo che sono molto più liberi molto più
+210	TOI024	375.412	378.155	2.743	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	eh meno responsabili:	eh meno responsabili:	eh meno responsabili
+211	TOI024	378.385	380.449	2.064	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[penso io eh non so se sbaglio]	[penso io eh non so se sbaglio]	penso io eh non so se sbaglio
+212	TOR005	378.385	380.44	2.055	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[okay okay okay]	[okay okay okay]	okay okay okay
+213	TOR005	380.62	382.594	1.974	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	ehm:[: va] bene	eh[m:: va] bene	ehm va bene
+214	TOI024	381.28	381.822	0.542	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+215	TOI024	382.594	383.105	0.511	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+216	TOR005	382.594	383.74	1.146	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ehm]: quel	[ehm]: quel	ehm quel
+217	???	383.74	386.88	3.14	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	comunque non non ci siamo comunque perché diciotto	comunque non non ci siamo comunque perché diciotto	comunque non non ci siamo comunque perché diciotto
+218	???	387.893	390.698	2.805	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	giovedì diciotto è d~ è lunedì diciotto	giovedì diciotto è d~ è lunedì diciotto	giovedì diciotto è d~ è lunedì diciotto
+219	TOI024	391.866	394.052	2.186	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	domenca diciassette	domenca diciassette	domenca diciassette
+220	TOI024	394.052	396.179	2.127	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	domenica ne abbiamo diciassette [vero?]	domenica ne abbiamo diciassette [vero?]	domenica ne abbiamo diciassette vero
+221	TOR005	395.545	397.066	1.521	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[control]lo subito	[control]lo subito	controllo subito
+222	TOI024	398.791	399.432	0.641	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+223	TOR005	398.791	401.614	2.823	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[allora o]ggi è [giovedì quattordi~ sì]	[allora o]ggi è [giovedì quattordi~ sì]	allora oggi è giovedì quattordi~ sì
+224	TOI024	399.863	403.221	3.358	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[perché domenica x dicia]ssette lunedì diciotto	[perché domenica x dicia]ssette lunedì diciotto	perché domenica x diciassette lunedì diciotto
+225	TOI024	403.221	404.8	1.579	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[eh si son] sbagliati	[eh si son] sbagliati	eh si son sbagliati
+226	TOR005	403.221	403.734	0.513	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+227	TOI024	405.689	408.787	3.098	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	si son sbagliati dovevano mettere se è oggi	si son sbagliati dovevano mettere se è oggi	si son sbagliati dovevano mettere se è oggi
+228	TOI024	408.844	410.991	2.147	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	dovevano mettere oggi ne abbiamo tre	dovevano mettere oggi ne abbiamo tre	dovevano mettere oggi ne abbiamo tre
+229	TOI024	410.991	412.534	1.543	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	2	[tre (.) quattor]dici	[tre {P} quattor]dici	tre {P} quattordici
+230	TOR005	410.991	412.088	1.097	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[oggi è quattordici?]	[oggi è quattordici?]	oggi è quattordici
+231	TOI024	412.534	414.169	1.635	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	x metter quat~ eh vabbè	x metter quat~ eh vabbè	x metter quat~ eh vabbè
+232	???	414.169	415.365	1.196	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	2	ma (.) comunque	ma {P} comunque	ma {P} comunque
+233	TOI024	415.365	416.83	1.465	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	chi lavora sbaglia eh	chi lavora sbaglia eh	chi lavora sbaglia eh
+234	???	416.857	419.949	3.092	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	comunque aldo, aldo: (.) m(i) ave(v)a detto	comunque aldo, aldo: {P} m(i) ave(v)a detto	comunque aldo aldo {P} mi aveva detto
+235	???	420.515	421.49	0.975	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	questo giovedì	questo giovedì	questo giovedì
+236	TOI024	421.49	423.974	2.484	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	eh e allora aspetti aspetti	eh e allora aspetti aspetti	eh e allora aspetti aspetti
+237	TOI024	424.256	425.269	1.013	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	aspetti	aspetti	aspetti
+238	TOI024	425.398	426.513	1.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	con fiducia	con fiducia	con fiducia
+239	TOI024	426.917	428.371	1.454	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	aspetti con fiducia	aspetti con fiducia	aspetti con fiducia
+240	???	428.402	429.152	0.75	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	va bene	va bene	va bene
+241	???	429.289	430.116	0.827	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	grazie	grazie	grazie
+242	TOR005	434.202	439.859	5.657	True	0	0	1	0	0	0	0	False	True	False	False	False	_	0	0	0	23	ehm: e ha sempre fatto questo di lavoro, >sempre quello dì c(io)è finchè ha lavorato ha [sempre fatto il lavoro di commessa no?]	ehm: e ha sempre fatto questo di lavoro, >sempre quello dì c(io)è finché ha lavorato ha [sempre fatto il lavoro di commessa no?]	ehm e ha sempre fatto questo di lavoro sempre quello dì cioè finché ha lavorato ha sempre fatto il lavoro di commessa no
+243	TOI024	438.314	441.567	3.253	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[sì eh c(io)è: da c~] da che ho:: mh	[sì eh c(io)è: da c~] da che ho:: mh	sì eh cioè da c~ da che ho mh
+244	TOI024	441.567	446.049	4.482	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	ho sono andata nel negozio di mio marito poi [nel (no~) ci] siamo sposati	ho sono andata nel negozio di mio marito poi [nel (no~) ci] siamo sposati	ho sono andata nel negozio di mio marito poi nel no~ ci siamo sposati
+245	TOR005	444.319	444.897	0.578	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+246	TOI024	446.049	447.825	1.776	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	son sempre stata lì e basta	son sempre stata lì e basta	son sempre stata lì e basta
+247	TOR005	447.905	452.515	4.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	okay quindi dopo ha: ha gestito diciamo [così il negozio::] di::	okay quindi dopo ha: ha gestito diciamo [così il negozio::] di::	okay quindi dopo ha ha gestito diciamo così il negozio di
+248	TOI024	450.431	451.889	1.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[sì come:]	[sì come:]	sì come
+249	TOI024	452.821	456.03099999999995	3.31	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	0	0	5	come:: ingerente come proprietaria eh	come:: ingerente come proprietaria eh	come ingerente come proprietaria eh
+250	TOR005	456.126	459.112	2.986	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	okay e avevate dei commessi lì, o era: proprio a::	okay e avevate dei commessi lì, o era: proprio a::	okay e avevate dei commessi lì o era proprio a
+251	TOI024	459.112	462.964	3.852	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	no eh stavo io e lui era fuori eh: (a) fare il suo lavo[ro]	no eh stavo io e lui era fuori eh: (a) fare il suo lavo[ro]	no eh stavo io e lui era fuori eh a fare il suo lavoro
+252	TOR005	462.492	462.96	0.468	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+253	TOI024	463.045	466.774	3.729	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	10	però c'era due: persone che ci davano una mano	pero' c'era due: persone che ci davano una mano	pero' c' era due persone che ci davano una mano
+254	TOI024	466.774	470.828	4.054	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	sa allora c'era gli operai che lavoravano (al)la fiat facevano i turni	sa allora c'era gli operai che lavoravano (al)la fiat facevano i turni	sa allora c' era gli operai che lavoravano alla fiat facevano i turni
+255	TOR005	470.828	471.147	0.319	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+256	TOI024	471.147	474.667	3.52	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	e venivano a fare qualche: mandavamo a far qualche (.) così	e venivano a fare qualche: mandavamo a far qualche {P} così	e venivano a fare qualche mandavamo a far qualche {P} così
+257	TOI024	474.667	475.655	0.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	alla buona	alla buona	alla buona
+258	TOR005	475.655	475.94	0.285	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	(okay)	(okay)	okay
+259	TOR005	475.94	481.096	5.156	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	eh:: col lavoro le piaceva, o magari a un certo pun[to ha: (voluto) fare qualcos'altro]	eh:: col lavoro le piaceva, o magari a un certo pun[to ha: (voluto) fare qualcos'altro]	eh col lavoro le piaceva o magari a un certo punto ha voluto fare qualcos' altro
+260	TOI024	479.35	486.334	6.984	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	[veramente io preferivo] preferivo stare in mezzo alle amiche perché:[: s~ si] scherzava si rideva lì ero sola	[veramente io preferivo] preferivo stare in mezzo alle amiche perch[é:: s~ si] scherzava si rideva lì ero sola	veramente io preferivo preferivo stare in mezzo alle amiche perché s~ si scherzava si rideva lì ero sola
+261	TOR005	483.48	484.186	0.706	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[chiaro]	[chiaro]	chiaro
+262	TOR005	486.334	489.001	2.667	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	passavano: (.) più lentamente [le giornate]	passavano: {P} più lentamente [le giornate]	passavano {P} più lentamente le giornate
+263	TOI024	488.247	490.607	2.36	True	0	0	0	0	0	0	0	False	False	False	False	True	262=0.754,264=1.048	0	0	0	5	[eh infatti sì sì] sì	[eh infatti sì sì] sì	eh infatti sì sì sì
+264	TOR005	489.001	490.049	1.048	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[esattamente]	[esattamente]	esattamente
+265	TOR005	490.863	492.357	1.494	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm::	ehm::	ehm
+266	TOR005	492.63	494.403	1.773	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	quindi: ehm:::	quindi: ehm:::	quindi ehm
+267	???	494.403	495.112	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	ah sei qua?	ah sei qua?	ah sei qua
+268	TOI024	495.20000000000005	496.0	0.9	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	0	0	3	eh eh eh	eh eh eh	eh eh eh
+269	TOI024	496.773	497.482	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[sta inten~]	[sta inten~]	sta inten~
+270	???	496.773	497.482	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+271	TOI024	497.482	498.153	0.671	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+272	TOR005	497.482	498.153	0.671	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[prego]	[prego]	prego
+273	TOI024	498.201	499.81	1.609	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	#a i'è na tessera da fè	a i'è na tessera da fè	a i' è na tessera da fè
+274	TOI024	499.81	502.137	2.327	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[poi ha] detto che dobbiamo a essere in due	[poi ha] detto che dobbiamo a essere in due	poi ha detto che dobbiamo a essere in due
+275	???	499.81	500.167	0.357	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh?]	[eh?]	eh
+276	TOI024	502.237	504.363	2.126	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	adesso mi fa qualche domanda	adesso mi fa qualche domanda	adesso mi fa qualche domanda
+277	TOI024	504.524	505.069	0.545	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+278	TOI024	505.333	506.345	1.012	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	è l'altra mia collega	è l'altra mia collega	è l' altra mia collega
+279	TOR005	506.345	507.726	1.381	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	ah va bene perfetto	ah va bene perfetto	ah va bene perfetto
+280	TOR005	508.024	510.42	2.396	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	ehm::: va bene ehm	ehm::: va bene ehm	ehm va bene ehm
+281	TOR005	510.515	513.799	3.284	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	11	e invece (.) per per questo per quanto riguarda il lavoro i:	e invece {P} per per questo per quanto riguarda il lavoro i:	e invece {P} per per questo per quanto riguarda il lavoro i
+282	TOR005	513.832	516.94	3.108	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	13	il primo mi ha detto che era vicino a porta palazzo (.) di nego[zio]	il primo mi ha detto che era vicino a porta palazzo {P} di nego[zio]	il primo mi ha detto che era vicino a porta palazzo {P} di negozio
+283	TOI024	516.544	516.94	0.396	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì.]	[sì.]	sì
+284	TOI024	516.94	517.368	0.428	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+285	TOR005	516.94	518.665	1.725	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[e invece que]llo: [successivo a:]	[e invece que]llo: [successivo a:]	e invece quello successivo a
+286	TOI024	517.752	519.428	1.676	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[è:: (in) bo]rgo vittoria	[è:: (in) bo]rgo vittoria	è in borgo vittoria
+287	TOI024	519.428	522.35	2.922	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	[non so se lei] forse non è di torino non: non sa dov'è	[non so se lei] forse non è di torino non: non sa dov'è	non so se lei forse non è di torino non non sa dov' è
+288	TOR005	519.428	520.309	0.881	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[borgo vittoria]	[borgo vittoria]	borgo vittoria
+289	TOR005	522.35	526.614	4.264	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	14	no:: (.) ho presente ma non precisamente perché è una zona che ho frequentato poco	no:: {P} ho presente ma non precisamente perché è una zona che ho frequentato poco	no {P} ho presente ma non precisamente perché è una zona che ho frequentato poco
+290	TOI024	526.614	530.097	3.483	True	0	0	1	1	0	0	0	False	False	False	False	False	_	0	0	0	9	via @nomeluogo è una via molto commerciale [però è::]	via nomeluogo è una via molto commerciale [pero' è::]	via nomeluogo è una via molto commerciale pero' è
+291	TOR005	529.361	530.09	0.729	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]	[ah]	ah
+292	TOI024	530.62	532.19	1.57	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	borgo vittoria [non è qua]	borgo vittoria [non è qua]	borgo vittoria non è qua
+293	TOR005	531.51	532.198	0.688	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[okay]	[okay]	okay
+294	TOR005	532.274	536.05	3.776	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	e: invece per quantpo riguarda: la residenza, le case dove ha vissu[to:]	e: invece per quantpo riguarda: la residenza, le case dove ha vissu[to:]	e invece per quantpo riguarda la residenza le case dove ha vissuto
+295	TOI024	535.596	538.533	2.937	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	[ah i~] eh alle case dove ho vissuto ho vissuto:	[ah i~] eh alle case dove ho vissuto ho vissuto:	ah i~ eh alle case dove ho vissuto ho vissuto
+296	TOI024	538.814	540.543	1.729	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	eh fino a sei anni fa	eh fino a sei anni fa	eh fino a sei anni fa
+297	TOI024	540.543	542.897	2.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[lì in] borgo vittoria vicino al negozio	[lì in] borgo vittoria vicino al negozio	lì in borgo vittoria vicino al negozio
+298	TOR005	540.543	541.006	0.463	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+299	TOI024	542.897	544.916	2.019	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	e adesso invece abito qua vicino	e adesso invece abito qua vicino	e adesso invece abito qua vicino
+300	TOR005	544.916	545.621	0.705	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	oka[y]	oka[y]	okay
+301	TOI024	545.485	546.85	1.365	True	0	0	0	1	0	0	0	False	False	False	False	True	300=0.136,302=1.229	0	0	0	4	[eh in via @nomeluogo]	[eh in via nomeluogo]	eh in via nomeluogo
+302	TOR005	545.621	549.711	4.09	True	1	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[e invece::] da da bambina  doveva viveva c(io)è con [la famiglia:]	[e invece::] da da bambina doveva viveva c(io)è con [la famiglia:]	e invece da da bambina doveva viveva cioè con la famiglia
+303	TOI024	548.619	550.636	2.017	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[eh sono nata:] sono nata lì:	[eh sono nata:] sono nata lì:	eh sono nata sono nata lì
+304	TOI024	550.676	553.838	3.162	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	[in e::h (.) sì] sì sì in borgo vittoria	[in e::h {P} sì] sì sì in borgo vittoria	in eh {P} sì sì sì in borgo vittoria
+305	TOR005	550.676	552.24	1.564	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[ah quindi nata e cresciuta lì]	[ah quindi nata e cresciuta lì]	ah quindi nata e cresciuta lì
+306	TOR005	553.883	554.514	0.631	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	e:: s~	e:: s~	e s~
+307	TOR005	555.129	557.801	2.672	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	fino a sei anni fa sempre in quella casa [ha vissuto?]	fino a sei anni fa sempre in quella casa [ha vissuto?]	fino a sei anni fa sempre in quella casa ha vissuto
+308	TOI024	557.157	560.371	3.214	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[sempre lì] dalla nascita sempre lì adesso abito qua	[sempre lì] dalla nascita sempre lì adesso abito qua	sempre lì dalla nascita sempre lì adesso abito qua
+309	TOI024	560.479	561.23	0.751	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[vicino]	[vicino]	vicino
+310	TOR005	560.479	563.346	2.867	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[anche dopo che] si è sposata a:[: (av~ ave~)]	[anche dopo che] si è sposata [a:: (av~ ave~)]	anche dopo che si è sposata a av~ ave~
+311	TOI024	562.372	564.1	1.728	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[eh mi son spo]sata là:	[eh mi son spo]sata là:	eh mi son sposata là
+312	TOR005	564.1	564.45	0.35	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+313	TOI024	564.86	566.204	1.344	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	abitavo sempre là	abitavo sempre là	abitavo sempre là
+314	TOI024	566.275	569.646	3.371	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	e poi adesso qui che sono da sola abito qua sei anni f~	e poi adesso qui che sono da sola abito qua sei anni f~	e poi adesso qui che sono da sola abito qua sei anni f~
+315	TOI024	569.79	571.552	1.762	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	sei anni fa ho comprato qua	sei anni fa ho comprato qua	sei anni fa ho comprato qua
+316	TOR005	572.137	574.0	1.863	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	benissimo e inve~ okay ehm:	benissimo e inve~ okay ehm:	benissimo e inve~ okay ehm
+317	TOR005	574.001	578.075	4.074	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	11	quindi due zone di torino abbastanza diverse (.) [mi pare di capire]	quindi due zone di torino abbastanza diverse {P} [mi pare di capire]	quindi due zone di torino abbastanza diverse {P} mi pare di capire
+318	TOI024	576.818	580.387	3.569	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[sì molto (beh)] questa è [molto bella] quella là era più:	[sì molto (beh)] questa è [molto bella] quella là era più:	sì molto beh questa è molto bella quella là era più
+319	TOR005	578.558	579.213	0.655	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[so:]	[so:]	so
+320	TOR005	580.678	585.79	5.112	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	eh ne~ se volessimo mh tracciare una differenza no, [fra come sono queste due zone]	eh ne~ se volessimo mh tracciare una differenza no, [fra come sono queste due zone]	eh ne~ se volessimo mh tracciare una differenza no fra come sono queste due zone
+321	TOI024	584.067	586.449	2.382	True	0	0	0	0	0	0	0	False	False	False	False	True	320=1.723,322=0.659	1	0	0	2	[e::h (.) enorme]	[e::h {P} enorme]	eh {P} enorme
+322	TOR005	585.79	588.094	2.304	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[all'e]poca e ades[so]	[all'e]poca e ades[so]	all' epoca e adesso
+323	TOI024	587.441	588.883	1.442	True	0	0	0	0	0	0	0	False	False	False	False	True	322=0.653,324=0.789	0	0	0	2	[enorme enorme]	[enorme enorme]	enorme enorme
+324	TOR005	588.094	589.36	1.266	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[come differivano?]	[come differivano?]	come differivano
+325	TOI024	589.36	591.534	2.174	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	enorme ma e:h	enorme ma e:h	enorme ma eh
+326	TOI024	591.813	595.331	3.518	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	eh questa più o meno non è cambiata molto mi dico[no:]	eh questa più o meno non è cambiata molto mi dico[no:]	eh questa più o meno non è cambiata molto mi dicono
+327	TOR005	594.763	595.33	0.567	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+328	TOI024	595.435	598.759	3.324	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	almeno <dagli> (.) la per~ le persone che:	almeno <dagli> {P} la per~ le persone che:	almeno dagli {P} la per~ le persone che
+329	TOI024	598.983	600.951	1.968	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	eh: abitavano qua anche prima	eh: abitavano qua anche prima	eh abitavano qua anche prima
+330	TOI024	601.27	603.11	1.84	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	non è cambiata gran[chè]	non è cambiata gran[ché]	non è cambiata granché
+331	TOR005	602.539	603.116	0.577	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+332	TOI024	603.151	606.502	3.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	invece là da me è: cambiata abbastanza sì	invece là da me è: cambiata abbastanza sì	invece là da me è cambiata abbastanza sì
+333	TOR005	606.522	607.81	1.288	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	in bene o in peggio?	in bene o in peggio?	in bene o in peggio
+334	TOI024	607.81	609.159	1.349	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	mh per me in peggio	mh per me in peggio	mh per me in peggio
+335	TOR005	609.159	609.924	0.765	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	mh in pe[ggio]	mh in pe[ggio]	mh in peggio
+336	TOI024	609.721	611.217	1.496	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[>meno] male che non vado più<	[>meno] male che non vado più<	meno male che non vado più
+337	TOR005	611.524	613.966	2.442	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	6	c'è un po' più criminalità suppo[::~]	c'è un po' più criminalità supp[o::~]	c' è un po' più criminalità suppo::~
+338	TOI024	613.195	615.031	1.836	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[è c'è un] po' di marmaglia	[è c'è un] po' di marmaglia	è c' è un po' di marmaglia
+339	TOI024	615.031	616.164	1.133	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	un po' di marmaglia	un po' di marmaglia	un po' di marmaglia
+340	TOI024	616.391	616.884	0.493	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+341	TOR005	616.995	617.782	0.787	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	ho capito	ho capito	ho capito
+342	TOI024	617.782	619.393	1.611	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	son zone un po':	son zone un po':	son zone un po'
+343	TOR005	620.086	621.345	1.259	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm[::]	eh[m::]	ehm
+344	TOI024	620.532	621.817	1.285	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[un po' così a ri]schio	[un po' così a ri]schio	un po' così a rischio
+345	TOR005	621.861	627.4	5.539	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	19	però lì ci come dire c'aveva suppongo anche: le amiche di un tempo lì nella [zona: quella originaria]	pero' lì ci come dire c'aveva suppongo anche: le amiche di un tempo lì nella [zona: quella originaria]	pero' lì ci come dire c' aveva suppongo anche le amiche di un tempo lì nella zona quella originaria
+346	TOI024	625.6	630.44	4.84	True	0	0	0	0	0	0	0	False	False	False	False	True	345=1.800,347=0.537	0	0	0	14	[sì:: sì sì ce ne ho ancora ogni] tanto: vado a trovarle sì sì:	[sì:: sì sì ce ne ho ancora ogni] tanto: vado a trovarle sì sì:	sì sì sì ce ne ho ancora ogni tanto vado a trovarle sì sì
+347	TOR005	627.4	627.937	0.537	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+348	TOR005	630.44	631.585	1.145	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	oppure [vengono]	oppure [vengono]	oppure vengono
+349	TOI024	630.709	632.826	2.117	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[ce ne una in par]ticolare che	[ce ne una in par]ticolare che	ce ne una in particolare che
+350	TOI024	632.981	636.711	3.73	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	eh: le ho fatto fare la tessere viene anche [qua: an]che un po':	eh: le ho fatto fare la tessere viene anche [qua: an]che un po':	eh le ho fatto fare la tessere viene anche qua anche un po'
+351	TOR005	635.326	635.93	0.604	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ah ah]	[ah ah]	ah ah
+352	TOI024	637.051	641.979	4.928	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	di rado perché è lontano deve prendere il pullman che: non passa mai	di rado perché è lontano deve prendere il pullman che: non passa mai	di rado perché è lontano deve prendere il pullman che non passa mai
+353	TOI024	642.307	645.74	3.433	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	eh il settantasette è u~ è un [po': è] brutto lo conosce?	eh il settantasette è u~ è un [po': è] brutto lo conosce?	eh il settantasette è u~ è un po' è brutto lo conosce
+354	TOR005	644.097	644.663	0.566	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+355	TOR005	645.74	646.18	0.44	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mamma mia	mamma mia	mamma mia
+356	TOI024	646.184	647.41	1.226	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	eh lasci perdere	eh lasci perdere	eh lasci perdere
+357	TOI024	647.452	649.96	2.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	è brutto io lo prendevo sempre a venir qua	è brutto io lo prendevo sempre a venir qua	è brutto io lo prendevo sempre a venir qua
+358	TOI024	650.228	655.504	5.276	True	0	0	2	0	0	0	0	False	False	False	False	False	_	0	0	0	18	eh e: allora viene di rado però viene quando ci sono i pranzi (perchè qui) facciam tante cose	eh e: allora viene di rado pero' viene quando ci sono i pranzi (perché qui) facciam tante cose	eh e allora viene di rado pero' viene quando ci sono i pranzi perché qui facciam tante cose
+359	TOR005	655.504	655.897	0.393	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+360	TOI024	655.897	662.105	6.208	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	la festa delle <donne> ogni tanto: un pranzo, bollito, castagnata, tutte quelle cose lì	la festa delle <donne> ogni tanto: un pranzo, bollito, castagnata, tutte quelle cose lì	la festa delle donne ogni tanto un pranzo bollito castagnata tutte quelle cose lì
+361	TOR005	662.105	664.097	1.992	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	avete fatto la festa delle [donne] qui:?	avete fatto la festa delle [donne] qui:?	avete fatto la festa delle donne qui
+362	TOI024	663.23	663.771	0.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+363	TOI024	664.12	664.955	0.835	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[sì sì sì sì]	[sì sì sì sì]	sì sì sì sì
+364	TOR005	664.12	664.95	0.83	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[che avete fatto?]	[che avete fatto?]	che avete fatto
+365	TOR005	665.0500000000001	666.125	1.175	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	0	0	3	cosa avete organizzato?	cosa avete organizzato?	cosa avete organizzato
+366	TOI024	666.202	670.944	4.742	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	[e:h] il presidente ha organizzato: un: bel pranzo a mezzogior[no]	[e:h] il presidente ha organizzato: un: bel pranzo a mezzogior[no]	eh il presidente ha organizzato un bel pranzo a mezzogiorno
+367	TOR005	666.202	666.997	0.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+368	TOR005	670.738	671.223	0.485	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ah] ah	[ah] ah	ah ah
+369	TOI024	670.944	671.93	0.986	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+370	TOI024	672.125	674.341	2.216	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	e poi ha~ ci han servito servito tutti gli uomi[ni]	e poi ha~ ci han servito servito tutti gli uomi[ni]	e poi ha~ ci han servito servito tutti gli uomini
+371	TOR005	674.051	675.313	1.262	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]:::	[ah]:::	ah
+372	TOI024	674.341	675.764	1.423	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+373	TOR005	675.77	677.597	1.827	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	si sono invertiti i ruoli quin[di]	si sono invertiti i ruoli quin[di]	si sono invertiti i ruoli quindi
+374	TOI024	677.082	681.1	4.018	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	15	[sì sì] sì gli uomini del direttivo (ed e:~) eran solo in sei ci han servito	[sì sì] sì gli uomini del direttivo (ed e:~) eran solo in sei ci han servito	sì sì sì gli uomini del direttivo ed e:~ eran solo in sei ci han servito
+375	TOI024	681.129	681.496	0.367	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+376	TOI024	681.496	682.264	0.768	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	sì sì	sì sì	sì sì
+377	TOI024	682.358	684.509	2.151	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	e l'abbiamo messi da parte a mangiare	e l'abbiamo messi da parte a mangiare	e l' abbiamo messi da parte a mangiare
+378	TOR005	684.509	685.369	0.86	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+379	TOI024	685.013	686.74	1.727	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	5	in una stanza da par[te] ((ridendo))	in una stanza da par[te] {ridendo}	in una stanza da parte {ridendo}
+380	TOR005	686.44	687.584	1.144	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[i]sola[ti]	[i]sola[ti]	isolati
+381	TOI024	687.09	688.272	1.182	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[FACEVANO] PENA	[FACEVANO] PENA	facevano pena
+382	TOI024	688.272	689.019	0.747	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+383	TOR005	689.048	690.218	1.17	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	(v)abbè una vol[ta all'anno]	(v)abbè una vol[ta all'anno]	vabbè una volta all' anno
+384	TOI024	689.609	691.463	1.854	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[no sempre] nel salone però:	[no sempre] nel salone pero':	no sempre nel salone pero'
+385	TOI024	691.463	692.194	0.731	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	un po':	un po':	un po'
+386	TOI024	692.333	694.713	2.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	a lato in un tavolo a parte	a lato in un tavolo a parte	a lato in un tavolo a parte
+387	TOI024	694.739	696.199	1.46	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	sì ma è stato bello	sì ma è stato bello	sì ma è stato bello
+388	TOR005	696.533	697.644	1.111	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm::	ehm::	ehm
+389	TOR005	698.429	702.367	3.938	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	<le scuole> invece le ha frequentate penso sempre [lì a borgo]	<le scuole> invece le ha frequentate penso sempre [lì a borgo]	le scuole invece le ha frequentate penso sempre lì a borgo
+390	TOI024	701.378	703.596	2.218	True	0	0	0	0	0	0	0	False	False	False	False	True	389=0.989,391=1.226	0	0	0	8	[là là in borgo vittorio sì sì sì]	[là là in borgo vittorio sì sì sì]	là là in borgo vittorio sì sì sì
+391	TOR005	702.37	704.278	1.908	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[ehm: come si chiam]ava la scuola?	[ehm: come si chiam]ava la scuola?	ehm come si chiamava la scuola
+392	TOI024	704.278	709.472	5.194	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	[eh allora] la:: (ah eh) giuseppe lievo si chiamava la le elementari	[eh allora] la:: (ah eh) giuseppe lievo si chiamava la le elementari	eh allora la ah eh giuseppe lievo si chiamava la le elementari
+393	TOR005	704.278	705.291	1.013	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh::]	[eh::]	eh
+394	TOR005	709.571	709.984	0.413	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+395	TOI024	709.984	713.33	3.346	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	e invece poi le commerciali son(o an)data in centro	e invece poi le commerciali son(o an)data in centro	e invece poi le commerciali sono andata in centro
+396	TOI024	713.456	716.595	3.139	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[e si chia]mava: era in: via meucci mi pare	[e si chia]mava: era in: via meucci mi pare	e si chiamava era in via meucci mi pare
+397	TOR005	713.456	713.935	0.479	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+398	TOI024	717.039	718.735	1.696	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	a:h mi ricordo poco	a:h mi ricordo poco	ah mi ricordo poco
+399	TOI024	719.359	722.151	2.792	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	comunque in via meucci (.) mi pare nove	comunque in via meucci {P} mi pare nove	comunque in via meucci {P} mi pare nove
+400	TOI024	722.151	723.741	1.59	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[mh eh c'era la]	[mh eh c'era la]	mh eh c' era la
+401	TOR005	722.151	723.74	1.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[ah okay eh va bene]	[ah okay eh va bene]	ah okay eh va bene
+402	TOI024	723.918	725.704	1.786	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[l'avviamento com]merciale	[l'avviamento com]merciale	l' avviamento commerciale
+403	???	723.918	724.9	0.982	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eccomi]	[eccomi]	eccomi
+404	TOI024	725.704	726.26	0.556	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ecco]	[ecco]	ecco
+405	???	725.704	726.26	0.556	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[OH]	[OH]	oh
+406	TOI024	726.286	727.459	1.173	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	2	[x (.) eh]	[x {P} eh]	x {P} eh
+407	TOR005	726.286	727.901	1.615	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[salve buongio]rno	[salve buongio]rno	salve buongiorno
+408	???	726.286	727.25	0.964	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[ce l'ho fatta]	[ce l'ho fatta]	ce l' ho fatta
+409	TOI024	728.216	730.018	1.802	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	eh questa è: l'altra mia collega	eh questa è: l'altra mia collega	eh questa è l' altra mia collega
+410	TOR005	730.018	730.316	0.298	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	salve	salve	salve
+411	TOI024	730.316	730.646	0.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+412	TOR005	730.646	731.595	0.949	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[le ah lo le:]	[le ah lo le:]	le ah lo le
+413	???	730.65	732.329	1.679	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[(le me) ci siam già] vis[ti]	[(le me) ci siam già] vis[ti]	le me ci siam già visti
+414	TOR005	731.992	736.159	4.167	True	0	0	0	0	0	0	0	False	False	False	False	True	413=0.337,415=0.733	0	0	0	15	[sì] le mh diamo una sedia alla signora o:: mh gliela faccio dopo l'intervista?	[sì] le mh diamo una sedia alla signora o:: mh gliela faccio dopo l'intervista?	sì le mh diamo una sedia alla signora o mh gliela faccio dopo l' intervista
+415	???	735.426	736.162	0.736	True	0	0	0	0	0	0	0	False	False	False	False	True	414=0.733	0	0	0	2	cosa devo:	cosa devo:	cosa devo
+416	TOI024	736.173	739.049	2.876	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	com[e vuol]e vuoi finire[::: a me (u)n attimo?]	com[e vuol]e vuoi finir[e::: a me (u)n attimo?]	come vuole vuoi finire a me un attimo
+417	TOR005	736.335	736.726	0.391	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+418	TOR005	737.487	740.23	2.743	True	0	0	0	0	0	0	0	False	False	False	False	True	416=1.562,419=1.181	1	0	0	10	[sì sì allora la la la possiamo fare dopo (.) la]	[sì sì allora la la la possiamo fare dopo {P} la]	sì sì allora la la la possiamo fare dopo {P} la
+419	TOI024	739.049	741.742	2.693	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[sì ma può stare anche lei] tanto non è niente [di:]	[sì ma puo' stare anche lei] tanto non è niente [di:]	sì ma puo' stare anche lei tanto non è niente di
+420	TOR005	741.147	744.305	3.158	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	[ass~ assoluta]mente così almeno vede [com'è:]: l'inte[rvista x]	[ass~ assoluta]mente così almeno vede [com'è:]: l'inte[rvista x]	ass~ assolutamente così almeno vede com' è l' intervista x
+421	TOI024	742.507	743.004	0.497	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+422	???	743.355	743.683	0.328	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+423	TOI024	743.375	744.305	0.93	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[eh eh eh]	[eh eh eh]	eh eh eh
+424	TOI024	744.305	748.175	3.87	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	[m'ha fatto delle dom]ande solo cosa facevo di lavoro prima [dove abitavo::]	[m'ha fatto delle dom]ande solo cosa facevo di lavoro prima [dove abitavo::]	m' ha fatto delle domande solo cosa facevo di lavoro prima dove abitavo
+425	TOR005	744.305	745.098	0.793	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[no allora]	[no allora]	no allora
+426	???	747.174	749.649	2.475	True	0	0	0	0	0	0	0	False	False	False	False	True	424=1.001,427+428=0.668	0	0	0	5	[ah okay <okay> nessun problema]	[ah okay <okay> nessun problema]	ah okay okay nessun problema
+427	TOR005	748.178	749.473	1.295	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[proprio:::]	[proprio:::]	proprio
+428	TOI024	748.805	751.622	2.817	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[dove abita]vo e tutte [quelle ba~ cose] lì ah	[dove abita]vo e tutte [quelle ba~ cose] lì ah	dove abitavo e tutte quelle ba~ cose lì ah
+429	???	750.246	751.058	0.812	True	0	0	0	0	0	0	0	False	False	False	False	True	428=0.812	0	0	0	3	sì sì sì	sì sì sì	sì sì sì
+430	TOR005	751.829	752.514	0.685	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	va bene	va bene	va bene
+431	TOR005	752.554	755.518	2.964	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	ehm:: okay quindi abbiamo detto le scuole allora	ehm:: okay quindi abbiamo detto le scuole allora	ehm okay quindi abbiamo detto le scuole allora
+432	TOI024	755.518	755.856	0.338	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+433	TOR005	755.518	758.688	3.17	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	[qui] c'è mo c'è una domanda un po' strana io c'ho questa tra[ccia allora]	[qui] c'è mo c'è una domanda un po' strana io c'ho questa tra[ccia allora]	qui c' è mo c' è una domanda un po' strana io c' ho questa traccia allora
+434	TOI024	757.907	759.036	1.129	True	0	0	0	0	0	0	0	False	False	False	False	True	433=0.781,435=0.348	0	0	0	4	[eh eh eh eh]	[eh eh eh eh]	eh eh eh eh
+435	TOR005	758.688	760.382	1.694	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[eh] cosa fa nel tempo libero	[eh] cosa fa nel tempo libero	eh cosa fa nel tempo libero
+436	TOI024	760.592	762.287	1.695	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[e::h s~ son qua]	[e::h s~ son qua]	eh s~ son qua
+437	TOR005	760.592	762.287	1.695	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[okay questa è una domanda che si]	[okay questa è una domanda che si]	okay questa è una domanda che si
+438	TOI024	762.302	762.964	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+439	TOR005	762.333	764.242	1.909	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	che si (.) si pos[sono dire mh]	che si {P} si pos[sono dire mh]	che si {P} si possono dire mh
+440	TOI024	763.186	764.631	1.445	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[adesso sono] qua	[adesso sono] qua	adesso sono qua
+441	TOR005	764.683	765.922	1.239	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[un milione di cose]	[un milione di cose]	un milione di cose
+442	???	764.683	766.337	1.654	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[xxx]	[xxx]	xxx
+443	TOI024	765.199	770.697	5.498	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	[eh perché qua bal]liamo due volte alla set[timana], a volte giochiamo a bocce quando abbiamo voglia	[eh perché qua bal]liamo due volte alla set[timana], a volte giochiamo a bocce quando abbiamo voglia	eh perché qua balliamo due volte alla settimana a volte giochiamo a bocce quando abbiamo voglia
+444	TOR005	767.525	768.193	0.668	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ah ah]	[ah ah]	ah ah
+445	TOI024	770.697	773.13	2.433	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	giochiamo carte quando abbiamo voglia	giochiamo carte quando abbiamo voglia	giochiamo carte quando abbiamo voglia
+446	TOR005	773.185	773.529	0.344	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	ah ah	ah ah	ah ah
+447	TOI024	773.557	776.302	2.745	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	e::h facciamo anche qualche gita così	e::h facciamo anche qualche gita così	eh facciamo anche qualche gita così
+448	TOI024	776.302	776.81	0.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:h	e:h	eh
+449	TOR005	776.905	778.331	1.526	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	0	0	6	dove andate in gita in genere?	dove andate in gita in genere?	dove andate in gita in genere
+450	TOI024	778.336	780.922	2.586	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[mah ehm] a volte in montagna e	[mah ehm] a volte in montagna e	mah ehm a volte in montagna e
+451	TOR005	778.336	779.343	1.007	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[dove::]	[dove::]	dove
+452	TOI024	780.922	785.561	4.639	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	più che altro in montagna nelle montagne qui del piemon[te qua vi]cino eh	più che altro in montagna nelle montagne qui del piemon[te qua vi]cino eh	più che altro in montagna nelle montagne qui del piemonte qua vicino eh
+453	TOR005	783.889	784.464	0.575	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+454	TOR005	785.57	785.899	0.329	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+455	TOI024	786.184	786.686	0.502	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì	sì	sì
+456	TOI024	786.686	787.5	0.814	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[sì sì]	[sì sì]	sì sì
+457	TOR005	786.686	787.5	0.814	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[e: invece]	[e: invece]	e invece
+458	TOR005	787.5	791.209	3.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	per quanto riguarda l'attività: che fate qui in: ehm:::	per quanto riguarda l'attività: che fate qui in: ehm:::	per quanto riguarda l' attività che fate qui in ehm
+459	TOR005	791.209	792.781	1.572	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	qui al centro di incon[tro]	qui al centro di incon[tro]	qui al centro di incontro
+460	TOI024	792.283	794.127	1.844	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[ah si] fa tante cose	[ah si] fa tante cose	ah si fa tante cose
+461	TOI024	794.251	796.547	2.296	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	eh appunto carte, bocce,	eh appunto carte, bocce,	eh appunto carte bocce
+462	TOI024	796.791	802.682	5.891	True	0	0	0	0	0	0	0	False	False	False	False	True	464=1.047,465=1.568,466=1.057,463=0.977	0	0	0	15	e::h [pranzi come] le ho detto [prima ballo due] volte [alla settimana martedì e venerdì:]	e::h [pranzi come] le ho detto [prima ballo due] volte [alla settimana martedì e venerdì:]	eh pranzi come le ho detto prima ballo due volte alla settimana martedì e venerdì
+463	???	797.52	798.497	0.977	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ballo]	[ballo]	ballo
+464	TOR005	798.806	799.853	1.047	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ballo pure]	[ballo pure]	ballo pure
+465	???	800.057	801.625	1.568	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[due volte a(lla) settimana]	[due volte a(lla) settimana]	due volte alla settimana
+466	???	801.625	803.444	1.819	True	0	0	0	0	0	0	0	False	False	False	False	True	462=1.057,467=0.762	0	0	0	3	[balli di gruppo::]	[balli di gruppo::]	balli di gruppo
+467	TOI024	802.682	803.892	1.21	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[si fa un po' di] tutto	[si fa un po' di] tutto	si fa un po' di tutto
+468	TOR005	803.892	808.052	4.16	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	<e:: le> attività tipo carte e bocce eh come dire:	<e:: le> attività tipo carte e bocce eh come dire:	e le attività tipo carte e bocce eh come dire
+469	TOR005	808.052	812.663	4.611	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	mh in genere uomini uomini e donne tendono a: giocare separata[mente o:::]	mh in genere uomini uomini e donne tendono a: giocare separata[mente o:::]	mh in genere uomini uomini e donne tendono a giocare separatamente o
+470	TOI024	811.064	813.502	2.538	True	0	0	0	0	0	0	1	False	False	False	False	True	469+471=0.420,472+471=0.560	0	0	0	11	[EH EH MA HA MESSO HA MESSO IL DITO SULLA PIAGA]	[EH EH MA HA MESSO HA MESSO IL DITO SULLA PIAGA]	eh eh ma ha messo ha messo il dito sulla piaga
+471	???	812.243	813.596	1.353	True	0	0	0	0	0	0	0	False	False	False	False	True	469+470=0.420,470+472=0.560	0	0	0	1	[no:::]	[no:::]	no
+472	TOR005	812.942	813.596	0.654	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh?]	[eh?]	eh
+473	TOR005	813.596	814.241	0.645	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[no:?]	[no:?]	no
+474	TOI024	813.602	815.302	1.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[HA MES]SO IL DI[TO SULLA PIA~]	[HA MES]SO IL DI[TO SULLA PIA~]	ha messo il dito sulla pia~
+475	???	814.468	815.76	1.292	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[c'è un misc]uglio	[c'è un misc]uglio	c' è un miscuglio
+476	TOR005	815.764	816.631	0.867	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	è un miscuglio?	è un miscuglio?	è un miscuglio
+477	TOI024	816.631	820.051	3.42	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	(u)na volta giocavamo tutti insieme adesso bisogna dir la verità	(u)na volta giocavamo tutti insieme adesso bisogna dir la verità	una volta giocavamo tutti insieme adesso bisogna dir la verità
+478	TOI024	820.327	821.481	1.154	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	gli uomini	gli uomini	gli uomini
+479	TOI024	821.532	823.294	1.762	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	ci tollerano [poco]	ci tollerano [poco]	ci tollerano poco
+480	???	822.581	823.876	1.295	True	0	0	0	0	0	0	0	False	False	False	False	True	479=0.713,481=0.582	0	0	0	2	[ma (da:::i)]	[ma (da:::i)]	ma dai
+481	TOI024	823.294	825.643	2.349	True	0	0	0	0	0	0	0	False	False	False	False	True	480=0.582,482=0.802,483=0.690	0	0	0	9	[diciamo la] verità [no no io dico la verità]	[diciamo la] verità [no no io dico la verità]	diciamo la verità no no io dico la verità
+482	TOR005	824.15	824.952	0.802	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+483	???	824.953	826.275	1.322	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[quando pigli il] caf[fè]	[quando pigli il] caf[fè]	quando pigli il caffè
+484	TOR005	825.931	826.76	0.829	True	0	0	0	0	0	0	0	False	False	False	False	True	483=0.344,485=0.448	0	0	0	3	[forse perché fo~]	[forse perché fo~]	forse perché fo~
+485	TOI024	826.312	827.323	1.011	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[dico le] verità	[dico le] verità	dico le verità
+486	TOI024	827.323	828.816	1.493	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+487	TOR005	828.816	831.786	2.97	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	forse perché perdono (.) perché non e:[::h]	forse perché perdono {P} perché non [e:::h]	forse perché perdono {P} perché non eh
+488	TOI024	831.186	833.232	2.046	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[perché noi] chiacchieriamo troppo	[perché noi] chiacchieriamo troppo	perché noi chiacchieriamo troppo
+489	TOR005	832.801	833.675	0.874	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+490	TOI024	834.15	840.24	6.09	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	19	allora (.) e poi magari passa uno fuori e:h ciao xx e non ci ricordiamo quando: tocca noi a giocare	allora {P} e poi magari passa uno fuori e:h ciao xx e non ci ricordiamo quando: tocca noi a giocare	allora {P} e poi magari passa uno fuori eh ciao xx e non ci ricordiamo quando tocca noi a giocare
+491	TOI024	840.285	843.078	2.793	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	poi loro bocciano noi non sappiamo giocare	poi loro bocciano noi non sappiamo giocare	poi loro bocciano noi non sappiamo giocare
+492	TOI024	843.078	844.661	1.583	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	bocciare ovviamente	bocciare ovviamente	bocciare ovviamente
+493	TOI024	845.051	848.331	3.28	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	e allora non ci eh i~ no no io dico le verità	e allora non ci eh i~ no no io dico le verità	e allora non ci eh i~ no no io dico le verità
+494	TOI024	848.423	851.72	3.297	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	non ci tollerano (.) tanto ma noi ce ne freghiamo	non ci tollerano {P} tanto ma noi ce ne freghiamo	non ci tollerano {P} tanto ma noi ce ne freghiamo
+495	TOI024	851.721	857.219	5.498	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	14	altamente quando possiamo (.) giochiamo tra di noi [tanto c'è] (.) tre o quattro campi	altamente quando possiamo {P} giochiamo tra di noi [tanto c'è] {P} tre o quattro campi	altamente quando possiamo {P} giochiamo tra di noi tanto c' è {P} tre o quattro campi
+496	TOR005	855.217	855.807	0.59	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+497	TOI024	857.499	858.661	1.162	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	e il posto c'è	e il posto c'è	e il posto c' è
+498	TOI024	858.996	862.69	3.694	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	12	però purtroppo date le età eh non stan tutti bene come me	pero' purtroppo date le età eh non stan tutti bene come me	pero' purtroppo date le età eh non stan tutti bene come me
+499	TOR005	862.69	863.409	0.719	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	eh cer[to]	eh cer[to]	eh certo
+500	TOI024	863.246	869.214	5.968	True	1	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	20	[ma]gari una ha male la gamba l'altra non sta bene e sono mancate del~ due tre amiche sono  manca[te]	[ma]gari una ha male la gamba l'altra non sta bene e sono mancate del~ due tre amiche sono manca[te]	magari una ha male la gamba l' altra non sta bene e sono mancate del~ due tre amiche sono mancate
+501	TOR005	868.745	869.214	0.469	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+502	TOI024	869.595	870.759	1.164	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	e allora adesso:	e allora adesso:	e allora adesso
+503	TOI024	870.876	872.67	1.794	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	ce n'è solo più due che giocano	ce n'è solo più due che giocano	ce n' è solo più due che giocano
+504	TOR005	872.767	876.98	4.213	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	guardi comunque che: le le donne:: questo glielo dico per esperienza personale	guardi comunque che: le le donne:: questo glielo dico per esperienza personale	guardi comunque che le le donne questo glielo dico per esperienza personale
+505	TOR005	877.115	880.282	3.167	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	non s~ non siano buone per giocare a bocce	non s~ non siano buone per giocare a bocce	non s~ non siano buone per giocare a bocce
+506	TOR005	880.362	881.804	1.442	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	non è assolutamente vero	non è assolutamente vero	non è assolutamente vero
+507	TOI024	881.804	882.825	1.021	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[ah lo so]	[ah lo so]	ah lo so
+508	TOR005	881.804	885.851	4.047	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	16	[io vengo da (.) da un] paesino abruzzese vengo [e lì] c'è una proloco molto vivace	[io vengo da {P} da un] paesino abruzzese vengo [e lì] c'è una proloco molto vivace	io vengo da {P} da un paesino abruzzese vengo e lì c' è una proloco molto vivace
+509	TOI024	883.732	884.403	0.671	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[lo so]	[lo so]	lo so
+510	TOR005	885.851	887.823	1.972	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	ogni anno facciamo questo torneo di bocce	ogni anno facciamo questo torneo di bocce	ogni anno facciamo questo torneo di bocce
+511	TOR005	888.101	891.037	2.936	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	9	e c'è una coppia (.) marito e moglie (.) anziani	e c'è una coppia {P} marito e moglie {P} anziani	e c' è una coppia {P} marito e moglie {P} anziani
+512	TOR005	891.251	891.948	0.697	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:[:h]	[e::h]	eh
+513	TOI024	891.706	893.056	1.35	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[arri]va dall'abruzzo lei?	[arri]va dall'abruzzo lei?	arriva dall' abruzzo lei
+514	TOR005	893.056	893.484	0.428	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì	sì	sì
+515	TOR005	893.598	894.982	1.384	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	vincono sempre lo[ro]	vincono sempre lo[ro]	vincono sempre loro
+516	TOI024	894.828	895.424	0.596	True	0	0	0	0	0	0	0	False	False	False	False	True	515=0.154,517=0.442	0	0	0	2	[sì sì]	[sì sì]	sì sì
+517	TOR005	894.982	896.393	1.411	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[perché lu]i è bravo a bocciare	[perché lu]i è bravo a bocciare	perché lui è bravo a bocciare
+518	TOR005	896.393	898.03	1.637	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	ma lei c'ha una precisio[ne]	ma lei c'ha una precisio[ne]	ma lei c' ha una precisione
+519	TOI024	897.708	898.801	1.093	True	0	0	0	0	0	0	0	False	False	False	False	True	518=0.322,520=0.771	0	0	0	4	[sì sì sì sì]	[sì sì sì sì]	sì sì sì sì
+520	TOR005	898.03	899.824	1.794	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[mette quella pa]lla con una::	[mette quella pa]lla con una::	mette quella palla con una
+521	TOI024	899.824	904.431	4.607	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	sì sì ma io:: conosco una signora che ha: vinto il pallino d'oro è bravissima eh	sì sì ma io:: conosco una signora che ha: vinto il pallino d'oro è bravissima eh	sì sì ma io conosco una signora che ha vinto il pallino d' oro è bravissima eh
+522	TOR005	904.679	908.97	4.291	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	sì eh [eh perché a~ (.) appunto non bo]cciando devi::: [m:h]	sì eh [eh perché a~ {P} appunto non bo]cciando devi::: [m:h]	sì eh eh perché a~ {P} appunto non bocciando devi mh
+523	TOI024	905.152	906.857	1.705	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[mh no no non]	[mh no no non]	mh no no non
+524	TOI024	908.209	910.38	2.171	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[eh infa]tti. sì sì sì sì	[eh infa]tti. sì sì sì sì	eh infatti sì sì sì sì
+525	TOI024	910.38	910.712	0.332	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	mh	mh	mh
+526	TOI024	910.739	911.605	0.866	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[è così.]	[è così.]	è così
+527	TOR005	910.739	911.605	0.866	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ehm:]	[ehm:]	ehm
+528	TOR005	912.627	916.193	3.566	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	invece per quanto riguarda:, le attività: come dire al di fuori	invece per quanto riguarda:, le attività: come dire al di fuori	invece per quanto riguarda le attività come dire al di fuori
+529	TOR005	916.193	918.513	2.32	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	del centro:: c~ an[ziano]	del centro:: c~ an[ziano]	del centro c~ anziano
+530	TOI024	917.657	919.408	1.751	True	0	0	0	0	0	0	0	False	False	False	False	True	529=0.856,531=0.894	0	0	0	6	[ah eh al di fuori (eh)]	[ah eh al di fuori (eh)]	ah eh al di fuori eh
+531	TOR005	918.514	922.348	3.834	True	1	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	[ehm: cosa fa] a casa lei quand~  c(io)è proprio nel tempo libero quando non viene qui.	[ehm: cosa fa] a casa lei quand~ c(io)è proprio nel tempo libero quando non viene qui.	ehm cosa fa a casa lei quand~ cioè proprio nel tempo libero quando non viene qui
+532	TOR005	922.348	923.644	1.296	True	0	0	0	0	0	0	0	False	False	False	False	True	533=0.770	0	0	0	5	e dice mi prendo la	e dice mi prendo la	e dice mi prendo la
+533	TOI024	922.874	928.806	5.932	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	21	ah beh diciamo io: eh qui sto fino alle sette perciò quando vado a casa ceno e mi guardo la televisio[ne]	ah beh diciamo io: eh qui sto fino alle sette percio' quando vado a casa ceno e mi guardo la televisio[ne]	ah beh diciamo io eh qui sto fino alle sette percio' quando vado a casa ceno e mi guardo la televisione
+534	TOR005	928.806	928.992	0.186	True	0	0	0	0	0	0	0	False	False	False	False	True	_	0	0	0	1	[o]kay	[o]kay	okay
+535	TOR005	929.017	930.769	1.752	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	che [preferisce guardare, in genere,]	che [preferisce guardare, in genere,]	che preferisce guardare in genere
+536	TOI024	929.32	934.3	4.98	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	[e:::h] (vabbè) io sono un po' anomala mi piace i::: programmi dei giovani	[e:::h] (vabbè) io sono un po' anomala mi piace i::: programmi dei giovani	eh vabbè io sono un po' anomala mi piace i programmi dei giovani
+537	TOR005	932.242	932.866	0.624	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+538	TOI024	934.3	935.355	1.055	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+539	TOR005	934.3	935.964	1.664	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+540	TOI024	935.964	941.519	5.555	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	20	e me ne dicon di tutti i colori mi piace grande fratello [l'isola dei] famosi che nessuno la guarda	e me ne dicon di tutti i colori mi piace grande fratello [l'isola dei] famosi che nessuno la guarda	e me ne dicon di tutti i colori mi piace grande fratello l' isola dei famosi che nessuno la guarda
+541	TOR005	938.899	939.454	0.555	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ah ah]	[ah ah]	ah ah
+542	TOI024	942.124	943.221	1.097	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	eh ehm mi piace	eh ehm mi piace	eh ehm mi piace
+543	TOI024	943.515	948.105	4.59	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	quando c'era colorado, zelig mi piace le le trasmissioni leggeri i film leggeri	quando c'era colorado, zelig mi piace le le trasmissioni leggeri i film leggeri	quando c' era colorado zelig mi piace le le trasmissioni leggeri i film leggeri
+544	TOR005	948.108	949.152	1.044	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	ma è giusto e:h	ma è giusto e:h	ma è giusto eh
+545	TOR005	949.199	950.894	1.695	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	già è tanto pesante [la vita]	già è tanto pesante [la vita]	già è tanto pesante la vita
+546	TOI024	950.087	952.83	2.743	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[non mi piaccion le] cose pesanti mi paice roba da ridere	[non mi piaccion le] cose pesanti mi paice roba da ridere	non mi piaccion le cose pesanti mi paice roba da ridere
+547	TOI024	952.931	955.726	2.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	eh lo so ma non tutti e:h [capiscono]	eh lo so ma non tutti e:h [capiscono]	eh lo so ma non tutti eh capiscono
+548	TOR005	954.538	955.731	1.193	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[sono d'accordo]	[sono d'accordo]	sono d' accordo
+549	TOI024	955.731	956.171	0.44	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	mh	mh	mh
+550	TOR005	956.171	958.493	2.322	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	e:h invece proprio per quanto riguarda la televisione	e:h invece proprio per quanto riguarda la televisione	eh invece proprio per quanto riguarda la televisione
+551	TOR005	958.682	960.198	1.516	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	è chiaro che: come dire	è chiaro che: come dire	è chiaro che come dire
+552	TOR005	960.557	962.615	2.058	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	quarant'anni fa fosse diversa	quarant'anni fa fosse diversa	quarant' anni fa fosse diversa
+553	TOR005	962.694	963.046	0.352	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	(o)kay?	(o)kay?	okay
+554	TOI024	963.046	963.476	0.43	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+555	TOR005	963.476	965.959	2.483	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	e::hm ma lei, come dire m:h	e::hm ma lei, come dire m:h	ehm ma lei come dire mh
+556	TOR005	965.959	969.752	3.793	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	negli ultimi quarant'anni se dovesse: (.) dare un giudizio	negli ultimi quarant'anni se dovesse: {P} dare un giudizio	negli ultimi quarant' anni se dovesse {P} dare un giudizio
+557	TOR005	969.752	971.495	1.743	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	di quella che era la televisione di:	di quella che era la televisione di:	di quella che era la televisione di
+558	TOR005	971.655	973.507	1.852	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	di allora e quella di oggi	di allora e quella di oggi	di allora e quella di oggi
+559	TOI024	973.575	976.904	3.329	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	ma:: e:h allora forse c'erano dei e::hm	ma:: e:h allora forse c'erano dei e::hm	ma eh allora forse c' erano dei ehm
+560	TOI024	977.342	980.158	2.816	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	dei romanzi un po' meglio di a[dess]o	dei romanzi un po' meglio di a[dess]o	dei romanzi un po' meglio di adesso
+561	TOR005	979.285	979.736	0.451	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+562	TOI024	980.387	982.426	2.039	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	del~ delle cose un po'::	del~ delle cose un po'::	del~ delle cose un po'
+563	TOI024	982.809	984.2	1.391	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	un po' più::	un po' più::	un po' più
+564	TOI024	984.49	985.97	1.48	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	forse che piacevano	forse che piacevano	forse che piacevano
+565	TOI024	986.137	991.824	5.687	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	19	io mi ricordo quando c'era ancora mia nonnna una trasmissione di gilberto govi che faceva ridere da morire	io mi ricordo quando c'era ancora mia nonnna una trasmissione di gilberto govi che faceva ridere da morire	io mi ricordo quando c' era ancora mia nonnna una trasmissione di gilberto govi che faceva ridere da morire
+566	TOI024	991.824	993.402	1.578	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[era un] comico genovese	[era un] comico genovese	era un comico genovese
+567	TOR005	991.824	992.175	0.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+568	TOI024	993.819	996.429	2.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	e (f~) mi faceva morire dal ridere	e (f~) mi faceva morire dal ridere	e f~ mi faceva morire dal ridere
+569	TOI024	996.429	999.07	2.641	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	eh adesso sarà morto e stramorto oramai	eh adesso sarà morto e stramorto oramai	eh adesso sarà morto e stramorto oramai
+570	TOI024	1000.0	1000.595	0.595	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+571	TOI024	1001.131	1002.098	0.967	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	non so	non so	non so
+572	TOI024	1002.969	1003.708	0.739	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	forse:	forse:	forse
+573	TOI024	1004.179	1006.368	2.189	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	io adesso le trovo quelle che mi piacciono eh	io adesso le trovo quelle che mi piacciono eh	io adesso le trovo quelle che mi piacciono eh
+574	TOI024	1006.368	1009.532	3.164	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[come le r]ipeto le trovo anche se agli altri non piacciono	[come le r]ipeto le trovo anche se agli altri non piacciono	come le ripeto le trovo anche se agli altri non piacciono
+575	TOR005	1006.368	1006.826	0.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+576	TOI024	1009.532	1010.447	0.915	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	a me piacciono	a me piacciono	a me piacciono
+577	TOR005	1011.421	1015.246	3.825	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	e::h[m] invece in genere: mh proprio per quanto riguarda:: mh	e::h[m] invece in genere: mh proprio per quanto riguarda:: mh	ehm invece in genere mh proprio per quanto riguarda mh
+578	TOI024	1011.858	1012.316	0.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+579	TOR005	1015.711	1019.46	3.749	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	eh il modo di vivere la serata no? la la serata in famiglia	eh il modo di vivere la serata no? la la serata in famiglia	eh il modo di vivere la serata no la la serata in famiglia
+580	TOR005	1019.461	1019.855	0.394	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	okay?	okay?	okay
+581	TOR005	1019.997	1024.711	4.714	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	ehm:: sia quando viveva con i suoi genitori sia quando poi è stata sposata	ehm:: sia quando viveva con i suoi genitori sia quando poi è stata sposata	ehm sia quando viveva con i suoi genitori sia quando poi è stata sposata
+582	TOR005	1024.75	1027.194	2.444	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	mh m~ m~ mi sa dire magari qualche [m:h]	mh m~ m~ mi sa dire magari qualche [m:h]	mh m~ m~ mi sa dire magari qualche mh
+583	TOI024	1026.538	1032.299	5.761	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	[e vabbè qua]ndo ero sposata andavamo con mio marito a trovare amici così era: diversa la vita	[e vabbè qua]ndo ero sposata andavamo con mio marito a trovare amici così era: diversa la vita	e vabbè quando ero sposata andavamo con mio marito a trovare amici così era diversa la vita
+584	TOR005	1032.381	1032.781	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+585	TOI024	1032.781	1033.995	1.214	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:::h	e:::h	eh
+586	TOI024	1033.995	1036.195	2.2	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	andavamo: a mangiar la pizza:	andavamo: a mangiar la pizza:	andavamo a mangiar la pizza
+587	TOI024	1036.52	1041.088	4.568	True	0	0	0	0	0	0	0	False	False	False	False	True	_	0	0	0	13	a trovare qualcuno adesso:: io sto a casa la sera dove vuole an[dare]	a trovare qualcuno adesso:: io sto a casa la sera dove vuole an[dare]	a trovare qualcuno adesso io sto a casa la sera dove vuole andare
+588	TOI024	1041.339	1042.735	1.396	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	qualche volta andiamo::	qualche volta andiamo::	qualche volta andiamo
+589	TOI024	1042.821	1044.589	1.768	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	co(n) la mia amica a vedere:	co(n) la mia amica a vedere:	con la mia amica a vedere
+590	TOI024	1045.41	1047.757	2.347	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	eh ehm un cantante non so se lei	eh ehm un cantante non so se lei	eh ehm un cantante non so se lei
+591	TOI024	1047.757	1048.157	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+592	TOI024	1048.157	1049.112	0.955	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	2	lo conosce ((ridendo))	lo conosce {ridendo}	lo conosce {ridendo}
+593	TOI024	1049.383	1050.51	1.127	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	omar codazi	omar codazi	omar codazi
+594	TOR005	1050.51	1051.917	1.407	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mai senti[to]	mai senti[to]	mai sentito
+595	TOI024	1051.291	1051.915	0.624	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[e:h beh]	[e:h beh]	eh beh
+596	TOI024	1052.212	1054.701	2.489	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	del liscio eh è [molto fa~ famo]so	del liscio eh è [molto fa~ famo]so	del liscio eh è molto fa~ famoso
+597	TOR005	1053.268	1054.258	0.99	True	0	0	0	0	0	0	0	False	False	False	True	True	596=0.990	0	0	0	1	[a::h	[a::h	ah
+598	TOR005	1054.701	1055.243	0.542	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+599	TOI024	1055.597	1057.731	2.134	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	nei paesi lei ha la macchina	nei paesi lei ha la macchina	nei paesi lei ha la macchina
+600	TOI024	1058.06	1060.849	2.789	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	e allora andiamo lì ma non sempre eh	e allora andiamo lì ma non sempre eh	e allora andiamo lì ma non sempre eh
+601	TOR005	1061.117	1063.029	1.912	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	sì esibisce nei dintorni di[ciamo eh]	sì esibisce nei dintorni di[ciamo eh]	sì esibisce nei dintorni diciamo eh
+602	TOI024	1062.512	1063.025	0.513	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì.]	[sì.]	sì
+603	TOI024	1063.029	1065.749	2.72	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[sì nei din]torni nelle:: [nei paesi]	[sì nei din]torni nelle:: [nei paesi]	sì nei dintorni nelle nei paesi
+604	TOR005	1063.029	1063.655	0.626	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[perché:]	[perché:]	perché
+605	???	1064.614	1067.215	2.601	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	[sì perché prima non] c'è quasi mai: visto che	[sì perché prima non] c'è quasi mai: visto che	sì perché prima non c' è quasi mai visto che
+606	TOI024	1067.334	1067.923	0.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+607	???	1067.334	1067.923	0.589	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[non può]	[non puo']	non puo'
+608	???	1068.046	1068.995	0.949	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	è un po' famoso	è un po' famoso	è un po' famoso
+609	TOR005	1068.889	1071.79	2.901	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+610	???	1068.995	1069.976	0.981	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e[:h]	[e:h]	eh
+611	TOI024	1069.336	1069.881	0.545	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[è famo~]	[è famo~]	è famo~
+612	TOI024	1069.983	1071.79	1.907	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+613	???	1069.976	1071.79	1.814	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	e in piemonte non viene mai	e in piemonte non viene mai	e in piemonte non viene mai
+614	TOR005	1072.274	1073.151	0.877	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	è [sempre un]	è [sempre un]	è sempre un
+615	???	1072.536	1074.581	2.045	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[non lo paga]no abbastanza bene	[non lo paga]no abbastanza bene	non lo pagano abbastanza bene
+616	TOR005	1074.304	1076.544	2.24	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+617	???	1074.581	1076.544	1.963	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+618	TOI024	1076.684	1078.429	1.745	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[nei paesi] pagano di più	[nei paesi] pagano di più	nei paesi pagano di più
+619	TOR005	1076.684	1077.644	0.96	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[è sempre:]	[è sempre:]	è sempre
+620	TOI024	1078.582	1080.433	1.851	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	[si vede che] hanno anche [più soldi eh]	[si vede che] hanno anche [più soldi eh]	si vede che hanno anche più soldi eh
+621	TOR005	1078.582	1079.231	0.649	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[sì per~]	[sì per~]	sì per~
+622	TOR005	1079.917	1083.186	3.269	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	[poi perché] ci sono le pro loco cioè l~ lì [tu (giri) i soldi]	[poi perché] ci sono le pro loco cioè l~ lì [tu (giri) i soldi]	poi perché ci sono le pro loco cioè l~ lì tu giri i soldi
+623	TOI024	1081.805	1085.842	4.037	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	[ESATTO LE PRO LE LE] le organizza la pro loco sempre [queste: eh]	[ESATTO LE PRO LE LE] le organizza la pro loco sempre [queste: eh]	esatto le pro le le le organizza la pro loco sempre queste eh
+624	TOR005	1084.639	1086.424	1.785	True	0	0	0	0	0	0	0	False	False	False	False	True	623=1.203,625=0.563	0	0	0	8	[tutti i soldi vanno alla pro loco perché]	[tutti i soldi vanno alla pro loco perché]	tutti i soldi vanno alla pro loco perché
+625	TOI024	1085.861	1087.396	1.535	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[CI SONO I] TENDONI	[CI SONO I] TENDONI	ci sono i tendoni
+626	TOI024	1087.453	1088.625	1.172	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	eh è all'aperto	eh è all'aperto	eh è all' aperto
+627	TOI024	1088.816	1089.856	1.04	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[si man]gia	[si man]gia	si mangia
+628	TOR005	1088.816	1089.567	0.751	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[certo]	[certo]	certo
+629	TOI024	1090.312	1093.832	3.52	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	e qualche volta siamo andate andremo anche quest'anno se dio vuole	e qualche volta siamo andate andremo anche quest'anno se dio vuole	e qualche volta siamo andate andremo anche quest' anno se dio vuole
+630	TOR005	1093.436	1094.325	0.889	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+631	TOR005	1094.325	1097.203	2.878	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	perché il paese:, come dire sa che ha:	perché il paese:, come dire sa che ha:	perché il paese come dire sa che ha
+632	TOR005	1097.334	1099.247	1.913	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	un giorno l'anno per fare l'evento	un giorno l'anno per fare l'evento	un giorno l' anno per fare l' evento
+633	TOR005	1099.247	1100.438	1.191	True	0	0	0	0	0	0	0	False	False	False	False	True	634=0.918,635=0.269	0	0	0	4	[quindi tutti i paesani]	[quindi tutti i paesani]	quindi tutti i paesani
+634	TOI024	1099.251	1100.169	0.918	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[esatto sì.]	[esatto sì.]	esatto sì
+635	TOI024	1100.169	1101.703	1.534	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	[ah ma] (là è) più di un giorno all'anno	[ah ma] (là è) più di un giorno all'anno	ah ma là è più di un giorno all' anno
+636	TOR005	1101.819	1101.994	0.175	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+637	TOI024	1101.824	1103.022	1.198	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[o]mar codazzi	[o]mar codazzi	omar codazzi
+638	???	1103.486	1106.362	2.876	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	sì perché io son stato parecchio in pro loco quind[i]	sì perché io son stato parecchio in pro loco quind[i]	sì perché io son stato parecchio in pro loco quindi
+639	TOI024	1105.806	1106.357	0.551	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+640	???	1106.362	1108.319	1.957	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	cinque (o) sei giorno ci so[no]	cinque (o) sei giorno ci so[no]	cinque o sei giorno ci sono
+641	TOI024	1107.838	1108.666	0.828	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[esa]tto	[esa]tto	esatto
+642	TOI024	1108.772	1110.181	1.409	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	[eh eh] (.) eh	[eh eh] {P} eh	eh eh {P} eh
+643	TOR005	1108.772	1109.562	0.79	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ottimo]	[ottimo]	ottimo
+644	TOR005	1110.399	1112.387	1.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm:::	ehm:::	ehm
+645	TOR005	1112.474	1116.932	4.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	okay ehm invece per quanto riguarda proprio: (.) la m:h città di torino:,	okay ehm invece per quanto riguarda proprio: {P} la m:h città di torino:,	okay ehm invece per quanto riguarda proprio {P} la mh città di torino
+646	TOR005	1116.941	1118.954	2.013	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	la città di torino e:: e gli eventi	la città di torino e:: e gli eventi	la città di torino e e gli eventi
+647	TOR005	1118.974	1121.353	2.379	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	m::h che vengono organizzati a torino	m::h che vengono organizzati a torino	mh che vengono organizzati a torino
+648	TOR005	1121.507	1123.644	2.137	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	anche questo so che come dire:	anche questo so che come dire:	anche questo so che come dire
+649	TOR005	1123.77	1126.345	2.575	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	anni fa era (.) diverso rispetto ad oggi	anni fa era {P} diverso rispetto ad oggi	anni fa era {P} diverso rispetto ad oggi
+650	TOR005	1126.345	1128.232	1.887	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	è è chiaro che è normale no:?	è è chiaro che è normale no:?	è è chiaro che è normale no
+651	TOI024	1128.232	1133.985	5.753	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	19	[io adesso s]inceramente ho un po' di paura dove c'è un sacco di gente andare in centro evito	[io adesso s]inceramente ho un po' di paura dove c'è un sacco di gente andare in centro evito	io adesso sinceramente ho un po' di paura dove c' è un sacco di gente andare in centro evito
+652	TOR005	1128.232	1128.921	0.689	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[e::h]	[e::h]	eh
+653	TOR005	1133.999	1134.836	0.837	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	ah come mai?	ah come mai?	ah come mai
+654	TOI024	1134.836	1136.515	1.679	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	eh succedono tante cose	eh succedono tante cose	eh succedono tante cose
+655	TOI024	1136.692	1139.816	3.124	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	dove c'è tanta gente meglio stare un po' lontani	dove c'è tanta gente meglio stare un po' lontani	dove c' è tanta gente meglio stare un po' lontani
+656	TOI024	1140.659	1141.097	0.438	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+657	TOR005	1140.659	1143.466	2.807	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[tu dici] ci sta x qualche pa[zzo che:: m:h]	[tu dici] ci sta x qualche pa[zzo che:: m:h]	tu dici ci sta x qualche pazzo che mh
+658	TOI024	1141.882	1144.967	3.085	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[e::h eh vedi eh ogni] tanto ne ne succedono	[e::h eh vedi eh ogni] tanto ne ne succedono	eh eh vedi eh ogni tanto ne ne succedono
+659	TOI024	1144.967	1146.51	1.543	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	eh di tutti i colori	eh di tutti i colori	eh di tutti i colori
+660	TOR005	1146.51	1151.125	4.615	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	e invece quando era:: come dire giovanotta, ragazza mh [che andava a passeggio che era]	e invece quando era:: come dire giovanotta, ragazza mh [che andava a passeggio che era]	e invece quando era come dire giovanotta ragazza mh che andava a passeggio che era
+661	TOI024	1148.979	1153.004	4.025	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[eh ma forse magari eh avevo meno] paura di adesso adesso	[eh ma forse magari eh avevo meno] paura di adesso adesso	eh ma forse magari eh avevo meno paura di adesso adesso
+662	TOR005	1153.004	1153.356	0.352	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ovvio	ovvio	ovvio
+663	TOI024	1153.363	1155.13	1.767	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	siamo un po' più timorosi	siamo un po' più timorosi	siamo un po' più timorosi
+664	TOI024	1155.426	1155.845	0.419	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+665	TOI024	1155.845	1156.91	1.065	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[(penso l]a)	[(penso l]a)	penso la
+666	TOR005	1155.845	1156.476	0.631	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[ho ca~]	[ho ca~]	ho ca~
+667	TOR005	1157.17	1158.285	1.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	ho capito [ehm:]	ho capito [ehm:]	ho capito ehm
+668	TOI024	1157.691	1158.671	0.98	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[che sia] così	[che sia] così	che sia così
+669	TOR005	1158.671	1161.672	3.001	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	e invece come dire, negli anni: sessanta settanta:: che	e invece come dire, negli anni: sessanta settanta:: che	e invece come dire negli anni sessanta settanta che
+670	TOR005	1161.672	1162.431	0.759	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sicuramente	sicuramente	sicuramente
+671	TOR005	1162.633	1168.742	6.109	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	avrà vissuto e:h m:h c~ c~ come era la vita dei giovani, cioè che facevano, i giovani:::	avrà vissuto e:h m:h c~ c~ come era la vita dei giovani, cioè che facevano, i giovani:::	avrà vissuto eh mh c~ c~ come era la vita dei giovani cioè che facevano i giovani
+672	TOI024	1169.109	1171.346	2.237	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	cosa facevamo negli anni sessanta?	cosa facevamo negli anni sessanta?	cosa facevamo negli anni sessanta
+673	TOI024	1172.115	1174.305	2.19	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	andava~ io andavo tanto tanto a ballare	andava~ io andavo tanto tanto a ballare	andava~ io andavo tanto tanto a ballare
+674	TOI024	1174.607	1177.09	2.483	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	andavo tanto a ballare nelle sale da ballo	andavo tanto a ballare nelle sale da ballo	andavo tanto a ballare nelle sale da ballo
+675	???	1177.09	1179.24	2.15	True	0	0	0	0	0	0	0	False	False	False	False	True	676=0.992,677=0.147	0	0	0	4	ma io negli [sessanta]	ma io negli [sessanta]	ma io negli sessanta
+676	TOI024	1178.101	1179.093	0.992	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[perché allora:]	[perché allora:]	perché allora
+677	TOI024	1179.093	1182.421	3.328	True	0	0	0	0	0	0	0	False	False	False	False	True	675=0.147,678=1.994	0	0	0	9	[anche se uno non aveva ancora fidan]zato o coso	[anche se uno non aveva ancora fidan]zato o coso	anche se uno non aveva ancora fidanzato o coso
+678	???	1179.241	1181.235	1.994	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[no momento ma io son più giovane]	[no momento ma io son più giovane]	no momento ma io son più giovane
+679	TOR005	1182.422	1182.871	0.449	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mh mh	mh mh	mh mh
+680	TOI024	1183.253	1186.843	3.59	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	e:::h potevi prendere il tram qui a torino	e:::h potevi prendere il tram qui a torino	eh potevi prendere il tram qui a torino
+681	TOI024	1186.843	1190.376	3.533	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	dal centro arrivavi a casa tranquillamente non ti succedeva nulla	dal centro arrivavi a casa tranquillamente non ti succedeva nulla	dal centro arrivavi a casa tranquillamente non ti succedeva nulla
+682	TOI024	1190.376	1192.324	1.948	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	adesso (.) in giro la sera	adesso {P} in giro la sera	adesso {P} in giro la sera
+683	TOI024	1192.324	1193.807	1.483	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	a mezzanotte non si va	a mezzanotte non si va	a mezzanotte non si va
+684	TOR005	1193.807	1194.352	0.545	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	chiaro	chiaro	chiaro
+685	TOI024	1194.352	1196.635	2.283	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	neanche le nove e mezza dieci ho paura io	neanche le nove e mezza dieci ho paura io	neanche le nove e mezza dieci ho paura io
+686	TOI024	1196.998	1199.578	2.58	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	invece allora mi ricordo prendevamo il tram	invece allora mi ricordo prendevamo il tram	invece allora mi ricordo prendevamo il tram
+687	TOI024	1199.885	1202.169	2.284	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	da via venti settembre che è in centro	da via venti settembre che è in centro	da via venti settembre che è in centro
+688	TOR005	1202.172	1202.492	0.32	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	ah ah	ah ah	ah ah
+689	TOI024	1202.758	1204.22	1.462	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	per venire a casa	per venire a casa	per venire a casa
+690	TOI024	1204.564	1207.636	3.072	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	e non m(i) è mai successo nulla mai nessuno m(i) ha detto niente.	e non m(i) è mai successo nulla mai nessuno m(i) ha detto niente.	e non mi è mai successo nulla mai nessuno mi ha detto niente
+691	TOR005	1208.664	1209.947	1.283	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	eh quindi [lei ha vis~]	eh quindi [lei ha vis~]	eh quindi lei ha vis~
+692	TOI024	1209.431	1212.622	3.191	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	[quindi] la vita era diversa c'era meno meno delinquenza	[quindi] la vita era diversa c'era meno meno delinquenza	quindi la vita era diversa c' era meno meno delinquenza
+693	TOR005	1212.818	1213.691	0.873	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	chiaro	chiaro	chiaro
+694	TOR005	1214.069	1214.615	0.546	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e[:h]	[e:h]	eh
+695	TOI024	1214.261	1217.771	3.51	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	[poi pa]rliamo chiaro adesso sti drogati che fanno anche un po' paura eh	[poi pa]rliamo chiaro adesso sti drogati che fanno anche un po' paura eh	poi parliamo chiaro adesso sti drogati che fanno anche un po' paura eh
+696	TOI024	1217.771	1218.631	0.86	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[allora non c'era]no	[allora non c'era]no	allora non c' erano
+697	TOR005	1217.773	1218.565	0.792	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[e:h sì]	[e:h sì]	eh sì
+698	TOR005	1218.634	1219.147	0.513	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	ci so[no]	ci so[no]	ci sono
+699	TOI024	1218.92	1220.74	1.82	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[allo]ra c'era solo gli ubriachi	[allo]ra c'era solo gli ubriachi	allora c' era solo gli ubriachi
+700	TOR005	1221.723	1223.095	1.372	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	ma erano di meno insomma	ma erano di meno insomma	ma erano di meno insomma
+701	TOR005	1223.095	1223.884	0.789	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sup[pongo]	sup[pongo]	suppongo
+702	TOI024	1223.345	1223.884	0.539	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+703	TOI024	1224.08	1224.572	0.492	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+704	TOR005	1224.833	1227.617	2.784	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	e:h quindi lei ha vissute pure come dire, la:	e:h quindi lei ha vissute pure come dire, la:	eh quindi lei ha vissute pure come dire la
+705	TOR005	1227.617	1229.672	2.055	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	la massiccia immigrazione:	la massiccia immigrazione:	la massiccia immigrazione
+706	TOR005	1229.672	1230.91	1.238	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	m:h c(io)è come dire	m:h c(io)è come dire	mh cioè come dire
+707	TOR005	1230.98	1231.746	0.766	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	il eh	il eh	il eh
+708	TOR005	1232.091	1234.521	2.43	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	il cambiamento no, della città di torino	il cambiamento no, della città di torino	il cambiamento no della città di torino
+709	TOR005	1234.781	1235.51	0.729	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:h	e:h	eh
+710	TOR005	1235.585	1237.542	1.957	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	immagino che quando (lei) era più piccolina:	immagino che quando (lei) era più piccolina:	immagino che quando lei era più piccolina
+711	TOR005	1237.542	1241.872	4.33	True	0	0	0	0	0	0	0	False	False	False	False	True	712=1.795,713=0.323	0	0	0	12	eravate solo piemontesi torinesi insomma [la fiat ancora non era così grande]	eravate solo piemontesi torinesi insomma [la fiat ancora non era così grande]	eravate solo piemontesi torinesi insomma la fiat ancora non era così grande
+712	TOI024	1239.754	1241.549	1.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[ah sì sì sì]	[ah sì sì sì]	ah sì sì sì
+713	TOI024	1241.549	1243.836	2.287	True	0	0	0	0	0	0	0	False	False	False	False	True	711=0.323,714=0.512,715=0.868	0	0	0	8	[pens~ penso di] sì sì [sì sì sì]	[pens~ penso di] sì sì [sì sì sì]	pens~ penso di sì sì sì sì sì
+714	TOR005	1241.885	1242.397	0.512	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[okay?]	[okay?]	okay
+715	TOR005	1242.968	1248.417	5.449	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	[ehm:: ha] notato anche delle differenze da quando magari la fiat si è ingrandita:: e quindi::	[ehm:: ha] notato anche delle differenze da quando magari la fiat si è ingrandita:: e quindi::	ehm ha notato anche delle differenze da quando magari la fiat si è ingrandita e quindi
+716	TOR005	1248.893	1252.136	3.243	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	ha attirato::: a livello cittadino dico eh	ha attirato::: a livello cittadino dico eh	ha attirato a livello cittadino dico eh
+717	TOI024	1252.174	1254.104	1.93	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	eh xxx m:h	eh xxx m:h	eh xxx mh
+718	TOI024	1254.615	1259.86	5.245	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	penso di no perché si sono integrati beni[ssimo ci] siamo integrati tutti molto bene	penso di no perché si sono integrati beni[ssimo ci] siamo integrati tutti molto bene	penso di no perché si sono integrati benissimo ci siamo integrati tutti molto bene
+719	TOR005	1257.269	1257.799	0.53	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+720	TOI024	1259.955	1262.131	2.176	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	tranne qualche testa di cavolo	tranne qualche testa di cavolo	tranne qualche testa di cavolo
+721	TOI024	1262.274	1264.231	1.957	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	3	però la maggior[anza]::	pero' la maggior[anza]::	pero' la maggioranza
+722	TOR005	1263.356	1263.811	0.455	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[quelli]	[quelli]	quelli
+723	TOI024	1264.897	1267.514	2.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	infatti c'è tanti matrimoni e::h	infatti c'è tanti matrimoni e::h	infatti c' è tanti matrimoni eh
+724	TOI024	1267.514	1269.342	1.828	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[eh i miei] n~ la mia nonna	[eh i miei] n~ la mia nonna	eh i miei n~ la mia nonna
+725	TOR005	1267.514	1267.992	0.478	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+726	TOI024	1270.114	1272.03	1.916	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	anche lei ha sposato un meridionale	anche lei ha sposato un meridionale	anche lei ha sposato un meridionale
+727	TOI024	1272.03	1273.104	1.074	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	che era piemontese	che era piemontese	che era piemontese
+728	TOI024	1273.104	1274.049	0.945	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[calabr]ese	[calabr]ese	calabrese
+729	TOR005	1273.104	1273.582	0.478	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[che era]	[che era]	che era
+730	TOI024	1274.435	1276.024	1.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	è stata felicissima.	è stata felicissima.	è stata felicissima
+731	TOI024	1276.057	1277.42	1.363	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e::h	e::h	eh
+732	TOR005	1277.42	1277.844	0.424	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm	ehm	ehm
+733	TOI024	1277.844	1279.182	1.338	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	nella mia famiglia no.	nella mia famiglia no.	nella mia famiglia no
+734	TOI024	1279.523	1280.204	0.681	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	non lo so.	non lo so.	non lo so
+735	TOR005	1284.437	1286.228	1.791	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	(oh) possiamo, o deve::[:]	(oh) possiamo, o dev[e:::]	oh possiamo o deve
+736	TOI024	1285.876	1286.89	1.014	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[eh] e:h	[eh] e:h	eh eh
+737	TOI024	1287.941	1291.35	3.409	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	non vuole: così non (.) vuole intervistare anche a noi	non vuole: così non {P} vuole intervistare anche a noi	non vuole così non {P} vuole intervistare anche a noi
+738	TOI024	1291.938	1294.12	2.182	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	eh se volete venire anche una	eh se volete venire anche una	eh se volete venire anche una
+739	TOI024	1294.735	1295.105	0.37	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+740	???	1295.204	1295.982	0.878	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	0	0	3	quant'è x?	quant'è x?	quant' è x
+741	???	1296.612	1297.103	0.491	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	cosa è succ~	cosa è succ~	cosa è succ~
+742	???	1297.195	1297.823	0.628	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	hai già pa~,	hai già pa~,	hai già pa~
+743	???	1297.859	1298.859	1.0	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	già già pos[so]	già già pos[so]	già già posso
+744	TOI024	1298.596	1300.07	1.474	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[ma] fa~ facciamo: mh	[ma] fa~ facciamo: mh	ma fa~ facciamo mh
+745	TOR005	1300.288	1302.603	2.315	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	facciamo misto va bene sì sì sì assolutamente	facciamo misto va bene sì sì sì assolutamente	facciamo misto va bene sì sì sì assolutamente
+746	TOR005	1303.276	1305.744	2.468	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	8	però e::hm le do: una sedia, signora cioè	pero' e::hm le do: una sedia, signora cioè	pero' ehm le do una sedia signora cioè
+747	TOR005	1305.744	1308.509	2.765	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	m:::h do~ do~ [dove la possiamo mettere?]	m:::h do~ do~ [dove la possiamo mettere?]	mh do~ do~ dove la possiamo mettere
+748	TOI024	1307.019	1309.521	2.502	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	[eh ah ma lì ce c'è guarda] lì ce n'è [tante]	[eh ah ma lì ce c'è guarda] lì ce n'è [tante]	eh ah ma lì ce c' è guarda lì ce n' è tante
+749	TOR005	1309.081	1310.306	1.225	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[aspetti] che la prendo io	[aspetti] che la prendo io	aspetti che la prendo io
+750	TOI024	1310.408	1312.88	2.472	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	ce n'è (.) lì ammucchiate ce n'è tante.	ce n'è {P} lì ammucchiate ce n'è tante.	ce n' è {P} lì ammucchiate ce n' è tante
+751	TOI024	1313.241	1313.726	0.485	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+752	TOI024	1316.151	1316.824	0.673	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eccolo	eccolo	eccolo
+753	TOI024	1318.545	1319.147	0.602	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+754	TOR005	1320.433	1321.624	1.191	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	allora <una>	allora <una>	allora una
+755	TOI024	1322.099	1322.541	0.442	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+756	TOI024	1322.541	1325.717	3.176	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	da parte della mia famiglia non c'è stato nessun eh	da parte della mia famiglia non c'è stato nessun eh	da parte della mia famiglia non c' è stato nessun eh
+757	???	1326.853	1327.728	0.875	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	eh sì eh	eh sì eh	eh sì eh
+758	TOI024	1328.089	1329.451	1.362	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	e:h adesso	e:h adesso	eh adesso
+759	TOI024	1329.733	1332.635	2.902	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	e:h niente fa: domande su: tutta la vita	e:h niente fa: domande su: tutta la vita	eh niente fa domande su tutta la vita
+760	TOI024	1332.635	1333.245	0.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	più o [meno]	più o [meno]	più o meno
+761	???	1332.848	1333.597	0.749	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[oh] me me	[oh] me me	oh me me
+762	???	1333.863	1335.906	2.043	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	la mia non è una bella vita x	la mia non è una bella vita x	la mia non è una bella vita x
+763	TOI024	1335.26	1338.479	3.219	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+764	TOR005	1336.128	1336.69	0.562	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	oh ma	oh ma	oh ma
+765	???	1336.697	1338.668	1.971	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	#che am fasa nen ed dumande	che am fasa nen ed dumande	che am fasa nen ed dumande
+766	TOI024	1338.695	1340.019	1.324	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	ne avrà viste di peggio	ne avrà viste di peggio	ne avrà viste di peggio
+767	TOI024	1340.019	1340.327	0.308	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+768	???	1340.193	1341.147	0.954	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+769	TOI024	1340.327	1341.768	1.441	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	(o) sentite di peg[gio]	(o) sentite di peg[gio]	o sentite di peggio
+770	TOR005	1341.459	1342.713	1.254	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[a]ssolutamente	[a]ssolutamente	assolutamente
+771	TOR005	1342.713	1343.476	0.763	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	allora	allora	allora
+772	TOR005	1343.933	1345.115	1.182	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm:[:]:	eh[m::]:	ehm
+773	???	1344.526	1344.856	0.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+774	TOR005	1345.276	1347.889	2.613	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[io] spiego anche a voi quello che [stiamo] facendo così [almeno]	[io] spiego anche a voi quello che [stiamo] facendo così [almeno]	io spiego anche a voi quello che stiamo facendo così almeno
+775	???	1345.276	1345.614	0.338	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+776	???	1346.429	1346.919	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[dimmi]	[dimmi]	dimmi
+777	???	1347.308	1347.884	0.576	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[xx]	[xx]	xx
+778	TOR005	1348.233	1349.729	1.496	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	io sto raccogliendo:, dati	io sto raccogliendo:, dati	io sto raccogliendo dati
+779	TOR005	1349.799	1350.513	0.714	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[o]kay,	[o]kay,	okay
+780	???	1349.799	1350.175	0.376	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[mh mh]	[mh mh]	mh mh
+781	TOR005	1350.615	1353.466	2.851	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	m::h sui: cittadini e le cittadine: torinesi	m::h sui: cittadini e le cittadine: torinesi	mh sui cittadini e le cittadine torinesi
+782	TOR005	1353.82	1357.508	3.688	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	e:h mh: per quanto riguarda gli ultimi::: ultimo mezzo secolo	e:h mh: per quanto riguarda gli ultimi::: ultimo mezzo secolo	eh mh per quanto riguarda gli ultimi ultimo mezzo secolo
+783	TOR005	1357.508	1359.323	1.815	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	dalla città di torino quidi: appunto	dalla città di torino quidi: appunto	dalla città di torino quidi appunto
+784	TOR005	1359.363	1361.475	2.112	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	intervisto persone anziane intervisto	intervisto persone anziane intervisto	intervisto persone anziane intervisto
+785	TOR005	1361.631	1362.623	0.992	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	per sapere	per sapere	per sapere
+786	TOR005	1362.671	1366.419	3.748	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	come è torino oggi [e come era:: (.)] all'epoca	come è torino oggi [e come era:: {P}] all'epoca	come è torino oggi e come era {P} all' epoca
+787	???	1364.29	1365.537	1.247	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[bra::vo:]	[bra::vo:]	bravo
+788	TOR005	1366.535	1368.277	1.742	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	nulla di più chiedo::	nulla di più chiedo::	nulla di più chiedo
+789	TOR005	1368.399	1369.164	0.765	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	che sto anche:	che sto anche:	che sto anche
+790	???	1369.172	1370.535	1.363	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	solo vuoi solo donne?	solo vuoi solo donne?	solo vuoi solo donne
+791	TOR005	1370.663	1371.684	1.021	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	no anche uo[mini]	no anche uo[mini]	no anche uomini
+792	???	1371.405	1371.684	0.279	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]	[ah]	ah
+793	TOI024	1371.54	1374.485	2.945	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	[vo~] eh [dovrebbe a]v~ eh [esserci un] uomo ma chi prendo?	[vo~] eh [dovrebbe a]v~ eh [esserci un] uomo ma chi prendo?	vo~ eh dovrebbe av~ eh esserci un uomo ma chi prendo
+794	TOR005	1371.837	1372.528	0.691	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[infatti se:]	[infatti se:]	infatti se
+795	???	1372.872	1373.31	0.438	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+796	???	1375.004	1376.588	1.584	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	ma ce n'è uomini lì eh	ma ce n'è uomini lì eh	ma ce n' è uomini lì eh
+797	TOI024	1376.588	1378.245	1.657	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	c'era prima antonio	c'era prima antonio	c' era prima antonio
+798	TOI024	1378.334	1379.959	1.625	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	però è sparito adesso	pero' è sparito adesso	pero' è sparito adesso
+799	???	1380.062	1382.263	2.201	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	no se vuole vado a (cer~) xxx	no se vuole vado a (cer~) xxx	no se vuole vado a cer~ xxx
+800	TOI024	1382.263	1383.822	1.559	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	vuoi recuperare un uomo?	vuoi recuperare un uomo?	vuoi recuperare un uomo
+801	???	1383.822	1384.274	0.452	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh?	eh?	eh
+802	???	1384.462	1385.003	0.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	eh [sì]	eh [sì]	eh sì
+803	TOI024	1384.645	1385.954	1.309	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[giocan] tutti a c[arte]	[giocan] tutti a c[arte]	giocan tutti a carte
+804	???	1385.643	1387.994	2.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	[al po]sto mio così due donne e un uomo	[al po]sto mio così due donne e un uomo	al posto mio così due donne e un uomo
+805	TOR005	1388.656	1393.783	5.127	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	19	vab~ ah lo [possiamo:] possiamo fare anche dopo eh il [non: non è necessario farlo adesso quindi pos]siamo aspet[tare]	vab~ ah lo [possiamo:] possiamo fare anche dopo eh il [non: non è necessario farlo adesso quindi pos]siamo aspet[tare]	vab~ ah lo possiamo possiamo fare anche dopo eh il non non è necessario farlo adesso quindi possiamo aspettare
+806	???	1389.259	1389.826	0.567	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh,]	[eh,]	eh
+807	???	1391.153	1391.57	0.417	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]	[ah]	ah
+808	TOI024	1391.46	1393.017	1.557	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	[ah beh (.) sì sì sì sì]	[ah beh {P} sì sì sì sì]	ah beh {P} sì sì sì sì
+809	TOI024	1393.412	1394.047	0.635	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[sì] sì.	[sì] sì.	sì sì
+810	TOR005	1394.139	1395.473	1.334	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	3	ehm:: ecco però	ehm:: ecco pero'	ehm ecco pero'
+811	TOR005	1395.473	1399.502	4.029	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	chiaramente per fare quest(a) intervista vi (.) chiedo qualche dato, nome cogno[me co]sì	chiaramente per fare quest(a) intervista vi {P} chiedo qualche dato, nome cogno[me co]sì	chiaramente per fare questa intervista vi {P} chiedo qualche dato nome cognome così
+812	???	1398.871	1399.268	0.397	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[mh]	[mh]	mh
+813	TOR005	1399.54	1402.098	2.558	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	7	e (.) vi chiederò di firmare (.) la liberatoria	e {P} vi chiederò di firmare {P} la liberatoria	e {P} vi chiederò di firmare {P} la liberatoria
+814	TOR005	1402.098	1404.819	2.721	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	perché così [insomma: sia~ sia~ sia~ siamo si]curi::: che	perché così [insomma: sia~ sia~ sia~ siamo si]curi::: che	perché così insomma sia~ sia~ sia~ siamo sicuri che
+815	TOI024	1402.549	1403.974	1.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	[sì io ho già firmato]	[sì io ho già firmato]	sì io ho già firmato
+816	???	1404.822	1405.506	0.684	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	certo cer[to]	certo cer[to]	certo certo
+817	TOR005	1405.316	1405.912	0.596	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[a]llora	[a]llora	allora
+818	TOR005	1405.938	1408.053	2.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	le (.) do la liberatoria intanto	le {P} do la liberatoria intanto	le {P} do la liberatoria intanto
+819	TOI024	1408.116	1409.792	1.676	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	e intanto magari [finiamo]	e intanto magari [finiamo]	e intanto magari finiamo
+820	TOR005	1409.119	1409.795	0.676	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[la penna]	[la penna]	la penna
+821	TOI024	1409.807	1411.29	1.483	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[(le) domande] per me	[(le) domande] per me	le domande per me
+822	???	1409.807	1410.795	0.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[dammi la biro]	[dammi la biro]	dammi la biro
+823	TOR005	1411.314	1411.934	0.62	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	uno	uno	uno
+824	TOR005	1413.793	1415.505	1.712	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	ehm:::	ehm:::	ehm
+825	TOR005	1415.505	1416.51	1.005	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	<allora>	<allora>	allora
+826	???	1416.727	1417.093	0.366	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	allora	allora	allora
+827	TOR005	1417.093	1418.61	1.517	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	x la signora margherita	x la signora margherita	x la signora margherita
+828	TOR005	1418.64	1419.407	0.767	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	stavamo	stavamo	stavamo
+829	TOR005	1419.842	1420.627	0.785	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	due firme	due firme	due firme
+830	TOR005	1420.627	1421.951	1.324	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	(no) aspetti [che mi son perso (l'altra),]	(no) aspetti [che mi son perso (l'altra),]	no aspetti che mi son perso l' altra
+831	???	1421.005	1423.013	2.008	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[anche qua bisogna farla] ah solo qua	[anche qua bisogna farla] ah solo qua	anche qua bisogna farla ah solo qua
+832	TOR005	1423.087	1425.823	2.736	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	sì no solo qui sotto la firma, e qui sopra nome e cognome.	sì no solo qui sotto la firma, e qui sopra nome e cognome.	sì no solo qui sotto la firma e qui sopra nome e cognome
+833	???	1426.438	1427.602	1.164	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	#eh semp istess	eh semp istess	eh semp istess
+834	TOR005	1427.967	1428.35	0.383	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì:	sì:	sì
+835	TOI024	1428.444	1428.897	0.453	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+836	TOR005	1428.897	1431.967	3.07	True	0	0	3	0	0	0	0	False	False	False	False	False	_	1	1	0	10	[però (.) però no~] nome e cognome lo leggo meglio però ((ride))	[pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}	pero' {P} pero' no~ nome e cognome lo leggo meglio pero' {ride}
+837	???	1428.897	1430.2	1.303	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[MA PRATICAMENTE]	[MA PRATICAMENTE]	ma praticamente
+838	TOR005	1432.843	1434.456	1.613	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	in genere rispetto alle [firme]	in genere rispetto alle [firme]	in genere rispetto alle firme
+839	???	1433.927	1434.451	0.524	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[ah]	[ah]	ah
+840	TOR005	1435.142	1437.899	2.757	True	1	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	>eh va~ va bene signora margherita io guardi le chiedo< [ehm:: un~ ]	>eh va~ va bene signora margherita io guardi le chiedo< [ehm:: un~]	eh va~ va bene signora margherita io guardi le chiedo ehm un~
+841	TOI024	1437.355	1437.9	0.545	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[un co~]	[un co~]	un co~
+842	TOR005	1437.925	1439.025	1.1	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	un'ul[timis]sima cosa.	un'ul[timis]sima cosa.	un' ultimissima cosa
+843	TOI024	1438.158	1438.427	0.269	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+844	TOI024	1439.025	1439.209	0.184	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì.	sì.	sì
+845	TOR005	1439.233	1439.953	0.72	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	chiaramente	chiaramente	chiaramente
+846	TOI024	1439.976	1440.339	0.363	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì.	sì.	sì
+847	TOR005	1440.418	1441.398	0.98	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	in generale	in generale	in generale
+848	TOR005	1441.398	1441.958	0.56	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	se::	se::	se
+849	TOR005	1442.056	1444.058	2.002	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	m::h non lo so se mh mi dovesse:	m::h non lo so se mh mi dovesse:	mh non lo so se mh mi dovesse
+850	TOR005	1444.343	1445.41	1.067	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	<descrivere>	<descrivere>	descrivere
+851	TOR005	1445.41	1447.201	1.791	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	un aneddoto no, una cosa che::	un aneddoto no, una cosa che::	un aneddoto no una cosa che
+852	TOR005	1447.569	1449.227	1.658	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	deve dire a un torinese	deve dire a un torinese	deve dire a un torinese
+853	TOR005	1449.611	1451.299	1.688	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	>no< a un non torinese	>no< a un non torinese	no a un non torinese
+854	TOI024	1451.37	1452.245	0.875	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[ah un non torine~]	[ah un non torine~]	ah un non torine~
+855	TOR005	1451.37	1452.245	0.875	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[che viene a torino]	[che viene a torino]	che viene a torino
+856	TOR005	1452.342	1454.147	1.805	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	che viene a torino per la prima volta	che viene a torino per la prima volta	che viene a torino per la prima volta
+857	TOR005	1454.511	1455.506	0.995	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	okay? e le chiede	okay? e le chiede	okay e le chiede
+858	TOR005	1455.77	1459.426	3.656	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	mi descri~ mi mi dica una cosa:: che mi faccia innamorare di torino.	mi descri~ mi mi dica una cosa:: che mi faccia innamorare di torino.	mi descri~ mi mi dica una cosa che mi faccia innamorare di torino
+859	TOR005	1459.486	1461.177	1.691	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	perché dovrei rimanere a torino	perché dovrei rimanere a torino	perché dovrei rimanere a torino
+860	TOR005	1461.199	1461.891	0.692	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	mettiamola così	mettiamola così	mettiamola così
+861	TOR005	1461.891	1464.208	2.317	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	anzichè andare a milano: o aosta	anziché andare a milano: o aosta	anziché andare a milano o aosta
+862	TOR005	1464.448	1464.813	0.365	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	okay?	okay?	okay
+863	TOI024	1464.813	1468.094	3.281	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	mah eh torino è una bella città, tranquilla	mah eh torino è una bella città, tranquilla	mah eh torino è una bella città tranquilla
+864	TOI024	1468.501	1469.135	0.634	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+865	TOI024	1469.135	1470.677	1.542	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	5	eh insomma più o meno ((ride))	eh insomma più o meno {ride}	eh insomma più o meno {ride}
+866	TOI024	1470.677	1471.131	0.454	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+867	TOI024	1471.131	1473.246	2.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[x la] sera [di giorno trovi x]	[x la] sera [di giorno trovi x]	x la sera di giorno trovi x
+868	???	1471.131	1471.824	0.693	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[era.]	[era.]	era
+869	???	1472.26	1474.984	2.724	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[al~ allora t]ori[no era una bella città]	[al~ allora t]ori[no era una bella città]	al~ allora torino era una bella città
+870	TOI024	1473.496	1475.386	1.89	True	0	0	0	0	0	0	0	False	False	False	False	True	869=1.488,871=0.402	0	0	0	5	[se viene in questo borgo]	[se viene in questo borgo]	se viene in questo borgo
+871	???	1474.984	1475.994	1.01	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[tranq]uilla	[tranq]uilla	tranquilla
+872	TOI024	1475.996	1477.336	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	è tranquill[issimo]	è tranquill[issimo]	è tranquillissimo
+873	???	1476.658	1477.804	1.146	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[questo qui] è [sul]	[questo qui] è [sul]	questo qui è sul
+874	TOI024	1477.618	1479.633	2.015	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	[è] ancora [un bel borgo questo qua.]	[è] ancora [un bel borgo questo qua.]	è ancora un bel borgo questo qua
+875	???	1478.085	1479.637	1.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[qui si sta benisssimo]	[qui si sta benisssimo]	qui si sta benisssimo
+876	TOI024	1479.733	1482.359	2.726	True	0	0	0	0	0	0	1	False	False	False	False	False	_	0	0	0	8	le dico vieni ad abitare in questo borgo	le dico vieni ad abitare in questo borgo	le dico vieni ad abitare in questo borgo
+877	TOI024	1482.359	1483.514	1.155	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	[come ho fatto io]	[come ho fatto io]	come ho fatto io
+878	TOR005	1482.362	1483.509	1.147	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[benissimo]	[benissimo]	benissimo
+879	???	1483.535	1483.908	0.373	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	sì	sì	sì
+880	TOI024	1483.908	1486.529	2.621	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	[e vedrai che sarai ben(e) accol]to	[e vedrai che sarai ben(e) accol]to	e vedrai che sarai bene accolto
+881	???	1483.908	1486.235	2.327	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	[questo sì. (.) xxx]	[questo sì. {P} xxx]	questo sì {P} xxx
+882	TOI024	1487.125	1488.649	1.524	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	se è un uomo o una donna non lo [so]	se è un uomo o una donna non lo [so]	se è un uomo o una donna non lo so
+883	TOR005	1488.365	1489.179	0.814	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[va] bene	[va] bene	va bene
+884	TOI024	1489.179	1490.553	1.374	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	sarai ben accolto	sarai ben accolto	sarai ben accolto
+885	TOI024	1490.949	1491.989	1.04	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:::h	e:::h	eh
+886	TOI024	1492.069	1493.902	1.833	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	se sei una persona onesta	se sei una persona onesta	se sei una persona onesta
+887	TOI024	1493.902	1495.434	1.532	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	e cose ti vorremo bene	e cose ti vorremo bene	e cose ti vorremo bene
+888	TOI024	1495.434	1496.289	0.855	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:h	e:h	eh
+889	TOI024	1496.578	1497.585	1.007	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	sei come noi	sei come noi	sei come noi
+890	TOI024	1497.637	1500.236	2.599	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	[se non rompi le] scatole (.) se sei bravo	[se non rompi le] scatole {P} se sei bravo	se non rompi le scatole {P} se sei bravo
+891	TOR005	1497.637	1498.514	0.877	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[va bene]	[va bene]	va bene
+892	TOI024	1500.44	1500.803	0.363	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+893	TOI024	1501.291	1502.697	1.406	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	[noi accogliamo] tutti	[noi accogliamo] tutti	noi accogliamo tutti
+894	TOR005	1501.292	1502.117	0.825	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[va benissimo]	[va benissimo]	va benissimo
+895	TOI024	1502.737	1504.022	1.285	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	basta che siano bravi	basta che siano bravi	basta che siano bravi
+896	TOR005	1504.197	1504.738	0.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	gr[azie]	gr[azie]	grazie
+897	TOI024	1504.31	1504.958	0.648	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	[è ve]ro?	[è ve]ro?	è vero
+898	???	1504.958	1505.413	0.455	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+899	TOR005	1506.564	1507.341	0.777	True	0	0	0	0	0	0	0	False	False	False	False	True	900=0.380,901=0.371	0	0	0	1	[okay]	[okay]	okay
+900	???	1506.564	1506.944	0.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[x]	[x]	x
+901	TOI024	1506.97	1507.345	0.375	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[eh]	[eh]	eh
+902	TOR005	1507.37	1508.695	1.325	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	allora io la ringrazio intanto	allora io la ringrazio intanto	allora io la ringrazio intanto
+903	TOI024	1508.695	1509.743	1.048	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+904	TOR005	1508.695	1511.643	2.948	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	rimanga qui con noi se vuole inter[venire assolutamente]	rimanga qui con noi se vuole inter[venire assolutamente]	rimanga qui con noi se vuole intervenire assolutamente
+905	???	1510.06	1512.323	2.263	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	[sì sì rimane così ci] dà una mano	[sì sì rimane così ci] dà una mano	sì sì rimane così ci dà una mano
+906	TOI024	1512.352	1513.971	1.619	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+907	TOR005	1512.352	1513.788	1.436	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	e:::h	e:::h	eh
+908	???	1513.971	1515.368	1.397	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	#così chila sa già tut	così chila sa già tut	così chila sa già tut
+909	TOR005	1515.499	1516.87	1.371	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+910	TOI024	1515.553	1517.487	1.934	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	eh sì ho già (.) ho già risposto	eh sì ho già {P} ho già risposto	eh sì ho già {P} ho già risposto
+911	???	1515.553	1517.487	1.934	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	((ride))	{ride}	{ride}
+912	TOR005	1517.54	1519.312	1.772	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	ah beh ma poi abbiamo la signora:	ah beh ma poi abbiamo la signora:	ah beh ma poi abbiamo la signora
