@@ -2,5 +2,13 @@ unità 184: "veramente" invece di "bello"
 333-334-335 non so come sistemare
 365 367 ignora errore
 444 445 446 caso che non ho considerato nello script
+542 543 544 ricontrollare
+698 e dintorni, ricontrollare
+862 ricontrollare
+1144-1145 ricontrollare
+1209 - 1210 ignora errore
+1331 ricontrollare
+
+
 
 TODO: da 541 in poi
