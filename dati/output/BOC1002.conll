@@ -2823,7 +2823,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 431-0	BO087	431	che	[che	[che	linguistic	_	Begin=1030.63	_	_	_	_	_	_				_		0-3(432)
 431-1	BO087	431	manuale	manu]ale	manu]ale	linguistic	_		_	_	_	_	_	_				_		0-4(432)
 431-2	BO087	431	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		
-431-3	BO087	431	scelto	scelto?	scelto?	linguistic	_	End=1031.715	ascending	_	_	_	_	_				_		
+431-3	BO087	431	scelto	scelto?	scelto?	linguistic	_	End=1031.714	ascending	_	_	_	_	_				_		
 432-0	BO089	432	sì	[sì].	[sì].	linguistic	_	End=1030.91	descending	_	_	_	_	_				_		0-2(431)
 433-0	BO089	433	lezioni	lezioni	lezioni	linguistic	_	Begin=1031.79	_	_	_	_	_	_				_		
 433-1	BO089	433	di	di	di	linguistic	_		_	_	_	_	_	_				_		
@@ -2851,7 +2851,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 434-7	BO089	434	marco	[marco,]	[marco,]	linguistic	_	End=1041.75	weakly_ascending	_	_	_	_	_				_		0-5(436)
 435-0	BO087	435	mh	[mh	[mh	linguistic	_	Begin=1040.576	_	_	_	_	_	_				_		0-2(434)
 435-1	BO087	435	mh	mh,]	mh,]	linguistic	_	End=1041.055	weakly_ascending	_	_	_	_	_				_		0-2(434)
-436-0	BO087	436	la	[la	[la	linguistic	_	Begin=1041.311	_	_	_	_	_	_				_		0-2(?)
+436-0	BO087	436	la	[la	[la	linguistic	_	Begin=1041.31	_	_	_	_	_	_				_		0-2(?)
 436-1	BO087	436	biblioteca	bibliote]ca	bibliote]ca	linguistic	_		_	_	_	_	_	_				_		0-8(?)
 436-2	BO087	436	spiegata	spiegata	spiegata	linguistic	_		_	_	_	_	_	_				_		
 436-3	BO087	436	agli	agli	agli	linguistic	_		_	_	_	_	_	_				_		
@@ -2866,7 +2866,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 437-6	BO089	437	marco	marco	arco 	linguistic	_		_	_	_	_	_	_				_		
 437-7	BO089	437	guerrini	guerr[ini.]	uerr[ini.]	linguistic	_	End=1044.698	descending	_	_	_	_	_				_		5-8(438)
 438-0	BO087	438	mh	[mh,]	[mh,]	linguistic	_	End=1044.75	weakly_ascending	_	_	_	_	_				_		0-2(437)
-439-0	BO087	439	va	va	va	linguistic	_	Begin=1045.205	_	_	_	_	_	_				_		
+439-0	BO087	439	va	va	va	linguistic	_	Begin=1045.204	_	_	_	_	_	_				_		
 439-1	BO087	439	bene	bene	bene	linguistic	_		_	_	_	_	_	_				_		
 439-2	BO087	439	allora	allora	allora	linguistic	_		_	_	_	_	_	_				_		
 439-3	BO087	439	due	due	due	linguistic	_		_	_	_	_	_	_				_		

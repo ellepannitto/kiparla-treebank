@@ -3190,14 +3190,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 467-11	BOI059	467	delle	delle	delle	linguistic	_		_	_	_	_	_	_				_		
 467-12	BOI059	467	parole	parole	parole	linguistic	_		_	_	_	_	_	_				_		
 467-13	BOI059	467	standard	standard	standard	linguistic	_	End=1028.852	_	_	_	_	_	_				_		
-468-0	BOI059	468	non	non	non	linguistic	_	Begin=1029.541	_	_	_	_	_	_				_		
+468-0	BOI059	468	non	non	non	linguistic	_	Begin=1029.54	_	_	_	_	_	_				_		
 468-1	BOI059	468	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		
 468-2	BOI059	468	conosco	conosco	conosco	linguistic	_		_	_	_	_	_	_				_		
 468-3	BOI059	468	altri	altri	altri	linguistic	_	End=1031.069	_	_	_	_	_	_				_		
 469-0	BOI059	469	perché	perché	perché	linguistic	_	Begin=1031.443	_	_	_	_	_	_				_		
 469-1	BOI059	469	alla	alla	alla	linguistic	_		_	_	_	_	_	_				_		
 469-2	BOI059	469	fine	fine	fine	linguistic	_	End=1032.576	_	_	_	_	_	_				_		
-470-0	BOI059	470	non	non	non	linguistic	_	Begin=1033.003	_	_	_	_	_	_				_		
+470-0	BOI059	470	non	non	non	linguistic	_	Begin=1033.002	_	_	_	_	_	_				_		
 470-1	BOI059	470	ho	ho	ho	linguistic	_		_	_	_	_	_	_				_		
 470-2	BOI059	470	mai	mai	mai	linguistic	_		_	_	_	_	_	_				_		
 470-3	BOI059	470	avuto	avuto	avuto	linguistic	_	End=1034.318	_	_	_	_	_	_				_		

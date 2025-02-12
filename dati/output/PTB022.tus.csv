@@ -201,8 +201,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 199	TOI075	434.339	435.455	1.116	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 sotto le case	sotto le case	sotto le case
 200	TOI075	435.684	438.286	2.602	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 se crollava la casa rimanevano tutti	se crollava la casa rimanevano tutti	se crollava la casa rimanevano tutti
 201	TOI075	438.448	439.0	0.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [invece]	[invece]	invece
-202	TOR002	438.448	439.0	0.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
-203	TOR001	438.448	439.0	0.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [certo]	[certo]	certo
+202	TOR001	438.448	439.0	0.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [certo]	[certo]	certo
+203	TOR002	438.448	439.0	0.552	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 204	TOI075	439.274	442.711	3.437	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 (si facevano) i rifugi a l~ diciamo in posti esterni	(si facevano) i rifugi a l~ diciamo in posti esterni	si facevano i rifugi a l~ diciamo in posti esterni
 205	TOR001	442.741	442.907	0.166	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh	mhmh	mhmh
 206	TOI075	442.957	444.156	1.199	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sotterranei	sotterranei	sotterranei
@@ -241,7 +241,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 239	TOR002	515.892	516.351	0.459	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 240	TOI075	517.044	519.573	2.529	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 era vietato circolare in bicicletta	era vietato circolare in bicicletta	era vietato circolare in bicicletta
 241	TOI075	519.868	522.327	2.459	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 automobili neanche [a parlarne]	automobili neanche [a parlarne]	automobili neanche a parlarne
-242	TOR001	521.333	522.323	0.99	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [neanche a parlarne]	[neanche a parlarne]	neanche a parlarne
+242	TOR001	521.332	522.323	0.991	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [neanche a parlarne]	[neanche a parlarne]	neanche a parlarne
 243	TOR002	522.614	523.652	1.038	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 in tutta la città	in tutta la città	in tutta la città
 244	TOI075	523.961	525.232	1.271	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 eh in tutta la città	eh in tutta la città	eh in tutta la città
 245	TOI075	525.521	526.256	0.735	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 era così	era così	era così
@@ -283,8 +283,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 281	TOR001	616.19	616.665	0.475	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [certo]	[certo]	certo
 282	TOI075	617.619	621.774	4.155	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	 il voto {P} era solo per i maggiori di ventun anni	il voto {P} era solo per i maggiori di ventun anni	il voto {P} era solo per i maggiori di ventun anni
 283	TOI075	622.069	624.632	2.563	True	0	0	0	0	0	0	0	False	False	False	False	True	284+285=0.792	0	0	0	7	 non c'er~ adesso votano i dicio~	non c'er~ adesso votano i dicio~	non c' er~ adesso votano i dicio~
-284	TOR002	623.84	624.635	0.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [diciotto]	[diciotto]	diciotto
-285	TOR001	623.84	624.635	0.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [certo]	[certo]	certo
+284	TOR001	623.84	624.635	0.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [certo]	[certo]	certo
+285	TOR002	623.84	624.635	0.795	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [diciotto]	[diciotto]	diciotto
 286	TOI075	624.751	626.768	2.017	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 allora il voto era per i::	allora il voto era per i::	allora il voto era per i
 287	TOI075	627.082	628.866	1.784	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 ven~ dal ventuno in su	ven~ dal ventuno in su	ven~ dal ventuno in su
 288	TOI075	629.214	632.236	3.022	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 e per il senato da venticinque anni in su	e per il senato da venticinque anni in su	e per il senato da venticinque anni in su
@@ -300,8 +300,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 298	TOI075	649.95	651.546	1.596	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 iscritti alla gil	iscritti alla gil	iscritti alla gil
 299	TOI075	651.781	654.217	2.436	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 gioventù italiana del littorio	gioventù italiana del littorio	gioventù italiana del littorio
 300	TOI075	654.429	656.291	1.862	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 non si poteva scappare eh	non si poteva scappare eh	non si poteva scappare eh
-301	TOR002	656.31	656.614	0.304	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-302	TOR001	656.31	656.614	0.304	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+301	TOR001	656.31	656.614	0.304	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+302	TOR002	656.31	656.614	0.304	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 303	TOI075	656.688	658.401	1.713	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	2	 tutti inquadrati: {ride}	tutti inquadrati: {ride}	tutti inquadrati {ride}
 304	TOR002	658.442	659.879	1.437	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 e cosa vi facevano fare?	e cosa vi facevano fare?	e cosa vi facevano fare
 305	TOI075	659.912	660.371	0.459	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e::h?	e::h?	eh
@@ -317,8 +317,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 315	TOI075	680.239	681.858	1.619	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	4	 per essere in regola {ride}	per essere in regola {ride}	per essere in regola {ride}
 316	TOI075	682.684	684.855	2.171	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 anch'io avevo la divisa balilla	anch'io avevo la divisa balilla	anch' io avevo la divisa balilla
 317	TOI075	685.219	685.573	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 xx	xx	xx
-318	TOR002	685.219	685.573	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-319	TOR001	685.219	685.573	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+318	TOR001	685.219	685.573	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+319	TOR002	685.219	685.573	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 320	TOI075	686.33	686.684	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 (poi)	(poi)	poi
 321	TOI075	687.485	690.049	2.564	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 tanto quando è proseguita la guerra	tanto quando è proseguita la guerra	tanto quando è proseguita la guerra
 322	TOI075	690.076	691.116	1.04	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 a un certo punto	a un certo punto	a un certo punto
@@ -403,8 +403,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 401	TOI075	895.866	898.324	2.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 e quindi dopo che ho preso il diploma	e quindi dopo che ho preso il diploma	e quindi dopo che ho preso il diploma
 402	TOI075	898.353	901.464	3.111	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 ho cercato {P} così un impiego un po':	ho cercato {P} così un impiego un po':	ho cercato {P} così un impiego un po'
 403	TOI075	901.841	905.504	3.663	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	8	 un po' decente {ride} che mi permettesse di vivere	un po' decente {ride} che mi permettesse di vivere	un po' decente {ride} che mi permettesse di vivere
-404	TOR002	904.191	904.699	0.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-405	TOR001	904.191	904.699	0.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+404	TOR001	904.191	904.699	0.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+405	TOR002	904.191	904.699	0.508	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 406	TOR001	905.738	906.302	0.564	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 cer[to]	cer[to]	certo
 407	TOI075	906.119	906.835	0.716	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [e] quindi	[e] quindi	e quindi
 408	TOI075	907.109	909.501	2.392	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 nel frattempo ho continuato così	nel frattempo ho continuato così	nel frattempo ho continuato così
@@ -448,8 +448,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 446	TOI075	998.636	1002.829	4.193	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 normalmente capita raramente di parlare piemontese	normalmente capita raramente di parlare piemontese	normalmente capita raramente di parlare piemontese
 447	TOR001	1004.011	1005.005	0.994	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 ma le piacerebbe?	ma le piacerebbe?	ma le piacerebbe
 448	TOI075	1005.267	1007.731	2.464	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 adesso è più facile parlare ROMENO	adesso è più facile parlare ROMENO	adesso è più facile parlare romeno
-449	TOR002	1007.772	1008.109	0.337	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-450	TOR001	1007.772	1008.109	0.337	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+449	TOR001	1007.772	1008.109	0.337	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+450	TOR002	1007.772	1008.109	0.337	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 451	TOI075	1008.144	1009.254	1.11	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 o spagnolo	o spagnolo	o spagnolo
 452	TOI075	1009.531	1013.719	4.188	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 ci son~ qui per esempio in questa struttura ci sono molte::	ci son~ qui per esempio in questa struttura ci sono molte::	ci son~ qui per esempio in questa struttura ci sono molte
 453	TOI075	1013.821	1017.064	3.243	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 ci sono molte operatrici romene [e pe]ruviane	ci sono molte operatrici romene [e pe]ruviane	ci sono molte operatrici romene e peruviane
@@ -461,20 +461,20 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 459	TOI075	1021.79	1024.387	2.597	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 adesso è ne è ar~ arrivata una giovane	adesso è ne è ar~ arrivata una giovane	adesso è ne è ar~ arrivata una giovane
 460	TOI075	1024.662	1026.651	1.989	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 italiana che anche lei vie~	italiana che anche lei vie~	italiana che anche lei vie~
 461	TOI075	1026.904	1030.413	3.509	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 è figlia di padre torinese, una bestia rara	è figlia di padre torinese, una bestia rara	è figlia di padre torinese una bestia rara
-462	TOR002	1030.06	1030.53	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-463	TOR001	1030.06	1030.53	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+462	TOR001	1030.06	1030.53	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+463	TOR002	1030.06	1030.53	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 464	TOI075	1031.472	1032.549	1.077	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 non l'ho più vista	non l'ho più vista	non l' ho più vista
-465	TOR002	1032.737	1033.162	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-466	TOR001	1032.737	1033.162	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-467	TOI075	1033.326	1035.253	1.927	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	7	 non so se l'hanno già [rapita] {ride}	non so se l'hanno già [rapita] {ride}	non so se l' hanno già rapita {ride}
-468	TOR002	1034.248	1035.407	1.159	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	4	 [l'hanno mandata] via {ride}	[l'hanno mandata] via {ride}	l' hanno mandata via {ride}
+465	TOR001	1032.737	1033.162	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+466	TOR002	1032.737	1033.162	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+467	TOI075	1033.326	1035.252	1.926	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	7	 non so se l'hanno già [rapita] {ride}	non so se l'hanno già [rapita] {ride}	non so se l' hanno già rapita {ride}
+468	TOR002	1034.248	1035.406	1.158	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	4	 [l'hanno mandata] via {ride}	[l'hanno mandata] via {ride}	l' hanno mandata via {ride}
 469	TOI075	1035.557	1038.22	2.663	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 è sparita dalla circolazione	è sparita dalla circolazione	è sparita dalla circolazione
-470	TOI075	1038.294	1042.542	4.248	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 ma ero ben contento che ci fosse questa ragazza	ma ero ben contento che ci fosse questa ragazza	ma ero ben contento che ci fosse questa ragazza
+470	TOI075	1038.294	1042.541	4.247	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 ma ero ben contento che ci fosse questa ragazza	ma ero ben contento che ci fosse questa ragazza	ma ero ben contento che ci fosse questa ragazza
 471	TOI075	1043.156	1043.526	0.37	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 °così°	°così°	così
 472	TOI075	1043.778	1045.491	1.713	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 piemontese DOC	piemontese DOC	piemontese doc
 473	TOI075	1046.159	1046.867	0.708	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	2	 e invece {ride}	e invece {ride}	e invece {ride}
-474	TOR002	1046.159	1046.867	0.708	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-475	TOR001	1046.159	1046.867	0.708	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+474	TOR001	1046.159	1046.867	0.708	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+475	TOR002	1046.159	1046.867	0.708	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 476	TOR001	1047.938	1050.783	2.845	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	 ma {P} a lei piacerebbe avere occasioni per parlarlo?	ma {P} a lei piacerebbe avere occasioni per parlarlo?	ma {P} a lei piacerebbe avere occasioni per parlarlo
 477	TOI075	1051.243	1054.427	3.184	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 mah insomma se mi capita lo parlo volentieri	mah insomma se mi capita lo parlo volentieri	mah insomma se mi capita lo parlo volentieri
 478	TOI075	1054.839	1055.427	0.588	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 non è che	non è che	non è che
@@ -494,8 +494,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 492	TOR001	1094.018	1094.232	0.214	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh	mhmh	mhmh
 493	TOI075	1094.247	1094.927	0.68	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 (in)somma	(in)somma	insomma
 494	TOI075	1094.984	1099.808	4.824	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	11	 non è che {P} nel frattempo i piemontesi sono quasi spariti quindi	non è che {P} nel frattempo i piemontesi sono quasi spariti quindi	non è che {P} nel frattempo i piemontesi sono quasi spariti quindi
-495	TOR002	1099.473	1099.816	0.343	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-496	TOR001	1099.473	1099.816	0.343	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+495	TOR001	1099.473	1099.816	0.343	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+496	TOR002	1099.473	1099.816	0.343	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 497	TOI075	1100.492	1101.911	1.419	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 c'è poco da fare	c'è poco da fare	c' è poco da fare
 498	TOR001	1102.453	1106.277	3.824	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 ma e lei l'ha imparato in casa, cioè suo padre le [parlava:: in]	ma e lei l'ha imparato in casa, cioè suo padre le [parlava:: in]	ma e lei l' ha imparato in casa cioè suo padre le parlava in
 499	TOI075	1104.609	1108.037	3.428	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [sì::: mia mat~ (mia) x] parlavano piemontese	[sì::: mia mat~ (mia) x] parlavano piemontese	sì mia mat~ mia x parlavano piemontese
@@ -678,8 +678,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 676	TOI075	1541.076	1544.806	3.73	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 ma era una cosa di oggetto un oggettoo comune co[me:]	ma era una cosa di oggetto un oggettoo comune co[me:]	ma era una cosa di oggetto un oggettoo comune come
 677	TOR002	1544.495	1544.819	0.324	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [sì]	[sì]	sì
 678	TOI075	1545.103	1546.535	1.432	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 il frigorifero	il frigorifero	il frigorifero
-679	TOR002	1546.708	1547.37	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-680	TOR001	1546.708	1547.37	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+679	TOR001	1546.708	1547.37	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+680	TOR002	1546.708	1547.37	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 681	TOI075	1547.425	1548.858	1.433	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 o la lavatrice perché	o la lavatrice perché	o la lavatrice perché
 682	TOI075	1549.023	1551.347	2.324	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 anche gli elettrodomestici	anche gli elettrodomestici	anche gli elettrodomestici
 683	TOI075	1551.509	1555.995	4.486	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 prima della guerra non non si u~ non c'erano nelle ca:se	prima della guerra non non si u~ non c'erano nelle ca:se	prima della guerra non non si u~ non c' erano nelle case
@@ -754,8 +754,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 752	TOI075	1760.5	1763.419	2.919	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 che si trova lì ci sono i giardini cavou:r,	che si trova lì ci sono i giardini cavou:r,	che si trova lì ci sono i giardini cavour
 753	TOI075	1763.915	1768.334	4.419	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 così un certo rimpianto per quando ero bambi:no sa ognuno	così un certo rimpianto per quando ero bambi:no sa ognuno	così un certo rimpianto per quando ero bambino sa ognuno
 754	TOI075	1768.905	1770.04	1.135	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 quand'era bambino	quand'era bambino	quand' era bambino
-755	TOR002	1768.905	1770.04	1.135	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-756	TOR001	1768.905	1770.04	1.135	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+755	TOR001	1768.905	1770.04	1.135	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+756	TOR002	1768.905	1770.04	1.135	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 757	TOI075	1770.228	1774.296	4.068	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 sembra di essere più felice che non quand'è cresciuto	sembra di essere più felice che non quand'è cresciuto	sembra di essere più felice che non quand' è cresciuto
 758	TOI075	1774.991	1776.627	1.636	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 l'impressione è quella.	l'impressione è quella.	l' impressione è quella
 759	TOR001	1777.011	1777.809	0.798	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 certo.	certo.	certo
@@ -807,8 +807,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 805	TOI075	1878.356	1881.351	2.995	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 se uno ne puo' fare a meno, io ne faccio a meno	se uno ne puo' fare a meno, io ne faccio a meno	se uno ne puo' fare a meno io ne faccio a meno
 806	TOI075	1881.578	1882.821	1.243	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 e sto benissimo.	e sto benissimo.	e sto benissimo
 807	TOI075	1883.142	1883.737	0.595	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-808	TOR002	1883.142	1883.737	0.595	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-809	TOR001	1883.142	1883.737	0.595	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+808	TOR001	1883.142	1883.737	0.595	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+809	TOR002	1883.142	1883.737	0.595	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 810	TOI075	1883.758	1886.677	2.919	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 dico non è obbligatorio x (sembra che)	dico non è obbligatorio x (sembra che)	dico non è obbligatorio x sembra che
 811	TOI075	1887.105	1889.673	2.568	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 se uno non ha il sito internet oramai	se uno non ha il sito internet oramai	se uno non ha il sito internet oramai
 812	TOI075	1889.938	1891.6	1.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 non conta più niente	non conta più niente	non conta più niente
@@ -852,8 +852,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 850	TOR001	1962.539	1963.201	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmhmh	mhmhmh	mhmhmh
 851	TOI075	1963.235	1965.059	1.824	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 che possono mantenerle	che possono mantenerle	che possono mantenerle
 852	TOI075	1965.197	1968.981	3.784	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 le promesse che hanno fatto i governanti di adesso	le promesse che hanno fatto i governanti di adesso	le promesse che hanno fatto i governanti di adesso
-853	TOR002	1970.072	1971.113	1.041	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-854	TOR001	1970.072	1971.113	1.041	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+853	TOR001	1970.072	1971.113	1.041	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+854	TOR002	1970.072	1971.113	1.041	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 855	TOR002	1972.506	1973.925	1.419	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 una gara a chi la spara più grossa	una gara a chi la spara più grossa	una gara a chi la spara più grossa
 856	TOI075	1973.971	1976.444	2.473	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	4	 diciamo {P} che io {P} quando	diciamo {P} che io {P} quando	diciamo {P} che io {P} quando
 857	TOI075	1976.824	1980.365	3.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 ho cominciato ad avere un'opinione politica personale,	ho cominciato ad avere un'opinione politica personale,	ho cominciato ad avere un' opinione politica personale

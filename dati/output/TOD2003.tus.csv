@@ -380,19 +380,19 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 378	TO083	1018.901	1020.32	1.419	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 non troppo piena di mobili,	non troppo piena di mobili,	non troppo piena di mobili
 379	TO083	1022.265	1024.371	2.106	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 ogni tanto qualcosa di colorato preferirei,	ogni tanto qualcosa di colorato preferirei,	ogni tanto qualcosa di colorato preferirei
 380	TO083	1024.646	1025.935	1.289	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 <preferibilmente> rosso.	<preferibilmente> rosso.	preferibilmente rosso
-381	TO999	1026.32	1026.778	0.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh,	mhmh,	mhmh
-382	TO083	1028.08	1032.096	4.016	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	 e::h il giardino non ce n' è bisogno pero' m:h un terrazzo mi farebbe piacere.	e::h il giardino non ce n' è bisogno pero' m:h un terrazzo mi farebbe piacere.	eh il giardino non ce n' è bisogno pero' mh un terrazzo mi farebbe piacere
+381	TO999	1026.319	1026.778	0.459	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh,	mhmh,	mhmh
+382	TO083	1028.079	1032.096	4.017	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	 e::h il giardino non ce n' è bisogno pero' m:h un terrazzo mi farebbe piacere.	e::h il giardino non ce n' è bisogno pero' m:h un terrazzo mi farebbe piacere.	eh il giardino non ce n' è bisogno pero' mh un terrazzo mi farebbe piacere
 383	TO999	1032.453	1032.911	0.458	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 okay.	okay.	okay
 384	TO083	1034.29	1035.151	0.861	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 non troppo grande.	non troppo grande.	non troppo grande
 385	TO999	1035.595	1036.526	0.931	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 senza animali.	senza animali.	senza animali
 386	TO083	1036.76	1037.422	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 no animale.	no animale.	no animale
 387	TO999	1037.521	1038.233	0.712	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-388	TO083	1038.33	1039.401	1.071	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 piante solo grasse.	piante solo grasse.	piante solo grasse
+388	TO083	1038.329	1039.401	1.072	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 piante solo grasse.	piante solo grasse.	piante solo grasse
 389	TO999	1040.526	1041.17	0.644	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 okay.	okay.	okay
 390	TO999	1041.512	1043.0	1.488	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 perché non hai il pollice verde.	perché non hai il pollice verde.	perché non hai il pollice verde
 391	TO083	1043.0	1044.213	1.213	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 eh no temo proprio di no.	eh no temo proprio di no.	eh no temo proprio di no
-392	TO083	1044.442	1044.859	0.417	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-393	TO999	1044.442	1044.859	0.417	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+392	TO083	1044.442	1044.858	0.416	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+393	TO999	1044.442	1044.858	0.416	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 394	TO999	1046.56	1047.47	0.91	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 <okay,>	<okay,>	okay
 395	TO999	1047.546	1054.903	7.357	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	26	 e:::h boh (la) possiamo chiudere qui ah no aspetta allora ti chiedo delle cose che non c' entrano niente con questo pero' così evito di scriverle,	e:::h boh (la) possiamo chiudere qui ah no aspetta allora ti chiedo delle cose che non c' entrano niente con questo pero' così evito di scriverle,	eh boh la possiamo chiudere qui ah no aspetta allora ti chiedo delle cose che non c' entrano niente con questo pero' così evito di scriverle
 396	TO999	1055.156	1057.418	2.262	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 e:: allora carla quanti anni hai?	e:: allora carla quanti anni hai?	e allora carla quanti anni hai

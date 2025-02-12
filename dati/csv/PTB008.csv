@@ -268,13 +268,13 @@ tu_id	speaker	start	end	duration	text
 266	TOR005	492.630	494.403	1.773	 quindi: ehm:::
 267	???	494.403	495.112	0.709	 ah sei qua?
 268	TOI024	495.200	496.000	0.800	 eh eh eh
-269	???	496.773	497.482	0.709	 [x]
-270	TOI024	496.773	497.482	0.709	 [sta inten~]
+269	TOI024	496.773	497.482	0.709	 [sta inten~]
+270	???	496.773	497.482	0.709	 [x]
 271	TOI024	497.482	498.153	0.671	 [eh]
 272	TOR005	497.482	498.153	0.671	 [prego]
 273	TOI024	498.201	499.810	1.609	 a i'è na tessera da fè
-274	???	499.810	500.167	0.357	 [eh?]
-275	TOI024	499.810	502.137	2.327	 [poi ha] detto che dobbiamo a essere in due
+274	TOI024	499.810	502.137	2.327	 [poi ha] detto che dobbiamo a essere in due
+275	???	499.810	500.167	0.357	 [eh?]
 276	TOI024	502.237	504.363	2.126	 adesso mi fa qualche domanda
 277	TOI024	504.524	505.069	0.545	 eh
 278	TOI024	505.333	506.345	1.012	 è l'altra mia collega
@@ -401,13 +401,13 @@ tu_id	speaker	start	end	duration	text
 399	TOI024	719.359	722.151	2.792	 comunque in via meucci {P} mi pare nove
 400	TOI024	722.151	723.741	1.590	 [mh eh c'era la]
 401	TOR005	722.151	723.740	1.589	 [ah okay eh va bene]
-402	???	723.918	724.900	0.982	 [eccomi]
-403	TOI024	723.918	725.704	1.786	 [l'avviamento com]merciale
-404	???	725.704	726.260	0.556	 [OH]
-405	TOI024	725.704	726.260	0.556	 [ecco]
-406	???	726.286	727.250	0.964	 [ce l'ho fatta]
-407	TOI024	726.286	727.459	1.173	 [x {P} eh]
-408	TOR005	726.286	727.901	1.615	 [salve buongio]rno
+402	TOI024	723.918	725.704	1.786	 [l'avviamento com]merciale
+403	???	723.918	724.900	0.982	 [eccomi]
+404	TOI024	725.704	726.260	0.556	 [ecco]
+405	???	725.704	726.260	0.556	 [OH]
+406	TOI024	726.286	727.459	1.173	 [x {P} eh]
+407	TOR005	726.286	727.901	1.615	 [salve buongio]rno
+408	???	726.286	727.250	0.964	 [ce l'ho fatta]
 409	TOI024	728.216	730.018	1.802	 eh questa è: l'altra mia collega
 410	TOR005	730.018	730.316	0.298	 salve
 411	TOI024	730.316	730.646	0.330	 eh
@@ -440,8 +440,8 @@ tu_id	speaker	start	end	duration	text
 438	TOI024	762.302	762.964	0.662	 {ride}
 439	TOR005	762.333	764.242	1.909	 che si {P} si pos[sono dire mh]
 440	TOI024	763.186	764.631	1.445	 [adesso sono] qua
-441	???	764.683	766.337	1.654	 [xxx]
-442	TOR005	764.683	765.922	1.239	 [un milione di cose]
+441	TOR005	764.683	765.922	1.239	 [un milione di cose]
+442	???	764.683	766.337	1.654	 [xxx]
 443	TOI024	765.199	770.697	5.498	 [eh perché qua bal]liamo due volte alla set[timana], a volte giochiamo a bocce quando abbiamo voglia
 444	TOR005	767.525	768.193	0.668	 [ah ah]
 445	TOI024	770.697	773.130	2.433	 giochiamo carte quando abbiamo voglia
@@ -584,11 +584,11 @@ tu_id	speaker	start	end	duration	text
 582	TOR005	1024.750	1027.194	2.444	 mh m~ m~ mi sa dire magari qualche [m:h]
 583	TOI024	1026.538	1032.299	5.761	 [e vabbè qua]ndo ero sposata andavamo con mio marito a trovare amici così era: diversa la vita
 584	TOR005	1032.381	1032.781	0.400	 mh mh
-585	TOI024	1032.781	1033.994	1.213	 e:::h
-586	TOI024	1033.994	1036.194	2.200	 andavamo: a mangiar la pizza:
+585	TOI024	1032.781	1033.993	1.212	 e:::h
+586	TOI024	1033.993	1036.194	2.201	 andavamo: a mangiar la pizza:
 587	TOI024	1036.520	1041.088	4.568	 a trovare qualcuno adesso:: io sto a casa la sera dove vuole an[dare]
-588	TOI024	1041.339	1042.734	1.395	 qualche volta andiamo::
-589	TOI024	1042.820	1044.589	1.769	 co(n) la mia amica a vedere:
+588	TOI024	1041.339	1042.733	1.394	 qualche volta andiamo::
+589	TOI024	1042.819	1044.589	1.770	 co(n) la mia amica a vedere:
 590	TOI024	1045.410	1047.757	2.347	 eh ehm un cantante non so se lei
 591	TOI024	1047.757	1048.156	0.399	 {ride}
 592	TOI024	1048.156	1049.112	0.956	 lo conosce {ridendo}
@@ -605,8 +605,8 @@ tu_id	speaker	start	end	duration	text
 603	TOI024	1063.029	1065.749	2.720	 [sì nei din]torni nelle:: [nei paesi]
 604	TOR005	1063.029	1063.655	0.626	 [perché:]
 605	???	1064.614	1067.215	2.601	 [sì perché prima non] c'è quasi mai: visto che
-606	???	1067.334	1067.923	0.589	 [non puo']
-607	TOI024	1067.334	1067.923	0.589	 [eh]
+606	TOI024	1067.334	1067.923	0.589	 [eh]
+607	???	1067.334	1067.923	0.589	 [non puo']
 608	???	1068.046	1068.995	0.949	 è un po' famoso
 609	TOR005	1068.889	1071.790	2.901	 {ride}
 610	???	1068.995	1069.976	0.981	 [e:h]
@@ -773,13 +773,13 @@ tu_id	speaker	start	end	duration	text
 771	TOR005	1342.713	1343.476	0.763	 allora
 772	TOR005	1343.933	1345.115	1.182	 eh[m::]:
 773	???	1344.526	1344.856	0.330	 [eh]
-774	???	1345.276	1345.614	0.338	 [eh]
-775	TOR005	1345.276	1347.889	2.613	 [io] spiego anche a voi quello che [stiamo] facendo così [almeno]
+774	TOR005	1345.276	1347.889	2.613	 [io] spiego anche a voi quello che [stiamo] facendo così [almeno]
+775	???	1345.276	1345.614	0.338	 [eh]
 776	???	1346.429	1346.919	0.490	 [dimmi]
 777	???	1347.308	1347.884	0.576	 [xx]
 778	TOR005	1348.233	1349.729	1.496	 io sto raccogliendo:, dati
-779	???	1349.799	1350.175	0.376	 [mh mh]
-780	TOR005	1349.799	1350.513	0.714	 [o]kay,
+779	TOR005	1349.799	1350.513	0.714	 [o]kay,
+780	???	1349.799	1350.175	0.376	 [mh mh]
 781	TOR005	1350.615	1353.466	2.851	 m::h sui: cittadini e le cittadine: torinesi
 782	TOR005	1353.820	1357.508	3.688	 e:h mh: per quanto riguarda gli ultimi::: ultimo mezzo secolo
 783	TOR005	1357.508	1359.323	1.815	 dalla città di torino quidi: appunto
@@ -820,8 +820,8 @@ tu_id	speaker	start	end	duration	text
 818	TOR005	1405.938	1408.053	2.115	 le {P} do la liberatoria intanto
 819	TOI024	1408.116	1409.792	1.676	 e intanto magari [finiamo]
 820	TOR005	1409.119	1409.795	0.676	 [la penna]
-821	???	1409.807	1410.795	0.988	 [dammi la biro]
-822	TOI024	1409.807	1411.290	1.483	 [(le) domande] per me
+821	TOI024	1409.807	1411.290	1.483	 [(le) domande] per me
+822	???	1409.807	1410.795	0.988	 [dammi la biro]
 823	TOR005	1411.314	1411.934	0.620	 uno
 824	TOR005	1413.793	1415.505	1.712	 ehm:::
 825	TOR005	1415.505	1416.510	1.005	 <allora>
@@ -835,8 +835,8 @@ tu_id	speaker	start	end	duration	text
 833	???	1426.438	1427.602	1.164	 eh semp istess
 834	TOR005	1427.967	1428.350	0.383	 sì:
 835	TOI024	1428.444	1428.897	0.453	 eh
-836	???	1428.897	1430.200	1.303	 [MA PRATICAMENTE]
-837	TOR005	1428.897	1431.967	3.070	 [pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}
+836	TOR005	1428.897	1431.967	3.070	 [pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}
+837	???	1428.897	1430.200	1.303	 [MA PRATICAMENTE]
 838	TOR005	1432.843	1434.456	1.613	 in genere rispetto alle [firme]
 839	???	1433.927	1434.451	0.524	 [ah]
 840	TOR005	1435.142	1437.899	2.757	 >eh va~ va bene signora margherita io guardi le chiedo< [ehm:: un~]
@@ -866,8 +866,8 @@ tu_id	speaker	start	end	duration	text
 864	TOI024	1468.501	1469.135	0.634	 {ride}
 865	TOI024	1469.135	1470.677	1.542	 eh insomma più o meno {ride}
 866	TOI024	1470.677	1471.131	0.454	 {ride}
-867	???	1471.131	1471.824	0.693	 [era.]
-868	TOI024	1471.131	1473.246	2.115	 [x la] sera [di giorno trovi x]
+867	TOI024	1471.131	1473.246	2.115	 [x la] sera [di giorno trovi x]
+868	???	1471.131	1471.824	0.693	 [era.]
 869	???	1472.260	1474.984	2.724	 [al~ allora t]ori[no era una bella città]
 870	TOI024	1473.496	1475.386	1.890	 [se viene in questo borgo]
 871	???	1474.984	1475.994	1.010	 [tranq]uilla
@@ -879,8 +879,8 @@ tu_id	speaker	start	end	duration	text
 877	TOI024	1482.359	1483.514	1.155	 [come ho fatto io]
 878	TOR005	1482.362	1483.509	1.147	 [benissimo]
 879	???	1483.535	1483.908	0.373	 sì
-880	???	1483.908	1486.235	2.327	 [questo sì. {P} xxx]
-881	TOI024	1483.908	1486.529	2.621	 [e vedrai che sarai ben(e) accol]to
+880	TOI024	1483.908	1486.529	2.621	 [e vedrai che sarai ben(e) accol]to
+881	???	1483.908	1486.235	2.327	 [questo sì. {P} xxx]
 882	TOI024	1487.125	1488.649	1.524	 se è un uomo o una donna non lo [so]
 883	TOR005	1488.365	1489.179	0.814	 [va] bene
 884	TOI024	1489.179	1490.553	1.374	 sarai ben accolto
@@ -898,8 +898,8 @@ tu_id	speaker	start	end	duration	text
 896	TOR005	1504.197	1504.738	0.541	 gr[azie]
 897	TOI024	1504.310	1504.958	0.648	 [è ve]ro?
 898	???	1504.958	1505.413	0.455	 eh
-899	???	1506.564	1506.944	0.380	 [x]
-900	TOR005	1506.564	1507.341	0.777	 [okay]
+899	TOR005	1506.564	1507.341	0.777	 [okay]
+900	???	1506.564	1506.944	0.380	 [x]
 901	TOI024	1506.970	1507.345	0.375	 [eh]
 902	TOR005	1507.370	1508.695	1.325	 allora io la ringrazio intanto
 903	TOI024	1508.695	1509.743	1.048	 {ride}
@@ -909,6 +909,6 @@ tu_id	speaker	start	end	duration	text
 907	TOR005	1512.352	1513.788	1.436	 e:::h
 908	???	1513.971	1515.368	1.397	 così chila sa già tut
 909	TOR005	1515.499	1516.870	1.371	 {ride}
-910	???	1515.553	1517.487	1.934	 {ride}
-911	TOI024	1515.553	1517.487	1.934	 eh sì ho già {P} ho già risposto
+910	TOI024	1515.553	1517.487	1.934	 eh sì ho già {P} ho già risposto
+911	???	1515.553	1517.487	1.934	 {ride}
 912	TOR005	1517.540	1519.312	1.772	 ah beh ma poi abbiamo la signora:

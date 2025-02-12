@@ -2330,8 +2330,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 284-2	TO028	284	quest'	quest'	quest'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 284-3	TO028	284	anno	anno	anno	linguistic	_	End=805.057	_	_	_	_	_	_				_		
 285-0	TO028	285	quindi	quindi	quindi	linguistic	_	End=806.158	_	_	_	_	_	_				_		
-286-0	TO026	286	{ride}	{ride}	{ride}	metalinguistic	_	End=808.408	_	_	_	_	_	_				_		
-287-0	TO028	287	{ride}	{ride}	{ride}	metalinguistic	_	End=808.408	_	_	_	_	_	_				_		
+286-0	TO028	286	{ride}	{ride}	{ride}	metalinguistic	_	End=808.408	_	_	_	_	_	_				_		
+287-0	TO026	287	{ride}	{ride}	{ride}	metalinguistic	_	End=808.408	_	_	_	_	_	_				_		
 288-0	TO026	288	eh	eh	eh	linguistic	_	Begin=809.161	_	_	_	_	_	_				_		
 288-1	TO026	288	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
 288-2	TO026	288	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
@@ -2366,8 +2366,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 294-0	TO028	294	sì	sì	sì	linguistic	_	Begin=821.341	_	_	_	_	_	_				_		
 294-1	TO028	294	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
 294-2	TO028	294	sì	sì	sì	linguistic	_	End=821.913	_	_	_	_	_	_				_		
-295-0	TO026	295	{ride}	{ride}	{ride}	metalinguistic	_	End=822.417	_	_	_	_	_	_				_		
-296-0	TO028	296	{ride}	{ride}	{ride}	metalinguistic	_	End=822.417	_	_	_	_	_	_				_		
+295-0	TO028	295	{ride}	{ride}	{ride}	metalinguistic	_	End=822.417	_	_	_	_	_	_				_		
+296-0	TO026	296	{ride}	{ride}	{ride}	metalinguistic	_	End=822.417	_	_	_	_	_	_				_		
 297-0	TO026	297	eh	eh	eh	linguistic	_	Begin=822.694	_	_	_	_	_	_				_		
 297-1	TO026	297	beh	beh	beh	linguistic	_		_	_	_	_	_	_				_		
 297-2	TO026	297	eh	[eh	[eh	linguistic	_		_	_	_	_	_	_				_		0-2(298)

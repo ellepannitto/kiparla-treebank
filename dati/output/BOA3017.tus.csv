@@ -15,10 +15,10 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 13	BO147	14.995	15.935	0.94	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [(ah bene)]	[(ah bene)]	ah bene
 14	BO139	17.175	17.815	0.64	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 15	BO146	17.55	18.51	0.96	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 se poi arriva pure francesco ciao	se poi arriva pure francesco ciao	se poi arriva pure francesco ciao
-16	BO139	18.52	19.48	0.96	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+16	BO145	18.52	19.23	0.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 17	BO147	18.52	19.23	0.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 18	BO146	18.52	19.23	0.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-19	BO145	18.52	19.23	0.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+19	BO139	18.52	19.48	0.96	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 20	BO145	19.9	20.83	0.93	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 alé lì è la fine	alé lì è la fine	alé lì è la fine
 21	BO147	20.84	24.33	3.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	1	 xx {ride}	xx {ride}	xx {ride}
 22	BO139	25.325	27.6	2.275	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	6	 non saprei come scrivere mbare pero' {ride}	non saprei come scrivere mbare pero' {ride}	non saprei come scrivere mbare pero' {ride}
@@ -202,9 +202,9 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 200	BO147	333.507	335.027	1.52	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 vabbè c' avra pure lei da studia(re)	vabbè c' avra pure lei da studia(re)	vabbè c' avra pure lei da studiare
 201	BO139	335.812	336.472	0.66	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 202	BO145	336.552	338.207	1.655	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	4	 chi l' ha detto {ride}	chi l' ha detto {ride}	chi l' ha detto {ride}
-203	BO139	337.177	338.207	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-204	BO147	337.177	338.207	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-205	BO146	337.177	338.207	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+203	BO147	337.177	338.207	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+204	BO146	337.177	338.207	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+205	BO139	337.177	338.207	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 206	BO147	338.277	339.117	0.84	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 (lo) dico io	(lo) dico io	lo dico io
 207	BO139	341.922	343.172	1.25	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 perché vuoi fare un figlio?	perché vuoi fare un figlio?	perché vuoi fare un figlio
 208	BO145	343.952	344.842	0.89	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 non ho detto questo	non ho detto questo	non ho detto questo
@@ -276,7 +276,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 274	BO146	425.023	425.923	0.9	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 beh ho capito pero'	beh ho capito pero'	beh ho capito pero'
 275	BO145	425.938	426.338	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 no ma	no ma	no ma
 276	BO147	426.553	427.933	1.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 ma a parte che lo sapra(n) [tutti]	ma a parte che lo sapra(n) [tutti]	ma a parte che lo sapran tutti
-277	BO145	427.298	429.488	2.19	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [lui dice (>un<) al]tro (>un<)' altra cosa secondo me	[lui dice (>un<) al]tro (>un<)' altra cosa secondo me	lui dice un altro un' altra cosa secondo me
+277	BO145	427.298	429.488	2.19	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [lui dice (>un<) al]tro (>un'<) altra cosa secondo me	[lui dice (>un<) al]tro (>un'<) altra cosa secondo me	lui dice un altro un' altra cosa secondo me
 278	BO145	429.668	432.36	2.692	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	 >cioè< non dice del: {P} (di) roberto ma dice tipo	>cioè< non dice del: {P} (di) roberto ma dice tipo	cioè non dice del {P} di roberto ma dice tipo
 279	BO147	432.438	432.938	0.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 n[o:]	n[o:]	no
 280	BO145	432.733	433.343	0.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [di]re	[di]re	dire
@@ -299,8 +299,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 297	BO147	455.209	456.959	1.75	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	 giuliano {P} com' è com' è che ha fatto	giuliano {P} com' è com' è che ha fatto	giuliano {P} com' è com' è che ha fatto
 298	BO147	457.089	458.44	1.351	True	0	0	0	0	0	0	0	False	False	False	False	True	299=0.261	0	1	0	3	 eh? ha fatto {ride}	eh? ha fatto {ride}	eh ha fatto {ride}
 299	BO145	458.179	458.729	0.55	True	0	0	0	0	0	0	0	False	False	False	False	True	298=0.261	0	0	0	1	 eh?	eh?	eh
-300	BO147	458.829	462.22	3.391	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-301	BO145	458.829	459.439	0.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+300	BO145	458.829	459.439	0.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+301	BO147	458.829	462.22	3.391	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 302	BO139	460.169	460.659	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 303	BO139	463.479	464.389	0.91	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 304	BO139	467.349	468.149	0.8	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 m:h	m:h	mh
@@ -565,8 +565,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 563	BO145	820.323	820.743	0.42	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 564	BO146	821.158	822.078	0.92	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 565	BO145	822.428	823.408	0.98	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 fa' (vedere)	fa' (vedere)	fa' vedere
-566	BO146	824.253	824.673	0.42	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 xxx	xxx	xxx
-567	BO145	824.253	826.153	1.9	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+566	BO145	824.253	826.153	1.9	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+567	BO146	824.253	824.673	0.42	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 xxx	xxx	xxx
 568	BO139	825.048	825.848	0.8	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 569	BO146	826.518	828.408	1.89	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 una vita ai (piedi) di x?	una vita ai (piedi) di x?	una vita ai piedi di x
 570	BO145	828.528	830.108	1.58	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -678,7 +678,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 676	BO146	1032.597	1033.627	1.03	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 677	BO145	1032.867	1033.317	0.45	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
 678	BO147	1036.162	1038.252	2.09	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 no (s:ì) >cioè< nel senso:	no (s:ì) >cioè< nel senso:	no sì cioè nel senso
-679	BO147	1038.571	1042.48	3.909	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 >pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)	>pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)	pensavo che ne so mezzo~ mh undici e cinquanta mezzogiorno a mangiare
+679	BO147	1038.57	1042.48	3.91	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 >pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)	>pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)	pensavo che ne so mezzo~ mh undici e cinquanta mezzogiorno a mangiare
 680	BO145	1044.012	1046.712	2.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 eh e (poi) dopo verso le venticinque (dobbiamo) (partire)	eh e (poi) dopo verso le venticinque (dobbiamo) (partire)	eh e poi dopo verso le venticinque dobbiamo partire
 681	BO145	1046.987	1047.477	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mezza	mezza	mezza
 682	BO147	1047.877	1048.69	0.813	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 (mezza?)	(mezza?)	mezza
@@ -720,8 +720,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 718	BO145	1140.514	1141.059	0.545	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 719	BO139	1140.727	1141.227	0.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 (>se lo<)	(>se lo<)	se lo
 720	BO139	1141.263	1143.454	2.191	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 se me lo vuoi regalare me lo puoi regalare	se me lo vuoi regalare me lo puoi regalare	se me lo vuoi regalare me lo puoi regalare
-721	BO146	1143.509	1144.4	0.891	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [e lo prendo i]o	[e lo prendo i]o	e lo prendo io
-722	BO145	1143.509	1143.977	0.468	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [na:]	[na:]	na
+721	BO145	1143.509	1143.977	0.468	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [na:]	[na:]	na
+722	BO146	1143.509	1144.4	0.891	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [e lo prendo i]o	[e lo prendo i]o	e lo prendo io
 723	BO139	1143.513	1144.254	0.741	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [e se lo vuo~]	[e se lo vuo~]	e se lo vuo~
 724	BO139	1144.715	1145.187	0.472	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 e s~	e s~	e s~
 725	BO139	1145.555	1146.11	0.555	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -810,8 +810,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 808	BO139	1261.724	1263.449	1.725	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 io stasera torno a casa mia a dormire	io stasera torno a casa mia a dormire	io stasera torno a casa mia a dormire
 809	BO139	1264.492	1265.176	0.684	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 xxx	xxx	xxx
 810	BO139	1265.263	1266.305	1.042	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 non fare quella faccia da	non fare quella faccia da	non fare quella faccia da
-811	BO139	1266.763	1268.849	2.086	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 che non te ne frega un c[azzo della vita]	che non te ne frega un c[azzo della vita]	che non te ne frega un cazzo della vita
-812	BO147	1266.763	1267.708	0.945	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+811	BO147	1266.763	1267.708	0.945	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+812	BO139	1266.763	1268.849	2.086	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 che non te ne frega un c[azzo della vita]	che non te ne frega un c[azzo della vita]	che non te ne frega un cazzo della vita
 813	BO145	1267.781	1271.198	3.417	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 [no: va bene vabbè lo] so già: perché me l' hai già detto:	[no: va bene vabbè lo] so già: perché me l' hai già detto:	no va bene vabbè lo so già perché me l' hai già detto
 814	BO147	1269.01	1270.61	1.6	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 815	BO139	1270.664	1271.964	1.3	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}

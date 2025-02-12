@@ -72,10 +72,10 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 20-12	BOR005	20	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 20-13	BOR005	20	altre	altre	altre	linguistic	_		_	_	_	_	_	_				_		
 20-14	BOR005	20	città	città,	città,	linguistic	_	End=33.085	weakly_ascending	_	_	_	_	_				_		
-21-0	BOI012	21	altri	[altri	[altri	linguistic	_	Begin=33.085	_	_	_	_	_	_				_		0-5(22)
-21-1	BOI012	21	quartieri	quartieri]	quartieri]	linguistic	_	End=34.181	_	_	_	_	_	_				_		0-9(22)
-22-0	BOI013	22	altri	[altri	[altri	linguistic	_	Begin=33.085	_	_	_	_	_	_				_		0-5(21)
-22-1	BOI013	22	quartieri	quartieri]	quartieri]	linguistic	_	End=34.181	_	_	_	_	_	_				_		0-9(21)
+21-0	BOI013	21	altri	[altri	[altri	linguistic	_	Begin=33.085	_	_	_	_	_	_				_		0-5(22)
+21-1	BOI013	21	quartieri	quartieri]	quartieri]	linguistic	_	End=34.181	_	_	_	_	_	_				_		0-9(22)
+22-0	BOI012	22	altri	[altri	[altri	linguistic	_	Begin=33.085	_	_	_	_	_	_				_		0-5(21)
+22-1	BOI012	22	quartieri	quartieri]	quartieri]	linguistic	_	End=34.181	_	_	_	_	_	_				_		0-9(21)
 23-0	BOR005	23	ah	ah:	ah:	linguistic	_	Begin=34.607	_	_	_	_	_	_	1x1			_		
 23-1	BOR005	23	okay	okay	okay	linguistic	_	End=35.406	_	_	_	_	_	_				_		
 24-0	BOR005	24	e	e	e	linguistic	_	Begin=36.09	_	_	_	_	_	_				_		
@@ -1513,7 +1513,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 278-12	BOI013	278	bambini	bambini	bambini	linguistic	_		_	_	_	_	_	_				_		
 278-13	BOI013	278	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 278-14	BOI013	278	sulle	sulle	sulle	linguistic	_		_	_	_	_	_	_				_		
-278-15	BOI013	278	spalle	spalle	spalle	linguistic	_	End=518.184	_	_	_	_	_	_				_		
+278-15	BOI013	278	spalle	spalle	spalle	linguistic	_	End=518.183	_	_	_	_	_	_				_		
 279-0	BOI012	279	eh	e::::h	e::::h	linguistic	_	Begin=520.025	_	_	_	_	_	_	0x4			_		
 279-1	BOI012	279	cioè	cioè	cioè	linguistic	_		_	_	_	_	_	_				_		
 279-2	BOI012	279	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -2995,7 +2995,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 552-1	BOI013	552	scura	scura	scura	linguistic	_		_	_	_	_	_	_				_		
 552-2	BOI013	552	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 552-3	BOI013	552	faccia	faccia	faccia	linguistic	_	End=1030.076	_	_	_	_	_	_				_		
-553-0	BOI012	553	sì	sì	sì	linguistic	_	Begin=1031.34	_	_	_	_	_	_				_		
+553-0	BOI012	553	sì	sì	sì	linguistic	_	Begin=1031.339	_	_	_	_	_	_				_		
 553-1	BOI012	553	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 553-2	BOI012	553	icona	icona	cona	linguistic	_		_	_	_	_	_	_				_		
 553-3	BOI012	553	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -3035,7 +3035,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 559-2	BOR005	559	fa	fa	fa	linguistic	_		_	_	_	_	_	_				_		
 559-3	BOR005	559	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 559-4	BOR005	559	vederli	vederli	vederli	linguistic	_	End=1047.872	_	_	_	_	_	_				_		
-560-0	BOI012	560	beh	beh	beh	linguistic	_	Begin=1048.369	_	_	_	_	_	_				_		
+560-0	BOI012	560	beh	beh	beh	linguistic	_	Begin=1048.368	_	_	_	_	_	_				_		
 560-1	BOI012	560	è	è:	è:	linguistic	_		_	_	_	_	_	_	0x1			_		
 560-2	BOI012	560	comunque	>comunque	>comunque	linguistic	_		_	_	_	_	_	_			0-8(0)	_		
 560-3	BOI012	560	in	in	in	linguistic	_		_	_	_	_	_	_			0-2(0)	_		
@@ -3944,8 +3944,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 738-4	BOI013	738	passa	passa	passa	linguistic	_		_	_	_	_	_	_				_		
 738-5	BOI013	738	in	in	in	linguistic	_		_	_	_	_	_	_				_		
 738-6	BOI013	738	ma~	ma~	ma~	linguistic	_	End=1390.258	_	_	Interrupted=Yes	_	_	_				_		
-739-0	BOI013	739	{ride}	{ride}	{ride}	metalinguistic	_	End=1391.077	_	_	_	_	_	_				_		
-740-0	BOR005	740	{ride}	{ride}	{ride}	metalinguistic	_	End=1391.077	_	_	_	_	_	_				_		
+739-0	BOR005	739	{ride}	{ride}	{ride}	metalinguistic	_	End=1391.077	_	_	_	_	_	_				_		
+740-0	BOI013	740	{ride}	{ride}	{ride}	metalinguistic	_	End=1391.077	_	_	_	_	_	_				_		
 741-0	BOI013	741	{ride}	{ride}	{ride}	metalinguistic	_	End=1392.837	_	_	_	_	_	_				_		
 742-0	BOI013	742	non	non	non	linguistic	_	Begin=1392.894	_	_	_	_	_	_				_		
 742-1	BOI013	742	me	me	me	linguistic	_		_	_	_	_	_	_				_		
@@ -4162,13 +4162,13 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 779-1	BOI012	779	bologna	bologna	bologna	linguistic	_		_	_	_	_	_	_				_		
 779-2	BOI012	779	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 779-3	BOI012	779	ne	ne	ne	linguistic	_		_	_	_	_	_	_				_		
-779-4	BOI012	779	viene	vien[e]	vien[e]	linguistic	_	End=1471.925	_	_	_	_	_	_				_		4-5(?)
-780-0	BOI013	780	no	[n]o	[n]o	linguistic	_	Begin=1471.965	_	_	_	_	_	_				_		0-1(?)
+779-4	BOI012	779	viene	viene	viene	linguistic	_	End=1471.925	_	_	_	_	_	_				_		
+780-0	BOI013	780	no	no	no	linguistic	_	Begin=1471.965	_	_	_	_	_	_				_		
 780-1	BOI013	780	vengono	vengono	vengono	linguistic	_		_	_	_	_	_	_				_		
 780-2	BOI013	780	quasi	quasi	quasi	linguistic	_		_	_	_	_	_	_				_		
-780-3	BOI013	780	tutti	tut[ti	tut[ti	linguistic	_		_	_	_	_	_	_				_		3-5(?)
-780-4	BOI013	780	da	da	da	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-780-5	BOI013	780	giù	gi]ù	gi]ù	linguistic	_	End=1473.58	_	_	_	_	_	_				_		0-2(?)
+780-3	BOI013	780	tutti	tut[ti	tut[ti	linguistic	_		_	_	_	_	_	_				_		3-5(781)
+780-4	BOI013	780	da	da	da	linguistic	_		_	_	_	_	_	_				_		0-2(781)
+780-5	BOI013	780	giù	gi]ù	gi]ù	linguistic	_	End=1473.58	_	_	_	_	_	_				_		0-2(781)
 781-0	BOI012	781	eh	[e::h]	[e::h]	linguistic	_	End=1473.285	_	_	_	_	_	_	0x2			_		0-2(780)
 782-0	BOI013	782	da	da	da	linguistic	_	Begin=1473.819	_	_	_	_	_	_				_		
 782-1	BOI013	782	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -4735,8 +4735,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 875-0	BOI013	875	devo	°devo	°devo	linguistic	_	Begin=1670.671	_	_	_	_	_	_				low		
 875-1	BOI013	875	proprio	proprio	proprio	linguistic	_		_	_	_	_	_	_				low		
 875-2	BOI013	875	dirlo	dirlo°	dirlo°	linguistic	_	End=1671.617	_	_	_	_	_	_				low		
-876-0	BOI013	876	{ride}	{ride}	{ride}	metalinguistic	_	End=1672.594	_	_	_	_	_	_				_		
-877-0	BOR005	877	{ride}	{ride}	{ride}	metalinguistic	_	End=1672.594	_	_	_	_	_	_				_		
+876-0	BOR005	876	{ride}	{ride}	{ride}	metalinguistic	_	End=1672.594	_	_	_	_	_	_				_		
+877-0	BOI013	877	{ride}	{ride}	{ride}	metalinguistic	_	End=1672.594	_	_	_	_	_	_				_		
 878-0	BOI013	878	no	NO	NO	linguistic	_	Begin=1672.782	_	_	_	_	_	_				high		
 878-1	BOI013	878	no	>no	>no	linguistic	_		_	_	_	_	_	_			0-2(0)	_		
 878-2	BOI013	878	no	no<	no<	linguistic	_		_	_	_	_	_	_			0-2(0)	_		
@@ -5163,14 +5163,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 958-7	BOI012	958	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 958-8	BOI012	958	sono	sono	sono	linguistic	_		_	_	_	_	_	_				_		
 958-9	BOI012	958	allontanato	allon°t[anato°]	allon°t[anato°]	linguistic	_	End=1820.533	_	_	_	_	_	_				low		5-11(959)
-959-0	BOR005	959	per	[per	[per	linguistic	_	Begin=1820.262	_	_	_	_	_	_				_		0-3(?)
-959-1	BOR005	959	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(?)
-959-2	BOR005	959	calcio	c]alcio	c]alcio	linguistic	_		_	_	_	_	_	_				_		0-1(?)
+959-0	BOR005	959	per	[per	[per	linguistic	_	Begin=1820.262	_	_	_	_	_	_				_		0-3(958)
+959-1	BOR005	959	il	il	il	linguistic	_		_	_	_	_	_	_				_		0-2(958)
+959-2	BOR005	959	calcio	c]alcio	c]alcio	linguistic	_		_	_	_	_	_	_				_		0-1(958)
 959-3	BOR005	959	o	o	o	linguistic	_		_	_	_	_	_	_				_		
 959-4	BOR005	959	per	per	per	linguistic	_		_	_	_	_	_	_				_		
 959-5	BOR005	959	il	il	il	linguistic	_		_	_	_	_	_	_				_		
-959-6	BOR005	959	basket	bask[et]	bask[et]	linguistic	_	End=1821.615	_	_	_	_	_	_				_		4-6(?)
-960-0	BOI012	960	calcio	[c]alcio	[c]alcio	linguistic	_	Begin=1821.635	_	_	_	_	_	_				_		0-1(?)
+959-6	BOR005	959	basket	bask[et]	bask[et]	linguistic	_	End=1821.615	_	_	_	_	_	_				_		4-6(960)
+960-0	BOI012	960	calcio	[c]alcio	[c]alcio	linguistic	_	Begin=1821.447	_	_	_	_	_	_				_		0-1(959)
 960-1	BOI012	960	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 960-2	BOI012	960	bas~	bas~	bas~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		
 960-3	BOI012	960	il	il	il	linguistic	_		_	_	_	_	_	_				_		
@@ -5224,8 +5224,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 967-2	BOR005	967	mai	mai	mai	linguistic	_		_	_	_	_	_	_				_		
 967-3	BOR005	967	andata	andata	andata	linguistic	_		_	_	_	_	_	_				_		
 967-4	BOR005	967	allo	allo	allo	linguistic	_		_	_	_	_	_	_				_		
-967-5	BOR005	967	stadio	stadi[o?]	stadi[o?]	linguistic	_	End=1841.41	ascending	_	_	_	_	_				_		5-6(?)
-968-0	BOI013	968	sì	[s]ì::	[s]ì::	linguistic	_	Begin=1841.465	_	_	_	_	_	_	1x2			_		0-1(?)
+967-5	BOR005	967	stadio	stadi[o?]	stadi[o?]	linguistic	_	End=1841.41	ascending	_	_	_	_	_				_		5-6(968)
+968-0	BOI013	968	sì	[s]ì::	[s]ì::	linguistic	_	Begin=1841.12	_	_	_	_	_	_	1x2			_		0-1(967)
 968-1	BOI013	968	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 968-2	BOI013	968	c'	c'	c'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 968-3	BOI013	968	andavo	andavo	ndavo	linguistic	_		_	_	_	_	_	_				_		
@@ -5487,12 +5487,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1021-4	BOI012	1021	frequento	frequento	frequento	linguistic	_		_	_	_	_	_	_				_		
 1021-5	BOI012	1021	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 1021-6	BOI012	1021	grandi	grandi	grandi	linguistic	_		_	_	_	_	_	_				_		
-1021-7	BOI012	1021	artisti	artis[ti]	artis[ti]	linguistic	_	End=1937.445	_	_	_	_	_	_				_		5-7(1022)
-1022-0	BOI013	1022	beppe	[bepp]e	[bepp]e	linguistic	_	Begin=1937.326	_	_	_	_	_	_				_		0-4(?)
-1022-1	BOI013	1022	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
-1022-2	BOI013	1022	beppe	>beppe	>beppe	linguistic	_		_	_	_	_	_	_			0-5(0)	_		
-1022-3	BOI013	1022	maniglia	maniglia,<	maniglia,<	linguistic	_	End=1939.145	weakly_ascending	_	_	_	_	_			0-8(0)	_		
-1023-0	BOR005	1023	mh	[°mh°]	[°mh°]	linguistic	_	End=1937.698	_	_	_	_	_	_				low		0-2(1022)
+1021-7	BOI012	1021	artisti	artis[ti]	artis[ti]	linguistic	_	End=1937.445	_	_	_	_	_	_				_		5-7(1022+1023)
+1022-0	BOR005	1022	mh	[°mh°]	[°mh°]	linguistic	_	End=1937.445	_	_	_	_	_	_				low		0-2(1021+1023)
+1023-0	BOI013	1023	beppe	[bepp]e	[bepp]e	linguistic	_	Begin=1937.326	_	_	_	_	_	_				_		0-4(1021+1022)
+1023-1	BOI013	1023	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
+1023-2	BOI013	1023	beppe	>beppe	>beppe	linguistic	_		_	_	_	_	_	_			0-5(0)	_		
+1023-3	BOI013	1023	maniglia	maniglia,<	maniglia,<	linguistic	_	End=1939.145	weakly_ascending	_	_	_	_	_			0-8(0)	_		
 1024-0	BOI013	1024	{ride}	{ride}	{ride}	metalinguistic	_	End=1939.93	_	_	_	_	_	_				_		
 1025-0	BOI012	1025	no	no:	no:	linguistic	_	Begin=1939.952	_	_	_	_	_	_	1x1			_		
 1025-1	BOI012	1025	sì	sì	sì	linguistic	_		_	_	_	_	_	_				_		
@@ -5774,8 +5774,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 1079-2	BOI012	1079	non	non	non	linguistic	_		_	_	_	_	_	_			0-3(0)	low		
 1079-3	BOI012	1079	esi~	esi~°<	esi~°<	linguistic	_	End=2036.483	_	_	Interrupted=Yes	_	_	_			0-4(0)	low		
 1080-0	BOI013	1080	{ride}	{ride}	{ride}	metalinguistic	_	End=2037.546	_	_	_	_	_	_				_		
-1081-0	BOI012	1081	{ride}	{ride}	{ride}	metalinguistic	_	End=2041.116	_	_	_	_	_	_				_		
-1082-0	BOI013	1082	{ride}	{ride}	{ride}	metalinguistic	_	End=2041.116	_	_	_	_	_	_				_		
+1081-0	BOI013	1081	{ride}	{ride}	{ride}	metalinguistic	_	End=2041.116	_	_	_	_	_	_				_		
+1082-0	BOI012	1082	{ride}	{ride}	{ride}	metalinguistic	_	End=2041.116	_	_	_	_	_	_				_		
 1083-0	BOR005	1083	che	che	che	linguistic	_	Begin=2041.443	_	_	_	_	_	_				_		
 1083-1	BOR005	1083	poi	poi	poi	linguistic	_	End=2041.805	_	_	_	_	_	_				_		
 1084-0	BOI013	1084	bel	[bel]	[bel]	linguistic	_	End=2042.312	_	_	_	_	_	_				_		0-3(1085)

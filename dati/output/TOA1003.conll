@@ -2980,7 +2980,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 493-0	TO061	493	come	[come	[come	linguistic	_	Begin=1028.508	_	_	_	_	_	_				_		0-4(492)
 493-1	TO061	493	per	per	per	linguistic	_		_	_	_	_	_	_				_		0-3(492)
 493-2	TO061	493	la	la	la	linguistic	_		_	_	_	_	_	_				_		0-2(492)
-493-3	TO061	493	bibliografia	bibli]ografia.	bibli]ografia.	linguistic	_	End=1029.772	descending	_	_	_	_	_				_		0-5(492)
+493-3	TO061	493	bibliografia	bibli]ografia.	bibli]ografia.	linguistic	_	End=1029.771	descending	_	_	_	_	_				_		0-5(492)
 494-0	TO061	494	l'	l'	l'	linguistic	_	Begin=1030.038	_	_	_	Truncated=Yes	_	_				_		
 494-1	TO061	494	importante	importante	importante	linguistic	_		_	_	_	_	_	_				_		
 494-2	TO061	494	è	è	è	linguistic	_		_	_	_	_	_	_				_		
@@ -2988,7 +2988,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 494-4	TO061	494	coerenza	coerenza:	coerenza:	linguistic	_		_	_	_	_	_	_	7x1			_		
 494-5	TO061	494	all'	all'	all'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 494-6	TO061	494	int~	in[t~]	in[t~]	linguistic	_	End=1031.906	_	_	Interrupted=Yes	_	_	_				_		2-4(495)
-495-0	TO065	495	se	[se]	[se]	linguistic	_	Begin=1031.744	_	_	_	_	_	_				_		0-2(494)
+495-0	TO065	495	se	[se]	[se]	linguistic	_	Begin=1031.743	_	_	_	_	_	_				_		0-2(494)
 495-1	TO065	495	lei	lei	lei	linguistic	_		_	_	_	_	_	_				_		
 495-2	TO065	495	ha	ha	ha	linguistic	_		_	_	_	_	_	_				_		
 495-3	TO065	495	deciso	deciso	deciso	linguistic	_		_	_	_	_	_	_				_		
@@ -3026,18 +3026,18 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 497-14	TO065	497	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 497-15	TO065	497	data	data	data	linguistic	_		_	_	_	_	_	_				_		
 497-16	TO065	497	senza	senza	senza	linguistic	_		_	_	_	_	_	_				_		
-497-17	TO065	497	virgola	virgola,	virgola,	linguistic	_	End=1044.695	weakly_ascending	_	_	_	_	_				_		
+497-17	TO065	497	virgola	virgola,	virgola,	linguistic	_	End=1044.694	weakly_ascending	_	_	_	_	_				_		
 498-0	TO065	498	a	a	a	linguistic	_	Begin=1044.701	_	_	_	_	_	_				_		
 498-1	TO065	498	me	me	me	linguistic	_		_	_	_	_	_	_				_		
 498-2	TO065	498	sta	sta	sta	linguistic	_		_	_	_	_	_	_				_		
 498-3	TO065	498	bene	bene.	bene.	linguistic	_	End=1045.512	descending	_	_	_	_	_				_		
 499-0	TO061	499	sì	sì	sì	linguistic	_	Begin=1045.8	_	_	_	_	_	_				_		
-499-1	TO061	499	sì	sì.	sì.	linguistic	_	End=1046.407	descending	_	_	_	_	_				_		
+499-1	TO061	499	sì	sì.	sì.	linguistic	_	End=1046.406	descending	_	_	_	_	_				_		
 500-0	TO065	500	a	(a)	(a)	linguistic	_	Begin=1046.646	_	_	_	_	_	_				_	0-1(0)	
 500-1	TO065	500	me	me	me	linguistic	_		_	_	_	_	_	_				_		
 500-2	TO065	500	non	non	non	linguistic	_		_	_	_	_	_	_				_		
 500-3	TO065	500	piace	piace.	piace.	linguistic	_	End=1047.453	descending	_	_	_	_	_				_		
-501-0	TO065	501	pero'	pero'	pero'	linguistic	_	Begin=1047.744	_	_	_	Truncated=Yes	_	_				_		
+501-0	TO065	501	pero'	pero'	pero'	linguistic	_	Begin=1047.743	_	_	_	Truncated=Yes	_	_				_		
 501-1	TO065	501	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 501-2	TO065	501	sta	[sta	[sta	linguistic	_		_	_	_	_	_	_				_		0-3(502)
 501-3	TO065	501	benis~	benis~.]	benis~.]	linguistic	_	End=1048.812	descending	_	_	_	_	_				_		0-6(502)
@@ -3676,7 +3676,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 615-5	TO061	615	pero'	per[o':	per[o':	linguistic	_		_	_	_	_	_	_	3x1			_		3-5(?)
 615-6	TO061	615	nel	nel	nel	linguistic	_		_	_	_	_	_	_				_		0-3(?)
 615-7	TO061	615	nella	nella	nella	linguistic	_		_	_	_	_	_	_				_		0-5(?)
-615-8	TO061	615	bibliografia	bibliografia::]	bibliografia::]	linguistic	_	End=1300.8100000000002	_	_	_	_	_	_	11x2			_		0-12(?)
+615-8	TO061	615	bibliografia	bibliografia::]	bibliografia::]	linguistic	_	End=1300.71	_	_	_	_	_	_	11x2			_		0-12(?)
 616-0	TO065	616	f~	[f~]	[f~]	linguistic	_	End=1297.799	_	_	Interrupted=Yes	_	_	_				_		0-2(?)
 617-0	TO065	617	e	[e	[e	linguistic	_	Begin=1298.592	_	_	_	_	_	_				_		0-1(615)
 617-1	TO065	617	poi	poi	poi	linguistic	_		_	_	_	_	_	_				_		0-3(615)

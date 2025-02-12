@@ -2415,7 +2415,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 406-0	TO017	406	che	che	che	linguistic	_	Begin=1023.418	_	_	_	_	_	_				_		
 406-1	TO017	406	la	la	la	linguistic	_		_	_	_	_	_	_				_		
 406-2	TO017	406	parli	parli	parli	linguistic	_	End=1023.987	_	_	_	_	_	_				_		
-407-0	TO017	407	abbiamo	abbiamo	abbiamo	linguistic	_	Begin=1024.667	_	_	_	_	_	_				_		
+407-0	TO017	407	abbiamo	abbiamo	abbiamo	linguistic	_	Begin=1024.666	_	_	_	_	_	_				_		
 407-1	TO017	407	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 407-2	TO017	407	problema	problema	problema	linguistic	_		_	_	_	_	_	_				_		
 407-3	TO017	407	qua	qua	qua	linguistic	_		_	_	_	_	_	_				_		
@@ -2453,7 +2453,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 411-1	TO017	411	le	le	le	linguistic	_		_	_	_	_	_	_				_		
 411-2	TO017	411	iscrizioni	iscrizioni	iscrizioni	linguistic	_		_	_	_	_	_	_				_		
 411-3	TO017	411	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
-411-4	TO017	411	materiale	materiale,	materiale,	linguistic	_	End=1042.34	weakly_ascending	_	_	_	_	_				_		
+411-4	TO017	411	materiale	materiale,	materiale,	linguistic	_	End=1042.339	weakly_ascending	_	_	_	_	_				_		
 412-0	TO017	412	epigrafico	epigrafico,	epigrafico,	linguistic	_	Begin=1047.098	weakly_ascending	_	_	_	_	_				_		
 412-1	TO017	412	okay	okay,	okay,	linguistic	_	End=1048.697	weakly_ascending	_	_	_	_	_				_		
 413-0	TO017	413	cose	<cose>	<cose>	linguistic	_	Begin=1048.895	_	_	_	_	_	_		0-4(0)		_		

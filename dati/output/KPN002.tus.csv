@@ -163,8 +163,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 161	PKP038	458.875	463.515	4.64	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	1	0	16	 cioè tipo {P} ero tipo {P} ma michi? {ride} >e lei ha detto< tanto non me ne frega più	cioè tipo {P} ero tipo {P} ma michi? {ride} >e lei ha detto< tanto non me ne frega più	cioè tipo {P} ero tipo {P} ma michi {ride} e lei ha detto tanto non me ne frega più
 162	PKP012	463.6	468.54	4.94	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 cioè cosa devo dirti? che studi e dopo che esca col moroso cosa ti devo dire,	cioè cosa devo dirti? che studi e dopo che esca col moroso cosa ti devo dire,	cioè cosa devo dirti che studi e dopo che esca col moroso cosa ti devo dire
 163	PKP011	468.565	469.065	0.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 °vabbè dai°	°vabbè dai°	vabbè dai
-164	PKP012	473.42	474.11	0.69	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 xxxx	xxxx	xxxx
-165	PKP011	473.42	474.11	0.69	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {si_spaventa}	{si_spaventa}	{si_spaventa}
+164	PKP011	473.42	474.11	0.69	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {si_spaventa}	{si_spaventa}	{si_spaventa}
+165	PKP012	473.42	474.11	0.69	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 xxxx	xxxx	xxxx
 166	PKP011	475.64	477.8	2.16	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	1	0	3	 grazie {P} aspetta {P} grazie {ride}	grazie {P} aspetta {P} grazie {ride}	grazie {P} aspetta {P} grazie {ride}
 167	PKP038	477.8	478.86	1.06	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 non è molto igienico	non è molto igienico	non è molto igienico
 168	PKP011	478.905	480.945	2.04	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 mn vabbè tanto poi xxx[x]	mn vabbè tanto poi xxx[x]	mn vabbè tanto poi xxxx
@@ -417,12 +417,12 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 415	PKP038	1034.9	1035.2	0.3	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [sì]	[sì]	sì
 416	PKP011	1035.51	1036.03	0.52	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 davvero?	davvero?	davvero
 417	PKP031	1036.06	1038.49	2.43	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 cioè anche mia cugina [è in quin]ta [ma è (u)na santa]	cioè anche mia cugina [è in quin]ta [ma è (u)na santa]	cioè anche mia cugina è in quinta ma è una santa
-418	PKP012	1036.99	1037.369	0.379	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [UHM]	[UHM]	uhm
-419	PKP011	1037.484	1038.494	1.01	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [che xx che è]	[che xx che è]	che xx che è
-420	PKP038	1040.369	1046.04	5.671	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	11	 pero' cioè: {P} [c'era una] sì [ehm] che la chiamerò xxxx	pero' cioè: {P} [c'era una] sì [ehm] che la chiamerò xxxx	pero' cioè {P} c' era una sì ehm che la chiamerò xxxx
+418	PKP012	1036.99	1037.368	0.378	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [UHM]	[UHM]	uhm
+419	PKP011	1037.483	1038.493	1.01	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [che xx che è]	[che xx che è]	che xx che è
+420	PKP038	1040.368	1046.04	5.672	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	11	 pero' cioè: {P} [c'era una] sì [ehm] che la chiamerò xxxx	pero' cioè: {P} [c'era una] sì [ehm] che la chiamerò xxxx	pero' cioè {P} c' era una sì ehm che la chiamerò xxxx
 421	PKP012	1041.55	1042.48	0.93	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [anca massa]	[anca massa]	anca massa
-422	PKP031	1043.109	1043.28	0.171	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
-423	PKP011	1046.51	1046.849	0.339	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 ottimo	ottimo	ottimo
+422	PKP031	1043.108	1043.28	0.172	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
+423	PKP011	1046.51	1046.848	0.338	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 ottimo	ottimo	ottimo
 424	PKP011	1047.31	1048.44	1.13	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	1	 {ride} [xx]	{ride} [xx]	{ride} xx
 425	PKP031	1047.339	1049.48	2.141	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >perché< viene [sempre] lì MAESTRA le va	>perché< viene [sempre] lì MAESTRA le va	perché viene sempre lì maestra le va
 426	PKP038	1050.21	1051.4	1.19	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	 NO {P} al~ l'ho chiamata	NO {P} al~ l'ho chiamata	no {P} al~ l' ho chiamata

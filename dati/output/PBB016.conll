@@ -249,7 +249,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 65-5	BOI049	65	centro	centro:	centro:	linguistic	_		_	_	_	_	_	_	5x1			_		
 65-6	BOI049	65	e	e::	e::	linguistic	_		_	_	_	_	_	_	0x2			_		
 65-7	BOI049	65	mh	m::h	m::h	linguistic	_	End=127.991	_	_	_	_	_	_	0x2			_		
-66-0	BOI049	66	quindi	quindi	quindi	linguistic	_	Begin=129.551	_	_	_	_	_	_				_		
+66-0	BOI049	66	quindi	quindi	quindi	linguistic	_	Begin=129.55	_	_	_	_	_	_				_		
 66-1	BOI049	66	mh	m::h	m::h	linguistic	_		_	_	_	_	_	_	0x2			_		
 66-2	BOI049	66	mi	mi	mi	linguistic	_		_	_	_	_	_	_				_		
 66-3	BOI049	66	trovavo	trovavo:	trovavo:	linguistic	_		_	_	_	_	_	_	6x1			_		
@@ -1032,7 +1032,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 234-5	BOI049	234	ero	ero	ero	linguistic	_		_	_	_	_	_	_				_		
 234-6	BOI049	234	piccolo	pi:ccolo	pi:ccolo	linguistic	_		_	_	_	_	_	_	1x1			_		
 234-7	BOI049	234	pero'	pero'::	pero'::	linguistic	_		_	_	_	_	_	_	3x2			_		
-234-8	BOI049	234	mh	m:h	m:h	linguistic	_	End=523.309	_	_	_	_	_	_	0x1			_		
+234-8	BOI049	234	mh	m:h	m:h	linguistic	_	End=523.308	_	_	_	_	_	_	0x1			_		
 235-0	BOI049	235	è	è	è	linguistic	_	Begin=524.155	_	_	_	_	_	_				_		
 235-1	BOI049	235	sempre	sempre	sempre	linguistic	_		_	_	_	_	_	_				_		
 235-2	BOI049	235	stata	stata	stata	linguistic	_		_	_	_	_	_	_				_		
@@ -2013,9 +2013,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 465-2	BOI049	465	piace	piace	piace	linguistic	_		_	_	_	_	_	_				_		
 465-3	BOI049	465	camminare	camminare	camminare	linguistic	_		_	_	_	_	_	_				_		
 465-4	BOI049	465	e	e	e	linguistic	_		_	_	_	_	_	_				_		
-465-5	BOI049	465	basta	ba:sta	ba:sta	linguistic	_	End=1024.032	_	_	_	_	_	_	1x1			_		
+465-5	BOI049	465	basta	ba:sta	ba:sta	linguistic	_	End=1024.031	_	_	_	_	_	_	1x1			_		
 466-0	BOR006	466	mh	m:h	m:h	linguistic	_	End=1024.559	_	_	_	_	_	_	0x1			_		
-467-0	BOR006	467	okay	>okay<	>okay<	linguistic	_	Begin=1026.311	_	_	_	_	_	_			0-4(0)	_		
+467-0	BOR006	467	okay	>okay<	>okay<	linguistic	_	Begin=1026.31	_	_	_	_	_	_			0-4(0)	_		
 467-1	BOR006	467	ehm	e:hm	e:hm	linguistic	_	End=1027.268	_	_	_	_	_	_	0x1			_		
 468-0	BOR006	468	più	>più	>più	linguistic	_	Begin=1027.56	_	_	_	_	_	_			0-3(0)	_		
 468-1	BOR006	468	o	o	o	linguistic	_		_	_	_	_	_	_			0-1(0)	_		
@@ -2032,7 +2032,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 470-2	BOI049	470	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 470-3	BOI049	470	giorni	gio:rni	gio:rni	linguistic	_	End=1032.544	_	_	_	_	_	_	2x1			_		
 471-0	BOR006	471	mh	mh	mh	linguistic	_	End=1032.857	_	_	_	_	_	_				_		
-472-0	BOI049	472	tutti	[tutti	[tutti	linguistic	_	Begin=1033.541	_	_	_	_	_	_				_		0-5(473)
+472-0	BOI049	472	tutti	[tutti	[tutti	linguistic	_	Begin=1033.54	_	_	_	_	_	_				_		0-5(473)
 472-1	BOI049	472	i	i	i	linguistic	_		_	_	_	_	_	_				_		0-1(473)
 472-2	BOI049	472	giorni	gi]o:rni	gi]o:rni	linguistic	_		_	_	_	_	_	_	2x1			_		0-2(473)
 472-3	BOI049	472	almeno	almeno:	almeno:	linguistic	_		_	_	_	_	_	_	5x1			_		
@@ -2040,7 +2040,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 472-5	BOI049	472	paio	paio	paio	linguistic	_		_	_	_	_	_	_				_		
 472-6	BOI049	472	d'	d'	d'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 472-7	BOI049	472	ore	o:re	:re	linguistic	_	End=1035.258	_	_	_	_	_	_	0x1			_		
-473-0	BOR006	473	okay	[okay]	[okay]	linguistic	_	End=1033.994	_	_	_	_	_	_				_		0-4(472)
+473-0	BOR006	473	okay	[okay]	[okay]	linguistic	_	End=1033.993	_	_	_	_	_	_				_		0-4(472)
 474-0	BOR006	474	mh	mh	mh	linguistic	_	Begin=1036.565	_	_	_	_	_	_				_		
 474-1	BOR006	474	ottimo	ottimo	ottimo	linguistic	_	End=1037.237	_	_	_	_	_	_				_		
 475-0	BOR006	475	ehm	e::hm	e::hm	linguistic	_	End=1038.602	_	_	_	_	_	_	0x2			_		

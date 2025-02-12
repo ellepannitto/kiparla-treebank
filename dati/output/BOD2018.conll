@@ -1357,7 +1357,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 133-3	BO140	133	quella	quella	quella	linguistic	_		_	_	_	_	_	_				_		
 133-4	BO140	133	zona	zona	zona	linguistic	_		_	_	_	_	_	_				_		
 133-5	BO140	133	sì	sì.	sì.	linguistic	_	End=515.049	descending	_	_	_	_	_				_		
-134-0	BO140	134	ma	ma	ma	linguistic	_	Begin=515.309	_	_	_	_	_	_				_		
+134-0	BO140	134	ma	ma	ma	linguistic	_	Begin=515.308	_	_	_	_	_	_				_		
 134-1	BO140	134	anche	anche	anche	linguistic	_		_	_	_	_	_	_				_		
 134-2	BO140	134	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		
 134-3	BO140	134	in	in	in	linguistic	_		_	_	_	_	_	_				_		
@@ -1422,14 +1422,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 138-19	BO140	138	anni	anni	anni	linguistic	_		_	_	_	_	_	_				_		
 138-20	BO140	138	cinquanta	cinquanta	cinquanta	linguistic	_		_	_	_	_	_	_				_		
 138-21	BO140	138	credo	credo.	credo.	linguistic	_	End=539.39	descending	_	_	_	_	_				_		
-139-0	BO140	139	non	[non	[non	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-3(140)
-139-1	BO140	139	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(140)
-139-2	BO140	139	so	so.]	so.]	linguistic	_	End=540.26	descending	_	_	_	_	_				_		0-2(140)
-140-0	BO118	140	sì	[sì	[sì	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-2(139)
-140-1	BO118	140	{P}	{P}]	{P}]	shortpause	_		_	_	_	_	_	_				_		0-3(139)
-140-2	BO118	140	penso	penso	penso	linguistic	_		_	_	_	_	_	_				_		
-140-3	BO118	140	di	di	di	linguistic	_		_	_	_	_	_	_				_		
-140-4	BO118	140	sì	sì.	sì.	linguistic	_	End=540.78	descending	_	_	_	_	_				_		
+139-0	BO118	139	sì	[sì	[sì	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-2(140)
+139-1	BO118	139	{P}	{P}]	{P}]	shortpause	_		_	_	_	_	_	_				_		0-3(140)
+139-2	BO118	139	penso	penso	penso	linguistic	_		_	_	_	_	_	_				_		
+139-3	BO118	139	di	di	di	linguistic	_		_	_	_	_	_	_				_		
+139-4	BO118	139	sì	sì.	sì.	linguistic	_	End=540.78	descending	_	_	_	_	_				_		
+140-0	BO140	140	non	[non	[non	linguistic	_	Begin=539.63	_	_	_	_	_	_				_		0-3(139)
+140-1	BO140	140	lo	lo	lo	linguistic	_		_	_	_	_	_	_				_		0-2(139)
+140-2	BO140	140	so	so.]	so.]	linguistic	_	End=540.26	descending	_	_	_	_	_				_		0-2(139)
 141-0	BO118	141	poi	po:i	po:i	linguistic	_	Begin=542.48	_	_	_	_	_	_	1x1			_		
 141-1	BO118	141	ehm	ehm::	ehm::	linguistic	_	End=543.77	_	_	_	_	_	_	2x2			_		
 142-0	BO118	142	e	e	e	linguistic	_	Begin=544.8	_	_	_	_	_	_				_		

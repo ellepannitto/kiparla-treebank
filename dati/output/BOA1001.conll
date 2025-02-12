@@ -1355,7 +1355,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 209-22	BO026	209	straniere	straniere	straniere	linguistic	_		_	_	_	_	_	_				_		
 209-23	BO026	209	vengono	vengono	vengono	linguistic	_		_	_	_	_	_	_				_		
 209-24	BO026	209	studiate	studiate,	studiate,	linguistic	_	End=516.51	weakly_ascending	_	_	_	_	_				_		
-210-0	BO026	210	se	se	se	linguistic	_	Begin=516.785	_	_	_	_	_	_				_		
+210-0	BO026	210	se	se	se	linguistic	_	Begin=516.784	_	_	_	_	_	_				_		
 210-1	BO026	210	c'	c'	c'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 210-2	BO026	210	è	è	è	linguistic	_		_	_	_	_	_	_				_		
 210-3	BO026	210	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
@@ -2554,12 +2554,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 393-4	BO020	393	italiano	italiano	italiano	linguistic	_		_	_	_	_	_	_		0-8(0)		_		
 393-5	BO020	393	elle	elle	elle	linguistic	_		_	_	_	_	_	_		0-4(0)		_		
 393-6	BO020	393	due	due,>	due,>	linguistic	_	End=1035.544	weakly_ascending	_	_	_	_	_		0-3(0)		_		
-394-0	BO020	394	e	e:,	e:,	linguistic	_	End=1037.224	weakly_ascending	_	_	_	_	_	0x1			_		
+394-0	BO020	394	e	e:,	e:,	linguistic	_	End=1037.223	weakly_ascending	_	_	_	_	_	0x1			_		
 395-0	BO020	395	eh	e:h,	e:h,	linguistic	_	End=1038.288	weakly_ascending	_	_	_	_	_	0x1			_		
 396-0	BO020	396	la	la	la	linguistic	_	Begin=1038.386	_	_	_	_	_	_				_		
 396-1	BO020	396	lingua	lingua	lingua	linguistic	_		_	_	_	_	_	_				_		
 396-2	BO020	396	straniera	straniera.	straniera.	linguistic	_	End=1039.728	descending	_	_	_	_	_				_		
-397-0	BO020	397	che	che	che	linguistic	_	Begin=1040.599	_	_	_	_	_	_				_		
+397-0	BO020	397	che	che	che	linguistic	_	Begin=1040.598	_	_	_	_	_	_				_		
 397-1	BO020	397	potrebbe	potrebbe	potrebbe	linguistic	_		_	_	_	_	_	_				_		
 397-2	BO020	397	essere	essere	essere	linguistic	_		_	_	_	_	_	_				_		
 397-3	BO020	397	l'	l'	l'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
@@ -2570,9 +2570,9 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 397-8	BO020	397	lingua	lingua	lingua	linguistic	_		_	_	_	_	_	_		0-6(0)		_		
 397-9	BO020	397	straniera	[stranie]ra.>	[stranie]ra.>	linguistic	_	End=1044.722	descending	_	_	_	_	_		0-9(0)		_		0-7(398)
 398-0	BO026	398	mh	[mh	[mh	linguistic	_	Begin=1043.81	_	_	_	_	_	_				_		0-2(397)
-398-1	BO026	398	mh	mh.]	mh.]	linguistic	_	End=1044.359	descending	_	_	_	_	_				_		0-2(397)
+398-1	BO026	398	mh	mh.]	mh.]	linguistic	_	End=1044.358	descending	_	_	_	_	_				_		0-2(397)
 399-0	BO020	399	eh	e:h	e:h	linguistic	_	Begin=1045.971	_	_	_	_	ProsodicLink=Yes	_	0x1			_		
-399-1	BO020	399	mh	mh,	,	linguistic	_	End=1046.83	weakly_ascending	_	_	_	_	_				_		
+399-1	BO020	399	mh	mh,	,	linguistic	_	End=1046.829	weakly_ascending	_	_	_	_	_				_		
 400-0	BO026	400	oppure	oppure	oppure	linguistic	_	Begin=1047.766	_	_	_	_	_	_				_		
 400-1	BO026	400	puo'	puo'	puo'	linguistic	_		_	_	_	Truncated=Yes	_	_				_		
 400-2	BO026	400	essere	essere	essere	linguistic	_		_	_	_	_	_	_				_		

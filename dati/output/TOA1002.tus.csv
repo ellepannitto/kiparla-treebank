@@ -285,8 +285,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 283	TO028	799.766	802.424	2.658	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 due dei quali erano nel secondo semestre,	due dei quali erano nel secondo semestre,	due dei quali erano nel secondo semestre
 284	TO028	803.693	805.057	1.364	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 qua {P} quest' anno	qua {P} quest' anno	qua {P} quest' anno
 285	TO028	805.725	806.158	0.433	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 quindi	quindi	quindi
-286	TO026	807.855	808.408	0.553	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-287	TO028	807.855	808.408	0.553	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+286	TO028	807.855	808.408	0.553	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+287	TO026	807.855	808.408	0.553	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 288	TO026	809.161	809.77	0.609	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 eh sì sì sì,	eh sì sì sì,	eh sì sì sì
 289	TO028	809.77	810.71	0.94	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 quindi vediamo	quindi vediamo	quindi vediamo
 290	TO028	811.625	811.986	0.361	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 okay	okay	okay
@@ -294,8 +294,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 292	TO028	817.734	818.513	0.779	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 e:h è quello	e:h è quello	eh è quello
 293	TO026	820.195	821.168	0.973	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 eh bisogna decidere sì	eh bisogna decidere sì	eh bisogna decidere sì
 294	TO028	821.341	821.913	0.572	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 sì sì sì	sì sì sì	sì sì sì
-295	TO026	821.992	822.417	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-296	TO028	821.992	822.417	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+295	TO028	821.992	822.417	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+296	TO026	821.992	822.417	0.425	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 297	TO026	822.694	825.796	3.102	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 eh beh [eh beh è una questione strategica no? diciamo sì]	eh beh [eh beh è una questione strategica no? diciamo sì]	eh beh eh beh è una questione strategica no diciamo sì
 298	TO028	822.865	831.646	8.781	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	32	 [no ma se mi approva il learn sono apposto sì sì] ma se mi approva quel learn lì us[o:: solo sei] crediti liberi e quindi il resto:: dovrei riuscire a fare tutto	[no ma se mi approva il learn sono apposto sì sì] ma se mi approva quel learn lì us[o:: solo sei] crediti liberi e quindi il resto:: dovrei riuscire a fare tutto	no ma se mi approva il learn sono apposto sì sì ma se mi approva quel learn lì uso solo sei crediti liberi e quindi il resto dovrei riuscire a fare tutto
 299	TO026	827.586	828.503	0.917	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [sì sì quello::]	[sì sì quello::]	sì sì quello

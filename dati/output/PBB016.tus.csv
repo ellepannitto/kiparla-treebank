@@ -65,7 +65,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 63	BOI049	122.625	124.183	1.558	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	4	 e basta ecco {ride} (°no°)	e basta ecco {ride} (°no°)	e basta ecco {ride} no
 64	BOR006	124.776	125.221	0.445	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	1	 mh {ride}	mh {ride}	mh {ride}
 65	BOI049	125.221	127.991	2.77	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 prima ero più vicino al centro: e:: m::h	prima ero più vicino al centro: e:: m::h	prima ero più vicino al centro e mh
-66	BOI049	129.551	131.941	2.39	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 quindi m::h mi trovavo: meglio	quindi m::h mi trovavo: meglio	quindi mh mi trovavo meglio
+66	BOI049	129.55	131.941	2.391	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 quindi m::h mi trovavo: meglio	quindi m::h mi trovavo: meglio	quindi mh mi trovavo meglio
 67	BOI049	132.316	133.177	0.861	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 °sicuramente°	°sicuramente°	sicuramente
 68	BOR006	133.709	135.464	1.755	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 sì ti sentivi meno::	sì ti sentivi meno::	sì ti sentivi meno
 69	BOR006	135.773	137.338	1.565	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [fuori da]	[fuori da]	fuori da
@@ -233,7 +233,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 231	BOR006	515.118	515.61	0.492	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 x [x]	x [x]	x x
 232	BOI049	515.404	516.693	1.289	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [beh] studenti::	[beh] studenti::	beh studenti
 233	BOI049	516.947	518.33	1.383	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 c'erano anche::	c'erano anche::	c' erano anche
-234	BOI049	519.342	523.309	3.967	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 c'erano anche::: mh quando ero pi:ccolo pero':: m:h	c'erano anche::: mh quando ero pi:ccolo pero':: m:h	c' erano anche mh quando ero piccolo pero' mh
+234	BOI049	519.342	523.308	3.966	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 c'erano anche::: mh quando ero pi:ccolo pero':: m:h	c'erano anche::: mh quando ero pi:ccolo pero':: m:h	c' erano anche mh quando ero piccolo pero' mh
 235	BOI049	524.155	528.035	3.88	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 è sempre stata una città:: universita:ria quindi:	è sempre stata una città:: universita:ria quindi:	è sempre stata una città universitaria quindi
 236	BOI049	529.207	533.686	4.479	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	 sì m:h da quel punto di vista: n:: non c'è una grande differe:nza ecco	sì m:h da quel punto di vista: n:: non c'è una grande differe:nza ecco	sì mh da quel punto di vista n non c' è una grande differenza ecco
 237	BOR006	534.479	534.99	0.511	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 okay	okay	okay
@@ -464,15 +464,15 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 462	BOI049	1016.225	1016.72	0.495	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 m:h?	m:h?	mh
 463	BOR006	1017.167	1018.507	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 hai detto prima::	hai detto prima::	hai detto prima
 464	BOR006	1019.017	1022.374	3.357	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 non fai:: attività fi:sica a parte la cammina:[ta:]	non fai:: attività fi:sica a parte la cammina:[ta:]	non fai attività fisica a parte la camminata
-465	BOI049	1022.079	1024.032	1.953	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [no] mi piace camminare e ba:sta	[no] mi piace camminare e ba:sta	no mi piace camminare e basta
+465	BOI049	1022.079	1024.031	1.952	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [no] mi piace camminare e ba:sta	[no] mi piace camminare e ba:sta	no mi piace camminare e basta
 466	BOR006	1024.192	1024.559	0.367	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 m:h	m:h	mh
-467	BOR006	1026.311	1027.268	0.957	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 >okay< e:hm	>okay< e:hm	okay ehm
+467	BOR006	1026.31	1027.268	0.958	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 >okay< e:hm	>okay< e:hm	okay ehm
 468	BOR006	1027.56	1028.021	0.461	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 >più o meno<	>più o meno<	più o meno
 469	BOR006	1028.382	1031.348	2.966	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 d~ quanto:: quanto: lo fai: a settimana?	d~ quanto:: quanto: lo fai: a settimana?	d~ quanto quanto lo fai a settimana
 470	BOI049	1031.515	1032.544	1.029	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 ah tutti i gio:rni	ah tutti i gio:rni	ah tutti i giorni
 471	BOR006	1032.631	1032.857	0.226	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
-472	BOI049	1033.541	1035.258	1.717	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [tutti i gi]o:rni almeno: un paio d'o:re	[tutti i gi]o:rni almeno: un paio d'o:re	tutti i giorni almeno un paio d' ore
-473	BOR006	1033.541	1033.994	0.453	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [okay]	[okay]	okay
+472	BOI049	1033.54	1035.258	1.718	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [tutti i gi]o:rni almeno: un paio d'o:re	[tutti i gi]o:rni almeno: un paio d'o:re	tutti i giorni almeno un paio d' ore
+473	BOR006	1033.54	1033.993	0.453	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [okay]	[okay]	okay
 474	BOR006	1036.565	1037.237	0.672	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 mh ottimo	mh ottimo	mh ottimo
 475	BOR006	1037.976	1038.602	0.626	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e::hm	e::hm	ehm
 476	BOR006	1038.672	1042.367	3.695	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 resti sempre più o meno: qua nel quartie:re oppure:	resti sempre più o meno: qua nel quartie:re oppure:	resti sempre più o meno qua nel quartiere oppure

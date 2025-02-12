@@ -2878,7 +2878,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 380-0	TO083	380	preferibilmente	<preferibilmente>	<preferibilmente>	linguistic	_	Begin=1024.646	_	_	_	_	_	_		0-15(0)		_		
 380-1	TO083	380	rosso	rosso.	rosso.	linguistic	_	End=1025.935	descending	_	_	_	_	_				_		
 381-0	TO999	381	mhmh	mhmh,	mhmh,	linguistic	_	End=1026.778	weakly_ascending	_	_	_	_	_				_		
-382-0	TO083	382	eh	e::h	e::h	linguistic	_	Begin=1028.08	_	_	_	_	_	_	0x2			_		
+382-0	TO083	382	eh	e::h	e::h	linguistic	_	Begin=1028.079	_	_	_	_	_	_	0x2			_		
 382-1	TO083	382	il	il	il	linguistic	_		_	_	_	_	_	_				_		
 382-2	TO083	382	giardino	giardino	giardino	linguistic	_		_	_	_	_	_	_				_		
 382-3	TO083	382	non	non	non	linguistic	_		_	_	_	_	_	_				_		
@@ -2902,7 +2902,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 386-0	TO083	386	no	no	no	linguistic	_	Begin=1036.76	_	_	_	_	_	_				_		
 386-1	TO083	386	animale	animale.	animale.	linguistic	_	End=1037.422	descending	_	_	_	_	_				_		
 387-0	TO999	387	{ride}	{ride}	{ride}	metalinguistic	_	End=1038.233	_	_	_	_	_	_				_		
-388-0	TO083	388	piante	piante	piante	linguistic	_	Begin=1038.33	_	_	_	_	_	_				_		
+388-0	TO083	388	piante	piante	piante	linguistic	_	Begin=1038.329	_	_	_	_	_	_				_		
 388-1	TO083	388	solo	solo	solo	linguistic	_		_	_	_	_	_	_				_		
 388-2	TO083	388	grasse	grasse.	grasse.	linguistic	_	End=1039.401	descending	_	_	_	_	_				_		
 389-0	TO999	389	okay	okay.	okay.	linguistic	_	End=1041.17	descending	_	_	_	_	_				_		
@@ -2918,8 +2918,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 391-3	TO083	391	proprio	proprio	proprio	linguistic	_		_	_	_	_	_	_				_		
 391-4	TO083	391	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 391-5	TO083	391	no	no.	no.	linguistic	_	End=1044.213	descending	_	_	_	_	_				_		
-392-0	TO083	392	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.859	_	_	_	_	_	_				_		
-393-0	TO999	393	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.859	_	_	_	_	_	_				_		
+392-0	TO083	392	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.858	_	_	_	_	_	_				_		
+393-0	TO999	393	{ride}	{ride}	{ride}	metalinguistic	_	End=1044.858	_	_	_	_	_	_				_		
 394-0	TO999	394	okay	<okay,>	<okay,>	linguistic	_	End=1047.47	weakly_ascending	_	_	_	_	_		0-4(0)		_		
 395-0	TO999	395	eh	e:::h	e:::h	linguistic	_	Begin=1047.546	_	_	_	_	_	_	0x3			_		
 395-1	TO999	395	boh	boh	boh	linguistic	_		_	_	_	_	_	_				_		

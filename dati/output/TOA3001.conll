@@ -2912,14 +2912,14 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 335-0	TO029	335	raccontatemi	raccontatemi	raccontatemi	linguistic	_	Begin=1038.007	_	_	_	_	_	_				_		
 335-1	TO029	335	tutto	[tu:]tto	[tu:]tto	linguistic	_	End=1039.584	_	_	_	_	_	_	1x1			_		0-2(336)
 336-0	TO033	336	allora	[allora]	[allora]	linguistic	_	End=1039.415	_	_	_	_	_	_				_		0-6(335)
-337-0	TO033	337	a	a	a	linguistic	_	Begin=1040.215	_	_	_	_	_	_				_		
+337-0	TO033	337	a	a	a	linguistic	_	Begin=1040.214	_	_	_	_	_	_				_		
 337-1	TO033	337	tutti	tutti	tutti	linguistic	_		_	_	_	_	_	_				_		
 337-2	TO033	337	praticamente	praticamente,	praticamente,	linguistic	_	End=1041.887	weakly_ascending	_	_	_	_	_				_		
 338-0	TO033	338	mancano	mancano:::	mancano:::	linguistic	_	End=1044.333	_	_	_	_	_	_	6x3			_		
 339-0	TO033	339	a	a	a	linguistic	_	Begin=1044.813	_	_	_	_	_	_				_		
 339-1	TO033	339	lunedì	lunedì	lunedì	linguistic	_		_	_	_	_	_	_				_		
 339-2	TO033	339	mancavano	mancavano	mancavano	linguistic	_		_	_	_	_	_	_				_		
-339-3	TO033	339	due	due,	due,	linguistic	_	End=1046.416	weakly_ascending	_	_	_	_	_				_		
+339-3	TO033	339	due	due,	due,	linguistic	_	End=1046.415	weakly_ascending	_	_	_	_	_				_		
 340-0	TO033	340	o	o	o	linguistic	_	Begin=1047.011	_	_	_	_	_	_				_		
 340-1	TO033	340	più	più	più	linguistic	_		_	_	_	_	_	_				_		
 340-2	TO033	340	esami	esami	esami	linguistic	_		_	_	_	_	_	_				_		

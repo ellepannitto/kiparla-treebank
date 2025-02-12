@@ -2028,7 +2028,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 173-9	BO102	173	vancouver	vancouver,	vancouver,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
 173-10	BO102	173	eh	eh?	eh?	linguistic	_	End=1030.64	ascending	_	_	_	_	_				_		
 174-0	BO102	174	a	a	a	linguistic	_	Begin=1031.856	_	_	_	_	_	_				_		
-174-1	BO102	174	loambrabang	(loambrabang),	(loambrabang),	linguistic	_	End=1033.686	weakly_ascending	_	_	_	_	_				_	0-11(0)	
+174-1	BO102	174	loambrabang	(loambrabang),	(loambrabang),	linguistic	_	End=1033.685	weakly_ascending	_	_	_	_	_				_	0-11(0)	
 175-0	BO102	175	a	a	a	linguistic	_	Begin=1035.374	_	_	_	_	_	_				_		
 175-1	BO102	175	ulan	ulan	ulan	linguistic	_		_	_	_	_	_	_				_		
 175-2	BO102	175	bator	bator,	bator,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
@@ -2037,7 +2037,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 176-0	BO102	176	non	non	non	linguistic	_	Begin=1039.333	_	_	_	_	_	_				_		
 176-1	BO102	176	trattiamoci	trattiamoci	trattiamoci	linguistic	_		_	_	_	_	_	_				_		
 176-2	BO102	176	male	male,	male,	linguistic	_		weakly_ascending	_	_	_	_	_				_		
-176-3	BO102	176	mh	mh?	mh?	linguistic	_	End=1040.811	ascending	_	_	_	_	_				_		
+176-3	BO102	176	mh	mh?	mh?	linguistic	_	End=1040.81	ascending	_	_	_	_	_				_		
 177-0	BO102	177	a	a	a	linguistic	_	Begin=1042.499	_	_	_	_	_	_				_		
 177-1	BO102	177	capetown	capetown,	capetown,	linguistic	_	End=1044.04	weakly_ascending	_	_	_	_	_				_		
 178-0	BO102	178	a	a	a	linguistic	_	Begin=1048.006	_	_	_	_	_	_				_		

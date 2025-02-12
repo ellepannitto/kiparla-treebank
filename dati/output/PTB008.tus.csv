@@ -268,13 +268,13 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 266	TOR005	492.63	494.403	1.773	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 quindi: ehm:::	quindi: ehm:::	quindi ehm
 267	???	494.403	495.112	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 ah sei qua?	ah sei qua?	ah sei qua
 268	TOI024	495.2	496.0	0.8	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 eh eh eh	eh eh eh	eh eh eh
-269	???	496.773	497.482	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [x]	[x]	x
-270	TOI024	496.773	497.482	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [sta inten~]	[sta inten~]	sta inten~
+269	TOI024	496.773	497.482	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [sta inten~]	[sta inten~]	sta inten~
+270	???	496.773	497.482	0.709	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [x]	[x]	x
 271	TOI024	497.482	498.153	0.671	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
 272	TOR005	497.482	498.153	0.671	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [prego]	[prego]	prego
 273	TOI024	498.201	499.81	1.609	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 a i'è na tessera da fè	a i'è na tessera da fè	a i' è na tessera da fè
-274	???	499.81	500.167	0.357	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh?]	[eh?]	eh
-275	TOI024	499.81	502.137	2.327	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [poi ha] detto che dobbiamo a essere in due	[poi ha] detto che dobbiamo a essere in due	poi ha detto che dobbiamo a essere in due
+274	TOI024	499.81	502.137	2.327	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [poi ha] detto che dobbiamo a essere in due	[poi ha] detto che dobbiamo a essere in due	poi ha detto che dobbiamo a essere in due
+275	???	499.81	500.167	0.357	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh?]	[eh?]	eh
 276	TOI024	502.237	504.363	2.126	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 adesso mi fa qualche domanda	adesso mi fa qualche domanda	adesso mi fa qualche domanda
 277	TOI024	504.524	505.069	0.545	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 eh	eh	eh
 278	TOI024	505.333	506.345	1.012	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 è l'altra mia collega	è l'altra mia collega	è l' altra mia collega
@@ -401,13 +401,13 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 399	TOI024	719.359	722.151	2.792	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 comunque in via meucci {P} mi pare nove	comunque in via meucci {P} mi pare nove	comunque in via meucci {P} mi pare nove
 400	TOI024	722.151	723.741	1.59	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 [mh eh c'era la]	[mh eh c'era la]	mh eh c' era la
 401	TOR005	722.151	723.74	1.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 [ah okay eh va bene]	[ah okay eh va bene]	ah okay eh va bene
-402	???	723.918	724.9	0.982	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eccomi]	[eccomi]	eccomi
-403	TOI024	723.918	725.704	1.786	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [l'avviamento com]merciale	[l'avviamento com]merciale	l' avviamento commerciale
-404	???	725.704	726.26	0.556	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [OH]	[OH]	oh
-405	TOI024	725.704	726.26	0.556	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [ecco]	[ecco]	ecco
-406	???	726.286	727.25	0.964	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [ce l'ho fatta]	[ce l'ho fatta]	ce l' ho fatta
-407	TOI024	726.286	727.459	1.173	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	2	 [x {P} eh]	[x {P} eh]	x {P} eh
-408	TOR005	726.286	727.901	1.615	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [salve buongio]rno	[salve buongio]rno	salve buongiorno
+402	TOI024	723.918	725.704	1.786	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [l'avviamento com]merciale	[l'avviamento com]merciale	l' avviamento commerciale
+403	???	723.918	724.9	0.982	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eccomi]	[eccomi]	eccomi
+404	TOI024	725.704	726.26	0.556	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [ecco]	[ecco]	ecco
+405	???	725.704	726.26	0.556	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [OH]	[OH]	oh
+406	TOI024	726.286	727.459	1.173	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	2	 [x {P} eh]	[x {P} eh]	x {P} eh
+407	TOR005	726.286	727.901	1.615	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [salve buongio]rno	[salve buongio]rno	salve buongiorno
+408	???	726.286	727.25	0.964	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [ce l'ho fatta]	[ce l'ho fatta]	ce l' ho fatta
 409	TOI024	728.216	730.018	1.802	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 eh questa è: l'altra mia collega	eh questa è: l'altra mia collega	eh questa è l' altra mia collega
 410	TOR005	730.018	730.316	0.298	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 salve	salve	salve
 411	TOI024	730.316	730.646	0.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 eh	eh	eh
@@ -440,8 +440,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 438	TOI024	762.302	762.964	0.662	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 439	TOR005	762.333	764.242	1.909	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	 che si {P} si pos[sono dire mh]	che si {P} si pos[sono dire mh]	che si {P} si possono dire mh
 440	TOI024	763.186	764.631	1.445	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [adesso sono] qua	[adesso sono] qua	adesso sono qua
-441	???	764.683	766.337	1.654	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [xxx]	[xxx]	xxx
-442	TOR005	764.683	765.922	1.239	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [un milione di cose]	[un milione di cose]	un milione di cose
+441	TOR005	764.683	765.922	1.239	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [un milione di cose]	[un milione di cose]	un milione di cose
+442	???	764.683	766.337	1.654	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [xxx]	[xxx]	xxx
 443	TOI024	765.199	770.697	5.498	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 [eh perché qua bal]liamo due volte alla set[timana], a volte giochiamo a bocce quando abbiamo voglia	[eh perché qua bal]liamo due volte alla set[timana], a volte giochiamo a bocce quando abbiamo voglia	eh perché qua balliamo due volte alla settimana a volte giochiamo a bocce quando abbiamo voglia
 444	TOR005	767.525	768.193	0.668	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [ah ah]	[ah ah]	ah ah
 445	TOI024	770.697	773.13	2.433	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 giochiamo carte quando abbiamo voglia	giochiamo carte quando abbiamo voglia	giochiamo carte quando abbiamo voglia
@@ -584,11 +584,11 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 582	TOR005	1024.75	1027.194	2.444	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 mh m~ m~ mi sa dire magari qualche [m:h]	mh m~ m~ mi sa dire magari qualche [m:h]	mh m~ m~ mi sa dire magari qualche mh
 583	TOI024	1026.538	1032.299	5.761	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 [e vabbè qua]ndo ero sposata andavamo con mio marito a trovare amici così era: diversa la vita	[e vabbè qua]ndo ero sposata andavamo con mio marito a trovare amici così era: diversa la vita	e vabbè quando ero sposata andavamo con mio marito a trovare amici così era diversa la vita
 584	TOR005	1032.381	1032.781	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 mh mh	mh mh	mh mh
-585	TOI024	1032.781	1033.994	1.213	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e:::h	e:::h	eh
-586	TOI024	1033.994	1036.194	2.2	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 andavamo: a mangiar la pizza:	andavamo: a mangiar la pizza:	andavamo a mangiar la pizza
+585	TOI024	1032.781	1033.993	1.212	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e:::h	e:::h	eh
+586	TOI024	1033.993	1036.194	2.201	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 andavamo: a mangiar la pizza:	andavamo: a mangiar la pizza:	andavamo a mangiar la pizza
 587	TOI024	1036.52	1041.088	4.568	True	0	0	0	0	0	0	0	False	False	False	False	True	_	0	0	0	13	 a trovare qualcuno adesso:: io sto a casa la sera dove vuole an[dare]	a trovare qualcuno adesso:: io sto a casa la sera dove vuole an[dare]	a trovare qualcuno adesso io sto a casa la sera dove vuole andare
-588	TOI024	1041.339	1042.734	1.395	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 qualche volta andiamo::	qualche volta andiamo::	qualche volta andiamo
-589	TOI024	1042.82	1044.589	1.769	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 co(n) la mia amica a vedere:	co(n) la mia amica a vedere:	con la mia amica a vedere
+588	TOI024	1041.339	1042.733	1.394	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 qualche volta andiamo::	qualche volta andiamo::	qualche volta andiamo
+589	TOI024	1042.819	1044.589	1.77	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 co(n) la mia amica a vedere:	co(n) la mia amica a vedere:	con la mia amica a vedere
 590	TOI024	1045.41	1047.757	2.347	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 eh ehm un cantante non so se lei	eh ehm un cantante non so se lei	eh ehm un cantante non so se lei
 591	TOI024	1047.757	1048.156	0.399	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 592	TOI024	1048.156	1049.112	0.956	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	2	 lo conosce {ridendo}	lo conosce {ridendo}	lo conosce {ridendo}
@@ -605,8 +605,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 603	TOI024	1063.029	1065.749	2.72	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [sì nei din]torni nelle:: [nei paesi]	[sì nei din]torni nelle:: [nei paesi]	sì nei dintorni nelle nei paesi
 604	TOR005	1063.029	1063.655	0.626	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [perché:]	[perché:]	perché
 605	???	1064.614	1067.215	2.601	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [sì perché prima non] c'è quasi mai: visto che	[sì perché prima non] c'è quasi mai: visto che	sì perché prima non c' è quasi mai visto che
-606	???	1067.334	1067.923	0.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [non puo']	[non puo']	non puo'
-607	TOI024	1067.334	1067.923	0.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
+606	TOI024	1067.334	1067.923	0.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
+607	???	1067.334	1067.923	0.589	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [non puo']	[non puo']	non puo'
 608	???	1068.046	1068.995	0.949	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 è un po' famoso	è un po' famoso	è un po' famoso
 609	TOR005	1068.889	1071.79	2.901	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 610	???	1068.995	1069.976	0.981	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [e:h]	[e:h]	eh
@@ -773,13 +773,13 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 771	TOR005	1342.713	1343.476	0.763	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 allora	allora	allora
 772	TOR005	1343.933	1345.115	1.182	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 eh[m::]:	eh[m::]:	ehm
 773	???	1344.526	1344.856	0.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
-774	???	1345.276	1345.614	0.338	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
-775	TOR005	1345.276	1347.889	2.613	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 [io] spiego anche a voi quello che [stiamo] facendo così [almeno]	[io] spiego anche a voi quello che [stiamo] facendo così [almeno]	io spiego anche a voi quello che stiamo facendo così almeno
+774	TOR005	1345.276	1347.889	2.613	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 [io] spiego anche a voi quello che [stiamo] facendo così [almeno]	[io] spiego anche a voi quello che [stiamo] facendo così [almeno]	io spiego anche a voi quello che stiamo facendo così almeno
+775	???	1345.276	1345.614	0.338	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
 776	???	1346.429	1346.919	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [dimmi]	[dimmi]	dimmi
 777	???	1347.308	1347.884	0.576	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [xx]	[xx]	xx
 778	TOR005	1348.233	1349.729	1.496	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 io sto raccogliendo:, dati	io sto raccogliendo:, dati	io sto raccogliendo dati
-779	???	1349.799	1350.175	0.376	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [mh mh]	[mh mh]	mh mh
-780	TOR005	1349.799	1350.513	0.714	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [o]kay,	[o]kay,	okay
+779	TOR005	1349.799	1350.513	0.714	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [o]kay,	[o]kay,	okay
+780	???	1349.799	1350.175	0.376	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [mh mh]	[mh mh]	mh mh
 781	TOR005	1350.615	1353.466	2.851	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 m::h sui: cittadini e le cittadine: torinesi	m::h sui: cittadini e le cittadine: torinesi	mh sui cittadini e le cittadine torinesi
 782	TOR005	1353.82	1357.508	3.688	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 e:h mh: per quanto riguarda gli ultimi::: ultimo mezzo secolo	e:h mh: per quanto riguarda gli ultimi::: ultimo mezzo secolo	eh mh per quanto riguarda gli ultimi ultimo mezzo secolo
 783	TOR005	1357.508	1359.323	1.815	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 dalla città di torino quidi: appunto	dalla città di torino quidi: appunto	dalla città di torino quidi appunto
@@ -820,8 +820,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 818	TOR005	1405.938	1408.053	2.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	 le {P} do la liberatoria intanto	le {P} do la liberatoria intanto	le {P} do la liberatoria intanto
 819	TOI024	1408.116	1409.792	1.676	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 e intanto magari [finiamo]	e intanto magari [finiamo]	e intanto magari finiamo
 820	TOR005	1409.119	1409.795	0.676	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [la penna]	[la penna]	la penna
-821	???	1409.807	1410.795	0.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [dammi la biro]	[dammi la biro]	dammi la biro
-822	TOI024	1409.807	1411.29	1.483	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [(le) domande] per me	[(le) domande] per me	le domande per me
+821	TOI024	1409.807	1411.29	1.483	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [(le) domande] per me	[(le) domande] per me	le domande per me
+822	???	1409.807	1410.795	0.988	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [dammi la biro]	[dammi la biro]	dammi la biro
 823	TOR005	1411.314	1411.934	0.62	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 uno	uno	uno
 824	TOR005	1413.793	1415.505	1.712	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 ehm:::	ehm:::	ehm
 825	TOR005	1415.505	1416.51	1.005	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 <allora>	<allora>	allora
@@ -835,8 +835,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 833	???	1426.438	1427.602	1.164	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 eh semp istess	eh semp istess	eh semp istess
 834	TOR005	1427.967	1428.35	0.383	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sì:	sì:	sì
 835	TOI024	1428.444	1428.897	0.453	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 eh	eh	eh
-836	???	1428.897	1430.2	1.303	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [MA PRATICAMENTE]	[MA PRATICAMENTE]	ma praticamente
-837	TOR005	1428.897	1431.967	3.07	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	1	0	10	 [pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}	[pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}	pero' {P} pero' no~ nome e cognome lo leggo meglio pero' {ride}
+836	TOR005	1428.897	1431.967	3.07	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	1	0	10	 [pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}	[pero' {P} pero' no~] nome e cognome lo leggo meglio pero' {ride}	pero' {P} pero' no~ nome e cognome lo leggo meglio pero' {ride}
+837	???	1428.897	1430.2	1.303	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [MA PRATICAMENTE]	[MA PRATICAMENTE]	ma praticamente
 838	TOR005	1432.843	1434.456	1.613	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 in genere rispetto alle [firme]	in genere rispetto alle [firme]	in genere rispetto alle firme
 839	???	1433.927	1434.451	0.524	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [ah]	[ah]	ah
 840	TOR005	1435.142	1437.899	2.757	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 >eh va~ va bene signora margherita io guardi le chiedo< [ehm:: un~]	>eh va~ va bene signora margherita io guardi le chiedo< [ehm:: un~]	eh va~ va bene signora margherita io guardi le chiedo ehm un~
@@ -866,8 +866,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 864	TOI024	1468.501	1469.135	0.634	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 865	TOI024	1469.135	1470.677	1.542	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	5	 eh insomma più o meno {ride}	eh insomma più o meno {ride}	eh insomma più o meno {ride}
 866	TOI024	1470.677	1471.131	0.454	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-867	???	1471.131	1471.824	0.693	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [era.]	[era.]	era
-868	TOI024	1471.131	1473.246	2.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [x la] sera [di giorno trovi x]	[x la] sera [di giorno trovi x]	x la sera di giorno trovi x
+867	TOI024	1471.131	1473.246	2.115	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [x la] sera [di giorno trovi x]	[x la] sera [di giorno trovi x]	x la sera di giorno trovi x
+868	???	1471.131	1471.824	0.693	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [era.]	[era.]	era
 869	???	1472.26	1474.984	2.724	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [al~ allora t]ori[no era una bella città]	[al~ allora t]ori[no era una bella città]	al~ allora torino era una bella città
 870	TOI024	1473.496	1475.386	1.89	True	0	0	0	0	0	0	0	False	False	False	False	True	869=1.488,871=0.402	0	0	0	5	 [se viene in questo borgo]	[se viene in questo borgo]	se viene in questo borgo
 871	???	1474.984	1475.994	1.01	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [tranq]uilla	[tranq]uilla	tranquilla
@@ -879,8 +879,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 877	TOI024	1482.359	1483.514	1.155	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [come ho fatto io]	[come ho fatto io]	come ho fatto io
 878	TOR005	1482.362	1483.509	1.147	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [benissimo]	[benissimo]	benissimo
 879	???	1483.535	1483.908	0.373	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sì	sì	sì
-880	???	1483.908	1486.235	2.327	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 [questo sì. {P} xxx]	[questo sì. {P} xxx]	questo sì {P} xxx
-881	TOI024	1483.908	1486.529	2.621	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [e vedrai che sarai ben(e) accol]to	[e vedrai che sarai ben(e) accol]to	e vedrai che sarai bene accolto
+880	TOI024	1483.908	1486.529	2.621	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [e vedrai che sarai ben(e) accol]to	[e vedrai che sarai ben(e) accol]to	e vedrai che sarai bene accolto
+881	???	1483.908	1486.235	2.327	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 [questo sì. {P} xxx]	[questo sì. {P} xxx]	questo sì {P} xxx
 882	TOI024	1487.125	1488.649	1.524	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 se è un uomo o una donna non lo [so]	se è un uomo o una donna non lo [so]	se è un uomo o una donna non lo so
 883	TOR005	1488.365	1489.179	0.814	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [va] bene	[va] bene	va bene
 884	TOI024	1489.179	1490.553	1.374	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 sarai ben accolto	sarai ben accolto	sarai ben accolto
@@ -898,8 +898,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 896	TOR005	1504.197	1504.738	0.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 gr[azie]	gr[azie]	grazie
 897	TOI024	1504.31	1504.958	0.648	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [è ve]ro?	[è ve]ro?	è vero
 898	???	1504.958	1505.413	0.455	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 eh	eh	eh
-899	???	1506.564	1506.944	0.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [x]	[x]	x
-900	TOR005	1506.564	1507.341	0.777	True	0	0	0	0	0	0	0	False	False	False	False	True	899=0.380,901=0.371	0	0	0	1	 [okay]	[okay]	okay
+899	TOR005	1506.564	1507.341	0.777	True	0	0	0	0	0	0	0	False	False	False	False	True	900=0.380,901=0.371	0	0	0	1	 [okay]	[okay]	okay
+900	???	1506.564	1506.944	0.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [x]	[x]	x
 901	TOI024	1506.97	1507.345	0.375	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [eh]	[eh]	eh
 902	TOR005	1507.37	1508.695	1.325	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 allora io la ringrazio intanto	allora io la ringrazio intanto	allora io la ringrazio intanto
 903	TOI024	1508.695	1509.743	1.048	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -909,6 +909,6 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 907	TOR005	1512.352	1513.788	1.436	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e:::h	e:::h	eh
 908	???	1513.971	1515.368	1.397	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 così chila sa già tut	così chila sa già tut	così chila sa già tut
 909	TOR005	1515.499	1516.87	1.371	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-910	???	1515.553	1517.487	1.934	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-911	TOI024	1515.553	1517.487	1.934	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 eh sì ho già {P} ho già risposto	eh sì ho già {P} ho già risposto	eh sì ho già {P} ho già risposto
+910	TOI024	1515.553	1517.487	1.934	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 eh sì ho già {P} ho già risposto	eh sì ho già {P} ho già risposto	eh sì ho già {P} ho già risposto
+911	???	1515.553	1517.487	1.934	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 912	TOR005	1517.54	1519.312	1.772	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 ah beh ma poi abbiamo la signora:	ah beh ma poi abbiamo la signora:	ah beh ma poi abbiamo la signora

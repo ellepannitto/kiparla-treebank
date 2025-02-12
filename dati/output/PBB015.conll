@@ -1603,7 +1603,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 191-26	BOI046	191	dietro	dietro	dietro	linguistic	_		_	_	_	_	_	_				_		
 191-27	BOI046	191	l'	l'	l'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		
 191-28	BOI046	191	angolo	angolo	ngolo	linguistic	_	End=522.716	_	_	_	_	_	_				_		
-192-0	BOI046	192	no	no	no	linguistic	_	Begin=522.958	_	_	_	_	_	_				_		
+192-0	BOI046	192	no	no	no	linguistic	_	Begin=522.957	_	_	_	_	_	_				_		
 192-1	BOI046	192	forse	forse	forse	linguistic	_		_	_	_	_	_	_				_		
 192-2	BOI046	192	secondo	secondo	secondo	linguistic	_		_	_	_	_	_	_				_		
 192-3	BOI046	192	me	me	me	linguistic	_		_	_	_	_	_	_				_		
@@ -3284,11 +3284,11 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 440-28	BOI046	440	dormire	dormire	dormire	linguistic	_		_	_	_	_	_	_				_		
 440-29	BOI046	440	presto	presto	presto	linguistic	_	End=1024.644	_	_	_	_	_	_				_		
 441-0	BOI045	441	sì	[sì]	[sì]	linguistic	_	End=1016.584	_	_	_	_	_	_				_		0-2(440)
-442-0	BOR009	442	{ride}	{ride}	{ride}	metalinguistic	_	End=1025.811	_	_	_	_	_	_				_		
+442-0	BOR009	442	{ride}	{ride}	{ride}	metalinguistic	_	End=1025.81	_	_	_	_	_	_				_		
 443-0	BOI046	443	sì	sì	sì	linguistic	_	Begin=1025.497	_	_	_	_	_	_				_		
 443-1	BOI046	443	no	no	no	linguistic	_		_	_	_	_	_	_				_		
 443-2	BOI046	443	perché	perché	perché	linguistic	_		_	_	_	_	_	_				_		
-443-3	BOI046	443	anche	anche	anche	linguistic	_	End=1026.321	_	_	_	_	_	_				_		
+443-3	BOI046	443	anche	anche	anche	linguistic	_	End=1026.32	_	_	_	_	_	_				_		
 444-0	BOI046	444	per	per	per	linguistic	_	Begin=1026.579	_	_	_	_	_	_				_		
 444-1	BOI046	444	quanto	quanto	quanto	linguistic	_		_	_	_	_	_	_				_		
 444-2	BOI046	444	uno	uno	uno	linguistic	_		_	_	_	_	_	_				_		
@@ -3299,7 +3299,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 444-7	BOI046	444	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 444-8	BOI046	444	lavoro	lavoro	lavoro	linguistic	_		_	_	_	_	_	_				_		
 444-9	BOI046	444	molto	molto	molto	linguistic	_		_	_	_	_	_	_				_		
-444-10	BOI046	444	tensivo	tensivo	tensivo	linguistic	_	End=1029.138	_	_	_	_	_	_				_		
+444-10	BOI046	444	tensivo	tensivo	tensivo	linguistic	_	End=1029.137	_	_	_	_	_	_				_		
 445-0	BOI046	445	devi	devi	devi	linguistic	_	Begin=1029.742	_	_	_	_	_	_				_		
 445-1	BOI046	445	stare	stare	stare	linguistic	_		_	_	_	_	_	_				_		
 445-2	BOI046	445	sempre	sempre	sempre	linguistic	_		_	_	_	_	_	_				_		

@@ -15,10 +15,10 @@ tu_id	speaker	start	end	duration	text
 13	BO147	14.995	15.935	0.940	 [(ah bene)]
 14	BO139	17.175	17.815	0.640	 {ride}
 15	BO146	17.550	18.510	0.960	 se poi arriva pure francesco ciao
-16	BO139	18.520	19.480	0.960	 {ride}
+16	BO145	18.520	19.230	0.710	 {ride}
 17	BO147	18.520	19.230	0.710	 {ride}
 18	BO146	18.520	19.230	0.710	 {ride}
-19	BO145	18.520	19.230	0.710	 {ride}
+19	BO139	18.520	19.480	0.960	 {ride}
 20	BO145	19.900	20.830	0.930	 alé lì è la fine
 21	BO147	20.840	24.330	3.490	 xx {ride}
 22	BO139	25.325	27.600	2.275	 non saprei come scrivere mbare pero' {ride}
@@ -202,9 +202,9 @@ tu_id	speaker	start	end	duration	text
 200	BO147	333.507	335.027	1.520	 vabbè c' avra pure lei da studia(re)
 201	BO139	335.812	336.472	0.660	 {ride}
 202	BO145	336.552	338.207	1.655	 chi l' ha detto {ride}
-203	BO139	337.177	338.207	1.030	 {ride}
-204	BO147	337.177	338.207	1.030	 {ride}
-205	BO146	337.177	338.207	1.030	 {ride}
+203	BO147	337.177	338.207	1.030	 {ride}
+204	BO146	337.177	338.207	1.030	 {ride}
+205	BO139	337.177	338.207	1.030	 {ride}
 206	BO147	338.277	339.117	0.840	 (lo) dico io
 207	BO139	341.922	343.172	1.250	 perché vuoi fare un figlio?
 208	BO145	343.952	344.842	0.890	 non ho detto questo
@@ -276,7 +276,7 @@ tu_id	speaker	start	end	duration	text
 274	BO146	425.023	425.923	0.900	 beh ho capito pero'
 275	BO145	425.938	426.338	0.400	 no ma
 276	BO147	426.553	427.933	1.380	 ma a parte che lo sapra(n) [tutti]
-277	BO145	427.298	429.488	2.190	 [lui dice (>un<) al]tro (>un<)' altra cosa secondo me
+277	BO145	427.298	429.488	2.190	 [lui dice (>un<) al]tro (>un'<) altra cosa secondo me
 278	BO145	429.668	432.360	2.692	 >cioè< non dice del: {P} (di) roberto ma dice tipo
 279	BO147	432.438	432.938	0.500	 n[o:]
 280	BO145	432.733	433.343	0.610	 [di]re
@@ -299,8 +299,8 @@ tu_id	speaker	start	end	duration	text
 297	BO147	455.209	456.959	1.750	 giuliano {P} com' è com' è che ha fatto
 298	BO147	457.089	458.440	1.351	 eh? ha fatto {ride}
 299	BO145	458.179	458.729	0.550	 eh?
-300	BO147	458.829	462.220	3.391	 {ride}
-301	BO145	458.829	459.439	0.610	 {ride}
+300	BO145	458.829	459.439	0.610	 {ride}
+301	BO147	458.829	462.220	3.391	 {ride}
 302	BO139	460.169	460.659	0.490	 {ride}
 303	BO139	463.479	464.389	0.910	 {ride}
 304	BO139	467.349	468.149	0.800	 m:h
@@ -565,8 +565,8 @@ tu_id	speaker	start	end	duration	text
 563	BO145	820.323	820.743	0.420	 {ride}
 564	BO146	821.158	822.078	0.920	 {ride}
 565	BO145	822.428	823.408	0.980	 fa' (vedere)
-566	BO146	824.253	824.673	0.420	 xxx
-567	BO145	824.253	826.153	1.900	 {ride}
+566	BO145	824.253	826.153	1.900	 {ride}
+567	BO146	824.253	824.673	0.420	 xxx
 568	BO139	825.048	825.848	0.800	 {ride}
 569	BO146	826.518	828.408	1.890	 una vita ai (piedi) di x?
 570	BO145	828.528	830.108	1.580	 {ride}
@@ -678,7 +678,7 @@ tu_id	speaker	start	end	duration	text
 676	BO146	1032.597	1033.627	1.030	 {ride}
 677	BO145	1032.867	1033.317	0.450	 mh
 678	BO147	1036.162	1038.252	2.090	 no (s:ì) >cioè< nel senso:
-679	BO147	1038.571	1042.480	3.909	 >pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)
+679	BO147	1038.570	1042.480	3.910	 >pensavo< >che ne so< mezz:o~=mh undici e cinquanta mezzogiorno a (mangiare)
 680	BO145	1044.012	1046.712	2.700	 eh e (poi) dopo verso le venticinque (dobbiamo) (partire)
 681	BO145	1046.987	1047.477	0.490	 mezza
 682	BO147	1047.877	1048.690	0.813	 (mezza?)
@@ -720,8 +720,8 @@ tu_id	speaker	start	end	duration	text
 718	BO145	1140.514	1141.059	0.545	 {ride}
 719	BO139	1140.727	1141.227	0.500	 (>se lo<)
 720	BO139	1141.263	1143.454	2.191	 se me lo vuoi regalare me lo puoi regalare
-721	BO146	1143.509	1144.400	0.891	 [e lo prendo i]o
-722	BO145	1143.509	1143.977	0.468	 [na:]
+721	BO145	1143.509	1143.977	0.468	 [na:]
+722	BO146	1143.509	1144.400	0.891	 [e lo prendo i]o
 723	BO139	1143.513	1144.254	0.741	 [e se lo vuo~]
 724	BO139	1144.715	1145.187	0.472	 e s~
 725	BO139	1145.555	1146.110	0.555	 {ride}
@@ -810,8 +810,8 @@ tu_id	speaker	start	end	duration	text
 808	BO139	1261.724	1263.449	1.725	 io stasera torno a casa mia a dormire
 809	BO139	1264.492	1265.176	0.684	 xxx
 810	BO139	1265.263	1266.305	1.042	 non fare quella faccia da
-811	BO139	1266.763	1268.849	2.086	 che non te ne frega un c[azzo della vita]
-812	BO147	1266.763	1267.708	0.945	 {ride}
+811	BO147	1266.763	1267.708	0.945	 {ride}
+812	BO139	1266.763	1268.849	2.086	 che non te ne frega un c[azzo della vita]
 813	BO145	1267.781	1271.198	3.417	 [no: va bene vabbè lo] so già: perché me l' hai già detto:
 814	BO147	1269.010	1270.610	1.600	 {ride}
 815	BO139	1270.664	1271.964	1.300	 {ride}

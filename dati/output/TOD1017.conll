@@ -200,7 +200,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 32-0	TO077	32	eh	e::h	e::h	linguistic	_	Begin=128.044	_	_	_	_	_	_	0x2			_		
 32-1	TO077	32	io	io	io	linguistic	_		_	_	_	_	_	_				_		
 32-2	TO077	32	eh	e:::h	e:::h	linguistic	_	End=130.298	_	_	_	_	_	_	0x3			_		
-33-0	TO077	33	penso	penso	penso	linguistic	_	Begin=130.42	_	_	_	_	_	_				_		
+33-0	TO077	33	penso	penso	penso	linguistic	_	Begin=130.419	_	_	_	_	_	_				_		
 33-1	TO077	33	sia	sia	sia	linguistic	_		_	_	_	_	_	_				_		
 33-2	TO077	33	giusto	giusto	giusto	linguistic	_		_	_	_	_	_	_				_		
 33-3	TO077	33	darvi	darvi	darvi	linguistic	_		_	_	_	_	_	_				_		
@@ -946,7 +946,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 122-2	TO077	122	elezioni	elezioni	elezioni	linguistic	_		_	_	_	_	_	_				_		
 122-3	TO077	122	da	da	da	linguistic	_		_	_	_	_	_	_				_		
 122-4	TO077	122	quando	quando	quando	linguistic	_	End=520.515	_	_	_	_	_	_				_		
-123-0	TO077	123	eh	e::h	e::h	linguistic	_	Begin=520.761	_	_	_	_	_	_	0x2			_		
+123-0	TO077	123	eh	e::h	e::h	linguistic	_	Begin=520.76	_	_	_	_	_	_	0x2			_		
 123-1	TO077	123	esisteva	esisteva	esisteva	linguistic	_		_	_	_	_	_	_				_		
 123-2	TO077	123	il	(il)	(il)	linguistic	_		_	_	_	_	_	_				_	0-2(0)	
 123-3	TO077	123	regno	regno	regno	linguistic	_		_	_	_	_	_	_				_		

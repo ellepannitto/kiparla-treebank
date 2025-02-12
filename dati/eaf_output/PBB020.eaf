@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-02-11T13:10:44+01:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline" DATE="2025-02-12T11:19:40+01:00" VERSION="2.8" FORMAT="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
 	<HEADER>
 		<MEDIA_DESCRIPTOR MEDIA_URL="dati/audio/PBB020.wav" RELATIVE_MEDIA_URL="dati/audio/PBB020.wav" MIME_TYPE="audio/x-wav" />
 		<PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
@@ -941,11 +941,11 @@
 		<TIME_SLOT TIME_SLOT_ID="ts935" TIME_VALUE="1024266" />
 		<TIME_SLOT TIME_SLOT_ID="ts936" TIME_VALUE="1024635" />
 		<TIME_SLOT TIME_SLOT_ID="ts937" TIME_VALUE="1028852" />
-		<TIME_SLOT TIME_SLOT_ID="ts938" TIME_VALUE="1029541" />
+		<TIME_SLOT TIME_SLOT_ID="ts938" TIME_VALUE="1029540" />
 		<TIME_SLOT TIME_SLOT_ID="ts939" TIME_VALUE="1031069" />
 		<TIME_SLOT TIME_SLOT_ID="ts940" TIME_VALUE="1031443" />
 		<TIME_SLOT TIME_SLOT_ID="ts941" TIME_VALUE="1032576" />
-		<TIME_SLOT TIME_SLOT_ID="ts942" TIME_VALUE="1033003" />
+		<TIME_SLOT TIME_SLOT_ID="ts942" TIME_VALUE="1033002" />
 		<TIME_SLOT TIME_SLOT_ID="ts943" TIME_VALUE="1034318" />
 		<TIME_SLOT TIME_SLOT_ID="ts944" TIME_VALUE="1034752" />
 		<TIME_SLOT TIME_SLOT_ID="ts945" TIME_VALUE="1039857" />

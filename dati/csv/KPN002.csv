@@ -163,8 +163,8 @@ tu_id	speaker	start	end	duration	text
 161	PKP038	458.875	463.515	4.640	 cioè tipo {P} ero tipo {P} ma michi? {ride} >e lei ha detto< tanto non me ne frega più
 162	PKP012	463.600	468.540	4.940	 cioè cosa devo dirti? che studi e dopo che esca col moroso cosa ti devo dire,
 163	PKP011	468.565	469.065	0.500	 °vabbè dai°
-164	PKP012	473.420	474.110	0.690	 xxxx
-165	PKP011	473.420	474.110	0.690	 {si_spaventa}
+164	PKP011	473.420	474.110	0.690	 {si_spaventa}
+165	PKP012	473.420	474.110	0.690	 xxxx
 166	PKP011	475.640	477.800	2.160	 grazie {P} aspetta {P} grazie {ride}
 167	PKP038	477.800	478.860	1.060	 non è molto igienico
 168	PKP011	478.905	480.945	2.040	 mn vabbè tanto poi xxx[x]
@@ -417,12 +417,12 @@ tu_id	speaker	start	end	duration	text
 415	PKP038	1034.900	1035.200	0.300	 [sì]
 416	PKP011	1035.510	1036.030	0.520	 davvero?
 417	PKP031	1036.060	1038.490	2.430	 cioè anche mia cugina [è in quin]ta [ma è (u)na santa]
-418	PKP012	1036.990	1037.369	0.379	 [UHM]
-419	PKP011	1037.484	1038.494	1.010	 [che xx che è]
-420	PKP038	1040.369	1046.040	5.671	 pero' cioè: {P} [c'era una] sì [ehm] che la chiamerò xxxx
+418	PKP012	1036.990	1037.368	0.378	 [UHM]
+419	PKP011	1037.483	1038.493	1.010	 [che xx che è]
+420	PKP038	1040.368	1046.040	5.672	 pero' cioè: {P} [c'era una] sì [ehm] che la chiamerò xxxx
 421	PKP012	1041.550	1042.480	0.930	 [anca massa]
-422	PKP031	1043.109	1043.280	0.171	 [eh]
-423	PKP011	1046.510	1046.849	0.339	 ottimo
+422	PKP031	1043.108	1043.280	0.172	 [eh]
+423	PKP011	1046.510	1046.848	0.338	 ottimo
 424	PKP011	1047.310	1048.440	1.130	 {ride} [xx]
 425	PKP031	1047.339	1049.480	2.141	 >perché< viene [sempre] lì MAESTRA le va
 426	PKP038	1050.210	1051.400	1.190	 NO {P} al~ l'ho chiamata

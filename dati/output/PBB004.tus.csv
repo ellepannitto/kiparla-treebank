@@ -16,12 +16,12 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 14	BOR005	23.099	23.414	0.315	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mh]	[mh]	mh
 15	BOR005	24.179	24.592	0.413	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 no?	no?	no
 16	BOI012	24.725	25.813	1.088	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 questa è la dozza eh	questa è la dozza eh	questa è la dozza eh
-17	BOI013	25.86	27.392	1.532	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 però è quartiere cortic[ella]	pero' è quartiere cortic[ella]	pero' è quartiere corticella
+17	BOI013	25.86	27.392	1.532	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 pero' è quartiere cortic[ella]	pero' è quartiere cortic[ella]	pero' è quartiere corticella
 18	BOI012	27.206	27.56	0.354	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [n]o	[n]o	no
 19	BOR005	27.65	28.319	0.669	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 ah okay	ah okay	ah okay
 20	BOR005	28.77	33.085	4.315	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	14	 e {P} le scuole le avete frequentate qui, o in altri quartieri, in altre città,	e {P} le scuole le avete frequentate qui, o in altri quartieri, in altre città,	e {P} le scuole le avete frequentate qui o in altri quartieri in altre città
-21	BOI012	33.085	34.181	1.096	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [altri quartieri]	[altri quartieri]	altri quartieri
-22	BOI013	33.085	34.181	1.096	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [altri quartieri]	[altri quartieri]	altri quartieri
+21	BOI013	33.085	34.181	1.096	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [altri quartieri]	[altri quartieri]	altri quartieri
+22	BOI012	33.085	34.181	1.096	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [altri quartieri]	[altri quartieri]	altri quartieri
 23	BOR005	34.607	35.406	0.799	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 ah: okay	ah: okay	ah okay
 24	BOR005	36.09	41.903	5.813	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	 e i vostri amici vivono ancora nei quartieri dove abita[vate vo]i o si sono spost[ati]?	e i vostri amici vivono ancora nei quartieri dove abita[vate vo]i o si sono spost[ati]?	e i vostri amici vivono ancora nei quartieri dove abitavate voi o si sono spostati
 25	BOI013	39.836	40.176	0.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [no]	[no]	no
@@ -50,7 +50,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 48	BOR005	85.433	85.827	0.394	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 a::h	a::h	ah
 49	BOR005	87.07	88.487	1.417	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 a:nche tipo m:h in[tend~]	a:nche tipo m:h in[tend~]	anche tipo mh intend~
 50	BOI013	88.205	89.245	1.04	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [di] auto[bus]	[di] auto[bus]	di autobus
-51	BOR005	88.68	89.253	0.573	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[okay]	[okay]	okay
+51	BOR005	88.68	89.253	0.573	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [okay]	[okay]	okay
 52	BOI013	89.5	91.655	2.155	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 per chi va a lavorare è: un grosso problema	per chi va a lavorare è: un grosso problema	per chi va a lavorare è un grosso problema
 53	BOI012	91.665	93.655	1.99	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >meno male che bisogna esser naturali< o:h	>meno male che bisogna esser naturali< o:h	meno male che bisogna esser naturali oh
 54	BOR005	94.565	95.035	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e::	e::	e
@@ -67,10 +67,10 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 65	BOR005	112.855	116.015	3.16	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	 e {P} voi principalmente cove come mi vi muovete in città	e {P} voi principalmente cove come mi vi muovete in città	e {P} voi principalmente cove come mi vi muovete in città
 66	BOI012	116.265	116.845	0.58	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 in auto	in auto	in auto
 67	BOI013	117.015	117.765	0.75	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 autobus	autobus	autobus
-68	BOR005	119.33	120.65	1.32	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 e >qua però< ne passano pochi	e >qua pero'< ne passano pochi	e qua pero' ne passano pochi
+68	BOR005	119.33	120.65	1.32	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 e >qua pero'< ne passano pochi	e >qua pero'< ne passano pochi	e qua pero' ne passano pochi
 69	BOI013	120.99	122.33	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 sì {P} la linea azzurra	sì {P} la linea azzurra	sì {P} la linea azzurra
 70	BOR005	123.07	125.66	2.59	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	 e quindi? {P} °m:h° la fermata più vicina qual è	e quindi? {P} °m:h° la fermata più vicina qual è	e quindi {P} mh la fermata più vicina qual è
-71	BOI013	126.153	129.425	3.272	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 no la vici~ la:: fermata è vicina {P} però: ci sono gli orari,	no la vici~ la:: fermata è vicina {P} pero': ci sono gli orari,	no la vici~ la fermata è vicina {P} pero' ci sono gli orari
+71	BOI013	126.153	129.425	3.272	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 no la vici~ la:: fermata è vicina {P} pero': ci sono gli orari,	no la vici~ la:: fermata è vicina {P} pero': ci sono gli orari,	no la vici~ la fermata è vicina {P} pero' ci sono gli orari
 72	BOR005	129.81	130.28	0.47	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 a::h	a::h	ah
 73	BOI013	130.625	133.385	2.76	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 se perdo un autobus poi devo s~ (a)spettare un'altra ora	se perdo un autobus poi devo s~ (a)spettare un'altra ora	se perdo un autobus poi devo s~ aspettare un' altra ora
 74	BOR005	134.6	136.34	1.74	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 >ah okay quindi< la mobilità è molto ridotta	>ah okay quindi< la mobilità è molto ridotta	ah okay quindi la mobilità è molto ridotta
@@ -96,7 +96,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 94	BOR005	171.65	173.22	1.57	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 quindi per te è cambiata in peggio?	quindi per te è cambiata in peggio?	quindi per te è cambiata in peggio
 95	BOI013	173.333	174.45	1.117	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 per me è cambiata in peggio	per me è cambiata in peggio	per me è cambiata in peggio
 96	BOR005	174.825	175.945	1.12	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 eh ma in che senso in peggio	eh ma in che senso in peggio	eh ma in che senso in peggio
-97	BOI013	175.965	179.825	3.86	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	15	 eh in peggio perchè non {P} prima c'era più sicurezza adesso è meno sicura bologna	eh in peggio perché non {P} prima c'era più sicurezza adesso è meno sicura bologna	eh in peggio perché non {P} prima c' era più sicurezza adesso è meno sicura bologna
+97	BOI013	175.965	179.825	3.86	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	15	 eh in peggio perché non {P} prima c'era più sicurezza adesso è meno sicura bologna	eh in peggio perché non {P} prima c'era più sicurezza adesso è meno sicura bologna	eh in peggio perché non {P} prima c' era più sicurezza adesso è meno sicura bologna
 98	BOR005	180.405	184.775	4.37	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	12	 >ma dici< a~ i:~ tipo in determinate zone, o più in gene[rale dappertutto]	>ma dici< a~ i:~ tipo in determinate zone, o più in gene[rale dappertutto]	ma dici a~ i:~ tipo in determinate zone o più in generale dappertutto
 99	BOI013	183.72	187.05	3.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	6	 [in ge:~ no e:]::h in determinate zone,	[in ge:~ no e:]::h in determinate zone,	in ge:~ no eh in determinate zone
 100	BOI013	187.49	189.48	1.99	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 prima e:ra più tranquilla bologna	prima e:ra più tranquilla bologna	prima era più tranquilla bologna
@@ -121,11 +121,11 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 119	BOI013	211.415	212.995	1.58	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 io abitavo in stazione centrale,	io abitavo in stazione centrale,	io abitavo in stazione centrale
 120	BOI012	213.0	215.84	2.84	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 xxx {P} traffico, magari c'è più [traffico],	xxx {P} traffico, magari c'è più [traffico],	xxx {P} traffico magari c' è più traffico
 121	BOI013	215.17	216.02	0.85	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [si no]ta	[si no]ta	si nota
-122	BOI012	216.59	217.78	1.19	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 però: cioè::: [mh]	pero': cioè::: [mh]	pero' cioè mh
+122	BOI012	216.59	217.78	1.19	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 pero': cioè::: [mh]	pero': cioè::: [mh]	pero' cioè mh
 123	BOI013	217.63	219.13	1.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [la] differenza enrico	[la] differenza enrico	la differenza enrico
 124	BOR005	220.87	223.65	2.78	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 ma che in che senso questa differenza che non ho [ben capito]	ma che in che senso questa differenza che non ho [ben capito]	ma che in che senso questa differenza che non ho ben capito
 125	BOI013	222.99	227.08	4.09	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 [che prima >cio]è< e::: io abitavo::: >e enri~< io abitavo in stazione centra[le]	[che prima >cio]è< e::: io abitavo::: >e enri~< io abitavo in stazione centra[le]	che prima cioè e io abitavo e enri~ io abitavo in stazione centrale
-126	BOI012	226.955	227.355	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 m[:h]	[m:h]	mh
+126	BOI012	226.955	227.355	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [m:h]	[m:h]	mh
 127	BOI013	227.355	229.075	1.72	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 io tornavo a casa senza problemi	io tornavo a casa senza problemi	io tornavo a casa senza problemi
 128	BOI012	229.135	232.115	2.98	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	11	 sì {P} poi hanno fatto esplodere una bomba gina è cambiato tutto	sì {P} poi hanno fatto esplodere una bomba gina è cambiato tutto	sì {P} poi hanno fatto esplodere una bomba gina è cambiato tutto
 129	BOR005	231.068	231.622	0.554	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -140,7 +140,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 138	BOI012	245.345	246.255	0.91	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [quando sei s]tata	[quando sei s]tata	quando sei stata
 139	BOI013	245.35	245.98	0.63	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [ercole:]	[ercole:]	ercole
 140	BOI012	246.59	247.66	1.07	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 l'ultima volta in centro	l'ultima volta in centro	l' ultima volta in centro
-141	BOI013	248.175	249.635	1.46	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >perchè non vado< in cen[tro io?]	>perché non vado< in cen[tro io?]	perché non vado in centro io
+141	BOI013	248.175	249.635	1.46	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >perché non vado< in cen[tro io?]	>perché non vado< in cen[tro io?]	perché non vado in centro io
 142	BOI012	249.18	250.36	1.18	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [vabbè] (dire::) in [questo]	[vabbè] (dire::) in [questo]	vabbè dire in questo
 143	BOI013	249.985	252.395	2.41	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [non vado] in piazzola? non vado in monta[gnola?]	[non vado] in piazzola? non vado in monta[gnola?]	non vado in piazzola non vado in montagnola
 144	BOI012	252.04	254.46	2.42	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	 [beh va b]eh oh {P} punti di vista io non [m:h]	[beh va b]eh oh {P} punti di vista io non [m:h]	beh va beh oh {P} punti di vista io non mh
@@ -206,7 +206,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 204	BOI012	368.59	370.37	1.78	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 [beh {P}] ma: [(è) l'id]ea gina ma	[beh {P}] ma: [(è) l'id]ea gina ma	beh {P} ma è l' idea gina ma
 205	BOI013	369.31	369.75	0.44	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [sempre]	[sempre]	sempre
 206	BOI013	370.4	371.3	0.9	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 è l'ambi[ente]	è l'ambi[ente]	è l' ambiente
-207	BOI012	370.755	374.955	4.2	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 [non hai un t]ermine di confronto >perchè non ci sei< non ci sei [mai abit]ata di fatto,	[non hai un t]ermine di confronto >perché non ci sei< non ci sei [mai abit]ata di fatto,	non hai un termine di confronto perché non ci sei non ci sei mai abitata di fatto
+207	BOI012	370.755	374.955	4.2	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 [non hai un t]ermine di confronto >perché non ci sei< non ci sei [mai abit]ata di fatto,	[non hai un t]ermine di confronto >perché non ci sei< non ci sei [mai abit]ata di fatto,	non hai un termine di confronto perché non ci sei non ci sei mai abitata di fatto
 208	BOI013	373.57	374.1	0.53	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [°certo°]	[°certo°]	certo
 209	BOI012	375.235	376.115	0.88	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 come fai a saperlo	come fai a saperlo	come fai a saperlo
 210	BOI013	376.145	377.005	0.86	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 ma si vedono	ma si vedono	ma si vedono
@@ -231,7 +231,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 229	BOI012	407.11	408.03	0.92	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 è un bel comune	è un bel comune	è un bel comune
 230	BOI012	408.72	410.76	2.04	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >abbastanza grandino< c'avrà:: non so	>abbastanza grandino< c'avrà:: non so	abbastanza grandino c' avrà non so
 231	BOI012	411.9	413.91	2.01	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 quarantaci:nque, cinquantamila abitanti	quarantaci:nque, cinquantamila abitanti	quarantacinque cinquantamila abitanti
-232	BOR005	414.36	415.79	1.43	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >però beh sempre più piccolo< di bologna	>pero' beh sempre più piccolo< di bologna	pero' beh sempre più piccolo di bologna
+232	BOR005	414.36	415.79	1.43	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >pero' beh sempre più piccolo< di bologna	>pero' beh sempre più piccolo< di bologna	pero' beh sempre più piccolo di bologna
 233	BOI012	415.805	417.425	1.62	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 >ah beh< sicu:ro beh certo	>ah beh< sicu:ro beh certo	ah beh sicuro beh certo
 234	BOI012	417.615	418.105	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 certo	certo	certo
 235	BOR005	418.39	418.6	0.21	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
@@ -266,7 +266,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 264	BOI012	480.36	482.05	1.69	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 a:h gina cioè io: non c~	a:h gina cioè io: non c~	ah gina cioè io non c~
 265	BOI012	482.295	486.705	4.41	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 non son mai andato all'ultimo dell'anno in piazza maggiore cioè ho cominciato a andarci da quando::	non son mai andato all'ultimo dell'anno in piazza maggiore cioè ho cominciato a andarci da quando::	non son mai andato all' ultimo dell' anno in piazza maggiore cioè ho cominciato a andarci da quando
 266	BOR005	484.825	485.3	0.475	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-267	BOI012	487.085	491.405	4.32	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	16	 stiamo as~ stiamo a[ssieme {P} >perchè prima<] non si andava >l'ultimo dell'anno in piazza maggi[ore<]	stiamo as~ stiamo a[ssieme {P} >perché prima<] non si andava >l'ultimo dell'anno in piazza maggi[ore<]	stiamo as~ stiamo assieme {P} perché prima non si andava l' ultimo dell' anno in piazza maggiore
+267	BOI012	487.085	491.405	4.32	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	16	 stiamo as~ stiamo a[ssieme {P} >perché prima<] non si andava >l'ultimo dell'anno in piazza maggi[ore<]	stiamo as~ stiamo a[ssieme {P} >perché prima<] non si andava >l'ultimo dell'anno in piazza maggi[ore<]	stiamo as~ stiamo assieme {P} perché prima non si andava l' ultimo dell' anno in piazza maggiore
 268	BOI013	488.13	488.895	0.765	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [eh eh eh]	[eh eh eh]	eh eh eh
 269	BOI013	491.25	493.06	1.81	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [e c]om'era l'ultimo che ci siamo andati	[e c]om'era l'ultimo che ci siamo andati	e com' era l' ultimo che ci siamo andati
 270	BOI012	493.585	496.285	2.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 ma c'era (u)na gran confusione ma si sa è logico	ma c'era (u)na gran confusione ma si sa è logico	ma c' era una gran confusione ma si sa è logico
@@ -274,10 +274,10 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 272	BOI013	499.97	500.82	0.85	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 per terra,	per terra,	per terra
 273	BOI013	501.205	505.365	4.16	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 macchine bruciate, questo: in via sant'isaia te lo ricordi no io	macchine bruciate, questo: in via sant'isaia te lo ricordi no io	macchine bruciate questo in via sant' isaia te lo ricordi no io
 274	BOI012	506.255	507.885	1.63	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 (la) macchina che bruciava non me la ric[ordo]	(la) macchina che bruciava non me la ric[ordo]	la macchina che bruciava non me la ricordo
-275	BOI013	507.625	509.915	2.29	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [ah] io invece sì perchè io mi son presa paura,	[ah] io invece sì perché io mi son presa paura,	ah io invece sì perché io mi son presa paura
+275	BOI013	507.625	509.915	2.29	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [ah] io invece sì perché io mi son presa paura,	[ah] io invece sì perché io mi son presa paura,	ah io invece sì perché io mi son presa paura
 276	BOR005	511.06	512.289	1.229	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 ah c'era una macchina bruciata?	ah c'era una macchina bruciata?	ah c' era una macchina bruciata
 277	BOI013	512.395	512.815	0.42	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sì	sì	sì
-278	BOI013	514.804	518.184	3.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	15	 e >non so come facevano a andare< in piazza maggiore con dei bambini {P} sulle spalle	e >non so come facevano a andare< in piazza maggiore con dei bambini {P} sulle spalle	e non so come facevano a andare in piazza maggiore con dei bambini {P} sulle spalle
+278	BOI013	514.804	518.183	3.379	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	15	 e >non so come facevano a andare< in piazza maggiore con dei bambini {P} sulle spalle	e >non so come facevano a andare< in piazza maggiore con dei bambini {P} sulle spalle	e non so come facevano a andare in piazza maggiore con dei bambini {P} sulle spalle
 279	BOI012	520.025	524.225	4.2	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	14	 e::::h cioè è (u)na piazza >cioè voglio dire< ci puoi andare con chi vuoi {ride}	e::::h cioè è (u)na piazza >cioè voglio dire< ci puoi andare con chi vuoi {ride}	eh cioè è una piazza cioè voglio dire ci puoi andare con chi vuoi {ride}
 280	BOI012	525.015	525.305	0.29	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 cioè	cioè	cioè
 281	BOR005	527.08	527.69	0.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 invece	invece	invece
@@ -346,9 +346,9 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 344	BOI013	641.06	642.81	1.75	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [era la class]ica passeggiata	[era la class]ica passeggiata	era la classica passeggiata
 345	BOI013	642.99	644.25	1.26	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 fatta da via agucchi	fatta da via agucchi	fatta da via agucchi
 346	BOI013	644.78	648.49	3.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 >tutt~< e::h da via agucchi fino a tutti i portici >ci ha fatto fare a piedi mio padre<	>tutt~< e::h da via agucchi fino a tutti i portici >ci ha fatto fare a piedi mio padre<	tutt~ eh da via agucchi fino a tutti i portici ci ha fatto fare a piedi mio padre
-347	BOR005	648.515	649.215	0.7	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 ah però	ah pero'	ah pero'
+347	BOR005	648.515	649.215	0.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 ah pero'	ah pero'	ah pero'
 348	BOI013	649.375	649.775	0.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 seh	seh	seh
-349	BOI013	649.905	651.485	1.58	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 però è vicino è vicino	pero' è vicino è vicino	pero' è vicino è vicino
+349	BOI013	649.905	651.485	1.58	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 pero' è vicino è vicino	pero' è vicino è vicino	pero' è vicino è vicino
 350	BOI012	652.245	657.865	5.62	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 ci son stato::: >sì una mari~< una miriade >di volte prima volta< da bambino:: c[oi miei g]enitori:: cioè	ci son stato::: >sì una mari~< una miriade >di volte prima volta< da bambino:: c[oi miei g]enitori:: cioè	ci son stato sì una mari~ una miriade di volte prima volta da bambino coi miei genitori cioè
 351	BOR005	656.475	656.905	0.43	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 352	BOI013	659.135	660.025	0.89	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 bello san luca	bello san luca	bello san luca
@@ -381,7 +381,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 379	BOR005	702.71	703.02	0.31	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 380	BOR005	703.9	705.3	1.4	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 >e anche< {P} tu l'hai [presa mai?]	>e anche< {P} tu l'hai [presa mai?]	e anche {P} tu l' hai presa mai
 381	BOI013	704.72	705.27	0.55	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [>no no no °no°<]	[>no no no °no°<]	no no no no
-382	BOR005	706.14	707.79	1.65	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >però sapevi dell'esistenza della f[univia?<]	>pero' sapevi dell'esistenza della f[univia?<]	pero' sapevi dell' esistenza della funivia
+382	BOR005	706.14	707.79	1.65	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >pero' sapevi dell'esistenza della f[univia?<]	>pero' sapevi dell'esistenza della f[univia?<]	pero' sapevi dell' esistenza della funivia
 383	BOI013	707.415	708.435	1.02	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 [sì {P}] >sì sì sì<	[sì {P}] >sì sì sì<	sì {P} sì sì sì
 384	BOI013	708.85	710.31	1.46	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >vabbè< sempre a piedi °sono andata°	>vabbè< sempre a piedi °sono andata°	vabbè sempre a piedi sono andata
 385	BOR005	710.425	710.715	0.29	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -403,8 +403,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 401	BOR005	748.125	750.735	2.61	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	12	 chi era di voi due che non voleva andarci prima de[l matri]monio {ride}	chi era di voi due che non voleva andarci prima de[l matri]monio {ride}	chi era di voi due che non voleva andarci prima del matrimonio {ride}
 402	BOI013	750.015	750.335	0.32	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [io]	[io]	io
 403	BOI012	751.02	751.73	0.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 a:h la gina	a:h la gina	ah la gina
-404	BOI012	752.01	753.29	1.28	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 sì perchè c'è: una::	sì perché c'è: una::	sì perché c' è una
-405	BOI012	753.92	755.37	1.45	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 c'è una vecchia:[::]	c'è una vecchi[a:::]	c' è una vecchia
+404	BOI012	752.01	753.29	1.28	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 sì perché c'è: una::	sì perché c'è: una::	sì perché c' è una
+405	BOI012	753.92	755.37	1.45	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 c'è una vecchi[a:::]	c'è una vecchi[a:::]	c' è una vecchia
 406	BOI013	755.135	755.885	0.75	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [un] detto	[un] detto	un detto
 407	BOI012	756.215	759.97	3.755	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 >c'è un vecchio detto bolognese che se due fidanzati vanno a san luca< prima di sposarsi	>c'è un vecchio detto bolognese che se due fidanzati vanno a san luca< prima di sposarsi	c' è un vecchio detto bolognese che se due fidanzati vanno a san luca prima di sposarsi
 408	BOI012	760.405	761.35	0.945	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 poi non si sposano	poi non si sposano	poi non si sposano
@@ -425,7 +425,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 423	BOI012	781.01	784.545	3.535	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 sì:: ma vabbè >ma infatti non mi son laureato< ma non credo che sia per quello	sì:: ma vabbè >ma infatti non mi son laureato< ma non credo che sia per quello	sì ma vabbè ma infatti non mi son laureato ma non credo che sia per quello
 424	BOI013	784.385	785.765	1.38	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 425	BOI012	786.825	787.395	0.57	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-426	BOI013	787.48	788.4	0.92	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 °perchè sei ciuccio°	°perché sei ciuccio°	perché sei ciuccio
+426	BOI013	787.48	788.4	0.92	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 °perché sei ciuccio°	°perché sei ciuccio°	perché sei ciuccio
 427	BOI012	788.48	789.4	0.92	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 428	BOI013	794.16	794.71	0.55	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	1	 oh {ride}	oh {ride}	oh {ride}
 429	BOI013	796.205	796.905	0.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	3	 #eh beh che bo'	#eh beh che bo'	#eh beh che bo'
@@ -440,7 +440,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 438	BOR005	810.46	813.16	2.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 >ma c'andavi di più con la famiglia:, con gli amici:,< con gi[na::,]	>ma c'andavi di più con la famiglia:, con gli amici:,< con gi[na::,]	ma c' andavi di più con la famiglia con gli amici con gina
 439	BOI012	812.905	815.205	2.3	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [son sta]to <con> la famiglia da ba[mbino,]	[son sta]to <con> la famiglia da ba[mbino,]	son stato con la famiglia da bambino
 440	BOI013	814.67	816.45	1.78	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [no con me] due v[olte e basta]	[no con me] due v[olte e basta]	no con me due volte e basta
-441	BOI012	815.605	819.385	3.78	True	0	0	2	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [con gina: un] paio di volte perchè: così >proprio< <per>chè	[con gina: un] paio di volte perché: così >proprio< <per>ché	con gina un paio di volte perché così proprio perché
+441	BOI012	815.605	819.385	3.78	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [con gina: un] paio di volte perché: così >proprio< <per>ché	[con gina: un] paio di volte perché: così >proprio< <per>ché	con gina un paio di volte perché così proprio perché
 442	BOI012	819.7	820.41	0.71	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 per m:h	per m:h	per mh
 443	BOI012	820.895	824.965	4.07	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 m:::h non so: neanche, >poi con gli amici< quando: >andavamo su noi< c'era un'osteria lì,	m:::h non so: neanche, >poi con gli amici< quando: >andavamo su noi< c'era un'osteria lì,	mh non so neanche poi con gli amici quando andavamo su noi c' era un' osteria lì
 444	BOI012	825.49	826.86	1.37	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 a san luca proprio::	a san luca proprio::	a san luca proprio
@@ -450,7 +450,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 448	BOI012	832.115	833.455	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 vicino al sant'orsola	vicino al sant'orsola	vicino al sant' orsola
 449	BOI012	833.955	835.655	1.7	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 >non mi ricordo come si chiamava l'osteria< lì	>non mi ricordo come si chiamava l'osteria< lì	non mi ricordo come si chiamava l' osteria lì
 450	BOR005	835.875	836.14	0.265	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
-451	BOI012	835.895	838.165	2.27	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [però] c'era un mh posto >che facevano< panini,	[pero'] c'era un mh posto >che facevano< panini,	pero' c' era un mh posto che facevano panini
+451	BOI012	835.895	838.165	2.27	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [pero'] c'era un mh posto >che facevano< panini,	[pero'] c'era un mh posto >che facevano< panini,	pero' c' era un mh posto che facevano panini
 452	BOI012	838.345	839.585	1.24	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 si beveva la birra::,	si beveva la birra::,	si beveva la birra
 453	BOI012	839.875	841.285	1.41	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >e un sacco di sere andavamo su<	>e un sacco di sere andavamo su<	e un sacco di sere andavamo su
 454	BOR005	841.75	843.7	1.95	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 ma era >proprio< di fronte a san l[uca °o:::°]	ma era >proprio< di fronte a san l[uca °o:::°]	ma era proprio di fronte a san luca o
@@ -459,7 +459,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 457	BOI012	846.455	848.335	1.88	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 davanti al piazzale praticame[°nte°]	davanti al piazzale praticame[°nte°]	davanti al piazzale praticamente
 458	BOR005	848.105	848.785	0.68	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [ah o]kay	[ah o]kay	ah okay
 459	BOR005	849.295	849.565	0.27	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [x]	[x]	x
-460	BOI012	849.315	851.335	2.02	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 [no]n so se c'è ancora perchè io che non ci vado	[no]n so se c'è ancora perché io che non ci vado	non so se c' è ancora perché io che non ci vado
+460	BOI012	849.315	851.335	2.02	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 [no]n so se c'è ancora perché io che non ci vado	[no]n so se c'è ancora perché io che non ci vado	non so se c' è ancora perché io che non ci vado
 461	BOI012	851.925	852.665	0.74	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 saran e:h	saran e:h	saran eh
 462	BOI012	853.545	855.215	1.67	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 dieci, quindic'anni, forse venti	dieci, quindic'anni, forse venti	dieci quindic' anni forse venti
 463	BOI012	856.04	857.17	1.13	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >che non vado su a san luca<	>che non vado su a san luca<	che non vado su a san luca
@@ -470,7 +470,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 468	BOI013	864.78	866.06	1.28	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 >tanto< xxx >non è che<	>tanto< xxx >non è che<	tanto xxx non è che
 469	BOI013	866.75	867.58	0.83	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 è sempre uguale	è sempre uguale	è sempre uguale
 470	BOI013	867.945	869.295	1.35	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 >(u)na volta che l'hai vista (u)na volta,<	>(u)na volta che l'hai vista (u)na volta,<	una volta che l' hai vista una volta
-471	BOI012	870.175	872.975	2.8	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 beh però dai è >una bella passeggiata ti fai tutto il portico,<	beh pero' dai è >una bella passeggiata ti fai tutto il portico,<	beh pero' dai è una bella passeggiata ti fai tutto il portico
+471	BOI012	870.175	872.975	2.8	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 beh pero' dai è >una bella passeggiata ti fai tutto il portico,<	beh pero' dai è >una bella passeggiata ti fai tutto il portico,<	beh pero' dai è una bella passeggiata ti fai tutto il portico
 472	BOI012	873.12	873.51	0.39	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 da giù	da giù	da giù
 473	BOI012	874.365	877.795	3.43	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 se ti fai il portico da saragozza >arrivare su quando arrivi giù hai fatto un po' di< allenamento	se ti fai il portico da saragozza >arrivare su quando arrivi giù hai fatto un po' di< allenamento	se ti fai il portico da saragozza arrivare su quando arrivi giù hai fatto un po' di allenamento
 474	BOI013	877.9	879.55	1.65	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 >sì sì< ci vuol l'ambulanza per me	>sì sì< ci vuol l'ambulanza per me	sì sì ci vuol l' ambulanza per me
@@ -508,7 +508,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 506	BOR005	934.917	935.247	0.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e	e	e
 507	BOR005	936.094	939.911	3.817	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 parlando d~ sia dei portici di san lu~ >di san luca< che i portici in generale:	parlando d~ sia dei portici di san lu~ >di san luca< che i portici in generale:	parlando d~ sia dei portici di san lu~ di san luca che i portici in generale
 508	BOR005	940.477	944.472	3.995	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 credete che siano cambiati negli anni:? in meglio in peggio mh	credete che siano cambiati negli anni:? in meglio in peggio mh	credete che siano cambiati negli anni in meglio in peggio mh
-509	BOI012	944.911	949.452	4.541	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 BEH un po' di <degrado> sì c'è stato però: u:hm >bene o male son sempre::<	BEH un po' di <degrado> sì c'è stato pero': u:hm >bene o male son sempre::<	beh un po' di degrado sì c' è stato pero' uhm bene o male son sempre
+509	BOI012	944.911	949.452	4.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 BEH un po' di <degrado> sì c'è stato pero': u:hm >bene o male son sempre::<	BEH un po' di <degrado> sì c'è stato pero': u:hm >bene o male son sempre::<	beh un po' di degrado sì c' è stato pero' uhm bene o male son sempre
 510	BOI012	950.387	953.718	3.331	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 >cioè la gente ci ha sempre< tenuto abbastanza [di]etro insomma cioè	>cioè la gente ci ha sempre< tenuto abbastanza [di]etro insomma cioè	cioè la gente ci ha sempre tenuto abbastanza dietro insomma cioè
 511	BOR005	952.452	952.7	0.248	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [°ah°]	[°ah°]	ah
 512	BOR005	953.824	955.64	1.816	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 quindi {P} <non> troppo degrado	quindi {P} <non> troppo degrado	quindi {P} non troppo degrado
@@ -522,23 +522,23 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 520	BOI012	975.0	978.146	3.146	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 c'è la parte bassa >dove ci sono i negozi ci sono i negozianti che ci tengon dietro,<	c'è la parte bassa >dove ci sono i negozi ci sono i negozianti che ci tengon dietro,<	c' è la parte bassa dove ci sono i negozi ci sono i negozianti che ci tengon dietro
 521	BOR005	978.15	978.361	0.211	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
 522	BOI012	979.01	980.423	1.413	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 e su la parte [>ah per esempio su:<]	e su la parte [>ah per esempio su:<]	e su la parte ah per esempio su
-523	BOI013	979.595	980.834	1.239	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [e poi anche perchè] da giù	[e poi anche perché] da giù	e poi anche perché da giù
+523	BOI013	979.595	980.834	1.239	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [e poi anche perché] da giù	[e poi anche perché] da giù	e poi anche perché da giù
 524	BOI012	981.065	983.083	2.018	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 >ti ripeto comunque< io sono [anni che n]on ci va[do]	>ti ripeto comunque< io sono [anni che n]on ci va[do]	ti ripeto comunque io sono anni che non ci vado
 525	BOI013	981.875	982.462	0.587	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [che poi]	[che poi]	che poi
 526	BOI013	982.979	986.273	3.294	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 [da]lla pa~ da::: da san luca non vie~ viene giù anche la madonna,	[da]lla pa~ da::: da san luca non vie~ viene giù anche la madonna,	dalla pa~ da da san luca non vie~ viene giù anche la madonna
-527	BOI013	986.586	988.476	1.89	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 perciò tutti:: i negozianti	percio' tutti:: i negozianti	percio' tutti i negozianti
+527	BOI013	986.586	988.476	1.89	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 percio' tutti:: i negozianti	percio' tutti:: i negozianti	percio' tutti i negozianti
 528	BOI013	988.624	990.247	1.623	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 ci tengono a [tenere in ordine]	ci tengono a [tenere in ordine]	ci tengono a tenere in ordine
 529	BOI012	989.268	990.809	1.541	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [sì:: sì sì °vabbè°] [eh eh]	[sì:: sì sì °vabbè°] [eh eh]	sì sì sì vabbè eh eh
-530	BOI013	990.676	993.242	2.566	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [perchè] la madonna viene da ma~ quando a maggio?	[perché] la madonna viene da ma~ quando a maggio?	perché la madonna viene da ma~ quando a maggio
+530	BOI013	990.676	993.242	2.566	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [perché] la madonna viene da ma~ quando a maggio?	[perché] la madonna viene da ma~ quando a maggio?	perché la madonna viene da ma~ quando a maggio
 531	BOI012	993.299	995.245	1.946	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 °m:h° un bel portico quello lì s[ì]	°m:h° un bel portico quello lì s[ì]	mh un bel portico quello lì sì
 532	BOI013	995.101	997.102	2.001	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [ch]e poi dicono che quando viene GIÙ	[ch]e poi dicono che quando viene GIÙ	che poi dicono che quando viene giù
-533	BOI013	998.051	1000.363	2.312	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 piange perchè non vuol lasciare[::]	piange perché non vuol lasciar[e::]	piange perché non vuol lasciare
+533	BOI013	998.051	1000.363	2.312	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 piange perché non vuol lasciar[e::]	piange perché non vuol lasciar[e::]	piange perché non vuol lasciare
 534	BOR005	999.913	1000.298	0.385	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 535	BOI013	1000.905	1004.18	3.275	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 la:: la ca~ lì:: a san luca e quando: torna su,	la:: la ca~ lì:: a san luca e quando: torna su,	la la ca~ lì a san luca e quando torna su
 536	BOI013	1004.915	1006.808	1.893	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 pio~ piange e piove	pio~ piange e piove	pio~ piange e piove
-537	BOI013	1006.922	1009.894	2.972	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 perchè non vuol lasciare i::: cittadini di bologna	perché non vuol lasciare i::: cittadini di bologna	perché non vuol lasciare i cittadini di bologna
+537	BOI013	1006.922	1009.894	2.972	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 perché non vuol lasciare i::: cittadini di bologna	perché non vuol lasciare i::: cittadini di bologna	perché non vuol lasciare i cittadini di bologna
 538	BOI013	1010.116	1010.602	0.486	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 dicono	dicono	dicono
-539	BOI013	1010.947	1012.543	1.596	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 però piove lo st~ davvero piove	pero' piove lo st~ davvero piove	pero' piove lo st~ davvero piove
+539	BOI013	1010.947	1012.543	1.596	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 pero' piove lo st~ davvero piove	pero' piove lo st~ davvero piove	pero' piove lo st~ davvero piove
 540	BOI012	1012.708	1013.699	0.991	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 sì sì è vero °(in)so[mma°]	sì sì è vero °(in)so[mma°]	sì sì è vero insomma
 541	BOI013	1013.519	1015.345	1.826	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [quat]tro gocce ma li fa [sempre]	[quat]tro gocce ma li fa [sempre]	quattro gocce ma li fa sempre
 542	BOI012	1014.745	1018.773	4.028	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 [quella è un'altr]a vecchia storia di bologna che >quando s[i muove] la madonna di san luca piove<	[quella è un'altr]a vecchia storia di bologna che >quando s[i muove] la madonna di san luca piove<	quella è un' altra vecchia storia di bologna che quando si muove la madonna di san luca piove
@@ -552,14 +552,14 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 550	BOI013	1027.002	1028.79	1.788	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 >se tu vedi la madonna di san lu[ca,<]	>se tu vedi la madonna di san lu[ca,<]	se tu vedi la madonna di san luca
 551	BOR005	1028.452	1028.781	0.329	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [m]hmh	[m]hmh	mhmh
 552	BOI013	1028.874	1030.076	1.202	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 è scura in faccia	è scura in faccia	è scura in faccia
-553	BOI012	1031.34	1033.68	2.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	 sì l'icona è scura {P} la ritrae °come::°	sì l'icona è scura {P} la ritrae °come::°	sì l' icona è scura {P} la ritrae come
+553	BOI012	1031.339	1033.68	2.341	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	 sì l'icona è scura {P} la ritrae °come::°	sì l'icona è scura {P} la ritrae °come::°	sì l' icona è scura {P} la ritrae come
 554	BOI012	1034.857	1035.472	0.615	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 °scura°	°scura°	scura
 555	BOR005	1036.804	1037.703	0.899	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 che poi::	che poi::	che poi
 556	BOR005	1038.17	1041.693	3.523	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	 pensandoci a >cioè< a bologna {P} i portici sono dappertutto	pensandoci a >cioè< a bologna {P} i portici sono dappertutto	pensandoci a cioè a bologna {P} i portici sono dappertutto
 557	BOI012	1041.702	1041.923	0.221	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sì	sì	sì
 558	BOR005	1042.574	1045.876	3.302	True	0	0	0	0	0	0	0	False	False	False	False	False	_	3	0	0	9	 e {P} quando: {P} vi capita di andare {P} in altre città,	e {P} quando: {P} vi capita di andare {P} in altre città,	e {P} quando {P} vi capita di andare {P} in altre città
 559	BOR005	1046.221	1047.872	1.651	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 che effetto fa non vederli	che effetto fa non vederli	che effetto fa non vederli
-560	BOI012	1048.369	1052.545	4.176	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 beh è: >comunque in emilia romagna< tutte le città hanno dei portici nei centri storici eh	beh è: >comunque in emilia romagna< tutte le città hanno dei portici nei centri storici eh	beh è comunque in emilia romagna tutte le città hanno dei portici nei centri storici eh
+560	BOI012	1048.368	1052.545	4.177	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 beh è: >comunque in emilia romagna< tutte le città hanno dei portici nei centri storici eh	beh è: >comunque in emilia romagna< tutte le città hanno dei portici nei centri storici eh	beh è comunque in emilia romagna tutte le città hanno dei portici nei centri storici eh
 561	BOI012	1053.12	1055.396	2.276	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 non come bologna ma tutte le città li hanno	non come bologna ma tutte le città li hanno	non come bologna ma tutte le città li hanno
 562	BOR005	1055.483	1055.841	0.358	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sì?	sì?	sì
 563	BOI013	1055.935	1058.34	2.405	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 >beh ci[oè enr~<] siamo andati a roma i portici non c'erano	>beh ci[oè enr~<] siamo andati a roma i portici non c'erano	beh cioè enr~ siamo andati a roma i portici non c' erano
@@ -579,10 +579,10 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 577	BOR005	1079.102	1079.687	0.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 >di andare<	>di andare<	di andare
 578	BOR005	1079.767	1084.661	4.894	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	18	 fuori >appunto dall'emilia romagna che non ha< i portici non fa un po' strano >soprattutto quando piove<?	fuori >appunto dall'emilia romagna che non ha< i portici non fa un po' strano >soprattutto quando piove<?	fuori appunto dall' emilia romagna che non ha i portici non fa un po' strano soprattutto quando piove
 579	BOI012	1084.805	1086.273	1.468	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 sì: °beh° {P} quando piove	sì: °beh° {P} quando piove	sì beh {P} quando piove
-580	BOI013	1086.314	1088.048	1.734	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >sì perchè< è talmente io non >compro<	>sì perché< è talmente io non >compro<	sì perché è talmente io non compro
+580	BOI013	1086.314	1088.048	1.734	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 >sì perché< è talmente io non >compro<	>sì perché< è talmente io non >compro<	sì perché è talmente io non compro
 581	BOI012	1088.072	1089.952	1.88	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 (a) torre melissa non ci sono i portici	(a) torre melissa non ci sono i portici	a torre melissa non ci sono i portici
 582	BOR005	1090.054	1090.99	0.936	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-583	BOI013	1090.825	1091.58	0.755	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 però c'è il mare	pero' c'è il mare	pero' c' è il mare
+583	BOI013	1090.825	1091.58	0.755	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 pero' c'è il mare	pero' c'è il mare	pero' c' è il mare
 584	BOI012	1091.846	1092.538	0.692	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 e non piove	e non piove	e non piove
 585	BOI013	1093.468	1095.372	1.904	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 no piove più a >torre melissa che a b[ologna<]	no piove più a >torre melissa che a b[ologna<]	no piove più a torre melissa che a bologna
 586	BOI012	1094.798	1096.447	1.649	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [quando piove] o::h ci son gli uragani	[quando piove] o::h ci son gli uragani	quando piove oh ci son gli uragani
@@ -682,10 +682,10 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 680	BOR005	1286.519	1286.838	0.319	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
 681	BOI013	1287.038	1288.357	1.319	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 non ci sei con la testa	non ci sei con la testa	non ci sei con la testa
 682	BOI013	1288.995	1289.814	0.819	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 m::h	m::h	mh
-683	BOR005	1290.46	1294.293	3.833	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	14	 quindi rispetto al >passato< (.) provi tanta fatica in più n[el fa]re il tuo lavo[ro]	quindi rispetto al >passato< {P} provi tanta fatica in più n[el fa]re il tuo lavo[ro]	quindi rispetto al passato {P} provi tanta fatica in più nel fare il tuo lavoro
+683	BOR005	1290.46	1294.293	3.833	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	14	 quindi rispetto al >passato< {P} provi tanta fatica in più n[el fa]re il tuo lavo[ro]	quindi rispetto al >passato< {P} provi tanta fatica in più n[el fa]re il tuo lavo[ro]	quindi rispetto al passato {P} provi tanta fatica in più nel fare il tuo lavoro
 684	BOI013	1293.181	1293.553	0.372	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [sì]	[sì]	sì
 685	BOI012	1294.091	1295.045	0.954	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [si] [invecchia,]	[si] [invecchia,]	si invecchia
-686	BOI013	1294.105	1296.584	2.479	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 [sì] {P} [perchè è cambia][to anche l'uten]za	[sì] {P} [perché è cambia][to anche l'uten]za	sì {P} perché è cambiato anche l' utenza
+686	BOI013	1294.105	1296.584	2.479	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 [sì] {P} [perché è cambia][to anche l'uten]za	[sì] {P} [perché è cambia][to anche l'uten]za	sì {P} perché è cambiato anche l' utenza
 687	BOR005	1294.708	1295.283	0.575	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [anche tu]	[anche tu]	anche tu
 688	BOI012	1295.285	1296.336	1.051	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [sì: si invecchia]	[sì: si invecchia]	sì si invecchia
 689	BOI012	1296.607	1297.968	1.361	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 si invecchia si invecch[ia]	si invecchia si invecch[ia]	si invecchia si invecchia
@@ -708,7 +708,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 706	BOI013	1334.298	1335.298	1.0	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 psichiatrici	psichiatrici	psichiatrici
 707	BOR005	1335.481	1335.992	0.511	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 708	BOI012	1335.543	1336.331	0.788	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [°ma sì:] via°	[°ma sì:] via°	ma sì via
-709	BOI013	1336.889	1339.569	2.68	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 perchè: son chiusi: o:: son chiusi i manicomi	perché: son chiusi: o:: son chiusi i manicomi	perché son chiusi o son chiusi i manicomi
+709	BOI013	1336.889	1339.569	2.68	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 perché: son chiusi: o:: son chiusi i manicomi	perché: son chiusi: o:: son chiusi i manicomi	perché son chiusi o son chiusi i manicomi
 710	BOI012	1337.197	1338.367	1.17	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 711	BOI013	1339.859	1340.837	0.978	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 e noi [siamo::]	e noi [siamo::]	e noi siamo
 712	BOR005	1340.193	1340.821	0.628	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [a::h]	[a::h]	ah
@@ -733,22 +733,22 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 731	BOI013	1373.889	1374.825	0.936	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 no siamo noi	no siamo noi	no siamo noi
 732	BOI013	1375.476	1376.412	0.936	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 che ci formano	che ci formano	che ci formano
 733	BOI013	1376.666	1377.857	1.191	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 >che facciamo< i corsi	>che facciamo< i corsi	che facciamo i corsi
-734	BOI013	1379.372	1382.712	3.34	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 però: non è più come una volta e poi ci vuole gente giovane	pero': non è più come una volta e poi ci vuole gente giovane	pero' non è più come una volta e poi ci vuole gente giovane
+734	BOI013	1379.372	1382.712	3.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 pero': non è più come una volta e poi ci vuole gente giovane	pero': non è più come una volta e poi ci vuole gente giovane	pero' non è più come una volta e poi ci vuole gente giovane
 735	BOI013	1383.193	1385.044	1.851	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 che si rico~ >io già faccio fatica::<	che si rico~ >io già faccio fatica::<	che si rico~ io già faccio fatica
 736	BOI013	1385.506	1387.219	1.713	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 a ricordarmi i nomi degli anziani	a ricordarmi i nomi degli anziani	a ricordarmi i nomi degli anziani
 737	BOR005	1387.376	1387.642	0.266	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
 738	BOI013	1388.033	1390.258	2.225	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 li chiamo::: come mi passa in ma~	li chiamo::: come mi passa in ma~	li chiamo come mi passa in ma~
-739	BOI013	1390.418	1391.077	0.659	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-740	BOR005	1390.418	1391.077	0.659	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+739	BOR005	1390.418	1391.077	0.659	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+740	BOI013	1390.418	1391.077	0.659	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 741	BOI013	1391.699	1392.837	1.138	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 742	BOI013	1392.894	1393.979	1.085	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 non me li ricordo più	non me li ricordo più	non me li ricordo più
 743	BOI013	1394.755	1398.191	3.436	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	 no: no °basta° {P} dopo i cinquantanni bisogna stare a <casa>	no: no °basta° {P} dopo i cinquantanni bisogna stare a <casa>	no no basta {P} dopo i cinquantanni bisogna stare a casa
 744	BOI013	1399.158	1400.509	1.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 e farsi la pensione	e farsi la pensione	e farsi la pensione
-745	BOI013	1401.998	1403.146	1.148	True	0	0	2	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 però questo non si può	pero' questo non si puo'	pero' questo non si puo'
+745	BOI013	1401.998	1403.146	1.148	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 pero' questo non si puo'	pero' questo non si puo'	pero' questo non si puo'
 746	BOR005	1403.65	1406.906	3.256	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 e anche tu provi questa fatica nell'andare al lavoro [>come dice lei?<]	e anche tu provi questa fatica nell'andare al lavoro [>come dice lei?<]	e anche tu provi questa fatica nell' andare al lavoro come dice lei
 747	BOI012	1406.035	1407.375	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 [avoglia {P}] sì eh	[avoglia {P}] sì eh	avoglia {P} sì eh
 748	BOR005	1407.819	1408.021	0.202	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
-749	BOI013	1410.736	1412.108	1.372	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 >[però] quando lavorano sti gio°vani°<	>[pero'] quando lavorano sti gio°vani°<	pero' quando lavorano sti giovani
+749	BOI013	1410.736	1412.108	1.372	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 >[pero'] quando lavorano sti gio°vani°<	>[pero'] quando lavorano sti gio°vani°<	pero' quando lavorano sti giovani
 750	BOR005	1410.768	1410.895	0.127	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [e]	[e]	e
 751	BOI013	1412.347	1413.103	0.756	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 ma quando lavo°rano°	ma quando lavo°rano°	ma quando lavorano
 752	BOR005	1414.779	1417.417	2.638	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 e pensate che bologna sia un buon posto per lavorare?	e pensate che bologna sia un buon posto per lavorare?	e pensate che bologna sia un buon posto per lavorare
@@ -757,7 +757,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 755	BOI013	1420.673	1421.312	0.639	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [per me sì]	[per me sì]	per me sì
 756	BOI012	1421.808	1422.393	0.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 non lo so	non lo so	non lo so
 757	BOI012	1422.59	1423.484	0.894	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 [non te lo so] dire	[non te lo so] dire	non te lo so dire
-758	BOI013	1422.621	1423.132	0.511	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [perchè dici]	[perché dici]	perché dici
+758	BOI013	1422.621	1423.132	0.511	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [perché dici]	[perché dici]	perché dici
 759	BOI012	1423.965	1428.162	4.197	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 ma secondo me:: ci sono città che a livello ro~ lavorativo offrono di più	ma secondo me:: ci sono città che a livello ro~ lavorativo offrono di più	ma secondo me ci sono città che a livello ro~ lavorativo offrono di più
 760	BOI012	1428.998	1431.115	2.117	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 hanno più >aperture< {P} bologna::	hanno più >aperture< {P} bologna::	hanno più aperture {P} bologna
 761	BOI012	1432.119	1435.81	3.691	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	11	 è un po::' >secondo me:< in stasi ultimamen~ non lo so: non	è un po::' >secondo me:< in stasi ultimamen~ non lo so: non	è un po::' secondo me in stasi ultimamen~ non lo so non
@@ -766,9 +766,9 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 764	BOI012	1441.789	1442.885	1.096	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 e~ esattamente	e~ esattamente	e~ esattamente
 765	BOI012	1443.486	1444.624	1.138	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 di come sia messa	di come sia messa	di come sia messa
 766	BOI012	1445.404	1446.68	1.276	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 come sia messo il lavoro	come sia messo il lavoro	come sia messo il lavoro
-767	BOR005	1448.106	1450.329	2.223	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 >però tu bologn~ tu gina ha detto subito< sì	>pero' tu bologn~ tu gina ha detto subito< sì	pero' tu bologn~ tu gina ha detto subito sì
+767	BOR005	1448.106	1450.329	2.223	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 >pero' tu bologn~ tu gina ha detto subito< sì	>pero' tu bologn~ tu gina ha detto subito< sì	pero' tu bologn~ tu gina ha detto subito sì
 768	BOR005	1451.012	1452.991	1.979	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	 per me {P} è un buon posto per lavorare	per me {P} è un buon posto per lavorare	per me {P} è un buon posto per lavorare
-769	BOI013	1453.244	1456.159	2.915	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 sì perchè:: io:: ho esperienze con chi viene dal giù	sì perché:: io:: ho esperienze con chi viene dal giù	sì perché io ho esperienze con chi viene dal giù
+769	BOI013	1453.244	1456.159	2.915	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 sì perché:: io:: ho esperienze con chi viene dal giù	sì perché:: io:: ho esperienze con chi viene dal giù	sì perché io ho esperienze con chi viene dal giù
 770	BOI013	1456.572	1457.998	1.426	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 che ha {P} lavorato giù	che ha {P} lavorato giù	che ha {P} lavorato giù
 771	BOI013	1458.436	1459.585	1.149	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 qui è un altro mondo	qui è un altro mondo	qui è un altro mondo
 772	BOI013	1459.629	1461.341	1.712	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	6	 qui ci sono diritti {P} ci sono	qui ci sono diritti {P} ci sono	qui ci sono diritti {P} ci sono
@@ -777,24 +777,24 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 775	BOI013	1462.91	1463.495	0.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 qui c'è >una<	qui c'è >una<	qui c' è una
 776	BOI013	1463.892	1465.392	1.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 uno stipendio sicuro,	uno stipendio sicuro,	uno stipendio sicuro
 777	BOI013	1465.448	1467.076	1.628	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 che giù:: non ce l'hanno	che giù:: non ce l'hanno	che giù non ce l' hanno
-778	BOI012	1467.14	1470.374	3.234	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 però gente da milano, a bologna non ne viene >a lavorar~ gente da torino<	pero' gente da milano, a bologna non ne viene >a lavorar~ gente da torino<	pero' gente da milano a bologna non ne viene a lavorar~ gente da torino
-779	BOI012	1470.686	1471.925	1.239	True	0	0	0	0	0	0	0	False	False	False	False	True	_	0	0	0	5	 a bologna non ne vien[e]	a bologna non ne vien[e]	a bologna non ne viene
-780	BOI013	1471.965	1473.58	1.715	True	0	0	0	0	0	0	1	False	False	False	False	True	781=0.489	0	0	0	6	 [n]o vengono quasi tut[ti da gi]ù	[n]o vengono quasi tut[ti da gi]ù	no vengono quasi tutti da giù
+778	BOI012	1467.14	1470.374	3.234	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 pero' gente da milano, a bologna non ne viene >a lavorar~ gente da torino<	pero' gente da milano, a bologna non ne viene >a lavorar~ gente da torino<	pero' gente da milano a bologna non ne viene a lavorar~ gente da torino
+779	BOI012	1470.686	1471.925	1.239	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 a bologna non ne viene	a bologna non ne viene	a bologna non ne viene
+780	BOI013	1471.965	1473.58	1.615	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 no vengono quasi tut[ti da gi]ù	no vengono quasi tut[ti da gi]ù	no vengono quasi tutti da giù
 781	BOI012	1472.796	1473.285	0.489	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [e::h]	[e::h]	eh
-782	BOI013	1473.819	1475.702	1.883	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	5	 da {P} perchè: su non vie~	da {P} perché: su non vie~	da {P} perché su non vie~
-783	BOI013	1475.885	1478.428	2.543	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 non viene quello di milano perchè c'ha il mio contratto	non viene quello di milano perché c'ha il mio contratto	non viene quello di milano perché c' ha il mio contratto
+782	BOI013	1473.819	1475.702	1.883	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	 da {P} perché: su non vie~	da {P} perché: su non vie~	da {P} perché su non vie~
+783	BOI013	1475.885	1478.428	2.543	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 non viene quello di milano perché c'ha il mio contratto	non viene quello di milano perché c'ha il mio contratto	non viene quello di milano perché c' ha il mio contratto
 784	BOI013	1478.866	1479.844	0.978	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 nazionale,	nazionale,	nazionale
 785	BOI013	1480.255	1481.957	1.702	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 ed è:: messo in regola,	ed è:: messo in regola,	ed è messo in regola
 786	BOI013	1482.438	1485.98	3.542	True	0	0	0	0	0	0	0	False	False	False	False	False	_	3	0	0	8	 invece vengono {P} persone che lavorano {P} in nero {P} giù	invece vengono {P} persone che lavorano {P} in nero {P} giù	invece vengono {P} persone che lavorano {P} in nero {P} giù
 787	BOI013	1486.209	1487.613	1.404	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 che lavorano in quelle::	che lavorano in quelle::	che lavorano in quelle
-788	BOI012	1487.707	1490.64	2.933	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 >sì ma questo non è perchè< è un buon posto bologna dove lavorare	>sì ma questo non è perché< è un buon posto bologna dove lavorare	sì ma questo non è perché è un buon posto bologna dove lavorare
-789	BOI013	1490.671	1493.458	2.787	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 perchè i d[iritti vengono risp]etta[ti giù no:]	perché i d[iritti vengono risp]etta[ti giù no:]	perché i diritti vengono rispettati giù no
-790	BOI012	1490.985	1492.273	1.288	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [quello perchè ci sono dei po~]	[quello perché ci sono dei po~]	quello perché ci sono dei po~
-791	BOI012	1492.741	1495.443	2.702	True	0	0	2	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 perchè [ci sono dei p]osti peggiori dove si pu[ò lavor]are	perché [ci sono dei p]osti peggiori dove si pu[o' lavor]are	perché ci sono dei posti peggiori dove si puo' lavorare
+788	BOI012	1487.707	1490.64	2.933	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 >sì ma questo non è perché< è un buon posto bologna dove lavorare	>sì ma questo non è perché< è un buon posto bologna dove lavorare	sì ma questo non è perché è un buon posto bologna dove lavorare
+789	BOI013	1490.671	1493.458	2.787	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 perché i d[iritti vengono risp]etta[ti giù no:]	perché i d[iritti vengono risp]etta[ti giù no:]	perché i diritti vengono rispettati giù no
+790	BOI012	1490.985	1492.273	1.288	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 [quello perché ci sono dei po~]	[quello perché ci sono dei po~]	quello perché ci sono dei po~
+791	BOI012	1492.741	1495.443	2.702	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 perché [ci sono dei p]osti peggiori dove si pu[o' lavor]are	perché [ci sono dei p]osti peggiori dove si pu[o' lavor]are	perché ci sono dei posti peggiori dove si puo' lavorare
 792	BOI013	1494.797	1495.243	0.446	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [NO]	[NO]	no
-793	BOI013	1495.524	1498.264	2.74	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 perchè giù non vengono rispet[tati i dir]itti dei lavora[tori]	perché giù non vengono rispet[tati i dir]itti dei lavora[tori]	perché giù non vengono rispettati i diritti dei lavoratori
+793	BOI013	1495.524	1498.264	2.74	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 perché giù non vengono rispet[tati i dir]itti dei lavora[tori]	perché giù non vengono rispet[tati i dir]itti dei lavora[tori]	perché giù non vengono rispettati i diritti dei lavoratori
 794	BOI012	1496.713	1497.267	0.554	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [e allora]	[e allora]	e allora
-795	BOI012	1498.027	1499.612	1.585	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 [non] è perchè s[e xxx]	[non] è perché s[e xxx]	non è perché se xxx
+795	BOI012	1498.027	1499.612	1.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 [non] è perché s[e xxx]	[non] è perché s[e xxx]	non è perché se xxx
 796	BOI013	1498.589	1499.652	1.063	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [se vuoi lavorare]	[se vuoi lavorare]	se vuoi lavorare
 797	BOI013	1499.811	1500.907	1.096	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 se vuoi lav[orare]	se vuoi lav[orare]	se vuoi lavorare
 798	BOI012	1500.356	1501.696	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >vabbè [che si lav]ora male là<	>vabbè [che si lav]ora male là<	vabbè che si lavora male là
@@ -804,19 +804,19 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 802	BOI013	1506.3	1507.63	1.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 e fai:::	e fai:::	e fai
 803	BOI013	1507.752	1508.997	1.245	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 e fai dodici ore	e fai dodici ore	e fai dodici ore
 804	BOI013	1510.356	1512.707	2.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 cioè:: questo è:: put~ è: la::	cioè:: questo è:: put~ è: la::	cioè questo è put~ è la
-805	BOI013	1512.979	1516.244	3.265	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 quello che dicono i miei colleghi, perchè allora fanno i concorsi e vengono su	quello che dicono i miei colleghi, perché allora fanno i concorsi e vengono su	quello che dicono i miei colleghi perché allora fanno i concorsi e vengono su
+805	BOI013	1512.979	1516.244	3.265	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 quello che dicono i miei colleghi, perché allora fanno i concorsi e vengono su	quello che dicono i miei colleghi, perché allora fanno i concorsi e vengono su	quello che dicono i miei colleghi perché allora fanno i concorsi e vengono su
 806	BOI013	1518.078	1519.163	1.085	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 con {P} >(dei grassi)<	con {P} >(dei grassi)<	con {P} dei grassi
 807	BOI013	1519.263	1522.71	3.447	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 >si devono affittar la casa,< devono: star lontano dalla famiglia,	>si devono affittar la casa,< devono: star lontano dalla famiglia,	si devono affittar la casa devono star lontano dalla famiglia
-808	BOI013	1523.136	1525.157	2.021	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 perchè giù non c'è questa possibilità	perché giù non c'è questa possibilità	perché giù non c' è questa possibilità
-809	BOI012	1525.705	1530.035	4.33	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 >°beh vabbè° però se fai l'operaio metalmeccanico come me piuttost(o) che rimaner a lavorare a bologna<	>°beh vabbè° pero' se fai l'operaio metalmeccanico come me piuttost(o) che rimaner a lavorare a bologna<	beh vabbè pero' se fai l' operaio metalmeccanico come me piuttosto che rimaner a lavorare a bologna
+808	BOI013	1523.136	1525.157	2.021	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 perché giù non c'è questa possibilità	perché giù non c'è questa possibilità	perché giù non c' è questa possibilità
+809	BOI012	1525.705	1530.035	4.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 >°beh vabbè° pero' se fai l'operaio metalmeccanico come me piuttost(o) che rimaner a lavorare a bologna<	>°beh vabbè° pero' se fai l'operaio metalmeccanico come me piuttost(o) che rimaner a lavorare a bologna<	beh vabbè pero' se fai l' operaio metalmeccanico come me piuttosto che rimaner a lavorare a bologna
 810	BOI012	1530.496	1533.453	2.957	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 e vai a lavorare a berlino:: e lavori: alla volkswagen	e vai a lavorare a berlino:: e lavori: alla volkswagen	e vai a lavorare a berlino e lavori alla volkswagen
 811	BOI012	1533.643	1535.654	2.011	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 secondo >secondo me stai< meglio che qua [eh]	secondo >secondo me stai< meglio che qua [eh]	secondo secondo me stai meglio che qua eh
 812	BOI013	1535.39	1535.975	0.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 [°ah] {P} [ah eh°]	[°ah] {P} [ah eh°]	ah {P} ah eh
 813	BOR005	1535.671	1537.83	2.159	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [quindi] secondo te sarebbe meglio andare all'estero?	[quindi] secondo te sarebbe meglio andare all'estero?	quindi secondo te sarebbe meglio andare all' estero
-814	BOI012	1537.927	1540.523	2.596	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	10	 ma {P} ma secondo te perchè i ragazzi vanno all'estero	ma {P} ma secondo te perché i ragazzi vanno all'estero	ma {P} ma secondo te perché i ragazzi vanno all' estero
-815	BOI012	1541.259	1544.291	3.032	True	0	0	2	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 perchè i giovani vanno all'estero {P} perchè gli piace andare all'estero?	perché i giovani vanno all'estero {P} perché gli piace andare all'estero?	perché i giovani vanno all' estero {P} perché gli piace andare all' estero
+814	BOI012	1537.927	1540.523	2.596	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	10	 ma {P} ma secondo te perché i ragazzi vanno all'estero	ma {P} ma secondo te perché i ragazzi vanno all'estero	ma {P} ma secondo te perché i ragazzi vanno all' estero
+815	BOI012	1541.259	1544.291	3.032	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 perché i giovani vanno all'estero {P} perché gli piace andare all'estero?	perché i giovani vanno all'estero {P} perché gli piace andare all'estero?	perché i giovani vanno all' estero {P} perché gli piace andare all' estero
 816	BOI012	1544.796	1545.455	0.659	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-817	BOI012	1545.861	1548.641	2.78	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 ci vanno perchè::: >guadagnan di più::,<	ci vanno perché::: >guadagnan di più::,<	ci vanno perché guadagnan di più
+817	BOI012	1545.861	1548.641	2.78	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 ci vanno perché::: >guadagnan di più::,<	ci vanno perché::: >guadagnan di più::,<	ci vanno perché guadagnan di più
 818	BOI012	1548.805	1550.911	2.106	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 se trovi dei lavori che sono più::	se trovi dei lavori che sono più::	se trovi dei lavori che sono più
 819	BOI012	1551.387	1553.911	2.524	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 vicini a:: alla tua idea di::	vicini a:: alla tua idea di::	vicini a alla tua idea di
 820	BOI012	1554.091	1556.304	2.213	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 di lavoro, e:: via discorrendo	di lavoro, e:: via discorrendo	di lavoro e via discorrendo
@@ -844,20 +844,20 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 842	BOR005	1597.743	1601.178	3.435	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	12	 [e ti s]aresti trasferita in {P} qualche altra parte d'italia? {P} per lavoro?	[e ti s]aresti trasferita in {P} qualche altra parte d'italia? {P} per lavoro?	e ti saresti trasferita in {P} qualche altra parte d' italia {P} per lavoro
 843	BOI013	1603.387	1603.579	0.192	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 °mh°	°mh°	mh
 844	BOI013	1603.789	1605.811	2.022	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	8	 >ah io mi son trasferita dalla calabria< {P} qua	>ah io mi son trasferita dalla calabria< {P} qua	ah io mi son trasferita dalla calabria {P} qua
-845	BOI013	1606.664	1607.047	0.383	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 perciò	percio'	percio'
+845	BOI013	1606.664	1607.047	0.383	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 percio'	percio'	percio'
 846	BOI012	1607.169	1608.116	0.947	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 sì ma non di tu[a sp~]	sì ma non di tu[a sp~]	sì ma non di tua sp~
 847	BOI013	1607.882	1608.297	0.415	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [NO]:	[NO]:	no
 848	BOI012	1608.334	1609.26	0.926	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 non di tua volontà	non di tua volontà	non di tua volontà
 849	BOI013	1609.269	1611.194	1.925	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 no:: >no no< d[i mia volontà no]	no:: >no no< d[i mia volontà no]	no no no di mia volontà no
-850	BOI012	1610.139	1612.171	2.032	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [perchè eri piccoli~ è:]: in famiglia no	[perché eri piccoli~ è:]: in famiglia no	perché eri piccoli~ è in famiglia no
-851	BOI013	1612.64	1616.044	3.404	True	0	0	2	0	0	0	0	False	False	False	False	False	_	1	0	0	16	 >sì perchè era mio padre che è stato trasferito a bologna< però io {P} ho già fatto	>sì perché era mio padre che è stato trasferito a bologna< pero' io {P} ho già fatto	sì perché era mio padre che è stato trasferito a bologna pero' io {P} ho già fatto
+850	BOI012	1610.139	1612.171	2.032	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [perché eri piccoli~ è:]: in famiglia no	[perché eri piccoli~ è:]: in famiglia no	perché eri piccoli~ è in famiglia no
+851	BOI013	1612.64	1616.044	3.404	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	16	 >sì perché era mio padre che è stato trasferito a bologna< pero' io {P} ho già fatto	>sì perché era mio padre che è stato trasferito a bologna< pero' io {P} ho già fatto	sì perché era mio padre che è stato trasferito a bologna pero' io {P} ho già fatto
 852	BOI013	1616.356	1617.398	1.042	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 l'esperienza	l'esperienza	l' esperienza
 853	BOI013	1617.714	1618.469	0.755	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e::hm	e::hm	ehm
 854	BOI013	1618.727	1620.216	1.489	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >no no< ormai sono a bologna	>no no< ormai sono a bologna	no no ormai sono a bologna
 855	BOR005	1621.944	1623.934	1.99	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 e tu enrico invece ti saresti trasferito?	e tu enrico invece ti saresti trasferito?	e tu enrico invece ti saresti trasferito
 856	BOI012	1623.982	1628.205	4.223	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 °beh° io non son mai stato costretto a trasferirmi cioè: nel senso che::	°beh° io non son mai stato costretto a trasferirmi cioè: nel senso che::	beh io non son mai stato costretto a trasferirmi cioè nel senso che
 857	BOI012	1628.689	1631.987	3.298	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 ho sempre trovato qualche cosa da fare qui >e son riuscito a vivere< qui	ho sempre trovato qualche cosa da fare qui >e son riuscito a vivere< qui	ho sempre trovato qualche cosa da fare qui e son riuscito a vivere qui
-858	BOI012	1632.927	1635.82	2.893	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 però: se non avessi trovato nulla: è logico	pero': se non avessi trovato nulla: è logico	pero' se non avessi trovato nulla è logico
+858	BOI012	1632.927	1635.82	2.893	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 pero': se non avessi trovato nulla: è logico	pero': se non avessi trovato nulla: è logico	pero' se non avessi trovato nulla è logico
 859	BOI012	1636.35	1638.127	1.777	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	 che mi sarei trasferito {P} cioè	che mi sarei trasferito {P} cioè	che mi sarei trasferito {P} cioè
 860	BOR005	1640.86	1641.477	0.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 invece	invece	invece
 861	BOR005	1641.53	1646.892	5.362	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	18	 parlando un po' del tempo libero {P} >visto che abbiamo parlato< del lavoro insomma per contrasto il tempo libero	parlando un po' del tempo libero {P} >visto che abbiamo parlato< del lavoro insomma per contrasto il tempo libero	parlando un po' del tempo libero {P} visto che abbiamo parlato del lavoro insomma per contrasto il tempo libero
@@ -875,22 +875,22 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 873	BOR005	1666.602	1667.9	1.298	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 e che programmi guardi	e che programmi guardi	e che programmi guardi
 874	BOI013	1668.81	1669.916	1.106	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 875	BOI013	1670.671	1671.617	0.946	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 °devo proprio dirlo°	°devo proprio dirlo°	devo proprio dirlo
-876	BOI013	1671.732	1672.594	0.862	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-877	BOR005	1671.732	1672.594	0.862	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+876	BOR005	1671.732	1672.594	0.862	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+877	BOI013	1671.732	1672.594	0.862	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 878	BOI013	1672.782	1674.994	2.212	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 NO >no no< o:h eh mica sono ignorantona	NO >no no< o:h eh mica sono ignorantona	no no no oh eh mica sono ignorantona
 879	BOR005	1675.186	1675.526	0.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 880	BOI013	1676.396	1679.662	3.266	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 mi piace:::: la mattina mi guardo agorà	mi piace:::: la mattina mi guardo agorà	mi piace la mattina mi guardo agorà
 881	BOR005	1679.945	1680.477	0.532	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh	mhmh	mhmh
-882	BOI013	1680.889	1681.219	0.33	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [perchè]	[perché]	perché
+882	BOI013	1680.889	1681.219	0.33	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [perché]	[perché]	perché
 883	BOI012	1680.982	1682.557	1.575	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [io sono] a lavorare alla mattina [°eh°]	[io sono] a lavorare alla mattina [°eh°]	io sono a lavorare alla mattina eh
 884	BOI013	1682.398	1685.643	3.245	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 [no] io faccio i turni quando faccio il pomeriggio sono a casa o eh	[no] io faccio i turni quando faccio il pomeriggio sono a casa o eh	no io faccio i turni quando faccio il pomeriggio sono a casa o eh
-885	BOI013	1685.986	1688.252	2.266	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 perchè <mi piace> sapere:::	perché <mi piace> sapere:::	perché mi piace sapere
+885	BOI013	1685.986	1688.252	2.266	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 perché <mi piace> sapere:::	perché <mi piace> sapere:::	perché mi piace sapere
 886	BOI013	1688.52	1689.701	1.181	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 quello che succede,	quello che succede,	quello che succede
-887	BOI013	1690.153	1691.684	1.531	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 che::[::]	ch[e::::]	che
+887	BOI013	1690.153	1691.684	1.531	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 ch[e::::]	ch[e::::]	che
 888	BOR005	1691.205	1691.705	0.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
-889	BOI013	1691.943	1693.762	1.819	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 perchè è giusto che: siamo informati	perché è giusto che: siamo informati	perché è giusto che siamo informati
+889	BOI013	1691.943	1693.762	1.819	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 perché è giusto che: siamo informati	perché è giusto che: siamo informati	perché è giusto che siamo informati
 890	BOI013	1694.267	1696.98	2.713	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 >dopo mi ascolto< il telegiornale dell'emilia romagna,	>dopo mi ascolto< il telegiornale dell'emilia romagna,	dopo mi ascolto il telegiornale dell' emilia romagna
-891	BOI013	1697.62	1699.96	2.34	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	9	 >perchè è la mia città< {P} è la nostra regione,	>perché è la mia città< {P} è la nostra regione,	perché è la mia città {P} è la nostra regione
+891	BOI013	1697.62	1699.96	2.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	9	 >perché è la mia città< {P} è la nostra regione,	>perché è la mia città< {P} è la nostra regione,	perché è la mia città {P} è la nostra regione
 892	BOI013	1700.784	1705.085	4.301	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 guardo molto queste queste cose qui poi:: °le teleno:: le telenovelas°	guardo molto queste queste cose qui poi:: °le teleno:: le telenovelas°	guardo molto queste queste cose qui poi le teleno le telenovelas
 893	BOI013	1705.744	1707.702	1.958	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 e poi alle otto son >già a letto che dormo<	e poi alle otto son >già a letto che dormo<	e poi alle otto son già a letto che dormo
 894	BOR005	1708.284	1708.603	0.319	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -899,7 +899,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 897	BOI012	1715.633	1716.845	1.212	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 sei sempre dalla (tata a [xx)]	sei sempre dalla (tata a [xx)]	sei sempre dalla tata a xx
 898	BOI013	1716.658	1718.547	1.889	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [>sì v]abbè poi vado anche da mia sorella io eh<	[>sì v]abbè poi vado anche da mia sorella io eh<	sì vabbè poi vado anche da mia sorella io eh
 899	BOR005	1718.62	1718.876	0.256	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
-900	BOI013	1719.756	1723.064	3.308	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 però quando posso mi guardo la t~ sì:: {P} >quando torno da lavoro<	pero' quando posso mi guardo la t~ sì:: {P} >quando torno da lavoro<	pero' quando posso mi guardo la t~ sì {P} quando torno da lavoro
+900	BOI013	1719.756	1723.064	3.308	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 pero' quando posso mi guardo la t~ sì:: {P} >quando torno da lavoro<	pero' quando posso mi guardo la t~ sì:: {P} >quando torno da lavoro<	pero' quando posso mi guardo la t~ sì {P} quando torno da lavoro
 901	BOI013	1723.471	1725.067	1.596	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 >c'ho proprio bisogno< di staccare	>c'ho proprio bisogno< di staccare	c' ho proprio bisogno di staccare
 902	BOI013	1725.622	1729.143	3.521	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 e:h io: ho tutti le: gli urli degli anziani nelle orecchie, tutte le mh	e:h io: ho tutti le: gli urli degli anziani nelle orecchie, tutte le mh	eh io ho tutti le gli urli degli anziani nelle orecchie tutte le mh
 903	BOI013	1729.405	1731.522	2.117	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	5	 che chiedono, chia:~, adesso ancora: peggio	che chiedono, chia:~, adesso ancora: peggio	che chiedono chia:~, adesso ancora peggio
@@ -910,7 +910,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 908	BOI013	1738.255	1739.457	1.202	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 doppia mascherina,	doppia mascherina,	doppia mascherina
 909	BOI013	1739.861	1740.925	1.064	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 camice, no >°cioè no°<	camice, no >°cioè no°<	camice no cioè no
 910	BOI012	1741.109	1743.094	1.985	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 poi lei dedica molto tempo anche a sua sorella	poi lei dedica molto tempo anche a sua sorella	poi lei dedica molto tempo anche a sua sorella
-911	BOR005	1743.193	1743.491	0.298	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 m[:h]	[m:h]	mh
+911	BOR005	1743.193	1743.491	0.298	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [m:h]	[m:h]	mh
 912	BOI013	1743.366	1745.122	1.756	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 [po]i chiu:: chiu[si dentro:]	[po]i chiu:: chiu[si dentro:]	poi chiu chiusi dentro
 913	BOI012	1744.32	1745.299	0.979	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [all'antone]lla	[all'antone]lla	all' antonella
 914	BOI013	1745.473	1747.25	1.777	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 chiusi dentro n[ei reparti,]	chiusi dentro n[ei reparti,]	chiusi dentro nei reparti
@@ -936,7 +936,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 934	BOI013	1780.186	1781.388	1.202	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 carta bianca,	carta bianca,	carta bianca
 935	BOI013	1782.132	1783.217	1.085	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 con la berling[uer,]	con la berling[uer,]	con la berlinguer
 936	BOI012	1782.953	1784.975	2.022	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [sì:: a]nche a me capita di:: °v[edere°]	[sì:: a]nche a me capita di:: °v[edere°]	sì anche a me capita di vedere
-937	BOI013	1784.517	1786.963	2.446	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [perchè mi] interes[sa: sa~] >te l'ho detto [poi mi<]	[perché mi] interes[sa: sa~] >te l'ho detto [poi mi<]	perché mi interessa sa~ te l' ho detto poi mi
+937	BOI013	1784.517	1786.963	2.446	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [perché mi] interes[sa: sa~] >te l'ho detto [poi mi<]	[perché mi] interes[sa: sa~] >te l'ho detto [poi mi<]	perché mi interessa sa~ te l' ho detto poi mi
 938	BOR005	1785.47	1785.896	0.426	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [mhmh]	[mhmh]	mhmh
 939	BOI012	1786.519	1789.051	2.532	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [guardand]olo gina mi tocca guardarlo anche a me	[guardand]olo gina mi tocca guardarlo anche a me	guardandolo gina mi tocca guardarlo anche a me
 940	BOI013	1789.079	1790.111	1.032	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 [te mi:::] mi	[te mi:::] mi	te mi mi
@@ -946,7 +946,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 944	BOI013	1793.632	1796.905	3.273	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 martedì carta bianca, io c'ho i miei::°:[:°]	martedì carta bianca, io c'ho i miei::°:[:°]	martedì carta bianca io c' ho i miei
 945	BOI012	1796.672	1798.981	2.309	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [m]artedì ci sei te in tv ti dobbiamo vedere,	[m]artedì ci sei te in tv ti dobbiamo vedere,	martedì ci sei te in tv ti dobbiamo vedere
 946	BOR005	1799.003	1799.567	0.564	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-947	BOI013	1799.005	1799.25	0.245	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	eh	eh	eh
+947	BOI013	1799.005	1799.25	0.245	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 eh	eh	eh
 948	BOI013	1799.669	1800.201	0.532	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 949	BOI012	1799.913	1800.839	0.926	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 950	BOR005	1800.869	1801.731	0.862	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 che scherzi	che scherzi	che scherzi
@@ -958,23 +958,23 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 956	BOR005	1809.149	1814.67	5.521	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 e invece di sport >visto che< a bologna ci sono parecchie squadre, fra basket, calcio seguite qualcuna?	e invece di sport >visto che< a bologna ci sono parecchie squadre, fra basket, calcio seguite qualcuna?	e invece di sport visto che a bologna ci sono parecchie squadre fra basket calcio seguite qualcuna
 957	BOI012	1815.437	1816.777	1.34	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	3	 no {P} se: {P} no	no {P} se: {P} no	no {P} se {P} no
 958	BOI012	1817.469	1820.533	3.064	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 allo stadio c'andavo da ragazzino, poi:: mi sono allon°t[anato°]	allo stadio c'andavo da ragazzino, poi:: mi sono allon°t[anato°]	allo stadio c' andavo da ragazzino poi mi sono allontanato
-959	BOR005	1820.262	1821.615	1.353	True	0	0	0	0	0	0	0	False	False	False	False	True	958=0.271	0	0	0	7	 [per il c]alcio o per il bask[et]	[per il c]alcio o per il bask[et]	per il calcio o per il basket
-960	BOI012	1821.635	1823.764	2.229	True	0	0	0	0	0	0	1	False	False	False	False	True	_	0	0	0	10	 [c]alcio il bas~ il basket non mi son mai interessato	[c]alcio il bas~ il basket non mi son mai interessato	calcio il bas~ il basket non mi son mai interessato
+959	BOR005	1820.262	1821.615	1.353	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 [per il c]alcio o per il bask[et]	[per il c]alcio o per il bask[et]	per il calcio o per il basket
+960	BOI012	1821.447	1823.764	2.317	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	10	 [c]alcio il bas~ il basket non mi son mai interessato	[c]alcio il bas~ il basket non mi son mai interessato	calcio il bas~ il basket non mi son mai interessato
 961	BOI012	1824.291	1826.046	1.755	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 >lo so che bologna< è basket city ma::	>lo so che bologna< è basket city ma::	lo so che bologna è basket city ma
 962	BOI012	1826.743	1829.754	3.011	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 e::::h il basket non mi ha mai:::: mh	e::::h il basket non mi ha mai:::: mh	eh il basket non mi ha mai mh
 963	BOI012	1830.09	1830.59	0.5	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 cioè::	cioè::	cioè
 964	BOI012	1831.427	1834.235	2.808	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 non mi son mai interessato: al bas~ non e:h	non mi son mai interessato: al bas~ non e:h	non mi son mai interessato al bas~ non eh
 965	BOI012	1835.684	1838.503	2.819	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	12	 no è:: una cosa che non e:h la sento lontana da me	no è:: una cosa che non e:h la sento lontana da me	no è una cosa che non eh la sento lontana da me
 966	BOI012	1838.982	1839.386	0.404	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 °come:°	°come:°	come
-967	BOR005	1839.919	1841.41	1.491	True	0	0	0	0	0	0	0	False	False	False	False	True	_	0	0	0	6	 tu gina mai andata allo stadi[o?]	tu gina mai andata allo stadi[o?]	tu gina mai andata allo stadio
-968	BOI013	1841.465	1843.746	2.381	True	0	0	0	0	0	0	1	False	False	False	False	True	_	1	0	0	7	 [s]ì:: io c'andavo {P} seguivo il catanzaro	[s]ì:: io c'andavo {P} seguivo il catanzaro	sì io c' andavo {P} seguivo il catanzaro
+967	BOR005	1839.919	1841.41	1.491	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 tu gina mai andata allo stadi[o?]	tu gina mai andata allo stadi[o?]	tu gina mai andata allo stadio
+968	BOI013	1841.12	1843.746	2.626	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 [s]ì:: io c'andavo {P} seguivo il catanzaro	[s]ì:: io c'andavo {P} seguivo il catanzaro	sì io c' andavo {P} seguivo il catanzaro
 969	BOR005	1844.226	1844.917	0.691	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 970	BOI013	1845.559	1846.027	0.468	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 971	BOI013	1846.736	1848.204	1.468	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	6	 eh sì sì che c'andavo::	eh sì sì che c'andavo::	eh sì sì che c' andavo
 972	BOR005	1849.32	1850.384	1.064	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 abbonamento?	abbonamento?	abbonamento
-973	BOI013	1850.668	1853.477	2.809	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	1	7	 NO:: anda:~ no:: no però andavamo anche fu~	NO:: anda:~ no:: no pero' andavamo anche fu~	no anda:~ no no pero' andavamo anche fu~
+973	BOI013	1850.668	1853.477	2.809	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	7	 NO:: anda:~ no:: no pero' andavamo anche fu~	NO:: anda:~ no:: no pero' andavamo anche fu~	no anda:~ no no pero' andavamo anche fu~
 974	BOI013	1854.353	1858.108	3.755	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 andavamo a reggio emilia::, quando giocava con il m[ilan,]	andavamo a reggio emilia::, quando giocava con il m[ilan,]	andavamo a reggio emilia quando giocava con il milan
-975	BOI012	1857.593	1859.88	2.287	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [però poco i]o non son mai stato uno sport[ivo:]:	[pero' poco i]o non son mai stato uno sport[ivo:]:	pero' poco io non son mai stato uno sportivo
+975	BOI012	1857.593	1859.88	2.287	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [pero' poco i]o non son mai stato uno sport[ivo:]:	[pero' poco i]o non son mai stato uno sport[ivo:]:	pero' poco io non son mai stato uno sportivo
 976	BOI013	1859.374	1859.715	0.341	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [sì]	[sì]	sì
 977	BOI013	1860.502	1862.619	2.117	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 a me piace il c~ e::h >seguire lo sport<	a me piace il c~ e::h >seguire lo sport<	a me piace il c~ eh seguire lo sport
 978	BOI013	1862.935	1865.786	2.851	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 >poi specialmente quando ci sono< i campionati, del mo[ndo,]	>poi specialmente quando ci sono< i campionati, del mo[ndo,]	poi specialmente quando ci sono i campionati del mondo
@@ -984,7 +984,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 982	BOR005	1870.47	1871.46	0.99	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 tu gina hai fatto s[port]	tu gina hai fatto s[port]	tu gina hai fatto sport
 983	BOI013	1871.171	1872.703	1.532	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 [no n]o {P} la poltrona	[no n]o {P} la poltrona	no no {P} la poltrona
 984	BOR005	1872.768	1873.534	0.766	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-985	BOI012	1874.399	1877.708	3.309	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 >figurati che ho vinto< anche una gara >non son passato neanche dal podio perchè<	>figurati che ho vinto< anche una gara >non son passato neanche dal podio perché<	figurati che ho vinto anche una gara non son passato neanche dal podio perché
+985	BOI012	1874.399	1877.708	3.309	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	14	 >figurati che ho vinto< anche una gara >non son passato neanche dal podio perché<	>figurati che ho vinto< anche una gara >non son passato neanche dal podio perché<	figurati che ho vinto anche una gara non son passato neanche dal podio perché
 986	BOI012	1878.112	1879.08	0.968	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 dovevo andare	dovevo andare	dovevo andare
 987	BOI012	1879.386	1884.333	4.947	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	15	 mi ha telefonato LEI (a dirmi) che c'era il compleanno di:: michela {P} mi [sembra]	mi ha telefonato LEI (a dirmi) che c'era il compleanno di:: michela {P} mi [sembra]	mi ha telefonato lei a dirmi che c' era il compleanno di michela {P} mi sembra
 988	BOR005	1880.536	1881.026	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
@@ -1009,7 +1009,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 1007	BOR005	1910.155	1914.677	4.522	True	0	0	0	0	0	0	0	False	False	False	False	False	_	2	0	0	11	 a bologna ci sono tanti {P} artisti {P} ce ne sono anche stati	a bologna ci sono tanti {P} artisti {P} ce ne sono anche stati	a bologna ci sono tanti {P} artisti {P} ce ne sono anche stati
 1008	BOR005	1915.085	1920.214	5.129	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	15	 e:: a voi è mai capitato di: incontrare qualche artista bolognese, i[n giro per strada?]	e:: a voi è mai capitato di: incontrare qualche artista bolognese, i[n giro per strada?]	e a voi è mai capitato di incontrare qualche artista bolognese in giro per strada
 1009	BOI012	1919.26	1920.526	1.266	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	4	 [uh avoglia] {P} [sì eh]	[uh avoglia] {P} [sì eh]	uh avoglia {P} sì eh
-1010	BOI013	1919.865	1920.2	0.335	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	[sì]	[sì]	sì
+1010	BOI013	1919.865	1920.2	0.335	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [sì]	[sì]	sì
 1011	BOI013	1920.299	1921.48	1.181	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 [luc]a carboni,	[luc]a carboni,	luca carboni
 1012	BOR005	1921.506	1921.9	0.394	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh	mhmh	mhmh
 1013	BOI013	1923.002	1925.524	2.522	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 °si chiama lu[ca carbo~°] >sì sì< in chiesa °l'ho incontra~°	°si chiama lu[ca carbo~°] >sì sì< in chiesa °l'ho incontra~°	si chiama luca carbo~ sì sì in chiesa l' ho incontra~
@@ -1021,8 +1021,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 1019	BOI013	1933.667	1934.061	0.394	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 sì	sì	sì
 1020	BOI013	1934.597	1935.118	0.521	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 questi sì	questi sì	questi sì
 1021	BOI012	1935.275	1937.445	2.17	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	7	 io {P} io li frequento i grandi artis[ti]	io {P} io li frequento i grandi artis[ti]	io {P} io li frequento i grandi artisti
-1022	BOI013	1937.326	1939.145	1.819	True	0	0	0	0	0	0	0	False	False	False	False	True	1021=0.119,1023=0.213	1	0	0	3	 [bepp]e {P} >beppe maniglia,<	[bepp]e {P} >beppe maniglia,<	beppe {P} beppe maniglia
-1023	BOR005	1937.485	1937.698	0.213	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [°mh°]	[°mh°]	mh
+1022	BOR005	1937.326	1937.445	0.119	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [°mh°]	[°mh°]	mh
+1023	BOI013	1937.326	1939.145	1.819	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	3	 [bepp]e {P} >beppe maniglia,<	[bepp]e {P} >beppe maniglia,<	beppe {P} beppe maniglia
 1024	BOI013	1939.345	1939.93	0.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 1025	BOI012	1939.952	1943.846	3.894	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	13	 no: sì mi vedo con domenico::, che era il bassista di lucio di::	no: sì mi vedo con domenico::, che era il bassista di lucio di::	no sì mi vedo con domenico che era il bassista di lucio di
 1026	BOR005	1943.93	1944.44	0.51	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mhmh,	mhmh,	mhmh
@@ -1039,7 +1039,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 1037	BOR005	1967.494	1970.504	3.01	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 ma i:: musica italiana mh di m:h qual [m:h]	ma i:: musica italiana mh di m:h qual [m:h]	ma i musica italiana mh di mh qual mh
 1038	BOI013	1970.233	1971.467	1.234	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [cant]autori,	[cant]autori,	cantautori
 1039	BOI013	1971.818	1972.563	0.745	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	1	1	 pu:~ tutto	pu:~ tutto	pu:~ tutto
-1040	BOI013	1972.995	1976.367	3.372	True	0	0	1	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 però io devo capire {P} a me: la musica straniera non la capisco,	pero' io devo capire {P} a me: la musica straniera non la capisco,	pero' io devo capire {P} a me la musica straniera non la capisco
+1040	BOI013	1972.995	1976.367	3.372	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	12	 pero' io devo capire {P} a me: la musica straniera non la capisco,	pero' io devo capire {P} a me: la musica straniera non la capisco,	pero' io devo capire {P} a me la musica straniera non la capisco
 1041	BOI013	1976.442	1977.293	0.851	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 e non l'ascolto	e non l'ascolto	e non l' ascolto
 1042	BOR005	1978.375	1981.864	3.489	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 ma ascolti m::h di qualche epoca in particolare o::	ma ascolti m::h di qualche epoca in particolare o::	ma ascolti mh di qualche epoca in particolare o
 1043	BOI013	1983.409	1985.068	1.659	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	5	 ma: sì gli anni novanta,	ma: sì gli anni novanta,	ma sì gli anni novanta
@@ -1080,8 +1080,8 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 1078	BOR005	2033.938	2034.087	0.149	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 mh	mh	mh
 1079	BOI012	2035.557	2036.483	0.926	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 >°cioè ma non esi~°<	>°cioè ma non esi~°<	cioè ma non esi~
 1080	BOI013	2036.61	2037.546	0.936	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-1081	BOI012	2039.499	2041.116	1.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-1082	BOI013	2039.499	2041.116	1.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+1081	BOI013	2039.499	2041.116	1.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
+1082	BOI012	2039.499	2041.116	1.617	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 1083	BOR005	2041.443	2041.805	0.362	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 che poi	che poi	che poi
 1084	BOI013	2041.95	2042.312	0.362	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [bel]	[bel]	bel
 1085	BOR005	2041.961	2046.032	4.071	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	14	 [parlan]do di musica {P} quando eravate giovani vi capitava di andare a ballare in discoteca?	[parlan]do di musica {P} quando eravate giovani vi capitava di andare a ballare in discoteca?	parlando di musica {P} quando eravate giovani vi capitava di andare a ballare in discoteca
@@ -1089,9 +1089,9 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 1087	BOI013	2046.121	2046.706	0.585	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [living]	[living]	living
 1088	BOI012	2046.188	2049.283	3.095	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	9	 [mi capita]va prima che conoscessi lei mi capitava dopo	[mi capita]va prima che conoscessi lei mi capitava dopo	mi capitava prima che conoscessi lei mi capitava dopo
 1089	BOI013	2049.284	2050.391	1.107	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 poi sei diventato vecchio	poi sei diventato vecchio	poi sei diventato vecchio
-1090	BOI012	2050.447	2054.454	4.007	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 finiti di giochi >perchè lei< no in discoteca non ci vengo non mi piace non c'andiamo	finiti di giochi >perché lei< no in discoteca non ci vengo non mi piace non c'andiamo	finiti di giochi perché lei no in discoteca non ci vengo non mi piace non c' andiamo
+1090	BOI012	2050.447	2054.454	4.007	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	17	 finiti di giochi >perché lei< no in discoteca non ci vengo non mi piace non c'andiamo	finiti di giochi >perché lei< no in discoteca non ci vengo non mi piace non c'andiamo	finiti di giochi perché lei no in discoteca non ci vengo non mi piace non c' andiamo
 1091	BOI013	2054.518	2055.987	1.469	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 no invece [c'andavo]	no invece [c'andavo]	no invece c' andavo
-1092	BOI012	2055.065	2057.428	2.363	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [al cinema non c'a]ndiamo perchè m'addormento	[al cinema non c'a]ndiamo perché m'addormento	al cinema non c' andiamo perché m' addormento
+1092	BOI012	2055.065	2057.428	2.363	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	8	 [al cinema non c'a]ndiamo perché m'addormento	[al cinema non c'a]ndiamo perché m'addormento	al cinema non c' andiamo perché m' addormento
 1093	BOI013	2057.487	2058.007	0.52	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
 1094	BOI013	2058.056	2058.949	0.893	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 ris[par]mi,	ris[par]mi,	risparmi
 1095	BOI012	2058.36	2058.85	0.49	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 [e::]	[e::]	e
@@ -1147,7 +1147,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 1145	BOI013	2139.07	2140.432	1.362	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	2	0	1	 {ride} curare {ride}	{ride} curare {ride}	{ride} curare {ride}
 1146	BOI012	2140.93	2141.919	0.989	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	3	 °prevenire era poi°	°prevenire era poi°	prevenire era poi
 1147	BOR005	2142.2	2142.839	0.639	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	1	0	0	 {ride}	{ride}	{ride}
-1148	BOI013	2142.895	2143.785	0.89	True	0	0	1	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 però è meglio curare	pero' è meglio curare	pero' è meglio curare
+1148	BOI013	2142.895	2143.785	0.89	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 pero' è meglio curare	pero' è meglio curare	pero' è meglio curare
 1149	BOR005	2145.395	2146.746	1.351	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	2	 bene {P} siamo	bene {P} siamo	bene {P} siamo
 1150	BOR005	2147.016	2149.41	2.394	True	0	0	0	0	0	0	0	False	False	False	False	False	_	1	0	0	5	 alla fine, {P} vi ringrazio per	alla fine, {P} vi ringrazio per	alla fine {P} vi ringrazio per
 1151	BOR005	2149.59	2150.973	1.383	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 averci dato una mano	averci dato una mano	averci dato una mano

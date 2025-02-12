@@ -1181,7 +1181,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 243-2	PKP039	243	i	i	i	linguistic	_		_	_	_	_	_	_				_		
 243-3	PKP039	243	zucchini	zucchini	zucchini	linguistic	_	End=519.345	_	_	_	_	_	_				_		
 244-0	PKP040	244	ancora	ancora?	ancora?	linguistic	_	End=521.77	ascending	_	_	_	_	_				_		
-245-0	PKP040	245	scusa	scusa	scusa	linguistic	_	Begin=522.184	_	_	_	_	_	_				_		
+245-0	PKP040	245	scusa	scusa	scusa	linguistic	_	Begin=522.183	_	_	_	_	_	_				_		
 245-1	PKP040	245	ma	ma	ma	linguistic	_	End=522.59	_	_	_	_	_	_				_		
 246-0	PKP039	246	sì	sì	sì	linguistic	_	Begin=522.594	_	_	_	_	_	_				_		
 246-1	PKP039	246	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		

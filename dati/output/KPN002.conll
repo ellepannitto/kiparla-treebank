@@ -1165,8 +1165,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 162-15	PKP012	162	dire	dire,	dire,	linguistic	_	End=468.54	weakly_ascending	_	_	_	_	_				_		
 163-0	PKP011	163	vabbè	°vabbè	°vabbè	linguistic	_	Begin=468.565	_	_	_	_	_	_				low		
 163-1	PKP011	163	dai	dai°	dai°	linguistic	_	End=469.065	_	_	_	_	_	_				low		
-164-0	PKP012	164	xxxx	xxxx	xxxx	linguistic	_	End=474.11	_	Unknown=Yes	_	_	_	_				_		
-165-0	PKP011	165	{si_spaventa}	{si_spaventa}	{si_spaventa}	metalinguistic	_	End=474.11	_	_	_	_	_	_				_		
+164-0	PKP011	164	{si_spaventa}	{si_spaventa}	{si_spaventa}	metalinguistic	_	End=474.11	_	_	_	_	_	_				_		
+165-0	PKP012	165	xxxx	xxxx	xxxx	linguistic	_	End=474.11	_	Unknown=Yes	_	_	_	_				_		
 166-0	PKP011	166	grazie	grazie	grazie	linguistic	_	Begin=475.64	_	_	_	_	_	_				_		
 166-1	PKP011	166	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 166-2	PKP011	166	aspetta	aspetta	aspetta	linguistic	_		_	_	_	_	_	_				_		
@@ -2625,12 +2625,12 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 417-8	PKP031	417	è	è	è	linguistic	_		_	_	_	_	_	_				_		0-1(419)
 417-9	PKP031	417	una	(u)na	(u)na	linguistic	_		_	_	_	_	_	_				_	0-1(0)	0-3(419)
 417-10	PKP031	417	santa	santa]	santa]	linguistic	_	End=1038.49	_	_	_	_	_	_				_		0-5(419)
-418-0	PKP012	418	uhm	[UHM]	[UHM]	linguistic	_	End=1037.369	_	_	_	_	_	_				high		0-3(417)
-419-0	PKP011	419	che	[che	[che	linguistic	_	Begin=1037.484	_	_	_	_	_	_				_		0-3(417)
+418-0	PKP012	418	uhm	[UHM]	[UHM]	linguistic	_	End=1037.368	_	_	_	_	_	_				high		0-3(417)
+419-0	PKP011	419	che	[che	[che	linguistic	_	Begin=1037.483	_	_	_	_	_	_				_		0-3(417)
 419-1	PKP011	419	xx	xx	xx	linguistic	_		_	Unknown=Yes	_	_	_	_				_		0-2(417)
 419-2	PKP011	419	che	che	che	linguistic	_		_	_	_	_	_	_				_		0-3(417)
-419-3	PKP011	419	è	è]	è]	linguistic	_	End=1038.494	_	_	_	_	_	_				_		0-1(417)
-420-0	PKP038	420	pero'	pero'	pero'	linguistic	_	Begin=1040.369	_	_	_	Truncated=Yes	_	_				_		
+419-3	PKP011	419	è	è]	è]	linguistic	_	End=1038.493	_	_	_	_	_	_				_		0-1(417)
+420-0	PKP038	420	pero'	pero'	pero'	linguistic	_	Begin=1040.368	_	_	_	Truncated=Yes	_	_				_		
 420-1	PKP038	420	cioè	cioè:	cioè:	linguistic	_		_	_	_	_	_	_	3x1			_		
 420-2	PKP038	420	{P}	{P}	{P}	shortpause	_		_	_	_	_	_	_				_		
 420-3	PKP038	420	c'	[c'	[c'	linguistic	_		_	_	_	_	_	SpaceAfter=No				_		0-2(421)
@@ -2645,7 +2645,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 421-0	PKP012	421	anca	[anca	[anca	linguistic	_	Begin=1041.55	_	_	_	_	_	_				_		0-4(420)
 421-1	PKP012	421	massa	massa]	massa]	linguistic	_	End=1042.48	_	_	_	_	_	_				_		0-5(420)
 422-0	PKP031	422	eh	[eh]	[eh]	linguistic	_	End=1043.28	_	_	_	_	_	_				_		0-2(420)
-423-0	PKP011	423	ottimo	ottimo	ottimo	linguistic	_	End=1046.849	_	_	_	_	_	_				_		
+423-0	PKP011	423	ottimo	ottimo	ottimo	linguistic	_	End=1046.848	_	_	_	_	_	_				_		
 424-0	PKP011	424	{ride}	{ride}	{ride}	metalinguistic	_	Begin=1047.31	_	_	_	_	_	_				_		
 424-1	PKP011	424	xx	[xx]	[xx]	linguistic	_	End=1048.44	_	Unknown=Yes	_	_	_	_				_		0-2(425)
 425-0	PKP031	425	perché	>perché<	>perché<	linguistic	_	Begin=1047.339	_	_	_	_	_	_			0-6(0)	_		

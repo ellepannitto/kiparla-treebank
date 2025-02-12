@@ -2552,8 +2552,8 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 297-3	TO003	297	parametro	parametro	parametro	linguistic	_		_	_	_	_	_	_				_		
 297-4	TO003	297	potrebbe	potrebbe	potrebbe	linguistic	_		_	_	_	_	_	_				_		
 297-5	TO003	297	essere	essere,	essere,	linguistic	_	End=1024.877	weakly_ascending	_	_	_	_	_				_		
-298-0	TO003	298	eh	e::h	e::h	linguistic	_	End=1026.484	_	_	_	_	_	_	0x2			_		
-299-0	TO003	299	per	per	per	linguistic	_	Begin=1026.57	_	_	_	_	_	_				_		
+298-0	TO003	298	eh	e::h	e::h	linguistic	_	End=1026.483	_	_	_	_	_	_	0x2			_		
+299-0	TO003	299	per	per	per	linguistic	_	Begin=1026.569	_	_	_	_	_	_				_		
 299-1	TO003	299	verificare	verificare	verificare	linguistic	_		_	_	_	_	_	_				_		
 299-2	TO003	299	appunto	appunto	appunto	linguistic	_		_	_	_	_	_	_				_		
 299-3	TO003	299	un	un	un	linguistic	_		_	_	_	_	_	_				_		
@@ -2561,7 +2561,7 @@ token_id	speaker	tu_id	token	orig_token	span	type	metalinguistic_category	align	
 299-5	TO003	299	di	di	di	linguistic	_		_	_	_	_	_	_				_		
 299-6	TO003	299	un	un	un	linguistic	_		_	_	_	_	_	_				_		
 299-7	TO003	299	determinato	determinato	determinato	linguistic	_		_	_	_	_	_	_				_		
-299-8	TO003	299	fenomeno	fenomeno	fenomeno	linguistic	_	End=1030.84	_	_	_	_	_	_				_		
+299-8	TO003	299	fenomeno	fenomeno	fenomeno	linguistic	_	End=1030.839	_	_	_	_	_	_				_		
 300-0	TO003	300	ma	ma	ma	linguistic	_	Begin=1031.568	_	_	_	_	_	_				_		
 300-1	TO003	300	poi	poi:	poi:	linguistic	_		_	_	_	_	_	_	2x1			_		
 300-2	TO003	300	cer~	cer~	cer~	linguistic	_		_	_	Interrupted=Yes	_	_	_				_		

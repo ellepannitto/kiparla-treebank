@@ -171,7 +171,7 @@ tu_id	speaker	start	end	duration	include	W:normalized_spaces	W:numbers	W:accents
 169	BO093	1030.001	1035.213	5.212	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 cioè dei f~ delle molecole che cerchino di bloccare l' aggregazione,	cioè dei f~ delle molecole che cerchino di bloccare l' aggregazione,	cioè dei f~ delle molecole che cerchino di bloccare l' aggregazione
 170	BO093	1035.864	1038.986	3.122	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	7	 di queste proteine a dare queste inclusioni.	di queste proteine a dare queste inclusioni.	di queste proteine a dare queste inclusioni
 171	BO093	1040.006	1040.998	0.992	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	2	 in realtà	in realtà	in realtà
-172	BO093	1041.965	1042.595	0.63	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e:::h	e:::h	eh
+172	BO093	1041.964	1042.595	0.631	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	1	 e:::h	e:::h	eh
 173	BO093	1043.117	1049.003	5.886	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	16	 nessuno di questi di queste molecole ha superato i trial clinici ed è entrato in commercio.	nessuno di questi di queste molecole ha superato i trial clinici ed è entrato in commercio.	nessuno di questi di queste molecole ha superato i trial clinici ed è entrato in commercio
 174	BO093	1049.646	1051.673	2.027	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	4	 perché eh in realtà	perché eh in realtà	perché eh in realtà
 175	BO093	1052.206	1057.911	5.705	True	0	0	0	0	0	0	0	False	False	False	False	False	_	0	0	0	11	 e::h si sta sempre di più rivalutando il concetto di aggregato	e::h si sta sempre di più rivalutando il concetto di aggregato	eh si sta sempre di più rivalutando il concetto di aggregato
