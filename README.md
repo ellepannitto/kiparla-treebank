@@ -5,9 +5,9 @@
 | ---   | ---                           | ---         | ----                             |
 | KIPOS | conversazione libera          | BOA3017     |                                  |
 | KIPOS | conversazione libera          | TOA3001     |                                  |
-| KIPOS | intervista semistrutturata    | BOD2018     |                                  |
+| KIPOS | intervista semistrutturata    | BOD2018     | OK                               |
 | KIPOS | intervista semistrutturata    | TOD2003     |                                  |
-| KIPOS | lezione                       | TOD1005bis  |                                  |
+| KIPOS | lezione                       | TOD1005bis  | OK                               |
 | KIPOS | ricevimento studenti          | TOA1003     |                                  |
 |       | esame                         | BOC1002     |                                  |
 |       | esame                         | TOC1001     |                                  |

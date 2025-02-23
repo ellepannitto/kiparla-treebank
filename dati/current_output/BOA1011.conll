@@ -1,0 +1,572 @@
+token_id	speaker	tu_id	token	span	type	metalinguistic_category	jefferson_feats	align	prolongations	slow_pace	fast_pace	guesses	overlaps
+0-0	BO026	0	ditemi	ditemi.	linguistic	_	Intonation=descending	End=13.218		_	_	_	_
+1-0	BO040	1	sì	sì	linguistic	_		Begin=13.315		_	_	_	_
+1-1	BO040	1	eh	eh	linguistic	_				_	_	_	_
+1-2	BO040	1	noi	<no::i	linguistic	_			1x2	0-3(0)	_	_	_
+1-3	BO040	1	abbiamo	abbiamo	linguistic	_				0-7(0)	_	_	_
+1-4	BO040	1	il	il	linguistic	_				0-2(0)	_	_	_
+1-5	BO040	1	programma	programma	linguistic	_				0-9(0)	_	_	_
+1-6	BO040	1	dell'	dell'	linguistic	_	Truncated=Yes			0-5(0)	_	_	_
+1-7	BO040	1	anno	anno	linguistic	_				0-4(0)	_	_	_
+1-8	BO040	1	scorso	scorso	linguistic	_				0-6(0)	_	_	_
+1-9	BO040	1	però	però	linguistic	_				0-4(0)	_	_	_
+1-10	BO040	1	abbiamo	abbiamo	linguistic	_				0-7(0)	_	_	_
+1-11	BO040	1	visto	visto::	linguistic	_			4x2	0-5(0)	_	_	_
+1-12	BO040	1	che	che	linguistic	_				0-3(0)	_	_	_
+1-13	BO040	1	lei	lei	linguistic	_				0-3(0)	_	_	_
+1-14	BO040	1	fa	fa	linguistic	_				0-2(0)	_	_	_
+1-15	BO040	1	uno	uno	linguistic	_				0-3(0)	_	_	_
+1-16	BO040	1	scritto	scritto	linguistic	_				0-7(0)	_	_	_
+1-17	BO040	1	come	come	linguistic	_				0-4(0)	_	_	_
+1-18	BO040	1	funziona	funziona	linguistic	_				0-8(0)	_	_	_
+1-19	BO040	1	per	per	linguistic	_				0-3(0)	_	_	_
+1-20	BO040	1	noi	noi	linguistic	_				0-3(0)	_	_	_
+1-21	BO040	1	invece	inve[ce>],	linguistic	_	Intonation=weakly_ascending	End=23.365		0-6(0)	_	_	4-6(2)
+2-0	BO026	2	no	[no	linguistic	_		Begin=23.08		_	_	_	0-2(1)
+2-1	BO026	2	voi	v]oi	linguistic	_				_	_	_	0-1(1)
+2-2	BO026	2	portate	portate	linguistic	_				_	_	_	_
+2-3	BO026	2	quello	quello	linguistic	_				_	_	_	_
+2-4	BO026	2	portate	portate	linguistic	_				_	_	_	_
+2-5	BO026	2	quello	quello	linguistic	_				_	_	_	_
+2-6	BO026	2	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+2-7	BO026	2	anno	anno	linguistic	_				_	_	_	_
+2-8	BO026	2	scorso	s[cors]o.	linguistic	_	Intonation=descending	End=25.893		_	_	_	1-5(3)
+3-0	BO040	3	sì	[s:ì].	linguistic	_	Intonation=descending	End=25.79	0x1	_	_	_	0-2(2)
+4-0	BO040	4	sì	s:ì.	linguistic	_	Intonation=descending	End=26.65	0x1	_	_	_	_
+5-0	BO026	5	regolare	regolare	linguistic	_		Begin=27.048		_	_	_	_
+5-1	BO026	5	quello	quello	linguistic	_				_	_	_	_
+5-2	BO026	5	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+5-3	BO026	5	anno	anno	linguistic	_				_	_	_	_
+5-4	BO026	5	scorso	scors[o].	linguistic	_	Intonation=descending	End=28.813		_	_	_	5-6(6)
+6-0	BO040	6	e	[e]	linguistic	_		Begin=28.68		_	_	_	0-1(5)
+6-1	BO040	6	quindi	quindi	linguistic	_				_	_	_	_
+6-2	BO040	6	l'	l'	linguistic	_	Truncated=Yes			_	_	_	_
+6-3	BO040	6	orale	or[ale::]	linguistic	_		End=30.385	4x2	_	_	_	2-5(7)
+7-0	BO026	7	l'	[l'	linguistic	_	Truncated=Yes	Begin=29.711		_	_	_	0-2(6)
+7-1	BO026	7	orale	orale],	linguistic	_	Intonation=weakly_ascending	End=30.38		_	_	_	0-5(6)
+8-0	BO026	8	la	la	linguistic	_		Begin=30.531		_	_	_	_
+8-1	BO026	8	prima	prima	linguistic	_				_	_	_	_
+8-2	BO026	8	parte	parte	linguistic	_				_	_	_	_
+8-3	BO026	8	l'	l'	linguistic	_	Truncated=Yes			_	_	_	_
+8-4	BO026	8	orale	orale	linguistic	_				_	_	_	_
+8-5	BO026	8	sarà	sarà	linguistic	_				_	_	_	_
+8-6	BO026	8	un	un	linguistic	_				_	_	_	_
+8-7	BO026	8	colloquio	colloquio	linguistic	_				_	_	_	_
+8-8	BO026	8	voi	voi	linguistic	_				_	_	_	_
+8-9	BO026	8	vi	vi	linguistic	_				_	_	_	_
+8-10	BO026	8	iscrivete	iscrivete,	linguistic	_	Intonation=weakly_ascending	End=34.33		_	_	_	_
+9-0	BO026	9	alla	alla	linguistic	_		Begin=34.76		_	_	_	_
+9-1	BO026	9	data	data:	linguistic	_			3x1	_	_	_	_
+9-2	BO026	9	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+9-3	BO026	9	appello	app[ello	linguistic	_				_	_	_	3-7(10)
+9-4	BO026	9	che	ch]e	linguistic	_				_	_	_	0-2(10)
+9-5	BO026	9	corrisponde	corrisponde	linguistic	_				_	_	_	_
+9-6	BO026	9	a	a	linguistic	_				_	_	_	_
+9-7	BO026	9	quella	quella	linguistic	_				_	_	_	_
+9-8	BO026	9	dello	dello	linguistic	_				_	_	_	_
+9-9	BO026	9	scritto	scr[itto],	linguistic	_	Intonation=weakly_ascending	End=38.57		_	_	_	3-7(11)
+10-0	BO040	10	mh	[mh	linguistic	_	ProsodicLink=Yes	Begin=36.34		_	_	_	0-2(9)
+10-1	BO040	10	mh	].	linguistic	_	Intonation=descending	End=36.911		_	_	_	0-2(9)
+11-0	BO040	11	mh	[mh	linguistic	_	ProsodicLink=Yes	Begin=38.115		_	_	_	0-2(9)
+11-1	BO040	11	mh	].	linguistic	_	Intonation=descending	End=38.653		_	_	_	0-2(9)
+12-0	BO026	12	e	e:::	linguistic	_		Begin=39.243	0x3	_	_	_	_
+12-1	BO026	12	però	però	linguistic	_				_	_	_	_
+12-2	BO026	12	tutto	tutto	linguistic	_				_	_	_	_
+12-3	BO026	12	il	il	linguistic	_				_	_	_	_
+12-4	BO026	12	programma	programma	linguistic	_				_	_	_	_
+12-5	BO026	12	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+12-6	BO026	12	anno	anno	linguistic	_				_	_	_	_
+12-7	BO026	12	scorso	scorso.	linguistic	_	Intonation=descending	End=41.94		_	_	_	_
+13-0	BO026	13	la	la	linguistic	_		Begin=41.978		_	_	_	_
+13-1	BO026	13	seconda	seconda	linguistic	_				_	_	_	_
+13-2	BO026	13	parte	parte	linguistic	_				_	_	_	_
+13-3	BO026	13	del	de:l	linguistic	_			1x1	_	_	_	_
+13-4	BO026	13	del	del	linguistic	_				_	_	_	_
+13-5	BO026	13	co~	co~	linguistic	_	Interrupted=Yes			_	_	_	_
+13-6	BO026	13	del	del	linguistic	_				_	_	_	_
+13-7	BO026	13	programma	programma,	linguistic	_	Intonation=weakly_ascending	End=45.59		_	_	_	_
+14-0	BO026	14	è	è	linguistic	_		Begin=45.833		_	_	_	_
+14-1	BO026	14	identica	identica	linguistic	_				_	_	_	_
+14-2	BO026	14	a	a	linguistic	_				_	_	_	_
+14-3	BO026	14	quella	quella	linguistic	_				_	_	_	_
+14-4	BO026	14	di	di	linguistic	_				_	_	_	_
+14-5	BO026	14	quest'	quest'	linguistic	_	Truncated=Yes			_	_	_	_
+14-6	BO026	14	anno	anno	linguistic	_				_	_	_	_
+14-7	BO026	14	cioè	cioè,	linguistic	_	Intonation=weakly_ascending	End=48.06		_	_	_	_
+15-0	BO026	15	come	come	linguistic	_		Begin=48.196		_	_	_	_
+15-1	BO026	15	i~	i~	linguistic	_	Interrupted=Yes			_	_	_	_
+15-2	BO026	15	la	la	linguistic	_				_	_	_	_
+15-3	BO026	15	prova	prova	linguistic	_				_	_	_	_
+15-4	BO026	15	consiste	consiste,	linguistic	_	Intonation=weakly_ascending	End=50.4		_	_	_	_
+16-0	BO041	16	quella	quella	linguistic	_		Begin=50.445		_	_	_	_
+16-1	BO041	16	del	del	linguistic	_				_	_	_	_
+16-2	BO041	16	dialogo	dialogo	linguistic	_				_	_	_	_
+16-3	BO041	16	no	[no],	linguistic	_	Intonation=weakly_ascending	End=51.658		_	_	_	0-2(17)
+17-0	BO026	17	sì	[s]ì.	linguistic	_	Intonation=descending	End=51.816		_	_	_	0-1(16)
+18-0	BO026	18	dell'	dell'	linguistic	_	Truncated=Yes	Begin=52.221		_	_	_	_
+18-1	BO026	18	analisi	analisi	linguistic	_				_	_	_	_
+18-2	BO026	18	della	della	linguistic	_				_	_	_	_
+18-3	BO026	18	sequenza	sequenza	linguistic	_				_	_	_	_
+18-4	BO026	18	di	d(i)	linguistic	_				_	_	1-2(0)	_
+18-5	BO026	18	interazione	interazione	linguistic	_				_	_	_	_
+18-6	BO026	18	in	in	linguistic	_				_	_	_	_
+18-7	BO026	18	classe	clas[se].	linguistic	_	Intonation=descending	End=55.041		_	_	_	4-6(19)
+19-0	BO040	19	mh	[mh]	linguistic	_	ProsodicLink=Yes	Begin=54.9		_	_	_	_
+19-1	BO040	19	mh	].	linguistic	_	Intonation=descending	End=55.363		_	_	_	_
+20-0	BO026	20	ma	ma::	linguistic	_		Begin=55.99	1x2	_	_	_	_
+20-1	BO026	20	voi	voi	linguistic	_				_	_	_	_
+20-2	BO026	20	fate	fate	linguistic	_				_	_	_	_
+20-3	BO026	20	tutto	tutto	linguistic	_				_	_	_	_
+20-4	BO026	20	l'	l'	linguistic	_	Truncated=Yes			_	_	_	_
+20-5	BO026	20	esame	esame	linguistic	_				_	_	_	_
+20-6	BO026	20	orale	orale.	linguistic	_	Intonation=descending	End=58.206		_	_	_	_
+21-0	BO026	21	con	con	linguistic	_		Begin=58.566		_	_	_	_
+21-1	BO026	21	il	il	linguistic	_				_	_	_	_
+21-2	BO026	21	programma	programma	linguistic	_				_	_	_	_
+21-3	BO026	21	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+21-4	BO026	21	anno	anno	linguistic	_				_	_	_	_
+21-5	BO026	21	scorso	scorso	linguistic	_				_	_	_	_
+21-6	BO026	21	così	così	linguistic	_				_	_	_	_
+21-7	BO026	21	come	come	linguistic	_				_	_	_	_
+21-8	BO026	21	era	era	linguistic	_				_	_	_	_
+21-9	BO026	21	previsto	previsto	linguistic	_				_	_	_	_
+21-10	BO026	21	nel	nel	linguistic	_				_	_	_	_
+21-11	BO026	21	dalla	dalla::	linguistic	_		End=63.163	4x2	_	_	_	_
+22-0	BO026	22	verifica	verifica::	linguistic	_	ProsodicLink=Yes	Begin=63.463	7x2	_	_	_	_
+22-1	BO026	22	mh		linguistic	_		End=65.155		_	_	_	_
+23-0	BO026	23	dall'	dall'	linguistic	_	Truncated=Yes	Begin=65.498		_	_	_	_
+23-1	BO026	23	esame	esame	linguistic	_				_	_	_	_
+23-2	BO026	23	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+23-3	BO026	23	anno	anno	linguistic	_				_	_	_	_
+23-4	BO026	23	scorso	scorso.	linguistic	_	Intonation=descending	End=66.933		_	_	_	_
+24-0	BO040	24	e	<e	linguistic	_		Begin=67.4		0-1(0)	_	_	_
+24-1	BO040	24	ma	ma	linguistic	_				0-2(0)	_	_	_
+24-2	BO040	24	lo	lo	linguistic	_				0-2(0)	_	_	_
+24-3	BO040	24	faremo	faremo	linguistic	_				0-6(0)	_	_	_
+24-4	BO040	24	il	il	linguistic	_				0-2(0)	_	_	_
+24-5	BO040	24	dodici	dodici	linguistic	_				0-6(0)	_	_	_
+24-6	BO040	24	cioè	cioè	linguistic	_				0-4(0)	_	_	_
+24-7	BO040	24	il	il	linguistic	_				0-2(0)	_	_	_
+24-8	BO040	24	giorno	giorno	linguistic	_				0-6(0)	_	_	_
+24-9	BO040	24	dello	de[llo	linguistic	_				0-5(0)	_	_	2-5(25)
+24-10	BO040	24	scritto	scri:tto>],	linguistic	_	Intonation=weakly_ascending	End=71.67	3x1	0-7(0)	_	_	0-7(25)
+25-0	BO026	25	voi	[voi	linguistic	_		Begin=70.565		_	_	_	0-3(24)
+25-1	BO026	25	vi	vi	linguistic	_				_	_	_	0-2(24)
+25-2	BO026	25	iscrivete	iscrivet]e,	linguistic	_	Intonation=weakly_ascending	End=71.78		_	_	_	0-8(24)
+26-0	BO026	26	all'	all'	linguistic	_	Truncated=Yes	Begin=72.18		_	_	_	_
+26-1	BO026	26	appello	appello	linguistic	_				_	_	_	_
+26-2	BO026	26	che	che	linguistic	_				_	_	_	_
+26-3	BO026	26	è	è	linguistic	_				_	_	_	_
+26-4	BO026	26	quello	quello	linguistic	_				_	_	_	_
+26-5	BO026	26	della	della	linguistic	_				_	_	_	_
+26-6	BO026	26	prova	prova	linguistic	_				_	_	_	_
+26-7	BO026	26	scritta	scritta,	linguistic	_	Intonation=weakly_ascending	End=74.62		_	_	_	_
+27-0	BO026	27	e	e	linguistic	_		Begin=74.745		_	_	_	_
+27-1	BO026	27	poi	poi	linguistic	_				_	_	_	_
+27-2	BO026	27	io	io	linguistic	_				_	_	_	_
+27-3	BO026	27	vi	vi	linguistic	_				_	_	_	_
+27-4	BO026	27	inserisco	inserisco	linguistic	_				_	_	_	_
+27-5	BO026	27	i~	(i~)	linguistic	_	Interrupted=Yes			_	_	0-2(0)	_
+27-6	BO026	27	adesso	adesso	linguistic	_				_	_	_	_
+27-7	BO026	27	me~	me~	linguistic	_	Interrupted=Yes			_	_	_	_
+27-8	BO026	27	mi	mi	linguistic	_				_	_	_	_
+27-9	BO026	27	scrivo	scrivo:	linguistic	_		End=77.98	5x1	_	_	_	_
+28-0	BO040	28	sì	s:ì.	linguistic	_	Intonation=descending	End=78.49	0x1	_	_	_	_
+29-0	BO026	29	i	i	linguistic	_		Begin=78.55		_	_	_	_
+29-1	BO026	29	vostri	vostri	linguistic	_				_	_	_	_
+29-2	BO026	29	nomi	nomi,	linguistic	_	Intonation=weakly_ascending	End=79.456		_	_	_	_
+30-0	BO040	30	sì	<s[ì>].	linguistic	_	Intonation=descending	End=79.94		0-2(0)	_	_	1-2(?)
+31-0	BO026	31	nelle	[n]elle	linguistic	_		Begin=79.988		_	_	_	0-1(?)
+31-1	BO026	31	liste	liste	linguistic	_				_	_	_	_
+31-2	BO026	31	che	che	linguistic	_				_	_	_	_
+31-3	BO026	31	preparerò	preparerò	linguistic	_				_	_	_	_
+31-4	BO026	31	e	e	linguistic	_				_	_	_	_
+31-5	BO026	31	che	che	linguistic	_				_	_	_	_
+31-6	BO026	31	metterò	metterò	linguistic	_				_	_	_	_
+31-7	BO026	31	nella	nella::	linguistic	_			4x2	_	_	_	_
+31-8	BO026	31	nella	nella	linguistic	_				_	_	_	_
+31-9	BO026	31	pagina	pagin[a	linguistic	_				_	_	_	5-6(?)
+31-10	BO026	31	docente	doc]ente,	linguistic	_	Intonation=weakly_ascending	End=84.71		_	_	_	0-3(?)
+32-0	BO040	32	mh	[mh	linguistic	_	ProsodicLink=Yes	Begin=83.891		_	_	_	0-2(31)
+32-1	BO040	32	mh	].	linguistic	_	Intonation=descending	End=84.301		_	_	_	0-2(31)
+33-0	BO026	33	di	di	linguistic	_		Begin=85.365		_	_	_	_
+33-1	BO026	33	{P}	{P}	shortpause	_				_	_	_	_
+33-2	BO026	33	qualche	qualche	linguistic	_				_	_	_	_
+33-3	BO026	33	giorno	giorno	linguistic	_				_	_	_	_
+33-4	BO026	33	dopo	dopo.	linguistic	_	Intonation=descending	End=87.09		_	_	_	_
+34-0	BO026	34	due	due	linguistic	_		Begin=87.586		_	_	_	_
+34-1	BO026	34	{P}	{P}	shortpause	_				_	_	_	_
+34-2	BO026	34	massimo	massimo	linguistic	_				_	_	_	_
+34-3	BO026	34	tre	tre	linguistic	_				_	_	_	_
+34-4	BO026	34	giorni	g[iorni	linguistic	_				_	_	_	1-6(35)
+34-5	BO026	34	dopo	do]po	linguistic	_				_	_	_	0-2(35)
+34-6	BO026	34	a	a	linguistic	_				_	_	_	_
+34-7	BO026	34	seconda	seconda	linguistic	_				_	_	_	_
+34-8	BO026	34	come	come	linguistic	_				_	_	_	_
+34-9	BO026	34	ho	ho	linguistic	_				_	_	_	_
+34-10	BO026	34	spiegato	spiegato	linguistic	_				_	_	_	_
+34-11	BO026	34	a	a	linguistic	_				_	_	_	_
+34-12	BO026	34	tutti	tutti	linguistic	_				_	_	_	_
+34-13	BO026	34	del	del	linguistic	_				_	_	_	_
+34-14	BO026	34	numero	numero	linguistic	_				_	_	_	_
+34-15	BO026	34	degli	degli	linguistic	_				_	_	_	_
+34-16	BO026	34	scritti	scritti	linguistic	_				_	_	_	_
+34-17	BO026	34	da	da	linguistic	_				_	_	_	_
+34-18	BO026	34	correggere	correggere.	linguistic	_	Intonation=descending	End=93.741		_	_	_	_
+35-0	BO041	35	okay	[°okay.°]	linguistic	_	Intonation=descending|Volume=low	End=89.81		_	_	_	0-4(34)
+36-0	BO040	36	d'	<°d'	linguistic	_	Truncated=Yes|Volume=low	Begin=93.831		0-2(0)	_	_	_
+36-1	BO040	36	accordo	accordo.°>	linguistic	_	Intonation=descending|Volume=low	End=94.805		0-7(0)	_	_	_
+37-0	BO026	37	e	e:	linguistic	_		Begin=94.936	0x1	_	_	_	_
+37-1	BO026	37	mi	mi	linguistic	_				_	_	_	_
+37-2	BO026	37	mi	mi	linguistic	_				_	_	_	_
+37-3	BO026	37	dite	dite,	linguistic	_	Intonation=weakly_ascending			_	_	_	_
+37-4	BO026	37	{P}	{P}	shortpause	_				_	_	_	_
+37-5	BO026	37	anzi	anzi	linguistic	_				_	_	_	_
+37-6	BO026	37	lo	lo	linguistic	_				_	_	_	_
+37-7	BO026	37	scrivo	scrivo	linguistic	_				_	_	_	_
+37-8	BO026	37	qui	qui.	linguistic	_	Intonation=descending	End=97.748		_	_	_	_
+38-0	BO040	38	s~	<°s~°>	linguistic	_	Interrupted=Yes|Volume=low	End=98.21		0-2(0)	_	_	_
+39-0	BO026	39	voi	voi	linguistic	_		Begin=98.21		_	_	_	_
+39-1	BO026	39	avete	avete	linguistic	_				_	_	_	_
+39-2	BO026	39	il	il	linguistic	_				_	_	_	_
+39-3	BO026	39	programma	programma	linguistic	_				_	_	_	_
+39-4	BO026	39	eh	e:h	linguistic	_	ProsodicLink=Yes		0x1	_	_	_	_
+39-5	BO026	39	mh		linguistic	_		End=100.44		_	_	_	_
+40-0	BO026	40	eh	e::h	linguistic	_	ProsodicLink=Yes	Begin=101.715	0x2	_	_	_	_
+40-1	BO026	40	mh		linguistic	_		End=102.815		_	_	_	_
+41-0	BO026	41	duemilaquindici	duemilaquindici	linguistic	_		Begin=103.82		_	_	_	_
+41-1	BO026	41	sedici	sedici.	linguistic	_	Intonation=descending	End=105.61		_	_	_	_
+42-0	BO040	42	eh	<°e::h	linguistic	_	ProsodicLink=Yes|Volume=low	Begin=105.61	0x2	0-2(0)	_	_	_
+42-1	BO040	42	l'	 	linguistic	_	Truncated=Yes|Volume=low			0-2(0)	_	_	_
+42-2	BO040	42	anno	[nno 	linguistic	_	Volume=low			0-4(0)	_	_	1-4(43)
+42-3	BO040	42	sì	]ì 	linguistic	_	Volume=low			0-2(0)	_	_	0-1(43)
+42-4	BO040	42	duemilaquindici	uemilaquind[ici 	linguistic	_	Volume=low			0-15(0)	_	_	12-15(44)
+42-5	BO040	42	sedici	edici.°>]	linguistic	_	Intonation=descending|Volume=low	End=108.921		0-6(0)	_	_	0-6(44)
+43-0	BO041	43	sì	[sì].	linguistic	_	Intonation=descending	End=106.82		_	_	_	0-2(42)
+44-0	BO026	44	avete	[avete	linguistic	_		Begin=107.875		_	_	_	0-5(42)
+44-1	BO026	44	già	già	linguistic	_				_	_	_	0-3(42)
+44-2	BO026	44	tutti	tutti	linguistic	_				_	_	_	0-5(42)
+44-3	BO026	44	i	i	linguistic	_				_	_	_	0-1(42)
+44-4	BO026	44	testi	te]sti	linguistic	_				_	_	_	0-2(42)
+44-5	BO026	44	una	una	linguistic	_				_	_	_	_
+44-6	BO026	44	parte	parte:::	linguistic	_			4x3	_	_	_	_
+44-7	BO026	44	una	una	linguistic	_				_	_	_	_
+44-8	BO026	44	parte	parte	linguistic	_				_	_	_	_
+44-9	BO026	44	dei	dei	linguistic	_				_	_	_	_
+44-10	BO026	44	testi	testi	linguistic	_				_	_	_	_
+44-11	BO026	44	è	è	linguistic	_				_	_	_	_
+44-12	BO026	44	la	la	linguistic	_				_	_	_	_
+44-13	BO026	44	stessa	stessa,	linguistic	_	Intonation=weakly_ascending	End=113.001		_	_	_	_
+45-0	BO041	45	eh	e::h	linguistic	_	ProsodicLink=Yes	Begin=113.366	0x2	_	_	_	_
+45-1	BO041	45	sì	ì 	linguistic	_				_	_	_	1-2(46)
+45-2	BO041	45	erano	rano 	linguistic	_				_	_	_	0-5(46)
+45-3	BO041	45	tutte	utte 	linguistic	_				_	_	_	0-5(46)
+45-4	BO041	45	le	e 	linguistic	_				_	_	_	0-2(46)
+45-5	BO041	45	dispense	ispense]:	linguistic	_		End=116.11	7x1	_	_	_	0-8(46)
+46-0	BO026	46	per	[per	linguistic	_		Begin=114.1		_	_	_	0-3(45)
+46-1	BO026	46	la	la	linguistic	_				_	_	_	0-2(45)
+46-2	BO026	46	seconda	seconda	linguistic	_				_	_	_	0-7(45)
+46-3	BO026	46	parte	parte	linguistic	_				_	_	_	0-5(45)
+46-4	BO026	46	{P}	{P}	shortpause	_				_	_	_	0-3(45)
+46-5	BO026	46	sì	sì].	linguistic	_	Intonation=descending	End=115.821		_	_	_	0-2(45)
+47-0	BO040	47	sì	<sì>.	linguistic	_	Intonation=descending	End=116.773		0-2(0)	_	_	_
+48-0	BO026	48	okay	okay.	linguistic	_	Intonation=descending	End=117.39		_	_	_	_
+49-0	BO026	49	e	e	linguistic	_		Begin=117.771		_	_	_	_
+49-1	BO026	49	mi	mi	linguistic	_				_	_	_	_
+49-2	BO026	49	dica	dica.	linguistic	_	Intonation=descending	End=118.68		_	_	_	_
+50-0	BO040	50	eh	e:h	linguistic	_		Begin=118.73	0x1	_	_	_	_
+50-1	BO040	50	io	io	linguistic	_				_	_	_	_
+50-2	BO040	50	sono	sono	linguistic	_				_	_	_	_
+50-3	BO040	50	azzurri	azzurri,	linguistic	_	Intonation=weakly_ascending	End=120.663		_	_	_	_
+51-0	BO040	51	maria	maria.	linguistic	_	Intonation=descending	End=121.65		_	_	_	_
+52-0	BO026	52	e	e	linguistic	_		Begin=129.761		_	_	_	_
+52-1	BO026	52	lei	lei?	linguistic	_	Intonation=ascending	End=130.22		_	_	_	_
+53-0	BO041	53	luciana	luciana	linguistic	_		Begin=130.5		_	_	_	_
+53-1	BO041	53	marroni	marroni.	linguistic	_	Intonation=descending	End=131.901		_	_	_	_
+54-0	BO026	54	marroni	marroni?	linguistic	_	Intonation=ascending	End=135.46		_	_	_	_
+55-0	BO041	55	sì	sì.	linguistic	_	Intonation=descending	End=135.835		_	_	_	_
+56-0	BO026	56	mh	mh,	linguistic	_	Intonation=weakly_ascending	End=136.126		_	_	_	_
+57-0	BO026	57	quindi	quindi	linguistic	_		Begin=136.7		_	_	_	_
+57-1	BO026	57	il	il	linguistic	_				_	_	_	_
+57-2	BO026	57	programma	programma	linguistic	_				_	_	_	_
+57-3	BO026	57	è	è	linguistic	_				_	_	_	_
+57-4	BO026	57	quello	quello	linguistic	_				_	_	_	_
+57-5	BO026	57	della	della::	linguistic	_		End=139.29	4x2	_	_	_	_
+58-0	BO026	58	duemilaquindici	duemilaquindici	linguistic	_		Begin=144.405		_	_	_	_
+58-1	BO026	58	sedici	sedici.	linguistic	_	Intonation=descending	End=145.865		_	_	_	_
+59-0	BO040	59	sì	<°sì.°>	linguistic	_	Intonation=descending|Volume=low	End=146.27		0-2(0)	_	_	_
+60-0	BO026	60	mh	mh,	linguistic	_	Intonation=weakly_ascending	End=146.846		_	_	_	_
+61-0	BO026	61	la	la	linguistic	_		Begin=147.89		_	_	_	_
+61-1	BO026	61	parte	parte	linguistic	_				_	_	_	_
+61-2	BO026	61	comune	comune	linguistic	_				_	_	_	_
+61-3	BO026	61	è	è	linguistic	_				_	_	_	_
+61-4	BO026	61	il	il	linguistic	_				_	_	_	_
+61-5	BO026	61	tipo	tipo	linguistic	_				_	_	_	_
+61-6	BO026	61	di	di	linguistic	_				_	_	_	_
+61-7	BO026	61	prova	prova	linguistic	_				_	_	_	_
+61-8	BO026	61	cioè	cioè	linguistic	_				_	_	_	_
+61-9	BO026	61	il	il	linguistic	_				_	_	_	_
+61-10	BO026	61	colloquio	colloquio	linguistic	_				_	_	_	_
+61-11	BO026	61	orale	orale	linguistic	_				_	_	_	_
+61-12	BO026	61	del	del,	linguistic	_	Intonation=weakly_ascending	End=152.9		_	_	_	_
+62-0	BO026	62	eh	e::h	linguistic	_	ProsodicLink=Yes	Begin=153.593	0x2	_	_	_	_
+62-1	BO026	62	mh		linguistic	_		End=154.84		_	_	_	_
+63-0	BO026	63	centrato	centrato	linguistic	_		Begin=156.436		_	_	_	_
+63-1	BO026	63	sull'	sull'	linguistic	_	Truncated=Yes			_	_	_	_
+63-2	BO026	63	analisi	analisi	linguistic	_				_	_	_	_
+63-3	BO026	63	della	della:	linguistic	_			4x1	_	_	_	_
+63-4	BO026	63	sequenza	sequenza	linguistic	_				_	_	_	_
+63-5	BO026	63	trascritta	trascritta.	linguistic	_	Intonation=descending	End=159.421		_	_	_	_
+64-0	BO041	64	okay	°o[kay.°]	linguistic	_	Intonation=descending|Volume=low	End=160.363		_	_	_	1-4(65)
+65-0	BO040	65	d'	[<°d'	linguistic	_	Truncated=Yes|Volume=low	Begin=159.946		0-2(0)	_	_	0-2(64)
+65-1	BO040	65	accordo	acco]rdo.°>	linguistic	_	Intonation=descending|Volume=low	End=160.748		0-7(0)	_	_	0-4(64)
+66-0	BO026	66	e	e	linguistic	_		Begin=160.87		_	_	_	_
+66-1	BO026	66	e	e	linguistic	_	ProsodicLink=Yes			_	_	_	_
+66-2	BO026	66	eh	h 	linguistic	_			0x1	_	_	_	_
+66-3	BO026	66	anche	nche 	linguistic	_				_	_	_	_
+66-4	BO026	66	una	na 	linguistic	_				_	_	_	_
+66-5	BO026	66	parte	arte 	linguistic	_				_	_	_	_
+66-6	BO026	66	dei	ei 	linguistic	_				_	_	_	_
+66-7	BO026	66	testi	esti 	linguistic	_				_	_	_	_
+66-8	BO026	66	per	er 	linguistic	_				_	_	_	_
+66-9	BO026	66	preparare	reparare,	linguistic	_	Intonation=weakly_ascending	End=164.42		_	_	_	_
+67-0	BO040	67	sì	sì	linguistic	_		Begin=165.351		_	_	_	_
+67-1	BO040	67	sono	[son]o	linguistic	_				_	_	_	0-3(68)
+67-2	BO040	67	quelli	quell[i	linguistic	_				_	_	_	5-6(69)
+67-3	BO040	67	che	che	linguistic	_				_	_	_	0-3(69)
+67-4	BO040	67	sono	sono	linguistic	_				_	_	_	0-4(69)
+67-5	BO040	67	sulla	s]ull[a::]	linguistic	_	ProsodicLink=Yes		4x2	_	_	_	0-1(69),4-5(70)
+67-6	BO040	67	mh	h 	linguistic	_			0x1	_	_	_	_
+67-7	BO040	67	sul	ul 	linguistic	_				_	_	_	_
+67-8	BO040	67	suo	uo 	linguistic	_				_	_	_	_
+67-9	BO040	67	sito	ito 	linguistic	_				_	_	_	_
+67-10	BO040	67	ecco	ecc]o 	linguistic	_				_	_	_	0-3(71)
+67-11	BO040	67	di	di]:: 	linguistic	_			1x2	_	_	_	0-2(72)
+67-12	BO040	67	{P}	P} 	shortpause	_				_	_	_	_
+67-13	BO040	67	didattica	idattica 	linguistic	_				_	_	_	_
+67-14	BO040	67	dell'	ell' 	linguistic	_	Truncated=Yes			_	_	_	_
+67-15	BO040	67	italiano	taliano 	linguistic	_				_	_	_	_
+67-16	BO040	67	elle	lle 	linguistic	_				_	_	_	_
+67-17	BO040	67	due	ue 	linguistic	_				_	_	_	_
+67-18	BO040	67	sono	son]o 	linguistic	_				_	_	_	0-3(73)
+67-19	BO040	67	tutti	utti 	linguistic	_				_	_	_	_
+67-20	BO040	67	quelli	que]lli 	linguistic	_				_	_	_	0-3(74)
+67-21	BO040	67	che	[he 	linguistic	_				_	_	_	1-3(75)
+67-22	BO040	67	ha	a 	linguistic	_				_	_	_	0-2(75)
+67-23	BO040	67	elencato	lencato].	linguistic	_	Intonation=descending	End=175.97		_	_	_	0-8(75)
+68-0	BO026	68	la	[(la,)]	linguistic	_	Intonation=weakly_ascending	End=165.778		_	_	0-2(0)	0-2(67)
+69-0	BO026	69	secondo	[secondo	linguistic	_		Begin=166.168		_	_	_	0-7(67)
+69-1	BO026	69	ann~	ann~]	linguistic	_	Interrupted=Yes	End=167.16		_	_	_	0-4(67)
+70-0	BO026	70	sì	[sì].	linguistic	_	Intonation=descending	End=167.686		_	_	_	0-2(67)
+71-0	BO026	71	sì	[sì].	linguistic	_	Intonation=descending	End=170.391		_	_	_	0-2(67)
+72-0	BO026	72	sì	[sì].	linguistic	_	Intonation=descending	End=171.12		_	_	_	0-2(67)
+73-0	BO026	73	sì	[sì].	linguistic	_	Intonation=descending	End=173.758		_	_	_	0-2(67)
+74-0	BO026	74	sì	[sì].	linguistic	_	Intonation=descending	End=174.331		_	_	_	0-2(67)
+75-0	BO026	75	ho	[ho	linguistic	_		Begin=174.723		_	_	_	0-2(67)
+75-1	BO026	75	ho	ho	linguistic	_				_	_	_	0-2(67)
+75-2	BO026	75	messo	messo	linguistic	_				_	_	_	0-5(67)
+75-3	BO026	75	quelli	quelli	linguistic	_				_	_	_	0-6(67)
+75-4	BO026	75	di	di	linguistic	_				_	_	_	0-2(67)
+75-5	BO026	75	quest'	q]uest'	linguistic	_	Truncated=Yes			_	_	_	0-1(67)
+75-6	BO026	75	anno	anno	linguistic	_				_	_	_	_
+75-7	BO026	75	che	che	linguistic	_				_	_	_	_
+75-8	BO026	75	integrano	integrano	linguistic	_				_	_	_	_
+75-9	BO026	75	quelli	quelli	linguistic	_				_	_	_	_
+75-10	BO026	75	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+75-11	BO026	75	anno	anno	linguistic	_				_	_	_	_
+75-12	BO026	75	scorso	scorso,	linguistic	_	Intonation=weakly_ascending	End=179.045		_	_	_	_
+76-0	BO026	76	e	e	linguistic	_		Begin=179.473		_	_	_	_
+76-1	BO026	76	sono	sono	linguistic	_				_	_	_	_
+76-2	BO026	76	anche	anche	linguistic	_				_	_	_	_
+76-3	BO026	76	dei	dei	linguistic	_				_	_	_	_
+76-4	BO026	76	dati	dati	linguistic	_				_	_	_	_
+76-5	BO026	76	nuovi	nuovi	linguistic	_				_	_	_	_
+76-6	BO026	76	ma	ma	linguistic	_				_	_	_	_
+76-7	BO026	76	sono	sono	linguistic	_				_	_	_	_
+76-8	BO026	76	lì	lì	linguistic	_				_	_	_	_
+76-9	BO026	76	trovate	trovate	linguistic	_				_	_	_	_
+76-10	BO026	76	degli	degli	linguistic	_				_	_	_	_
+76-11	BO026	76	esempi	esempi.	linguistic	_	Intonation=descending	End=182.851		_	_	_	_
+77-0	BO026	77	mh	mh,	linguistic	_	Intonation=weakly_ascending	End=183.42		_	_	_	_
+78-0	BO041	78	okay	[okay].	linguistic	_	Intonation=descending	End=183.98		_	_	_	0-4(79)
+79-0	BO040	79	okay	[okay].	linguistic	_	Intonation=descending	End=183.97		_	_	_	0-4(78)
+80-0	BO026	80	lì	lì	linguistic	_		Begin=184.076		_	_	_	_
+80-1	BO026	80	trovate	trovate	linguistic	_				_	_	_	_
+80-2	BO026	80	gli	gli	linguistic	_				_	_	_	_
+80-3	BO026	80	esempi	esempi	linguistic	_				_	_	_	_
+80-4	BO026	80	trovate	trovate	linguistic	_				_	_	_	_
+80-5	BO026	80	le	le	linguistic	_				_	_	_	_
+80-6	BO026	80	slide	slide	linguistic	_				_	_	_	_
+80-7	BO026	80	le	le,	linguistic	_	Intonation=weakly_ascending	End=186.95		_	_	_	_
+81-0	BO026	81	ma	ma,	linguistic	_	Intonation=weakly_ascending	End=187.828		_	_	_	_
+82-0	BO026	82	non	non	linguistic	_		Begin=189.138		_	_	_	_
+82-1	BO026	82	sono	sono	linguistic	_		End=189.69		_	_	_	_
+83-0	BO026	83	questi	questi	linguistic	_		Begin=190.098		_	_	_	_
+83-1	BO026	83	materiali	materiali	linguistic	_				_	_	_	_
+83-2	BO026	83	fondamentali	fondamentali	linguistic	_				_	_	_	_
+83-3	BO026	83	i	i	linguistic	_				_	_	_	_
+83-4	BO026	83	fondamentali	fondamentali	linguistic	_				_	_	_	_
+83-5	BO026	83	sono	sono	linguistic	_				_	_	_	_
+83-6	BO026	83	quelli	quelli	linguistic	_				_	_	_	_
+83-7	BO026	83	che	che	linguistic	_				_	_	_	_
+83-8	BO026	83	sono	sono	linguistic	_				_	_	_	_
+83-9	BO026	83	nel	nel	linguistic	_				_	_	_	_
+83-10	BO026	83	programma	programma,	linguistic	_	Intonation=weakly_ascending	End=194.573		_	_	_	_
+84-0	BO026	84	nel	ne:l	linguistic	_		Begin=195.465	1x1	_	_	_	_
+84-1	BO026	84	nei	nei	linguistic	_				_	_	_	_
+84-2	BO026	84	materiali	materiali	linguistic	_				_	_	_	_
+84-3	BO026	84	didattici	didattici	linguistic	_				_	_	_	_
+84-4	BO026	84	online	online	linguistic	_				_	_	_	_
+84-5	BO026	84	trovate	trovate	linguistic	_				_	_	_	_
+84-6	BO026	84	le	le	linguistic	_				_	_	_	_
+84-7	BO026	84	esemplificazioni	esemplificazioni	linguistic	_				_	_	_	_
+84-8	BO026	84	gli	gli	linguistic	_				_	_	_	_
+84-9	BO026	84	esempi	esempi	linguistic	_				_	_	_	_
+84-10	BO026	84	{P}	{P}	shortpause	_				_	_	_	_
+84-11	BO026	84	i	i	linguistic	_				_	_	_	_
+84-12	BO026	84	testi	testi	linguistic	_				_	_	_	_
+84-13	BO026	84	che	che	linguistic	_				_	_	_	_
+84-14	BO026	84	abbiamo	abbiamo	linguistic	_				_	_	_	_
+84-15	BO026	84	utilizzato	utilizzato	linguistic	_				_	_	_	_
+84-16	BO026	84	in	in	linguistic	_				_	_	_	_
+84-17	BO026	84	classe	classe	linguistic	_				_	_	_	_
+84-18	BO026	84	per	pe:r	linguistic	_			1x1	_	_	_	_
+84-19	BO026	84	per	per	linguistic	_				_	_	_	_
+84-20	BO026	84	esemplificare	esemplificare	linguistic	_				_	_	_	_
+84-21	BO026	84	il	il	linguistic	_				_	_	_	_
+84-22	BO026	84	tipo	tipo	linguistic	_				_	_	_	_
+84-23	BO026	84	di	di	linguistic	_				_	_	_	_
+84-24	BO026	84	analisi	analisi.	linguistic	_	Intonation=descending	End=205.095		_	_	_	_
+85-0	BO040	85	d'	°<d'	linguistic	_	SpaceAfter=No|Volume=low	Begin=205.38		0-2(0)	_	_	_
+85-1	BO040	85	accordo	accordo>.°]	linguistic	_	Intonation=descending|Volume=low	End=206.316		0-7(0)	_	_	0-7(86)
+86-0	BO026	86	d'	[d'	linguistic	_	Truncated=Yes	Begin=205.636		_	_	_	0-2(85)
+86-1	BO026	86	accordo	accordo],	linguistic	_	Intonation=weakly_ascending	End=206.31		_	_	_	0-7(85)
+87-0	BO040	87	va	°<va	linguistic	_	Volume=low	Begin=206.686		0-2(0)	_	_	_
+87-1	BO040	87	bene	b[ene>.°]	linguistic	_	Intonation=descending|Volume=low	End=207.376		0-4(0)	_	_	1-4(88)
+88-0	BO041	88	perché	[perc]hé	linguistic	_		Begin=207.046		_	_	_	0-4(87)
+88-1	BO041	88	le	le	linguistic	_				_	_	_	_
+88-2	BO041	88	dispense	dispense	linguistic	_				_	_	_	_
+88-3	BO041	88	le	le	linguistic	_				_	_	_	_
+88-4	BO041	88	avevate	avevate	linguistic	_				_	_	_	_
+88-5	BO041	88	lasciate	lasciate	linguistic	_				_	_	_	_
+88-6	BO041	88	anche	anche	linguistic	_				_	_	_	_
+88-7	BO041	88	da	da::	linguistic	_		End=209.891	1x2	_	_	_	_
+89-0	BO041	89	da	d[a::]	linguistic	_		End=210.85	1x2	_	_	_	1-2(90)
+90-0	BO026	90	rosi	[ro]:[si]	linguistic	_		End=211.27	1x1	_	_	_	0-2(89),2-4(91)
+91-0	BO041	91	rossi	[ro]ssi.	linguistic	_	Intonation=descending	End=211.775		_	_	_	0-2(90)
+92-0	BO026	92	sì	sì.	linguistic	_	Intonation=descending	End=212.01		_	_	_	_
+93-0	BO041	93	quindi	quindi	linguistic	_		Begin=212.32		_	_	_	_
+93-1	BO041	93	le	le	linguistic	_				_	_	_	_
+93-2	BO041	93	ho	ho	linguistic	_				_	_	_	_
+93-3	BO041	93	prese	prese	linguistic	_				_	_	_	_
+93-4	BO041	93	lì	lì	linguistic	_				_	_	_	_
+93-5	BO041	93	xx	xx	unknown	_				_	_	_	_
+93-6	BO041	93	quindi	quindi	linguistic	_				_	_	_	_
+93-7	BO041	93	sarebbero	sarebbero	linguistic	_				_	_	_	_
+93-8	BO041	93	tutte	tutte:	linguistic	_		End=214.966	4x1	_	_	_	_
+94-0	BO041	94	sarebbero	sarebbero:	linguistic	_		End=216.53	8x1	_	_	_	_
+95-0	BO026	95	quelle	quelle	linguistic	_		Begin=216.62		_	_	_	_
+95-1	BO026	95	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+95-2	BO026	95	anno	anno	linguistic	_				_	_	_	_
+95-3	BO026	95	scorso	scor[so]?	linguistic	_	Intonation=ascending	End=217.536		_	_	_	4-6(96)
+96-0	BO041	96	ssì	[s]sì.	linguistic	_	Intonation=descending	End=217.77		_	_	_	0-1(95)
+97-0	BO026	97	sì	°sì.°	linguistic	_	Intonation=descending|Volume=low	End=218.153		_	_	_	_
+98-0	BO026	98	sì	s[ì].	linguistic	_	Intonation=descending	End=219.0		_	_	_	1-2(?)
+99-0	BO041	99	okay	[°o]kay.°	linguistic	_	Intonation=descending|Volume=low	End=219.291		_	_	_	0-1(?)
+100-0	BO026	100	quest'	quest'	linguistic	_	Truncated=Yes	Begin=220.06		_	_	_	_
+100-1	BO026	100	anno	anno::	linguistic	_			3x2	_	_	_	_
+100-2	BO026	100	ho	ho	linguistic	_				_	_	_	_
+100-3	BO026	100	mandato	mandato	linguistic	_				_	_	_	_
+100-4	BO026	100	quelle	quelle	linguistic	_				_	_	_	_
+100-5	BO026	100	di	di	linguistic	_				_	_	_	_
+100-6	BO026	100	quest'	quest'	linguistic	_	Truncated=Yes			_	_	_	_
+100-7	BO026	100	anno	anno	linguistic	_				_	_	_	_
+100-8	BO026	100	ma	ma	linguistic	_				_	_	_	_
+100-9	BO026	100	ci	ci	linguistic	_				_	_	_	_
+100-10	BO026	100	sono	sono	linguistic	_				_	_	_	_
+100-11	BO026	100	delle	delle	linguistic	_				_	_	_	_
+100-12	BO026	100	variazioni	variazioni	linguistic	_				_	_	_	_
+100-13	BO026	100	ci	ci	linguistic	_				_	_	_	_
+100-14	BO026	100	sono	sono	linguistic	_				_	_	_	_
+100-15	BO026	100	dei	dei	linguistic	_				_	_	_	_
+100-16	BO026	100	testi	testi	linguistic	_				_	_	_	_
+100-17	BO026	100	nuovi	nuovi	linguistic	_				_	_	_	_
+100-18	BO026	100	e	e	linguistic	_				_	_	_	_
+100-19	BO026	100	poi	poi	linguistic	_				_	_	_	_
+100-20	BO026	100	quelli	°quelli	linguistic	_	Volume=low			_	_	_	_
+100-21	BO026	100	che	che	linguistic	_	Volume=low			_	_	_	_
+100-22	BO026	100	trovate	trovate	linguistic	_	Volume=low			_	_	_	_
+100-23	BO026	100	online	online°.	linguistic	_	Intonation=descending|Volume=low	End=227.35		_	_	_	_
+101-0	BO026	101	online	online	linguistic	_		Begin=227.625		_	_	_	_
+101-1	BO026	101	trovate	trovate	linguistic	_				_	_	_	_
+101-2	BO026	101	degli	degli	linguistic	_				_	_	_	_
+101-3	BO026	101	esempi	esempi	linguistic	_				_	_	_	_
+101-4	BO026	101	che	che	linguistic	_				_	_	_	_
+101-5	BO026	101	potete	potete	linguistic	_				_	_	_	_
+101-6	BO026	101	utilizzare	utilizzare	linguistic	_				_	_	_	_
+101-7	BO026	101	anche	anche	linguistic	_				_	_	_	_
+101-8	BO026	101	se	se	linguistic	_				_	_	_	_
+101-9	BO026	101	il	il	linguistic	_				_	_	_	_
+101-10	BO026	101	programma	programma	linguistic	_				_	_	_	_
+101-11	BO026	101	dell'	dell'	linguistic	_	Truncated=Yes			_	_	_	_
+101-12	BO026	101	anno	anno	linguistic	_				_	_	_	_
+101-13	BO026	101	scorso	s[corso].	linguistic	_	Intonation=descending	End=232.4		_	_	_	1-6(102)
+102-0	BO041	102	okay	[okay].	linguistic	_	Intonation=descending	End=232.41		_	_	_	0-4(101)
+103-0	BO026	103	ma	ma	linguistic	_		Begin=232.84		_	_	_	_
+103-1	BO026	103	per	per	linguistic	_				_	_	_	_
+103-2	BO026	103	quanto	quanto	linguistic	_				_	_	_	_
+103-3	BO026	103	riguarda	riguarda	linguistic	_				_	_	_	_
+103-4	BO026	103	i	i	linguistic	_				_	_	_	_
+103-5	BO026	103	testi	testi	linguistic	_				_	_	_	_
+103-6	BO026	103	d'	d'	linguistic	_	Truncated=Yes			_	_	_	_
+103-7	BO026	103	esame	esa[me],	linguistic	_	Intonation=weakly_ascending	End=235.625		_	_	_	3-5(104)
+104-0	BO041	104	mh	[°mh]	linguistic	_	Volume=low	Begin=235.412		_	_	_	0-2(103)
+104-1	BO041	104	mh	mh.°	linguistic	_	Intonation=descending|Volume=low	End=235.94		_	_	_	_
+105-0	BO026	105	attenetevi	attenetevi	linguistic	_		Begin=236.655		_	_	_	_
+105-1	BO026	105	al	al	linguistic	_				_	_	_	_
+105-2	BO026	105	programma	programma	linguistic	_				_	_	_	_
+105-3	BO026	105	duemilaquindici	duemilaquindici	linguistic	_				_	_	_	_
+105-4	BO026	105	sedici	[sedici].	linguistic	_	Intonation=descending	End=239.301		_	_	_	0-6(106+107)
+106-0	BO041	106	okay	[°okay.°]	linguistic	_	Intonation=descending|Volume=low	End=239.466		_	_	_	0-4(105+107)
+107-0	BO040	107	duemilasedici	[°duemila]sedici.°	linguistic	_	Intonation=descending|Volume=low	End=240.33		_	_	_	0-7(105+106)
+108-0	BO026	108	d'	d'	linguistic	_	SpaceAfter=No	Begin=240.41		_	_	_	_
+108-1	BO026	108	accordo	accordo]?	linguistic	_	Intonation=ascending	End=241.06		_	_	_	0-7(109)
+109-0	BO041	109	va	[va	linguistic	_		Begin=240.54		_	_	_	0-2(108)
+109-1	BO041	109	bene	bene].	linguistic	_	Intonation=descending	End=241.06		_	_	_	0-4(108)
+110-0	BO040	110	perfetto	per[fetto].	linguistic	_	Intonation=descending	End=241.84		_	_	_	3-8(111)
+111-0	BO026	111	perché	[perché	linguistic	_		Begin=241.29		_	_	_	0-6(110)
+111-1	BO026	111	x	x]	unknown	_				_	_	_	0-1(110)
+111-2	BO026	111	lo	lo	linguistic	_				_	_	_	_
+111-3	BO026	111	avevate	avevate	linguistic	_				_	_	_	_
+111-4	BO026	111	già	già	linguistic	_				_	_	_	_
+111-5	BO026	111	preso	preso	linguistic	_				_	_	_	_
+111-6	BO026	111	perché	perché,	linguistic	_	Intonation=weakly_ascending	End=243.49		_	_	_	_
+112-0	BO040	112	sì	°sì.	linguistic	_	Intonation=descending|Volume=low	Begin=243.49		_	_	_	_
+112-1	BO040	112	infatti	(i[nfatti).°]	linguistic	_	Intonation=descending|Volume=low	End=244.43		_	_	0-7(0)	1-7(113)
+113-0	BO026	113	la	[la	linguistic	_		Begin=243.9		_	_	_	0-2(112)
+113-1	BO026	113	partecomune	parte]comune	linguistic	_				_	_	_	0-5(112)
+113-2	BO026	113	è	è	linguistic	_				_	_	_	_
+113-3	BO026	113	xx	xx	unknown	_				_	_	_	_
+113-4	BO026	113	xx	[xx	unknown	_				_	_	_	0-2(114)
+113-5	BO026	113	l'	l'	linguistic	_	Truncated=Yes			_	_	_	0-2(114)
+113-6	BO026	113	orale	orale].	linguistic	_	Intonation=descending	End=247.045		_	_	_	0-5(114)
+114-0	BO040	114	io	[<io	linguistic	_		Begin=245.796		0-2(0)	_	_	0-2(113)
+114-1	BO040	114	ho	ho	linguistic	_				0-2(0)	_	_	0-2(113)
+114-2	BO040	114	già	già	linguistic	_				0-3(0)	_	_	0-3(113)
+114-3	BO040	114	tutto	tutt][o::]>	linguistic	_		End=247.685	4x2	0-5(0)	_	_	0-4(113),4-5(115)
+115-0	BO026	115	sì	[sì].	linguistic	_	Intonation=descending	End=247.64		_	_	_	0-2(114)
+116-0	BO026	116	va	v[a	linguistic	_		Begin=248.171		_	_	_	1-2(117)
+116-1	BO026	116	bene	bene],	linguistic	_	Intonation=weakly_ascending	End=248.763		_	_	_	0-4(117)
+117-0	BO040	117	ho	[ho	linguistic	_		Begin=248.4		_	_	_	0-2(116)
+117-1	BO040	117	già	gi]à	linguistic	_				_	_	_	0-2(116)
+117-2	BO040	117	tutto	tutto.	linguistic	_	Intonation=descending	End=249.308		_	_	_	_
+118-0	BO040	118	perfetto	°p[erfetto.°]	linguistic	_	Intonation=descending|Volume=low	End=250.466		_	_	_	1-8(?)
+119-0	BO041	119	va	[°va	linguistic	_	Volume=low	Begin=249.643		_	_	_	0-2(118)
+119-1	BO041	119	bene	bene.°]	linguistic	_	Intonation=descending|Volume=low	End=250.208		_	_	_	0-4(118)
+120-0	BO026	120	va	[va]	linguistic	_		Begin=250.208		_	_	_	0-2(118)
+120-1	BO026	120	bene	bene.	linguistic	_	Intonation=descending	End=250.801		_	_	_	_
+121-0	BO040	121	grazie	grazie	linguistic	_		Begin=250.83		_	_	_	_
+121-1	BO040	121	mille	mille.	linguistic	_	Intonation=descending	End=251.805		_	_	_	_
+122-0	BO040	122	arrivederci	a[rrivederci]	linguistic	_		Begin=251.937		_	_	_	1-11(123)
+122-1	BO040	122	grazie	grazie.	linguistic	_	Intonation=descending	End=253.66		_	_	_	_
+123-0	BO026	123	arrivederci	[arrivederci].	linguistic	_	Intonation=descending	End=252.805		_	_	_	0-11(122)
