@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="automatic_pipeline"
-    DATE="2025-02-26T09:27:43-05:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2025-02-27T19:12:21+01:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/Users/eleon/OneDrive - Alma Mater Studiorum Università di Bologna/Stra-ParlaBO/Dati/Audio/BOA3017.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../OneDrive - Alma Mater Studiorum Università di Bologna/Stra-ParlaBO/Dati/Audio/BOA3017.wav"/>
+            MEDIA_URL="file:///C:/Users/eleon/OneDrive - Alma Mater Studiorum Università di Bologna/Stra-ParlaBO/Dati/Audio/BOA3017.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3600071d-288a-42a7-8d1c-a4ee43c77aff</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">1174</PROPERTY>
@@ -4951,7 +4950,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a625"
                 TIME_SLOT_REF1="ts1246" TIME_SLOT_REF2="ts1250">
-                <ANNOTATION_VALUE>id:623 [s~ sai che se l' è (mangiat]o)] intero quello grosso gliel' ho portato manzo un [pezzetto me n' ha lasciato]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>id:623 [s~ sai che se l' è (mangiato)] intero quello grosso gliel' ho portato manzo un [pezzetto me n' ha lasciato]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8283,7 +8282,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1078"
                 TIME_SLOT_REF1="ts2153" TIME_SLOT_REF2="ts2155">
-                <ANNOTATION_VALUE>id:1076 è come quando vado a casa di</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>id:1076 è come quando vado a cas[a di]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9341,7 +9340,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1079"
                 TIME_SLOT_REF1="ts2154" TIME_SLOT_REF2="ts2157">
-                <ANNOTATION_VALUE>id:1077 come: quando: (lui) (piglia) (per il) (culo) a (lei) e la fa (incazzare) è uguale</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>id:1077 [come: qu]ando: (lui) (piglia) (per il) (culo) a (lei) e la fa (incazzare) è uguale</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

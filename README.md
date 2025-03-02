@@ -3,7 +3,7 @@
 
 | KIPOS | TIPO                          | CODE        | appunti                          |
 | ---   | ---                           | ---         | ----                             |
-| KIPOS | conversazione libera          | BOA3017     |                                  |
+| KIPOS | conversazione libera          | BOA3017     | OK                               |
 | KIPOS | conversazione libera          | TOA3001     |                                  |
 | KIPOS | intervista semistrutturata    | BOD2018     | OK                               |
 | KIPOS | intervista semistrutturata    | TOD2003     |                                  |
