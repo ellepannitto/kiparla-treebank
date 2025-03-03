@@ -26,7 +26,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 10-3	BOR005	10	3	5	abitavate	abitavate	abitavare	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	ROOT:5	linguistic	_		End=14.0		_	_	_
 11-0	BOI012	11	4	0	a	a	a	ADP	E		case:1	linguistic	_		Begin=14.86		_	_	_
 11-1	BOI012	11	4	1	corticella	corticella	corticella	NOUN	S	Gender=Fem|Number=Sing	ROOT:1	linguistic	_		_		_	_	_
-11-2	BOI012	11	4	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=16.471		_	_	_
+11-2	BOI012	11	4	_	metalinguistic	NLB		End=16.471		_	_	_
 12-0	BOI012	12	5	0	poi	poi	poi	ADV	B		advmod:2	linguistic	_		Begin=17.62		_	_	_
 12-1	BOI012	12	5	1	abbiamo	abbiamo	avere	AUX	VA	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	aux:2	linguistic	_		_		_	_	_
 12-2	BOI012	12	5	2	abitato:	abitato	abitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	ROOT:2	linguistic	_		_	6x1	_	_	_
@@ -114,8 +114,8 @@ _	_	_	_	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	
 30-3	BOI012	30	21	4	a	a	a	ADP	E		case:5	linguistic	_		_		_	_	_
 30-4	BOI012	30	21	5	me	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	ROOT:5	linguistic	_		_		_	_	_
 30-5	BOI012	30	21	6	no	no	no	INTJ	I		discourse:5	linguistic	_		_		_	_	_
-30-6	BOI012	30	21	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=48.71		_	_	_
-31-0	BOI013	31	21	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=50.458		_	_	_
+30-6	BOI012	30	21	_	metalinguistic	NLB		End=48.71		_	_	_
+31-0	BOI013	31	21	_	metalinguistic	NLB		End=50.458		_	_	_
 32-0	BOR005	32	22	0	e	e	e	CCONJ	CC		cc:4	linguistic	_		Begin=51.02		_	_	_
 32-1	BOR005	32	22	1	perché	perché	perché	ADV	B		advmod:4	linguistic	_		_		_	_	_
 32-2	BOR005	32	22	2	non	non	non	ADV	BN	PronType=Neg	advmod:4	linguistic	_		_		_	_	_
@@ -152,7 +152,7 @@ _	_	_	_	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	
 36-2	BOR005	36	26	3	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	linguistic	_		_		_	_	_
 36-3	BOR005	36	26	4	vostra	vostra	vostro	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	det:poss:5	linguistic	_		_		_	_	_
 36-4	BOR005	36	26	5	zona?	zona	zona	NOUN	S	Gender=Fem|Number=Sing	obj:2	linguistic	_	Intonation=ascending	End=62.976		_	_	_
-37-0	BOI013	37	26	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=64.646		_	_	_
+37-0	BOI013	37	26	_	metalinguistic	NLB		End=64.646		_	_	_
 38-0	BOI012	38	27	0	ah	ah	ah	INTJ	I		discourse:3	linguistic	_		Begin=64.739		_	_	_
 38-1	BOI012	38	27	1	beh:	beh	beh	INTJ	I		discourse:3	linguistic	_		_	2x1	_	_	_
 38-2	BOI012	38	27	2	se	se	se	SCONJ	CS		mark:3	linguistic	_		_		_	_	_
@@ -169,7 +169,7 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 38-11	BOI012	38	27	12	e	e	e	CCONJ	CC		cc:14	linguistic	_		_		_	_	_
 38-12	BOI012	38	27	13	i	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:14	linguistic	_		_		_	_	_
 38-13	BOI012	38	27	14	negozianti	negozianti	negoziante	NOUN	S	Gender=Masc|Number=Plur	conj:11	linguistic	_		End=69.191		_	_	_
-39-0	BOR005	39	27	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=69.547		_	_	_
+39-0	BOR005	39	27	_	metalinguistic	NLB		End=69.547		_	_	_
 40-0	BOI012	40	27	15	e:	e	e	CCONJ	CC		cc:16	linguistic	_		Begin=69.641	0x1	_	_	_
 40-1	BOI012	40	27	16	quant	quant'	quanto	PRON	PI	PronType=Ind	conj:3	linguistic	_	SpaceAfter=No	_		_	_	_
 40-2	BOI012	40	27	17	altro	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	nmod:16	linguistic	_		_		_	_	_
@@ -183,7 +183,7 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 41-6	BOI013	41	27	25	solamente	solamente	solamente	ADV	B		advmod:24	linguistic	_		_		_	_	_
 41-7	BOI013	41	27	26	per	per	per	ADP	E		case:27	linguistic	_		_		_	_	_
 41-8	BOI013	41	27	27	noi	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	obl:24	linguistic	_		End=74.268		_	_	_
-42-0	BOR005	42	27	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=74.914		_	_	_
+42-0	BOR005	42	27	_	metalinguistic	NLB		End=74.914		_	_	_
 43-0	BOI013	43	28	0	troppo	troppo	troppo	ADV	B		advmod:1	linguistic	_		Begin=75.042		_	_	_
 43-1	BOI013	43	28	1	trafficata	trafficata	trafficato	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	ROOT:1	linguistic	_		_		_	_	_
 43-2	BOI013	43	29	0	di	di	di	ADP	E		case:1	linguistic	_		_		_	_	_
@@ -394,7 +394,7 @@ _	_	_	_	3	_	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:2	_	_	_	_	_	_	_	
 80-11	BOI012	80	61	0	prendi	prendi	prendere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	ROOT:0	linguistic	_		_		_	_	_
 80-12	BOI012	80	61	1	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2	linguistic	_		_		_	_	_
 80-13	BOI012	80	61	2	macchina	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	obj:0	linguistic	_		_		_	_	_
-80-14	BOI012	80	61	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+80-14	BOI012	80	61	_	metalinguistic	NLB		_		_	_	_
 80-15	BOI012	80	61	3	e	e	e	CCONJ	CC		cc:4	linguistic	_		_		_	_	_
 80-16	BOI012	80	61	4	vai	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	conj:0	linguistic	_		_		_	_	_
 80-17	BOI012	80	61	5	dove	dove	dove	ADV	B		advmod:4	linguistic	_		_		_	_	_
@@ -435,7 +435,7 @@ _	_	_	_	16	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 89-0	BOR005	89	65	4	per	per	per	ADP	E		case:5	linguistic	_		Begin=162.895		_	_	_
 89-1	BOR005	89	65	5	te	te	te	PRON	PE	Number=Sing|Person=2|PronType=Prs	obl:3	linguistic	_		_		_	_	_
 89-2	BOR005	89	66	0	no	no	no	INTJ	I		ROOT:0	linguistic	_		_		_	_	_
-89-3	BOR005	89	66	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=163.785		_	_	_
+89-3	BOR005	89	66	_	metalinguistic	NLB		End=163.785		_	_	_
 90-0	BOI012	90	67	0	sì	sì	sì	INTJ	I		ROOT:0	linguistic	_		Begin=163.83		_	_	_
 90-1	BOI012	90	67	1	e	e	e	CCONJ	CC		cc:2	linguistic	_		_		_	_	_
 90-2	BOI012	90	67	2	no:	no	no	INTJ	I		conj:0	linguistic	_		_	1x1	_	_	_
@@ -680,7 +680,7 @@ _	_	_	_	13	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:14	_	_	_	_	_
 128-9	BOI012	128	97	1	è	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux:2	linguistic	_		_		_	_	_
 128-10	BOI012	128	97	2	cambiato	cambiato	cambiare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	ROOT:2	linguistic	_		_		_	_	_
 128-11	BOI012	128	97	3	tutto	tutto	tutto	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	obj:2	linguistic	_		End=232.115		_	_	_
-129-0	BOR005	129	97	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=231.622		_	_	_
+129-0	BOR005	129	97	_	metalinguistic	NLB		End=231.622		_	_	_
 130-0	BOI013	130	98	0	°che	che	che	DET	DE	PronType=Exc	det:1	linguistic	_	Volume=low	Begin=233.735		_	_	_
 130-1	BOI013	130	98	1	cavolo	cavolo	cavolo	NOUN	S	Gender=Masc|Number=Sing	nsubj:2	linguistic	_	Volume=low	_		_	_	_
 130-2	BOI013	130	98	2	dici°	dici	dire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_	Volume=low	End=234.875		_	_	_
@@ -1195,7 +1195,7 @@ _	_	_	_	3	_	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=P
 217-7	BOI012	217	141	1	[magari]	magari	magari	ADV	B		advmod:6	linguistic	_		End=389.33		_	_	0-6(219)
 218-0	BOR005	218	141	2	[xxx]	xxx	xxx	X	SW		fixed:1	unknown	_		End=388.575		_	_	0-3(217)
 219-0	BOI013	219	141	3	[xxx]	xxx	xxx	X	SW		fixed:1	unknown	_		Begin=388.64		_	_	0-3(217)
-219-1	BOI013	219	141	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=389.79		_	_	_
+219-1	BOI013	219	141	_	metalinguistic	NLB		End=389.79		_	_	_
 220-0	BOI012	220	141	4	non	non	non	ADV	BN	PronType=Neg	advmod:6	linguistic	_		Begin=389.975		_	_	_
 220-1	BOI012	220	141	5	lo	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	obj:6	linguistic	_		_		_	_	_
 220-2	BOI012	220	141	6	so	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ROOT:6	linguistic	_		_		_	_	_
@@ -1491,7 +1491,7 @@ _	_	_	_	4	_	andar	andare	VERB	V	VerbForm=Inf	xcomp:2	_	_	_	_	_	_	_	_
 _	_	_	_	5	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:4	_	_	_	_	_	_	_	_
 265-16	BOI012	265	167	6	da	da	da	ADP	E		case:8	linguistic	_		_		_	_	_
 265-17	BOI012	265	167	7	quando::	quando	quando	SCONJ	CS		mark:8	linguistic	_		End=486.705	5x2	_	_	_
-266-0	BOR005	266	167	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=485.3		_	_	_
+266-0	BOR005	266	167	_	metalinguistic	NLB		End=485.3		_	_	_
 267-0	BOI012	267	167	8	stiamo	stiamo	stare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	obl:4	linguistic	_		Begin=487.085		_	_	_
 267-1	BOI012	267	167	9	as~	as~	as~	SYM	SYM		parataxis:hashtag:2	linguistic	_	Interrupted=Yes	_		_	_	_
 267-2	BOI012	267	167	10	stiamo	stiamo	stare	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	cop:11	linguistic	_		_		_	_	_
@@ -1608,7 +1608,7 @@ _	_	_	_	16	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 279-11	BOI012	279	179	6	con	con	con	ADP	E		case:7	linguistic	_		_		_	_	_
 279-12	BOI012	279	179	7	chi	chi	chi	PRON	PR	PronType=Rel	obl:5	linguistic	_		_		_	_	_
 279-13	BOI012	279	179	8	vuoi	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	acl:relcl:7	linguistic	_		_		_	_	_
-279-14	BOI012	279	179	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=524.225		_	_	_
+279-14	BOI012	279	179	_	metalinguistic	NLB		End=524.225		_	_	_
 280-0	BOI012	280	180	0	cioè	cioè	cioè	CCONJ	CC		cc:2	linguistic	_		End=525.305		_	_	_
 281-0	BOR005	281	180	1	invece	invece	invece	ADV	B		advmod:2	linguistic	_		End=527.69		_	_	_
 282-0	BOR005	282	180	2	visto	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_		Begin=528.585		_	_	_
@@ -1851,11 +1851,11 @@ _	_	_	_	7	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	obj:6	_	_
 321-5	BOR005	321	213	9	soldo	soldo	soldo	NOUN	S	Gender=Masc|Number=Sing	obj:7	linguistic	_		End=607.5		_	_	_
 322-0	BOI012	322	214	0	poca	poca	poco	DET	DI	PronType=Ind	det:1	linguistic	_		Begin=607.925		_	_	_
 322-1	BOI012	322	214	1	roba	roba	roba	NOUN	S	Gender=Fem|Number=Sing	ROOT:1	linguistic	_		End=608.585		_	_	_
-323-0	BOR005	323	214	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=609.215		_	_	_
-324-0	BOI012	324	214	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=609.335		_	_	_
-325-0	BOR005	325	214	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=612.125		_	_	_
+323-0	BOR005	323	214	_	metalinguistic	NLB		End=609.215		_	_	_
+324-0	BOI012	324	214	_	metalinguistic	NLB		End=609.335		_	_	_
+325-0	BOR005	325	214	_	metalinguistic	NLB		End=612.125		_	_	_
 326-0	BOR005	326	215	0	vabbè	vabbè	vabbè	INTJ	I		ROOT:0	linguistic	_		End=612.58		_	_	_
-327-0	BOR005	327	215	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=613.64		_	_	_
+327-0	BOR005	327	215	_	metalinguistic	NLB		End=613.64		_	_	_
 328-0	BOR005	328	216	0	beh	beh	beh	INTJ	I		discourse:4	linguistic	_		Begin=615.21		_	_	_
 328-1	BOR005	328	216	1	insomma	insomma	insomma	ADV	B		advmod:4	linguistic	_		End=615.95		_	_	_
 329-0	BOR005	329	216	2	almeno	almeno	almeno	ADV	B		advmod:4	linguistic	_		End=616.59		_	_	_
@@ -1878,7 +1878,7 @@ _	_	_	_	7	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	obj:6	_	_
 333-0	BOR005	333	220	0	[ah]	ah	ah	INTJ	I		discourse:1	linguistic	_		End=622.145		_	_	0-2(332)
 334-0	BOI013	334	220	1	beppe	beppe	beppe	NOUN	S	Gender=Fem|Number=Plur	ROOT:1	linguistic	_		Begin=622.68		_	_	_
 334-1	BOI013	334	220	2	maniglia	maniglia	maniglia	NOUN	S	Gender=Fem|Number=Sing	vocative:1	linguistic	_		End=623.74		_	_	_
-335-0	BOI013	335	220	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=624.56		_	_	_
+335-0	BOI013	335	220	_	metalinguistic	NLB		End=624.56		_	_	_
 336-0	BOI012	336	221	0	eh	eh	eh	INTJ	I		ROOT:0	linguistic	_		End=625.695		_	_	_
 337-0	BOR005	337	221	1	che	che	che	SCONJ	CS		mark:7	linguistic	_		Begin=626.51		_	_	_
 337-1	BOR005	337	221	2	poi	poi	poi	ADV	B		advmod:7	linguistic	_		_		_	_	_
@@ -2159,7 +2159,7 @@ _	_	_	_	6	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:7	
 384-3	BOI013	384	268	7	piedi	piedi	piede	NOUN	S	Gender=Masc|Number=Plur	obl:9	linguistic	_		_		_	_	_
 384-4	BOI013	384	268	8	°sono	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:9	linguistic	_	Volume=low	_		_	_	_
 384-5	BOI013	384	268	9	andata°	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	ROOT:9	linguistic	_	Volume=low	End=710.31		_	_	_
-385-0	BOR005	385	268	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=710.715		_	_	_
+385-0	BOR005	385	268	_	metalinguistic	NLB		End=710.715		_	_	_
 386-0	BOI012	386	269	0	ma::	ma	ma	CCONJ	CC		cc:1	linguistic	_		Begin=710.95	1x2	_	_	_
 386-1	BOI012	386	269	1	sì	sì	sì	INTJ	I		ROOT:1	linguistic	_		_		_	_	_
 386-2	BOI012	386	269	2	ma	ma	ma	CCONJ	CC		cc:4	linguistic	_		_		_	_	_
@@ -2255,7 +2255,7 @@ _	_	_	_	10	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:9	_
 _	_	_	_	12	_	di	di	ADP	E		fixed:11	_	_	_	_	_	_	_	_
 _	_	_	_	13	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:14	_	_	_	_	_	_	_	_
 401-11	BOR005	401	281	14	matri]monio	matrimonio	matrimonio	NOUN	S	Gender=Masc|Number=Sing	obl:9	linguistic	_		_		_	_	0-5(402)
-401-12	BOR005	401	281	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=750.735		_	_	_
+401-12	BOR005	401	281	_	metalinguistic	NLB		End=750.735		_	_	_
 402-0	BOI013	402	282	0	[io]	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	ROOT:0	linguistic	_		End=750.335		_	_	0-2(401)
 403-0	BOI012	403	283	0	a:h	ah	ah	INTJ	I		discourse:2	linguistic	_		Begin=751.02	0x1	_	_	_
 403-1	BOI012	403	283	1	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2	linguistic	_		_		_	_	_
@@ -2321,7 +2321,7 @@ _	_	_	_	14	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 413-14	BOI012	413	289	2	non	non	non	ADV	BN	PronType=Neg	advmod:4	linguistic	_		_		Fast=0-3(0)	_	_
 413-15	BOI012	413	289	3	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:4	linguistic	_		_		Fast=0-2(0)	_	_
 413-16	BOI012	413	289	4	laureano<	laureano	laureere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	ROOT:4	linguistic	_		End=768.29		Fast=0-8(0)	_	_
-414-0	BOR005	414	289	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=767.69		_	_	_
+414-0	BOR005	414	289	_	metalinguistic	NLB		End=767.69		_	_	_
 415-0	BOI012	415	290	0	sono	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	cop:1	linguistic	_		Begin=768.625		_	_	_
 415-1	BOI012	415	290	1	quelle	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	ROOT:1	linguistic	_		_		_	_	_
 415-2	BOI012	415	290	2	vecchie:[°::°]	vecchie	vecchio	ADJ	A	Gender=Fem|Number=Plur	amod:1	linguistic	_		End=770.355	6x3	_	_	_
@@ -2360,7 +2360,7 @@ _	_	_	_	14	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 421-3	BOI013	421	296	3	dovevi	dovevi	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	aux:4	linguistic	_		_		_	_	_
 421-4	BOI013	421	296	4	laureare	laureare	laurearire	VERB	V	VerbForm=Inf	ROOT:4	linguistic	_		_		_	_	_
 421-5	BOI013	421	296	5	tu	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	nsubj:4	linguistic	_		End=780.325		_	_	_
-422-0	BOI012	422	296	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=779.205		_	_	_
+422-0	BOI012	422	296	_	metalinguistic	NLB		End=779.205		_	_	_
 423-0	BOI012	423	297	0	sì::	sì	sì	INTJ	I		ROOT:0	linguistic	_		Begin=781.01	1x2	_	_	_
 423-1	BOI012	423	297	1	ma	ma	ma	CCONJ	CC		cc:2	linguistic	_		_		_	_	_
 423-2	BOI012	423	297	2	vabbè	vabbè	vabbè	INTJ	I		conj:0	linguistic	_		_		_	_	_
@@ -2377,14 +2377,14 @@ _	_	_	_	14	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 423-13	BOI012	423	299	4	sia	sia	essere	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:6	linguistic	_		_		_	_	_
 423-14	BOI012	423	299	5	per	per	per	ADP	E		case:6	linguistic	_		_		_	_	_
 423-15	BOI012	423	299	6	quello	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	ccomp:2	linguistic	_		End=784.545		_	_	_
-424-0	BOI013	424	299	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=785.765		_	_	_
-425-0	BOI012	425	299	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=787.395		_	_	_
+424-0	BOI013	424	299	_	metalinguistic	NLB		End=785.765		_	_	_
+425-0	BOI012	425	299	_	metalinguistic	NLB		End=787.395		_	_	_
 426-0	BOI013	426	299	7	°perché	perché	perché	SCONJ	CS		mark:9	linguistic	_	Volume=low	Begin=787.48		_	_	_
 426-1	BOI013	426	299	8	sei	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	cop:9	linguistic	_	Volume=low	_		_	_	_
 426-2	BOI013	426	299	9	ciuccio°	ciuccio	ciuccio	ADJ	A	Gender=Masc|Number=Sing	advcl:2	linguistic	_	Volume=low	End=788.4		_	_	_
-427-0	BOI012	427	299	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=789.4		_	_	_
+427-0	BOI012	427	299	_	metalinguistic	NLB		End=789.4		_	_	_
 428-0	BOI013	428	300	0	oh	oh	oh	INTJ	I		discourse:7	linguistic	_		Begin=794.16		_	_	_
-428-1	BOI013	428	300	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=794.71		_	_	_
+428-1	BOI013	428	300	_	metalinguistic	NLB		End=794.71		_	_	_
 429-0	BOI013	429	300	1	eh	eh	eh	INTJ	I		discourse:7	linguistic	_		Begin=796.205		_	_	_
 429-1	BOI013	429	300	2	beh	beh	beh	INTJ	I		discourse:7	linguistic	_		_		_	_	_
 429-2	BOI013	429	300	3	che	che	che	SCONJ	CS		mark:7	linguistic	_		_		_	_	_
@@ -2662,13 +2662,13 @@ _	_	_	_	3	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	
 474-5	BOI013	474	338	5	ambulanza	ambulanza	ambulanza	NOUN	S	Gender=Fem|Number=Sing	ROOT:5	linguistic	_		_		_	_	_
 474-6	BOI013	474	338	6	per	per	per	ADP	E		case:7	linguistic	_		_		_	_	_
 474-7	BOI013	474	338	7	me	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	obl:9	linguistic	_		End=879.55		_	_	_
-475-0	BOR005	475	338	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		Begin=879.915		_	_	_
+475-0	BOR005	475	338	_	metalinguistic	NLB		Begin=879.915		_	_	_
 475-1	BOR005	475	338	8	(levi)	levi	lere	AUX	VM	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	aux:9	linguistic	_		_		_	0-4(0)	_
 475-2	BOR005	475	338	9	ambulanza	ambulanza	ambulanzare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	parataxis:5	linguistic	_		_		_	_	_
 475-3	BOR005	475	338	10	[anzi]	anzi	anzi	ADV	B		advmod:11	linguistic	_		End=881.595		_	_	0-4(476)
 476-0	BOI013	476	338	11	[(levi)]	levi	leve	ADJ	A	Gender=Masc|Number=Plur	xcomp:9	linguistic	_		Begin=881.205		_	0-4(0)	0-4(475)
 476-1	BOI013	476	338	12	ambula~	ambula~	ambula~	SYM	SYM		dep:5	linguistic	_	Interrupted=Yes	_		_	_	_
-476-2	BOI013	476	338	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=883.115		_	_	_
+476-2	BOI013	476	338	_	metalinguistic	NLB		End=883.115		_	_	_
 477-0	BOR005	477	339	0	>e	e	e	CCONJ	CC		cc:5	linguistic	_		Begin=885.285		Fast=0-1(0)	_	_
 477-1	BOR005	477	339	1	poi	poi	poi	ADV	B		advmod:5	linguistic	_		_		Fast=0-3(0)	_	_
 477-2	BOR005	477	339	2	da	da	da	ADP	E		case:3	linguistic	_		_		Fast=0-2(0)	_	_
@@ -3342,7 +3342,7 @@ _	_	_	_	8	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:9	_	_	_	_	_	_
 581-5	BOI012	581	426	5	sono	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	ROOT:5	linguistic	_		_		_	_	_
 581-6	BOI012	581	426	6	i	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	linguistic	_		_		_	_	_
 581-7	BOI012	581	426	7	portici	portici	portico	NOUN	S	Gender=Masc|Number=Plur	nsubj:5	linguistic	_		End=1089.952		_	_	_
-582-0	BOR005	582	426	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1090.99		_	_	_
+582-0	BOR005	582	426	_	metalinguistic	NLB		End=1090.99		_	_	_
 583-0	BOI013	583	427	0	però	però	però	ADV	B		advmod:2	linguistic	_		Begin=1090.825		_	_	_
 583-1	BOI013	583	427	1	c	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:2	linguistic	_	SpaceAfter=No	_		_	_	_
 583-2	BOI013	583	427	2	è	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_		_		_	_	_
@@ -3367,7 +3367,7 @@ _	_	_	_	8	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:9	_	_	_	_	_	_
 586-4	BOI012	586	430	2	son	son	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_		_		_	_	_
 586-5	BOI012	586	430	3	gli	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:4	linguistic	_		_		_	_	_
 586-6	BOI012	586	430	4	uragani	uragani	uragano	NOUN	S	Gender=Masc|Number=Plur	obj:2	linguistic	_		End=1096.447		_	_	_
-587-0	BOI013	587	430	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1097.952		_	_	_
+587-0	BOI013	587	430	_	metalinguistic	NLB		End=1097.952		_	_	_
 588-0	BOR005	588	430	5	e	e	e	CCONJ	CC		cc:7	linguistic	_		Begin=1098.243		_	_	_
 588-1	BOR005	588	430	6	le	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:7	linguistic	_		_		_	_	_
 588-2	BOR005	588	430	7	valanghe	valanghe	valanga	NOUN	S	Gender=Fem|Number=Plur	conj:4	linguistic	_		End=1099.126		_	_	_
@@ -3553,11 +3553,11 @@ _	_	_	_	19	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:2
 611-1	BOI012	611	449	1	millequattrocento	millequattrocento	millequattrocento	NOUN	S	Gender=Masc|Number=Sing	ROOT:1	linguistic	_		_		_	_	_
 611-2	BOI012	611	450	0	m::h	mh	mh	INTJ	I		discourse:1	linguistic	_		End=1162.76	0x2	_	_	_
 612-0	BOI012	612	450	1	milletrecento,	milletrecento	milletrecento	NOUN	S	Gender=Masc|Number=Sing	ROOT:1	linguistic	_	Intonation=weakly_ascending	End=1164.281		_	_	_
-613-0	BOR005	613	450	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1164.7		_	_	_
+613-0	BOR005	613	450	_	metalinguistic	NLB		End=1164.7		_	_	_
 614-0	BOI013	614	451	0	penso	penso	pensare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ROOT:0	linguistic	_		Begin=1165.479		_	_	_
 614-1	BOI013	614	451	1	di	di	di	ADP	E		case:2	linguistic	_		_		_	_	_
 614-2	BOI013	614	451	2	sì	sì	sì	INTJ	I		obl:0	linguistic	_		End=1166.202		_	_	_
-615-0	BOR005	615	451	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1166.66		_	_	_
+615-0	BOR005	615	451	_	metalinguistic	NLB		End=1166.66		_	_	_
 616-0	BOI013	616	452	0	°>ma	ma	ma	CCONJ	CC		cc:4	linguistic	_	Volume=low	Begin=1167.059		Fast=0-2(0)	_	_
 616-1	BOI013	616	452	1	questo	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	det:2	linguistic	_	Volume=low	_		Fast=0-6(0)	_	_
 616-2	BOI013	616	452	2	mo	mo	mo	NOUN	S	Gender=Masc|Number=Sing	obl:4	linguistic	_	Volume=low	_		Fast=0-2(0)	_	_
@@ -3636,7 +3636,7 @@ _	_	_	_	8	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:9
 629-1	BOR005	629	464	1	per	per	per	ADP	E		mark:2	linguistic	_		_		_	_	_
 629-2	BOR005	629	464	_	conoscerci	conoscerci	_	_	_	_	_	linguistic	_		End=1196.267		_	_	_
 _	_	_	_	2	_	conoscer	conoscere	VERB	V	VerbForm=Inf	ROOT:2	_	_	_	_	_	_	_	_
-630-0	BOR005	630	464	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1196.86		_	_	_
+630-0	BOR005	630	464	_	metalinguistic	NLB		End=1196.86		_	_	_
 _	_	_	_	3	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:2	_	_	_	_	_	_	_	_
 631-0	BOR005	631	465	0	che	che	che	DET	DE	PronType=Exc	det:1	linguistic	_		Begin=1197.045		_	_	_
 631-1	BOR005	631	465	1	lavoro	lavoro	lavoro	NOUN	S	Gender=Masc|Number=Sing	nsubj:2	linguistic	_		_		_	_	_
@@ -3811,13 +3811,13 @@ _	_	_	_	4	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:
 670-2	BOI013	670	497	2	andare	andare	andare	VERB	V	VerbForm=Inf	ROOT:2	linguistic	_		_		_	_	0-6(671)
 670-3	BOI013	670	497	3	in	in	in	ADP	E		case:4	linguistic	_		_		_	_	0-2(671)
 670-4	BOI013	670	497	4	pensio~]	pensio~	pensio~	SYM	SYM		obl:2	linguistic	_	Interrupted=Yes	_		_	_	0-7(671)
-670-5	BOI013	670	497	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1272.213		_	_	_
+670-5	BOI013	670	497	_	metalinguistic	NLB		End=1272.213		_	_	_
 671-0	BOI012	671	498	0	[io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:2	linguistic	_		Begin=1270.588		_	_	0-2(670)
 671-1	BOI012	671	498	1	voglio	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:2	linguistic	_		_		_	_	0-6(670)
 671-2	BOI012	671	498	2	andare	andare	andare	VERB	V	VerbForm=Inf	ROOT:2	linguistic	_		_		_	_	0-6(670)
 671-3	BOI012	671	498	3	in	in	in	ADP	E		case:4	linguistic	_		_		_	_	0-2(670)
 671-4	BOI012	671	498	4	pensio]ne::::	pensione	pensione	NOUN	S	Gender=Fem|Number=Sing	obl:2	linguistic	_		End=1273.386	7x4	_	_	0-6(670)
-672-0	BOR005	672	498	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1273.909		_	_	_
+672-0	BOR005	672	498	_	metalinguistic	NLB		End=1273.909		_	_	_
 673-0	BOI012	673	499	0	[<voglio	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:1	linguistic	_		Begin=1273.917		Slow=0-6(0)	_	0-6(674)
 673-1	BOI012	673	499	1	an]dare	andare	andare	VERB	V	VerbForm=Inf	ROOT:1	linguistic	_		_		Slow=0-6(0)	_	0-2(674)
 673-2	BOI012	673	499	2	in	in	in	ADP	E		case:3	linguistic	_		_		Slow=0-2(0)	_	_
@@ -4006,7 +4006,7 @@ _	_	_	_	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 709-5	BOI013	709	519	9	chiusi	chiusi	chiudere	VERB	V	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj:6	linguistic	_		_		_	_	_
 709-6	BOI013	709	519	10	i	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:11	linguistic	_		_		_	_	_
 709-7	BOI013	709	519	11	manicomi	manicomi	manicomio	NOUN	S	Gender=Masc|Number=Plur	discourse:6	linguistic	_		End=1339.569		_	_	_
-710-0	BOI012	710	519	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1338.367		_	_	_
+710-0	BOI012	710	519	_	metalinguistic	NLB		End=1338.367		_	_	_
 711-0	BOI013	711	520	0	e	e	e	CCONJ	CC		cc:3	linguistic	_		Begin=1339.859		_	_	_
 711-1	BOI013	711	520	1	noi	noi	noi	PRON	PE	Number=Plur|Person=1|PronType=Prs	nsubj:3	linguistic	_		_		_	_	_
 711-2	BOI013	711	520	2	[siamo::]	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	cop:3	linguistic	_		End=1340.837	4x2	_	_	0-5(712)
@@ -4076,7 +4076,7 @@ _	_	_	_	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 724-7	BOI012	724	526	7	per	per	per	ADP	E		case:8	linguistic	_		_		_	_	_
 724-8	BOI012	724	526	8	quello	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	obl:6	linguistic	_		End=1364.174		_	_	_
 725-0	BOI013	725	526	9	eh	eh	eh	INTJ	I		discourse:6	linguistic	_		End=1364.588		_	_	_
-726-0	BOI012	726	526	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1365.215		_	_	_
+726-0	BOI012	726	526	_	metalinguistic	NLB		End=1365.215		_	_	_
 727-0	BOR005	727	527	0	ma	ma	ma	CCONJ	CC		cc:3	linguistic	_		Begin=1365.236		_	_	_
 727-1	BOR005	727	527	1	poi	poi	poi	ADV	B		advmod:3	linguistic	_		_		_	_	_
 727-2	BOR005	727	527	2	in	in	in	ADP	E		case:3	linguistic	_		_		_	_	_
@@ -4148,9 +4148,9 @@ _	_	_	_	10	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 738-4	BOI013	738	531	17	passa	passa	passire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	advcl:14	linguistic	_		_		_	_	_
 738-5	BOI013	738	531	18	in	in	in	ADP	E		case:19	linguistic	_		_		_	_	_
 738-6	BOI013	738	531	19	ma~	ma~	ma~	SYM	SYM		obl:17	linguistic	_	Interrupted=Yes	End=1390.258		_	_	_
-739-0	BOI013	739	531	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1391.077		_	_	_
-740-0	BOR005	740	531	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1391.077		_	_	_
-741-0	BOI013	741	531	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1392.837		_	_	_
+739-0	BOI013	739	531	_	metalinguistic	NLB		End=1391.077		_	_	_
+740-0	BOR005	740	531	_	metalinguistic	NLB		End=1391.077		_	_	_
+741-0	BOI013	741	531	_	metalinguistic	NLB		End=1392.837		_	_	_
 742-0	BOI013	742	531	20	non	non	non	ADV	BN	PronType=Neg	advmod:23	linguistic	_		Begin=1392.894		_	_	_
 742-1	BOI013	742	531	21	me	me	me	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:23	linguistic	_		_		_	_	_
 742-2	BOI013	742	531	22	li	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	obj:23	linguistic	_		_		_	_	_
@@ -4500,7 +4500,7 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 799-2	BOI013	799	568	2	ques~	ques~	ques~	SYM	SYM		ROOT:2	linguistic	_	Interrupted=Yes	_		_	_	_
 799-3	BOI013	799	569	0	eh	eh	eh	INTJ	I		ROOT:0	linguistic	_		_		_	_	_
 799-4	BOI013	799	570	0	appunto	appunto	appunto	ADV	B		advmod:5	linguistic	_		End=1503.224		_	_	_
-800-0	BOI012	800	570	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1502.904		_	_	_
+800-0	BOI012	800	570	_	metalinguistic	NLB		End=1502.904		_	_	_
 801-0	BOI013	801	570	1	se	se	se	SCONJ	CS		mark:2	linguistic	_		Begin=1503.362		_	_	_
 801-1	BOI013	801	570	2	vuoi	vuoi	volere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	advcl:5	linguistic	_		_		_	_	_
 801-2	BOI013	801	570	3	lavorare	lavorare	lavorare	VERB	V	VerbForm=Inf	ccomp:2	linguistic	_		_		_	_	_
@@ -4643,7 +4643,7 @@ _	_	_	_	5	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:6	_	_	_	_	_	_
 _	_	_	_	11	_	a	a	ADP	E		case:13	_	_	_	_	_	_	_	_
 _	_	_	_	12	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
 815-12	BOI012	815	582	13	estero?	estero	estero	NOUN	S	Gender=Masc|Number=Sing	obl:10	linguistic	_	Intonation=ascending	End=1544.291		_	_	_
-816-0	BOI012	816	582	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1545.455		_	_	_
+816-0	BOI012	816	582	_	metalinguistic	NLB		End=1545.455		_	_	_
 817-0	BOI012	817	582	14	ci	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	iobj:15	linguistic	_		Begin=1545.861		_	_	_
 817-1	BOI012	817	582	15	vanno	vanno	andare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	ROOT:15	linguistic	_		_		_	_	_
 817-2	BOI012	817	582	16	perché:::	perché	perché	SCONJ	CS		mark:17	linguistic	_		_	5x3	_	_	_
@@ -4779,7 +4779,7 @@ _	_	_	_	7	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_
 840-2	BOI013	840	591	8	per	per	per	ADP	E		case:10	linguistic	_		_		_	_	_
 840-3	BOI013	840	591	9	l	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:10	linguistic	_	SpaceAfter=No	_		_	_	_
 840-4	BOI013	840	591	10	ita~	ita~	ita~	SYM	SYM		dep:5	linguistic	_	Interrupted=Yes	_		_	_	_
-840-5	BOI013	840	591	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1596.558		_	_	_
+840-5	BOI013	840	591	_	metalinguistic	NLB		End=1596.558		_	_	_
 841-0	BOI013	841	592	0	>no	no	no	INTJ	I		ROOT:0	linguistic	_		Begin=1597.194		Fast=0-2(0)	_	_
 841-1	BOI013	841	592	1	no	no	no	INTJ	I		discourse:0	linguistic	_		_		Fast=0-2(0)	_	_
 841-2	BOI013	841	592	2	no	no	no	INTJ	I		discourse:0	linguistic	_		_		Fast=0-2(0)	_	_
@@ -4978,18 +4978,18 @@ _	_	_	_	14	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 871-6	BOI013	871	609	25	guardo	guardo	guardare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	advcl:21	linguistic	_		_		_	_	_
 871-7	BOI013	871	609	26	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:27	linguistic	_		_		_	_	_
 871-8	BOI013	871	609	27	tv	tv	tv	NOUN	S	Gender=Fem	obj:25	linguistic	_		End=1665.878		_	_	_
-872-0	BOI012	872	609	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1663.834		_	_	_
+872-0	BOI012	872	609	_	metalinguistic	NLB		End=1663.834		_	_	_
 873-0	BOR005	873	610	0	e	e	e	CCONJ	CC		cc:2	linguistic	_		Begin=1666.602		_	_	_
 873-1	BOR005	873	610	1	che	che	che	DET	DE	PronType=Exc	det:2	linguistic	_		_		_	_	_
 873-2	BOR005	873	610	2	programmi	programmi	programma	NOUN	S	Gender=Masc|Number=Plur	ROOT:2	linguistic	_		_		_	_	_
 873-3	BOR005	873	610	3	guardi	guardi	guardare	ADV	B		advmod:2	linguistic	_		End=1667.9		_	_	_
-874-0	BOI013	874	610	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1669.916		_	_	_
+874-0	BOI013	874	610	_	metalinguistic	NLB		End=1669.916		_	_	_
 875-0	BOI013	875	611	0	°devo	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:2	linguistic	_	Volume=low	Begin=1670.671		_	_	_
 875-1	BOI013	875	611	1	proprio	proprio	proprio	ADV	B		advmod:2	linguistic	_	Volume=low	_		_	_	_
 875-2	BOI013	875	611	_	dirlo°	dirlo	_	_	_	_	_	linguistic	_	Volume=low	End=1671.617		_	_	_
-876-0	BOI013	876	611	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1672.594		_	_	_
+876-0	BOI013	876	611	_	metalinguistic	NLB		End=1672.594		_	_	_
 _	_	_	_	2	_	dir	dire	VERB	V	VerbForm=Inf	ROOT:2	_	_	_	_	_	_	_	_
-877-0	BOR005	877	611	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1672.594		_	_	_
+877-0	BOR005	877	611	_	metalinguistic	NLB		End=1672.594		_	_	_
 _	_	_	_	3	_	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	obj:2	_	_	_	_	_	_	_	_
 878-0	BOI013	878	612	0	NO	no	no	INTJ	I		discourse:1	linguistic	_	Volume=high	Begin=1672.782		_	_	_
 878-1	BOI013	878	612	1	>no	no	no	INTJ	I		ROOT:1	linguistic	_		_		Fast=0-2(0)	_	_
@@ -4999,7 +4999,7 @@ _	_	_	_	3	_	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=P
 878-5	BOI013	878	613	2	mica	mica	mica	ADV	B		advmod:4	linguistic	_		_		_	_	_
 878-6	BOI013	878	613	3	sono	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	cop:4	linguistic	_		_		_	_	_
 878-7	BOI013	878	613	4	ignorantona	ignorantona	ignorantono	ADJ	A	Gender=Fem|Number=Sing	ROOT:4	linguistic	_		End=1674.994		_	_	_
-879-0	BOR005	879	613	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1675.526		_	_	_
+879-0	BOR005	879	613	_	metalinguistic	NLB		End=1675.526		_	_	_
 880-0	BOI013	880	614	0	mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:1	linguistic	_		Begin=1676.396		_	_	_
 880-1	BOI013	880	614	1	piace::::	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT:1	linguistic	_		_	4x4	_	_	_
 880-2	BOI013	880	614	2	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:3	linguistic	_		_		_	_	_
@@ -5090,7 +5090,7 @@ _	_	_	_	3	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:4	
 893-7	BOI013	893	620	8	letto	letto	letto	NOUN	S	Gender=Masc|Number=Sing	ROOT:8	linguistic	_		_		Fast=0-5(0)	_	_
 893-8	BOI013	893	620	9	che	che	che	SCONJ	CS		mark:10	linguistic	_		_		Fast=0-3(0)	_	_
 893-9	BOI013	893	620	10	dormo<	dormo	dormare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	acl:8	linguistic	_		End=1707.702		Fast=0-5(0)	_	_
-894-0	BOR005	894	620	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1708.603		_	_	_
+894-0	BOR005	894	620	_	metalinguistic	NLB		End=1708.603		_	_	_
 895-0	BOR005	895	621	0	e	e	e	CCONJ	CC		cc:3	linguistic	_		Begin=1709.708		_	_	_
 895-1	BOR005	895	621	1-2	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
 _	_	_	_	1	_	in	in	ADP	E		case:3	_	_	_	_	_	_	_	_
@@ -5222,7 +5222,7 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 915-1	BOI012	915	635	13	ha	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	acl:relcl:11	linguistic	_		_		_	_	0-2(914)
 915-2	BOI012	915	635	14	l	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:15	linguistic	_	SpaceAfter=No	_		_	_	0-2(914)
 915-3	BOI012	915	635	15	alzheimer]	alzheimer	alzheimer	PROPN	SP		obj:13	linguistic	_		End=1747.296		_	_	0-9(914)
-916-0	BOI012	916	635	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1747.831		_	_	_
+916-0	BOI012	916	635	_	metalinguistic	NLB		End=1747.831		_	_	_
 917-0	BOR005	917	636	0	>e	e	e	CCONJ	CC		cc:3	linguistic	_		Begin=1748.654		Fast=0-1(0)	_	_
 917-1	BOR005	917	636	1	tu	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	nsubj:3	linguistic	_		_		Fast=0-2(0)	_	_
 917-2	BOR005	917	636	2	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:3	linguistic	_		_		Fast=0-2(0)	_	_
@@ -5298,7 +5298,7 @@ _	_	_	_	2	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:3	
 926-11	BOI012	926	646	12	tutti	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	obl:11	linguistic	_		_		_	_	_
 926-12	BOI012	926	647	0	°mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:1	linguistic	_	Volume=low	_		_	_	_
 926-13	BOI012	926	647	1	sa°	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT:1	linguistic	_	Volume=low	End=1769.83		_	_	_
-927-0	BOR005	927	647	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1769.957		_	_	_
+927-0	BOR005	927	647	_	metalinguistic	NLB		End=1769.957		_	_	_
 928-0	BOR005	928	647	2	tu	tu	tu	PRON	PE	Number=Sing|Person=2|PronType=Prs	nsubj:4	linguistic	_		Begin=1770.951		_	_	_
 928-1	BOR005	928	647	3	gina	gina	gina	ADV	B		advmod:4	linguistic	_		_		_	_	_
 928-2	BOR005	928	647	4	guardi	guardi	guardare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	ccomp:1	linguistic	_		_		_	_	_
@@ -5373,7 +5373,7 @@ _	_	_	_	13	_	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=
 942-5	BOI013	942	654	9	l	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	obj:11	linguistic	_	SpaceAfter=No	_		_	_	_
 942-6	BOI013	942	654	10	ha	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux:11	linguistic	_		_		_	_	_
 942-7	BOI013	942	654	11	visto,	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ccomp:7	linguistic	_	Intonation=weakly_ascending	End=1792.92		_	_	_
-943-0	BOI012	943	654	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1791.67		_	_	_
+943-0	BOI012	943	654	_	metalinguistic	NLB		End=1791.67		_	_	_
 944-0	BOI013	944	654	12	martedì	martedì	martedì	NOUN	S	Gender=Masc	obl:11	linguistic	_		Begin=1793.632		_	_	_
 944-1	BOI013	944	655	0	carta	carta	carta	NOUN	S	Gender=Fem|Number=Sing	vocative:4	linguistic	_		_		_	_	_
 944-2	BOI013	944	655	1	bianca,	bianca	bianco	ADJ	A	Gender=Fem|Number=Sing	amod:0	linguistic	_	Intonation=weakly_ascending	_		_	_	_
@@ -5391,13 +5391,13 @@ _	_	_	_	13	_	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=
 945-6	BOI012	945	655	13	ti	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:15	linguistic	_		_		_	_	_
 945-7	BOI012	945	655	14	dobbiamo	dobbiamo	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	aux:15	linguistic	_		_		_	_	_
 945-8	BOI012	945	655	15	vedere,	vedere	vedere	VERB	V	VerbForm=Inf	parataxis:4	linguistic	_	Intonation=weakly_ascending	End=1798.981		_	_	_
-946-0	BOR005	946	655	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1799.567		_	_	_
+946-0	BOR005	946	655	_	metalinguistic	NLB		End=1799.567		_	_	_
 947-0	BOI013	947	655	16	eh	eh	eh	INTJ	I		discourse:18	linguistic	_		End=1799.25		_	_	_
-948-0	BOI013	948	655	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1800.201		_	_	_
-949-0	BOI012	949	655	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1800.839		_	_	_
+948-0	BOI013	948	655	_	metalinguistic	NLB		End=1800.201		_	_	_
+949-0	BOI012	949	655	_	metalinguistic	NLB		End=1800.839		_	_	_
 950-0	BOR005	950	655	17	che	che	che	SCONJ	CS		mark:18	linguistic	_		Begin=1800.869		_	_	_
 950-1	BOR005	950	655	18	scherzi	scherzi	scherzare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	advcl:15	linguistic	_		End=1801.731		_	_	_
-951-0	BOI012	951	655	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1802.913		_	_	_
+951-0	BOI012	951	655	_	metalinguistic	NLB		End=1802.913		_	_	_
 952-0	BOI013	952	655	19	°e:h°	eh	eh	INTJ	I		discourse:25	linguistic	_	Volume=low	Begin=1802.412	0x1	_	_	_
 952-1	BOI013	952	655	20	mica	mica	mica	ADV	B		advmod:25	linguistic	_		_		_	_	_
 952-2	BOI013	952	655	21	mo	mo	mo'	ADV	B		advmod:25	linguistic	_		_		_	_	_
@@ -5523,8 +5523,8 @@ _	_	_	_	4	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5
 968-5	BOI013	968	668	0	seguivo	seguivo	seguire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ROOT:0	linguistic	_		_		_	_	_
 968-6	BOI013	968	668	1	il	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:2	linguistic	_		_		_	_	_
 968-7	BOI013	968	668	2	catanzaro	catanzaro	catanzaro	NOUN	S	Gender=Masc|Number=Sing	obj:0	linguistic	_		End=1843.746		_	_	_
-969-0	BOR005	969	668	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1844.917		_	_	_
-970-0	BOI013	970	668	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1846.027		_	_	_
+969-0	BOR005	969	668	_	metalinguistic	NLB		End=1844.917		_	_	_
+970-0	BOI013	970	668	_	metalinguistic	NLB		End=1846.027		_	_	_
 971-0	BOI013	971	668	3	eh	eh	eh	INTJ	I		discourse:0	linguistic	_		Begin=1846.736		_	_	_
 971-1	BOI013	971	668	4	sì	sì	sì	INTJ	I		discourse:0	linguistic	_		_		_	_	_
 971-2	BOI013	971	668	5	sì	sì	sì	INTJ	I		discourse:0	linguistic	_		_		_	_	_
@@ -5603,7 +5603,7 @@ _	_	_	_	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 983-2	BOI013	983	678	_	{P}	{P}	_	_	_	_	_	shortpause	_		_		_	_	_
 983-3	BOI013	983	679	0	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1	linguistic	_		_		_	_	_
 983-4	BOI013	983	679	1	poltrona	poltrona	poltrona	NOUN	S	Gender=Fem|Number=Sing	ROOT:1	linguistic	_		End=1872.703		_	_	_
-984-0	BOR005	984	679	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1873.534		_	_	_
+984-0	BOR005	984	679	_	metalinguistic	NLB		End=1873.534		_	_	_
 _	_	_	_	2	_	figura	figurare	ADJ	A	Gender=Fem|Number=Sing	amod:1	_	_	_	_	_	_	_	_
 985-0	BOI012	985	679	2-3	>figurati	figurati	_	_	_	_	_	linguistic	_		Begin=1874.399		Fast=0-8(0)	_	_
 _	_	_	_	3	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	parataxis:appos:1	_	_	_	_	_	_	_	_
@@ -5642,7 +5642,7 @@ _	_	_	_	6	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:5	_	
 987-13	BOI012	987	681	_	{P}	{P}	_	_	_	_	_	shortpause	_		_		_	_	_
 987-14	BOI012	987	682	0	mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:1	linguistic	_		_		_	_	_
 987-15	BOI012	987	682	1	[sembra]	sembra	sembrare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT:1	linguistic	_		End=1884.333		_	_	0-6(989)
-988-0	BOR005	988	682	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1881.026		_	_	_
+988-0	BOR005	988	682	_	metalinguistic	NLB		End=1881.026		_	_	_
 989-0	BOI013	989	682	2	[vero]nica	veronica	veronico	ADJ	A	Gender=Fem|Number=Sing	xcomp:1	linguistic	_		End=1884.828		_	_	0-4(987)
 990-0	BOI012	990	682	3	o	o	o	CCONJ	CC		cc:4	linguistic	_		Begin=1884.889		_	_	_
 990-1	BOI012	990	682	4	veronica,	veronica	veronico	ADJ	A	Gender=Fem|Number=Sing	conj:1	linguistic	_	Intonation=weakly_ascending	End=1885.836		_	_	_
@@ -5665,7 +5665,7 @@ _	_	_	_	6	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:5	_	
 _	_	_	_	4	_	su	su	ADP	E		case:6	_	_	_	_	_	_	_	_
 _	_	_	_	5	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:6	_	_	_	_	_	_	_	_
 992-1	BOI012	992	685	6	podio	podio	podio	NOUN	S	Gender=Masc|Number=Sing	obl:2	linguistic	_		End=1891.285		_	_	_
-993-0	BOR005	993	685	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1891.793		_	_	_
+993-0	BOR005	993	685	_	metalinguistic	NLB		End=1891.793		_	_	_
 994-0	BOI012	994	686	0	pure	pure	pure	ADV	B		advmod:2	linguistic	_		Begin=1892.045		_	_	_
 994-1	BOI012	994	686	1	ho	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:2	linguistic	_		_		_	_	_
 994-2	BOI012	994	686	2	vinto:	vinto	vincere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	ROOT:2	linguistic	_		_	4x1	_	_	_
@@ -5683,17 +5683,17 @@ _	_	_	_	5	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:6
 995-8	BOI012	995	687	11	mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:13	linguistic	_		_		Fast=0-2(0)	_	_
 995-9	BOI012	995	687	12	sono	sono	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	cop:13	linguistic	_		_		Fast=0-4(0)	_	_
 995-10	BOI012	995	687	13	ne~<	ne~	ne~	SYM	SYM		discourse:emo:1	linguistic	_	Interrupted=Yes	End=1895.775		Fast=0-3(0)	_	_
-996-0	BOR005	996	687	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1896.191		_	_	_
+996-0	BOR005	996	687	_	metalinguistic	NLB		End=1896.191		_	_	_
 997-0	BOI012	997	687	14	gustato	gustato	esgusere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	parataxis:1	linguistic	_		Begin=1896.0		_	_	_
 997-1	BOI012	997	687	15	neanche	neanche	neanche	ADV	B		advmod:17	linguistic	_		_		_	_	_
 997-2	BOI012	997	687	16	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:17	linguistic	_		_		_	_	_
 997-3	BOI012	997	687	17	vittoria	vittoria	vittoria	NOUN	S	Gender=Fem|Number=Sing	obj:14	linguistic	_		_		_	_	_
 997-4	BOI012	997	688	0	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:7	linguistic	_		End=1897.872		_	_	_
-998-0	BOR005	998	688	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1898.634		_	_	_
-999-0	BOI013	999	688	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1899.728		_	_	_
+998-0	BOR005	998	688	_	metalinguistic	NLB		End=1898.634		_	_	_
+999-0	BOI013	999	688	_	metalinguistic	NLB		End=1899.728		_	_	_
 1000-0	BOI012	1000	688	1	grazie	grazie	grazie	INTJ	I		discourse:7	linguistic	_		Begin=1900.081		_	_	_
 1000-1	BOI012	1000	688	2	a:::	a	a	ADP	E		fixed:1	linguistic	_		End=1901.198	0x3	_	_	_
-1001-0	BOR005	1001	688	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1901.647		_	_	_
+1001-0	BOR005	1001	688	_	metalinguistic	NLB		End=1901.647		_	_	_
 1002-0	BOI013	1002	688	3	era	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	aux:7	linguistic	_		Begin=1901.727		_	_	_
 1002-1	BOI013	1002	688	4	>beh	beh	beh	INTJ	I		discourse:7	linguistic	_		_		Fast=0-3(0)	_	_
 1002-2	BOI013	1002	688	5	oh<	oh	oh	INTJ	I		discourse:7	linguistic	_		_		Fast=0-2(0)	_	_
@@ -5713,7 +5713,7 @@ _	_	_	_	5	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:6
 1004-2	BOI013	1004	690	3	era	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	ROOT:3	linguistic	_		_		Fast=0-3(0)	_	_
 1004-3	BOI013	1004	690	4	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	linguistic	_		_		Fast=0-2(0)	_	_
 1004-4	BOI013	1004	690	5	torta<	torta	torto	PROPN	SP		nsubj:3	linguistic	_		End=1906.654		Fast=0-5(0)	_	_
-1005-0	BOR005	1005	690	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1907.539		_	_	_
+1005-0	BOR005	1005	690	_	metalinguistic	NLB		End=1907.539		_	_	_
 1006-0	BOR005	1006	691	0	invece	invece	invece	ADV	B		advmod:1	linguistic	_		Begin=1908.314		_	_	_
 1006-1	BOR005	1006	691	1	parlando	parlando	parlare	VERB	V	VerbForm=Ger	ROOT:1	linguistic	_		_		_	_	_
 1006-2	BOR005	1006	691	2	di	di	di	ADP	E		case:3	linguistic	_		_		_	_	_
@@ -5795,7 +5795,7 @@ _	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	
 1022-2	BOI013	1022	697	1	>beppe	beppe	beppo	PROPN	SP		flat:name:0	linguistic	_		_		Fast=0-5(0)	_	_
 1022-3	BOI013	1022	697	2	maniglia<,	maniglia	maniglia	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_	Intonation=weakly_ascending	End=1939.145		Fast=0-8(0)	_	_
 1023-0	BOR005	1023	697	3	[°mh°]	mh	mh	INTJ	I		discourse:7	linguistic	_	Volume=low	End=1937.445		_	_	0-2(1021+1022)
-1024-0	BOI013	1024	697	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1939.93		_	_	_
+1024-0	BOI013	1024	697	_	metalinguistic	NLB		End=1939.93		_	_	_
 1025-0	BOI012	1025	697	4	no:	no	no	INTJ	I		discourse:7	linguistic	_		Begin=1939.952	1x1	_	_	_
 1025-1	BOI012	1025	697	5	sì	sì	sì	INTJ	I		discourse:7	linguistic	_		_		_	_	_
 1025-2	BOI012	1025	697	6	mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	expl:7	linguistic	_		_		_	_	_
@@ -6077,9 +6077,9 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 1079-1	BOI012	1079	723	3	ma	ma	ma	CCONJ	CC		cc:5	linguistic	_	Volume=low	_		Fast=0-2(0)	_	_
 1079-2	BOI012	1079	723	4	non	non	non	ADV	BN	PronType=Neg	advmod:5	linguistic	_	Volume=low	_		Fast=0-3(0)	_	_
 1079-3	BOI012	1079	723	5	esi~°<	esi~	esi~	SYM	SYM		conj:0	linguistic	_	Interrupted=Yes|Volume=low	End=2036.483		Fast=0-4(0)	_	_
-1080-0	BOI013	1080	723	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2037.546		_	_	_
-1081-0	BOI013	1081	723	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2041.116		_	_	_
-1082-0	BOI012	1082	723	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2041.116		_	_	_
+1080-0	BOI013	1080	723	_	metalinguistic	NLB		End=2037.546		_	_	_
+1081-0	BOI013	1081	723	_	metalinguistic	NLB		End=2041.116		_	_	_
+1082-0	BOI012	1082	723	_	metalinguistic	NLB		End=2041.116		_	_	_
 1083-0	BOR005	1083	723	6	che	che	che	PRON	PR	PronType=Rel	nsubj:9	linguistic	_		Begin=2041.443		_	_	_
 1083-1	BOR005	1083	723	7	poi	poi	poi	ADV	B		advmod:9	linguistic	_		End=2041.805		_	_	_
 1084-0	BOI013	1084	723	8	[bel]	bel	bello	ADJ	A	Gender=Masc|Number=Sing	amod:9	linguistic	_		End=2042.312		_	_	0-3(1085)
@@ -6098,7 +6098,7 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 1085-12	BOR005	1085	724	8	ballare	ballare	ballare	VERB	V	VerbForm=Inf	xcomp:6	linguistic	_		_		_	_	_
 1085-13	BOR005	1085	724	9	in	in	in	ADP	E		case:10	linguistic	_		_		_	_	_
 1085-14	BOR005	1085	724	10	discoteca?	discoteca	discoteca	NOUN	S	Gender=Fem|Number=Sing	obl:8	linguistic	_	Intonation=ascending	End=2046.032		_	_	_
-1086-0	BOI013	1086	724	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2043.418		_	_	_
+1086-0	BOI013	1086	724	_	metalinguistic	NLB		End=2043.418		_	_	_
 1087-0	BOI013	1087	725	0	[living]	living	living	NOUN	S	Gender=Masc	nsubj:2	linguistic	_		End=2046.706		_	_	0-6(1088)
 1088-0	BOI012	1088	725	1	[mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:2	linguistic	_		Begin=2046.188		_	_	0-2(1087)
 1088-1	BOI012	1088	725	2	capita]va	capitava	capitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	ROOT:2	linguistic	_		_		_	_	0-6(1087)
@@ -6144,7 +6144,7 @@ _	_	_	_	5	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:6
 1092-5	BOI012	1092	732	3	perché	perché	perché	SCONJ	CS		mark:5	linguistic	_		_		_	_	_
 1092-6	BOI012	1092	732	4	m	m'	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	expl:5	linguistic	_	SpaceAfter=No	_		_	_	_
 1092-7	BOI012	1092	732	5	addormento	addormento	addormentare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	advcl:2	linguistic	_		End=2057.428		_	_	_
-1093-0	BOI013	1093	732	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2058.007		_	_	_
+1093-0	BOI013	1093	732	_	metalinguistic	NLB		End=2058.007		_	_	_
 1094-0	BOI013	1094	732	6	ris[par]mi,	risparmi	risparmio	NOUN	S	Gender=Masc|Number=Plur	obj:5	linguistic	_	Intonation=weakly_ascending	End=2058.949		_	_	3-6(1095)
 1095-0	BOI012	1095	732	7	[e::]	e	e	CCONJ	CC		cc:12	linguistic	_		End=2058.85	0x2	_	_	0-1(1094)
 1096-0	BOI012	1096	732	8	e::	e	e	CCONJ	CC		cc:12	linguistic	_		Begin=2059.121	0x2	_	_	_
@@ -6156,7 +6156,7 @@ _	_	_	_	5	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:6
 1096-6	BOI012	1096	733	1	>cioè<	cioè	cioè	X	X		flat:foreign:0	linguistic	_		End=2061.303		Fast=0-4(0)	_	_
 1097-0	BOI012	1097	733	2	centro	centro	centro	NOUN	S	Gender=Masc|Number=Sing	flat:foreign:0	linguistic	_		Begin=2061.467		_	_	_
 1097-1	BOI012	1097	733	3	commerciale	commerciale	commerciale	ADJ	A	Number=Sing	amod:2	linguistic	_		End=2062.764		_	_	_
-1098-0	BOR005	1098	733	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2062.965		_	_	_
+1098-0	BOR005	1098	733	_	metalinguistic	NLB		End=2062.965		_	_	_
 1099-0	BOI013	1099	734	0	centro	centro	centro	NOUN	S	Gender=Masc|Number=Sing	ROOT:0	linguistic	_		Begin=2063.168		_	_	_
 1099-1	BOI013	1099	734	1	commer[ciale]	commerciale	commerciale	ADJ	A	Number=Sing	amod:0	linguistic	_		End=2064.212		_	_	6-11(1100)
 1100-0	BOI012	1100	735	0	[lo	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:1	linguistic	_		Begin=2063.764		_	_	0-2(1099)
@@ -6225,7 +6225,7 @@ _	_	_	_	8	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:9
 1110-2	BOI013	1110	742	0	>anche	anche	anche	ADV	B		advmod:2	linguistic	_		_		Fast=0-5(0)	_	_
 1110-3	BOI013	1110	742	1	a	a	a	ADP	E		case:2	linguistic	_		_		Fast=0-1(0)	_	_
 1110-4	BOI013	1110	742	2	piacenza<	piacenza	piacenza	NOUN	S	Gender=Fem|Number=Sing	ROOT:2	linguistic	_		End=2082.799		Fast=0-8(0)	_	_
-1111-0	BOR005	1111	742	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2083.373		_	_	_
+1111-0	BOR005	1111	742	_	metalinguistic	NLB		End=2083.373		_	_	_
 1112-0	BOI013	1112	743	0	poi	poi	poi	ADV	B		advmod:1	linguistic	_		Begin=2085.456		_	_	_
 1112-1	BOI013	1112	743	1	basta	basta	bastare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT:1	linguistic	_		End=2086.085		_	_	_
 1113-0	BOR005	1113	744	0	e::	e	e	CCONJ	CC		cc:2	linguistic	_		Begin=2087.154	0x2	_	_	_
@@ -6277,7 +6277,7 @@ _	_	_	_	8	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:9
 1123-7	BOI013	1123	751	5	prendere	prendere	prendere	VERB	V	VerbForm=Inf	xcomp:2	linguistic	_		_		Fast=0-8(0)	_	_
 1123-8	BOI013	1123	751	6	i	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	linguistic	_		_		Fast=0-1(0)	_	_
 1123-9	BOI013	1123	751	7	soldi<	soldi	soldo	NOUN	S	Gender=Masc|Number=Plur	obj:5	linguistic	_		End=2101.063		Fast=0-5(0)	_	_
-1124-0	BOR005	1124	751	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2101.632		_	_	_
+1124-0	BOR005	1124	751	_	metalinguistic	NLB		End=2101.632		_	_	_
 1125-0	BOI013	1125	752	0	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:2	linguistic	_		Begin=2101.457		_	_	_
 1125-1	BOI013	1125	752	1	lì	lì	lì	ADV	B		advmod:2	linguistic	_		_		_	_	_
 1125-2	BOI013	1125	752	2	vicino	vicino	vicino	ADJ	A	Gender=Masc|Number=Sing	ROOT:2	linguistic	_		End=2102.223		_	_	_
@@ -6406,13 +6406,13 @@ _	_	_	_	1	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:2
 1144-1	BOI013	1144	771	2	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:3	linguistic	_		_		_	_	_
 1144-2	BOI013	1144	771	3	meglio	meglio	meglio	ADV	B		ROOT:3	linguistic	_		_		_	_	_
 1144-3	BOI013	1144	771	4	che::	che	che	SCONJ	CS		mark:5	linguistic	_		End=2139.037	2x2	_	_	_
-1145-0	BOI013	1145	771	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		Begin=2139.07		_	_	_
+1145-0	BOI013	1145	771	_	metalinguistic	NLB		Begin=2139.07		_	_	_
 1145-1	BOI013	1145	771	5	curare	curare	curare	VERB	V	VerbForm=Inf	ccomp:3	linguistic	_		_		_	_	_
-1145-2	BOI013	1145	771	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2140.432		_	_	_
+1145-2	BOI013	1145	771	_	metalinguistic	NLB		End=2140.432		_	_	_
 1146-0	BOI012	1146	772	0	°prevenire	prevenire	prevenire	VERB	V	VerbForm=Inf	ROOT:0	linguistic	_	Volume=low	Begin=2140.93		_	_	_
 1146-1	BOI012	1146	772	1	era	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	cop:0	linguistic	_	Volume=low	_		_	_	_
 1146-2	BOI012	1146	773	0	poi°	poi	poi	ADV	B		advmod:4	linguistic	_	Volume=low	End=2141.919		_	_	_
-1147-0	BOR005	1147	773	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=2142.839		_	_	_
+1147-0	BOR005	1147	773	_	metalinguistic	NLB		End=2142.839		_	_	_
 1148-0	BOI013	1148	773	1	però	però	però	ADV	B		advmod:4	linguistic	_		Begin=2142.895		_	_	_
 1148-1	BOI013	1148	773	2	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux:4	linguistic	_		_		_	_	_
 1148-2	BOI013	1148	773	3	meglio	meglio	meglio	ADV	B		advmod:4	linguistic	_		_		_	_	_

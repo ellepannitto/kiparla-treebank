@@ -179,7 +179,7 @@ _	_	_	_	8	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:9	_	_	_	_	_	_
 30-0	TO017	30	20	0	°bravissimo	bravissimo	bravo	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	amod:1	linguistic	_	Volume=low	Begin=67.538		_	_	_
 30-1	TO017	30	20	1	lui.°	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	ROOT:1	linguistic	_	Intonation=descending|Volume=low	End=68.423		_	_	_
 31-0	TO017	31	21	0	beh	beh	beh	INTJ	I		discourse:2	linguistic	_		End=69.392		_	_	_
-32-0	TO017	32	21	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=70.78		_	_	_
+32-0	TO017	32	21	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	NLB		End=70.78		_	_	_
 33-0	TO017	33	21	1	vi	vi	vi	PRON	PC	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	iobj:2	linguistic	_		Begin=71.263		_	_	_
 33-1	TO017	33	21	2	piace	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_		_		_	_	_
 33-2	TO017	33	21	3	vincere	vincere	vincere	VERB	V	VerbForm=Inf	xcomp:2	linguistic	_		_		_	_	_
@@ -2108,7 +2108,7 @@ _	_	_	_	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 327-2	TO017	327	182	2	il	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:3	linguistic	_		_		_	_	_
 327-3	TO017	327	182	3	periodo	periodo	periodo	NOUN	S	Gender=Masc|Number=Sing	obj:1	linguistic	_		_		_	_	_
 327-4	TO017	327	182	_	{P}	{P}	_	_	_	_	_	shortpause	_		_		_	_	_
-327-5	TO017	327	182	_	pre-islamico?	pre-islamico?	_	_	_	_	_	error	_		End=805.898		_	_	_
+327-5	TO017	327	182	_	pre-islamico?	pre-islamico	pre-islamico	ADJ	A	Gender=Masc|Number=Sing	_	linguistic	_	Intonation=ascending	End=805.898		_	_	_
 328-0	???	328	182	4	°seicento:,°	seicento	seicento	ADJ	A	Gender=Masc|Number=Sing	amod:3	linguistic	_	Intonation=weakly_ascending|Volume=low	End=806.937	7x1	_	_	_
 329-0	???	329	183	0	e:::h	eh	eh	INTJ	I		discourse:1	linguistic	_		Begin=807.253	0x3	_	_	_
 329-1	???	329	183	1	xxx	xxx	xxx	X	X		ROOT:1	unknown	_		End=808.781		_	_	_
@@ -4355,7 +4355,7 @@ _	_	_	_	8	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:9	_	_	_	_	_	_
 647-1	TO017	647	378	11	ricchi	ricchi	ricco	ADJ	A	Gender=Masc|Number=Plur	amod:9	linguistic	_		End=1677.186		_	_	_
 648-0	TO017	648	378	12	che,	che	che	SCONJ	CS		mark:13	linguistic	_	Intonation=weakly_ascending	End=1678.377		_	_	_
 649-0	TO017	649	378	13	scrivevano	scrivevano	scrivere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	ccomp:1	linguistic	_		End=1679.22		_	_	_
-650-0	TO017	650	378	_	{schiarisce_la_voce}	{schiarisce_la_voce}	_	_	_	_	_	metalinguistic	_		End=1679.593		_	_	_
+650-0	TO017	650	378	_	{schiarisce_la_voce}	{schiarisce_la_voce}	_	_	_	_	_	metalinguistic	NLB		End=1679.593		_	_	_
 651-0	TO017	651	379	0	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:2	linguistic	_		Begin=1680.051		_	_	_
 651-1	TO017	651	379	1	erano	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	aux:2	linguistic	_		_		_	_	_
 651-2	TO017	651	379	2	inventati	inventati	inventare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	ROOT:2	linguistic	_		_		_	_	_
