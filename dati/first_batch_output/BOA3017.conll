@@ -1725,8 +1725,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 397-16	BO139	397	_	_	trascrivere	trascrivere	_	_	_	_	_	linguistic	_		End=605.533		_	_	_
 398-0	BO146	398	_	_	{canta}	{canta}	_	_	_	_	_	metalinguistic	_		End=604.418		_	_	_
 399-0	BO145	399	_	_	{canta}	{canta}	_	_	_	_	_	metalinguistic	_		End=604.413		_	_	_
-400-0	BO146	400	_	_	l'(	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	Begin=605.613		_	_	_
-400-1	BO146	400	_	_	ngillete)	angillete	_	_	_	_	_	linguistic	_		End=606.703		_	0-9(0)	_
+400-0	BO146	400	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	Begin=605.613		_	_	_
+400-1	BO146	400	_	_	(angillete)	angillete	_	_	_	_	_	linguistic	_		End=606.703		_	0-9(0)	_
 401-0	BO147	401	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=609.27		_	_	_
 402-0	BO139	402	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=608.503		_	_	_
 403-0	BO145	403	_	_	(angillete)	angillete	_	_	_	_	_	linguistic	_		Begin=607.663		_	0-9(0)	_
@@ -2116,7 +2116,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 515-2	BO139	515	_	_	ti]po	tipo	_	_	_	_	_	linguistic	_	ProsodicLink=Yes	_		_	_	0-2(514)
 515-3	BO139	515	_	_	[mh]	mh	_	_	_	_	_	linguistic	_		End=752.19		_	_	0-2(516)
 516-0	BO147	516	_	_	[cos]'	cos'	_	_	_	_	_	linguistic	_	SpaceAfter=No	Begin=752.027		_	_	0-3(515)
-516-1	BO147	516	_	_	?	è	_	_	_	_	_	linguistic	_	Intonation=ascending	End=752.557		_	_	_
+516-1	BO147	516	_	_	è?	è	_	_	_	_	_	linguistic	_	Intonation=ascending	End=752.557		_	_	_
 517-0	BO139	517	_	_	tipo	tipo	_	_	_	_	_	linguistic	_		Begin=752.643		_	_	_
 517-1	BO139	517	_	_	la	la	_	_	_	_	_	linguistic	_		_		_	_	_
 517-2	BO139	517	_	_	vanga	vanga	_	_	_	_	_	linguistic	_		End=753.513		_	_	_
@@ -2382,8 +2382,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 597-0	BO145	597	_	_	me	me	_	_	_	_	_	linguistic	_		Begin=882.06		_	_	_
 597-1	BO145	597	_	_	lo	lo	_	_	_	_	_	linguistic	_		_		_	_	_
 597-2	BO145	597	_	_	compri	compri	_	_	_	_	_	linguistic	_		_		_	_	_
-597-3	BO145	597	_	_	l'(	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-597-4	BO145	597	_	_	ovo)?	uovo	_	_	_	_	_	linguistic	_	Intonation=ascending	End=883.0		_	0-4(0)	_
+597-3	BO145	597	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
+597-4	BO145	597	_	_	(uovo)?	uovo	_	_	_	_	_	linguistic	_	Intonation=ascending	End=883.0		_	0-4(0)	_
 598-0	BO146	598	_	_	[m::h	mh	_	_	_	_	_	linguistic	_		Begin=884.715	0x2	_	_	0-2(599)
 598-1	BO146	598	_	_	(madonna)	madonna	_	_	_	_	_	linguistic	_		_		_	0-7(0)	0-7(599)
 598-2	BO146	598	_	_	qua]nt'	quant'	_	_	_	_	_	linguistic	_	Truncated=Yes	_		_	_	0-3(599)
@@ -2610,8 +2610,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 637-0	BO145	637	_	_	[te	te	_	_	_	_	_	linguistic	_		Begin=944.44		_	_	0-2(636)
 637-1	BO145	637	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	0-3(636)
 637-2	BO145	637	_	_	ma]ngi	mangi	_	_	_	_	_	linguistic	_		_		_	_	0-2(636)
-637-3	BO145	637	_	_	l'(	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-637-4	BO145	637	_	_	ovo)	uovo	_	_	_	_	_	linguistic	_		_		_	0-4(0)	_
+637-3	BO145	637	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
+637-4	BO145	637	_	_	(uovo)	uovo	_	_	_	_	_	linguistic	_		_		_	0-4(0)	_
 637-5	BO145	637	_	_	(di)	di	_	_	_	_	_	linguistic	_		_		_	0-2(1)	_
 637-6	BO145	637	_	_	pasqua	pasqua	_	_	_	_	_	linguistic	_		End=945.48		_	_	_
 638-0	BO139	638	_	_	>cioè<	cioè	_	_	_	_	_	linguistic	_	ProsodicLink=Yes	Begin=945.9		Fast=0-4(0)	_	_
@@ -2619,8 +2619,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 639-0	BO147	639	_	_	non	non	_	_	_	_	_	linguistic	_		Begin=947.57		_	_	_
 639-1	BO147	639	_	_	(ti)	ti	_	_	_	_	_	linguistic	_		_		_	0-2(0)	_
 639-2	BO147	639	_	_	piace	piace	_	_	_	_	_	linguistic	_		_		_	_	_
-639-3	BO147	639	_	_	l'(	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-639-4	BO147	639	_	_	ovo)	uovo	_	_	_	_	_	linguistic	_		_		_	0-4(1)	_
+639-3	BO147	639	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
+639-4	BO147	639	_	_	(uovo)	uovo	_	_	_	_	_	linguistic	_		_		_	0-4(1)	_
 639-5	BO147	639	_	_	(di)	di	_	_	_	_	_	linguistic	_		_		_	0-2(2)	_
 639-6	BO147	639	_	_	pasqua?	pasqua	_	_	_	_	_	linguistic	_	Intonation=ascending	End=948.73		_	_	_
 640-0	BO139	640	_	_	no	no	_	_	_	_	_	linguistic	_		Begin=948.835		_	_	_
@@ -2699,8 +2699,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 647-5	BO147	647	_	_	bella	bella	_	_	_	_	_	linguistic	_		_		_	_	_
 647-6	BO147	647	_	_	del	del	_	_	_	_	_	linguistic	_		_		_	_	_
 647-7	BO147	647	_	_	mondo	mondo	_	_	_	_	_	linguistic	_		_		_	_	_
-647-8	BO147	647	_	_	l'(	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-647-9	BO147	647	_	_	ovo)	uovo	_	_	_	_	_	linguistic	_		_		_	0-4(0)	_
+647-8	BO147	647	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
+647-9	BO147	647	_	_	(uovo)	uovo	_	_	_	_	_	linguistic	_		_		_	0-4(0)	_
 647-10	BO147	647	_	_	(di)	di	_	_	_	_	_	linguistic	_		_		_	0-2(1)	_
 647-11	BO147	647	_	_	[pasqua]	pasqua	_	_	_	_	_	linguistic	_		End=967.57		_	_	0-6(648)
 648-0	BO139	648	_	_	[che	che	_	_	_	_	_	linguistic	_		Begin=966.98		_	_	0-3(647)
@@ -2836,9 +2836,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 674-0	BO145	674	_	_	io	io	_	_	_	_	_	linguistic	_		Begin=1024.71		_	_	_
 674-1	BO145	674	_	_	[no]	no	_	_	_	_	_	linguistic	_		End=1025.432		_	_	0-2(675)
 675-0	BO146	675	_	_	[xx]	x	_	_	_	_	_	unknown	_		Begin=1024.852		_	_	0-2(674)
-675-1	BO146	675	_	_	(,)	,	_	_	_	_	_	error	_		_		_	_	_
+675-1	BO146	675	_	_	{P}	{P}	_	_	_	_	_	shortpause	_		_		_	_	_
 675-2	BO146	675	_	_	xx	x	_	_	_	_	_	unknown	_		_		_	_	_
-675-3	BO146	675	_	_	(disperata)	disperata	_	_	_	_	_	linguistic	_		End=1027.192		_	0-9(1)	_
+675-3	BO146	675	_	_	(disperata)	disperata	_	_	_	_	_	linguistic	_		End=1027.192		_	0-9(0)	_
 676-0	BO146	676	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1033.627		_	_	_
 677-0	BO145	677	_	_	mh	mh	_	_	_	_	_	linguistic	_		End=1033.317		_	_	_
 678-0	BO147	678	_	_	no	no	_	_	_	_	_	linguistic	_		Begin=1036.162		_	_	_
@@ -2980,8 +2980,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 708-0	BO145	708	_	_	sì	sì	_	_	_	_	_	linguistic	_		End=1120.015		_	_	_
 709-0	BO139	709	_	_	ah	ah	_	_	_	_	_	linguistic	_		Begin=1120.113		_	_	_
 709-1	BO139	709	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
-709-2	BO139	709	_	_	l'>	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-709-3	BO139	709	_	_	vevo<	avevo	_	_	_	_	_	linguistic	_		_		Fast=0-5(0)	_	_
+709-2	BO139	709	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
+709-3	BO139	709	_	_	>avevo<	avevo	_	_	_	_	_	linguistic	_		_		Fast=0-5(0)	_	_
 709-4	BO139	709	_	_	visto	visto	_	_	_	_	_	linguistic	_		_		_	_	_
 709-5	BO139	709	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1120.703		_	_	_
 710-0	BO139	710	_	_	vabbè	vabbè	_	_	_	_	_	linguistic	_		Begin=1121.335		_	_	_
@@ -3293,10 +3293,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 785-0	BO147	785	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1224.32		_	_	_
 786-0	BO139	786	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=1224.645		_	_	_
 787-0	BO147	787	_	_	a	a	_	_	_	_	_	linguistic	_		Begin=1224.512		_	_	_
-787-1	BO147	787	_	_	(>un'<)altra	un'altra	_	_	_	_	_	error	_		_		Fast=0-3(0)	0-3(0)	_
-787-2	BO147	787	_	_	cosa	cosa	_	_	_	_	_	linguistic	_		_		_	_	_
-787-3	BO147	787	_	_	no	no	_	_	_	_	_	linguistic	_		_		_	_	_
-787-4	BO147	787	_	_	però	però	_	_	_	_	_	linguistic	_		End=1225.937		_	_	_
+787-1	BO147	787	_	_	(>un<)'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		Fast=0-2(0)	0-2(0)	_
+787-2	BO147	787	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+787-3	BO147	787	_	_	cosa	cosa	_	_	_	_	_	linguistic	_		_		_	_	_
+787-4	BO147	787	_	_	no	no	_	_	_	_	_	linguistic	_		_		_	_	_
+787-5	BO147	787	_	_	però	però	_	_	_	_	_	linguistic	_		End=1225.937		_	_	_
 788-0	BO145	788	_	_	no	no	_	_	_	_	_	linguistic	_		Begin=1226.29		_	_	_
 788-1	BO145	788	_	_	ai	ai	_	_	_	_	_	linguistic	_		_		_	_	_
 788-2	BO145	788	_	_	cazzi	cazzi	_	_	_	_	_	linguistic	_		_		_	_	_

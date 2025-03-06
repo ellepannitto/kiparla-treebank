@@ -8,7 +8,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 2-0	BO140	2	_	_	mh	mh	_	_	_	_	_	linguistic	_		Begin=4.9		_	_	_
 2-1	BO140	2	_	_	sì	sì	_	_	_	_	_	linguistic	_		End=5.94		_	_	_
 3-0	BO118	3	_	_	com'	com'	_	_	_	_	_	linguistic	_	SpaceAfter=No	Begin=5.95		_	_	_
-3-1	BO118	3	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+3-1	BO118	3	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 3-2	BO118	3	_	_	fatta::	fatta	_	_	_	_	_	linguistic	_		_	4x2	_	_	_
 3-3	BO118	3	_	_	la	la	_	_	_	_	_	linguistic	_		_		_	_	_
 3-4	BO118	3	_	_	tua	tua	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -77,7 +77,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 13-0	BO118	13	_	_	mh[mh]	mhmh	_	_	_	_	_	linguistic	_		End=35.64		_	_	2-4(14)
 14-0	BO140	14	_	_	[e	e	_	_	_	_	_	linguistic	_		Begin=35.477		_	_	0-1(13)
 14-1	BO140	14	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-2(13)
-14-2	BO140	14	_	_	l]timo	ultimo	_	_	_	_	_	linguistic	_		_		_	_	0-2(13)
+14-2	BO140	14	_	_	ul]timo	ultimo	_	_	_	_	_	linguistic	_		_		_	_	0-2(13)
 14-3	BO140	14	_	_	piano:	piano	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
 14-4	BO140	14	_	_	è:	è	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 14-5	BO140	14	_	_	una	una	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -131,7 +131,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 20-0	BO140	20	_	_	io	io	_	_	_	_	_	linguistic	_		Begin=57.735		_	_	_
 20-1	BO140	20	_	_	abito	abito	_	_	_	_	_	linguistic	_		_		_	_	_
 20-2	BO140	20	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-20-3	BO140	20	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+20-3	BO140	20	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 20-4	BO140	20	_	_	e::	e	_	_	_	_	_	linguistic	_		_	0x2	_	_	_
 20-5	BO140	20	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
 20-6	BO140	20	_	_	piedi:	piedi	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
@@ -156,7 +156,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 23-1	BO140	23	_	_	a::	a	_	_	_	_	_	linguistic	_		_	0x2	_	_	_
 23-2	BO140	23	_	_	mh	mh	_	_	_	_	_	linguistic	_		_		_	_	_
 23-3	BO140	23	_	_	trent'	trent'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-23-4	BO140	23	_	_	nni	anni	_	_	_	_	_	linguistic	_		_		_	_	_
+23-4	BO140	23	_	_	anni	anni	_	_	_	_	_	linguistic	_		_		_	_	_
 23-5	BO140	23	_	_	fa:	fa	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
 23-6	BO140	23	_	_	io	io	_	_	_	_	_	linguistic	_		_		_	_	_
 23-7	BO140	23	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -168,11 +168,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 23-13	BO140	23	_	_	dalle	dalle	_	_	_	_	_	linguistic	_		_		_	_	_
 23-14	BO140	23	_	_	foto,	foto	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=73.03		_	_	_
 24-0	BO140	24	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	Begin=73.436		_	_	_
-24-1	BO140	24	_	_	:ra:	era	_	_	_	_	_	linguistic	_		_	0x1,2x1	_	_	_
+24-1	BO140	24	_	_	e:ra:	era	_	_	_	_	_	linguistic	_		_	0x1,2x1	_	_	_
 24-2	BO140	24	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 24-3	BO140	24	_	_	so~	so~	_	_	_	_	_	linguistic	_	Interrupted=Yes	_		_	_	_
 24-4	BO140	24	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-24-5	BO140	24	_	_	ra	era	_	_	_	_	_	linguistic	_		_		_	_	_
+24-5	BO140	24	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 24-6	BO140	24	_	_	solo	solo	_	_	_	_	_	linguistic	_		_		_	_	_
 24-7	BO140	24	_	_	casa	casa	_	_	_	_	_	linguistic	_		_		_	_	_
 24-8	BO140	24	_	_	mia:	mia	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
@@ -203,7 +203,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 25-1	BO140	25	_	_	nazionale::	nazionale	_	_	_	_	_	linguistic	_		_	8x2	_	_	_
 25-2	BO140	25	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 25-3	BO140	25	_	_	collega	collega	_	_	_	_	_	linguistic	_		_		_	_	_
-25-4	BO140	25	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+25-4	BO140	25	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 25-5	BO140	25	_	_	con	con	_	_	_	_	_	linguistic	_		_		_	_	_
 25-6	BO140	25	_	_	altre:	altre	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
 25-7	BO140	25	_	_	altri	altri	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -217,7 +217,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 27-5	BO118	27	_	_	tua	tua	_	_	_	_	_	linguistic	_		_		_	_	_
 27-6	BO118	27	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 27-7	BO118	27	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-27-8	BO118	27	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+27-8	BO118	27	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 27-9	BO118	27	_	_	tipo	tipo	_	_	_	_	_	linguistic	_		_		_	_	_
 27-10	BO118	27	_	_	avete	avete	_	_	_	_	_	linguistic	_		_		_	_	_
 27-11	BO118	27	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -228,7 +228,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 28-3	BO140	28	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 28-4	BO140	28	_	_	prato:	prato	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
 28-5	BO140	28	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-28-6	BO140	28	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+28-6	BO140	28	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 28-7	BO140	28	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 28-8	BO140	28	_	_	grande	grande	_	_	_	_	_	linguistic	_		_		_	_	_
 28-9	BO140	28	_	_	prato,	prato	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=98.65		_	_	_
@@ -273,17 +273,17 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 31-20	BO140	31	_	_	miei	miei	_	_	_	_	_	linguistic	_		_		_	_	_
 31-21	BO140	31	_	_	genito:ri	genitori	_	_	_	_	_	linguistic	_		_	5x1	_	_	_
 31-22	BO140	31	_	_	un'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-31-23	BO140	31	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+31-23	BO140	31	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 31-24	BO140	31	_	_	parte	parte	_	_	_	_	_	linguistic	_		_		_	_	_
 31-25	BO140	31	_	_	da:	da	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
 31-26	BO140	31	_	_	un'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-31-27	BO140	31	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+31-27	BO140	31	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 31-28	BO140	31	_	_	famiglia,	famiglia	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=115.32		_	_	_
 32-0	BO140	32	_	_	e::::	e	_	_	_	_	_	linguistic	_		Begin=115.761	0x4	_	_	_
 32-1	BO140	32	_	_	intorno	intorno	_	_	_	_	_	linguistic	_		_		_	_	_
 32-2	BO140	32	_	_	comunque	comunque	_	_	_	_	_	linguistic	_		_		_	_	_
 32-3	BO140	32	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-32-4	BO140	32	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+32-4	BO140	32	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 32-5	BO140	32	_	_	campagna.	campagna	_	_	_	_	_	linguistic	_	Intonation=descending	End=119.07		_	_	_
 33-0	BO118	33	_	_	oka[y]	okay	_	_	_	_	_	linguistic	_		End=119.803		_	_	3-4(34)
 34-0	BO140	34	_	_	[qui]ndi:	quindi	_	_	_	_	_	linguistic	_		Begin=119.576	5x1	_	_	0-3(33)
@@ -378,7 +378,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 39-1	BO140	39	_	_	se	se	_	_	_	_	_	linguistic	_		_		_	_	_
 39-2	BO140	39	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 39-3	BO140	39	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-39-4	BO140	39	_	_	:	è	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
+39-4	BO140	39	_	_	è:	è	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 39-5	BO140	39	_	_	u:::n	un	_	_	_	_	_	linguistic	_		_	0x3	_	_	_
 39-6	BO140	39	_	_	rapporto	rapporto	_	_	_	_	_	linguistic	_		_		_	_	_
 39-7	BO140	39	_	_	proprio:,	proprio	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=160.11	6x1	_	_	_
@@ -397,7 +397,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 41-3	BO118	41	_	_	è::,	è	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=166.7	0x2	_	_	_
 42-0	BO118	42	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		Begin=166.99		_	_	_
 42-1	BO118	42	_	_	un'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-42-2	BO118	42	_	_	tmosfera	atmosfera	_	_	_	_	_	linguistic	_		_		_	_	_
+42-2	BO118	42	_	_	atmosfera	atmosfera	_	_	_	_	_	linguistic	_		_		_	_	_
 42-3	BO118	42	_	_	familiare	familiare	_	_	_	_	_	linguistic	_		_		_	_	_
 42-4	BO118	42	_	_	[xxxx]	x	_	_	_	_	_	unknown	_		End=169.1		_	_	0-4(43)
 43-0	BO140	43	_	_	[sì	sì	_	_	_	_	_	linguistic	_		Begin=168.48		_	_	0-2(42)
@@ -510,7 +510,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 53-7	BO140	53	_	_	sala:	sala	_	_	_	_	_	linguistic	_		_	3x1	_	_	_
 53-8	BO140	53	_	_	perché::	perché	_	_	_	_	_	linguistic	_		_	5x2	_	_	_
 53-9	BO140	53	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-53-10	BO140	53	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+53-10	BO140	53	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 53-11	BO140	53	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 53-12	BO140	53	_	_	cami:no:	camino	_	_	_	_	_	linguistic	_		_	3x1,5x1	_	_	_
 53-13	BO140	53	_	_	e::	e	_	_	_	_	_	linguistic	_		_	0x2	_	_	_
@@ -522,7 +522,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 54-4	BO140	54	_	_	insie:me:	insieme	_	_	_	_	_	linguistic	_		_	4x1,6x1	_	_	_
 54-5	BO140	54	_	_	esatto:	esatto	_	_	_	_	_	linguistic	_		_	5x1	_	_	_
 54-6	BO140	54	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-54-7	BO140	54	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+54-7	BO140	54	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 54-8	BO140	54	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 54-9	BO140	54	_	_	divano	divano	_	_	_	_	_	linguistic	_		_		_	_	_
 54-10	BO140	54	_	_	comodo,	comodo	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=223.69		_	_	_
@@ -559,7 +559,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 58-4	BO118	58	_	_	che	che	_	_	_	_	_	linguistic	_	Volume=low	_		_	_	_
 58-5	BO118	58	_	_	ce	ce	_	_	_	_	_	linguistic	_	Volume=low	_		_	_	_
 58-6	BO118	58	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No|Volume=low	_		_	_	_
-58-7	BO118	58	_	_	o.°	ho	_	_	_	_	_	linguistic	_	Intonation=descending|Volume=low	End=233.66		_	_	_
+58-7	BO118	58	_	_	ho.°	ho	_	_	_	_	_	linguistic	_	Intonation=descending|Volume=low	End=233.66		_	_	_
 59-0	BO118	59	_	_	anche	anche	_	_	_	_	_	linguistic	_		Begin=234.49		_	_	_
 59-1	BO118	59	_	_	perché	perché	_	_	_	_	_	linguistic	_		_		_	_	_
 59-2	BO118	59	_	_	casa	casa	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -576,7 +576,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 59-13	BO118	59	_	_	freddo,	freddo	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=238.47		_	_	_
 60-0	BO118	60	_	_	perché	perché	_	_	_	_	_	linguistic	_		Begin=239.02		_	_	_
 60-1	BO118	60	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-60-2	BO118	60	_	_	anno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
+60-2	BO118	60	_	_	hanno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
 60-3	BO118	60	_	_	rifatta	rifatta	_	_	_	_	_	linguistic	_		_		_	_	_
 60-4	BO118	60	_	_	da	da	_	_	_	_	_	linguistic	_		_		_	_	_
 60-5	BO118	60	_	_	poco	poco	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -593,14 +593,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 60-16	BO118	60	_	_	legno	legno	_	_	_	_	_	linguistic	_		_		_	_	_
 60-17	BO118	60	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 60-18	BO118	60	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-60-19	BO118	60	_	_	ra	era	_	_	_	_	_	linguistic	_		_		_	_	_
+60-19	BO118	60	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 60-20	BO118	60	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 60-21	BO118	60	_	_	camino	camino	_	_	_	_	_	linguistic	_		_		_	_	_
 60-22	BO118	60	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 60-23	BO118	60	_	_	adesso	adesso	_	_	_	_	_	linguistic	_		_		_	_	_
 60-24	BO118	60	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 60-25	BO118	60	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-60-26	BO118	60	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+60-26	BO118	60	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 60-27	BO118	60	_	_	più,	più	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=244.76		_	_	_
 61-0	BO118	61	_	_	e	e	_	_	_	_	_	linguistic	_		Begin=245.575		_	_	_
 61-1	BO118	61	_	_	prima	prima	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -617,11 +617,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 62-2	BO118	62	_	_	grande::	grande	_	_	_	_	_	linguistic	_		_	5x2	_	_	_
 62-3	BO118	62	_	_	e:	e	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 62-4	BO118	62	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-62-5	BO118	62	_	_	ra	era	_	_	_	_	_	linguistic	_		_		_	_	_
+62-5	BO118	62	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 62-6	BO118	62	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 62-7	BO118	62	_	_	tavolo	tavolo	_	_	_	_	_	linguistic	_		_		_	_	_
 62-8	BO118	62	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-62-9	BO118	62	_	_	ra	era	_	_	_	_	_	linguistic	_		_		_	_	_
+62-9	BO118	62	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 62-10	BO118	62	_	_	pure	pure	_	_	_	_	_	linguistic	_		_		_	_	_
 62-11	BO118	62	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 62-12	BO118	62	_	_	divanetto,	divanetto	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=251.31		_	_	_
@@ -631,7 +631,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 64-2	BO118	64	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 64-3	BO118	64	_	_	ce	ce	_	_	_	_	_	linguistic	_		_		_	_	_
 64-4	BO118	64	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-64-5	BO118	64	_	_	o	ho	_	_	_	_	_	linguistic	_		End=253.81		_	_	_
+64-5	BO118	64	_	_	ho	ho	_	_	_	_	_	linguistic	_		End=253.81		_	_	_
 65-0	BO118	65	_	_	<oka:y>	okay	_	_	_	_	_	linguistic	_		End=256.7	2x1	Slow=0-4(0)	_	_
 66-0	BO118	66	_	_	e::hm	ehm	_	_	_	_	_	linguistic	_		Begin=258.505	0x2	_	_	_
 66-1	BO118	66	_	_	quindi	quindi	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -664,7 +664,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 68-5	BO140	68	_	_	una	una	_	_	_	_	_	linguistic	_		_		_	_	_
 68-6	BO140	68	_	_	periferia	periferia	_	_	_	_	_	linguistic	_		_		_	_	_
 68-7	BO140	68	_	_	(cioè)	cioè	_	_	_	_	_	linguistic	_		_		_	0-4(0)	_
-68-8	BO140	68	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+68-8	BO140	68	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 68-9	BO140	68	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 68-10	BO140	68	_	_	piccola.	piccola	_	_	_	_	_	linguistic	_	Intonation=descending	End=271.13		_	_	_
 69-0	BO140	69	_	_	quindi	quindi	_	_	_	_	_	linguistic	_		Begin=271.485		_	_	_
@@ -750,7 +750,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 75-6	BO140	75	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
 75-7	BO140	75	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 75-8	BO140	75	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-75-9	BO140	75	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+75-9	BO140	75	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 75-10	BO140	75	_	_	possibilità	possibilità	_	_	_	_	_	linguistic	_		_		_	_	_
 75-11	BO140	75	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
 75-12	BO140	75	_	_	prender	prender	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -806,7 +806,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 79-6	BO140	79	_	_	anche	anche	_	_	_	_	_	linguistic	_		_		_	_	_
 79-7	BO140	79	_	_	con	con	_	_	_	_	_	linguistic	_		_		_	_	_
 79-8	BO140	79	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-79-9	BO140	79	_	_	utobus	autobus	_	_	_	_	_	linguistic	_		_		_	_	_
+79-9	BO140	79	_	_	autobus	autobus	_	_	_	_	_	linguistic	_		_		_	_	_
 79-10	BO140	79	_	_	così:::,	così	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=322.582	3x3	_	_	_
 80-0	BO118	80	_	_	eh	eh	_	_	_	_	_	linguistic	_		Begin=322.603		_	_	_
 80-1	BO118	80	_	_	ce	ce	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -827,7 +827,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 81-10	BO140	81	_	_	minuti,	minuti	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	_		_	_	_
 81-11	BO140	81	_	_	ogni	ogni	_	_	_	_	_	linguistic	_		_		_	_	_
 81-12	BO140	81	_	_	mezz'	mezz'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-81-13	BO140	81	_	_	:ra	ora	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
+81-13	BO140	81	_	_	o:ra	ora	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 81-14	BO140	81	_	_	così	così	_	_	_	_	_	linguistic	_		_		_	_	_
 81-15	BO140	81	_	_	quindi	quindi	_	_	_	_	_	linguistic	_		_		_	_	_
 81-16	BO140	81	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -841,13 +841,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 81-24	BO140	81	_	_	autobus.	autobus	_	_	_	_	_	linguistic	_	Intonation=descending	End=332.23		_	_	_
 82-0	BO140	82	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		Begin=332.55		_	_	_
 82-1	BO140	82	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-82-2	BO140	82	_	_	o	ho	_	_	_	_	_	linguistic	_		_		_	_	_
+82-2	BO140	82	_	_	ho	ho	_	_	_	_	_	linguistic	_		_		_	_	_
 82-3	BO140	82	_	_	fatto	fatto	_	_	_	_	_	linguistic	_		_		_	_	_
 82-4	BO140	82	_	_	tante	tante	_	_	_	_	_	linguistic	_		_		_	_	_
 82-5	BO140	82	_	_	vo:lte	volte	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
 82-6	BO140	82	_	_	anche	anche	_	_	_	_	_	linguistic	_		_		_	_	_
 82-7	BO140	82	_	_	quand'	quand'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-82-8	BO140	82	_	_	ro	ero	_	_	_	_	_	linguistic	_		_		_	_	_
+82-8	BO140	82	_	_	ero	ero	_	_	_	_	_	linguistic	_		_		_	_	_
 82-9	BO140	82	_	_	più	più	_	_	_	_	_	linguistic	_		_		_	_	_
 82-10	BO140	82	_	_	piccola:	piccola	_	_	_	_	_	linguistic	_		_	6x1	_	_	_
 82-11	BO140	82	_	_	però:	però	_	_	_	_	_	linguistic	_		_	3x1	_	_	_
@@ -862,7 +862,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 83-3	BO140	83	_	_	mi	mi	_	_	_	_	_	linguistic	_		_		_	_	_
 83-4	BO140	83	_	_	ricordo	ricordo	_	_	_	_	_	linguistic	_		_		_	_	_
 83-5	BO140	83	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-83-6	BO140	83	_	_	ra	era	_	_	_	_	_	linguistic	_		_		_	_	_
+83-6	BO140	83	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 83-7	BO140	83	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 83-8	BO140	83	_	_	periodo	periodo	_	_	_	_	_	linguistic	_		_		_	_	_
 83-9	BO140	83	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -887,7 +887,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 83-28	BO140	83	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 83-29	BO140	83	_	_	ce	ce	_	_	_	_	_	linguistic	_		_		_	_	_
 83-30	BO140	83	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-83-31	BO140	83	_	_	vevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
+83-31	BO140	83	_	_	avevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
 83-32	BO140	83	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 83-33	BO140	83	_	_	uscivo	uscivo	_	_	_	_	_	linguistic	_		_		_	_	_
 83-34	BO140	83	_	_	quasi	quasi	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -907,10 +907,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 84-12	BO140	84	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=351.067		_	_	_
 85-0	BO118	85	_	_	[si:	si	_	_	_	_	_	linguistic	_		Begin=350.42	1x1	_	_	0-2(84)
 85-1	BO118	85	_	_	anch'	anch'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-5(84)
-85-2	BO118	85	_	_	o]	io	_	_	_	_	_	linguistic	_		End=351.07		_	_	0-2(84)
+85-2	BO118	85	_	_	io]	io	_	_	_	_	_	linguistic	_		End=351.07		_	_	0-2(84)
 86-0	BO118	86	_	_	infatti	infatti	_	_	_	_	_	linguistic	_		Begin=351.93		_	_	_
 86-1	BO118	86	_	_	anch'	anch'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-86-2	BO118	86	_	_	o	io	_	_	_	_	_	linguistic	_		_		_	_	_
+86-2	BO118	86	_	_	io	io	_	_	_	_	_	linguistic	_		_		_	_	_
 86-3	BO118	86	_	_	sto	sto	_	_	_	_	_	linguistic	_		_		_	_	_
 86-4	BO118	86	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 86-5	BO118	86	_	_	po'	po'	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -942,7 +942,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 87-6	BO118	87	_	_	metterei	metterei	_	_	_	_	_	linguistic	_		_		_	_	_
 87-7	BO118	87	_	_	tipo:	tipo	_	_	_	_	_	linguistic	_		_	3x1	_	_	_
 87-8	BO118	87	_	_	mezz'	mezz'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-87-9	BO118	87	_	_	ra,	ora	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=361.74		_	_	_
+87-9	BO118	87	_	_	ora,	ora	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=361.74		_	_	_
 88-0	BO140	88	_	_	sì	sì	_	_	_	_	_	linguistic	_		Begin=362.28		_	_	_
 88-1	BO140	88	_	_	sì	sì	_	_	_	_	_	linguistic	_		End=362.773		_	_	_
 89-0	BO118	89	_	_	e:	e	_	_	_	_	_	linguistic	_		Begin=362.775	0x1	_	_	_
@@ -955,14 +955,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 89-7	BO118	89	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 89-8	BO118	89	_	_	vedevo	vedevo	_	_	_	_	_	linguistic	_		_		_	_	_
 89-9	BO118	89	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-89-10	BO118	89	_	_	ra	ora	_	_	_	_	_	linguistic	_		_		_	_	_
+89-10	BO118	89	_	_	ora	ora	_	_	_	_	_	linguistic	_		_		_	_	_
 89-11	BO118	89	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
 89-12	BO118	89	_	_	prender	prender	_	_	_	_	_	linguistic	_		_		_	_	_
 89-13	BO118	89	_	_	la	la	_	_	_	_	_	linguistic	_		_		_	_	_
 89-14	BO118	89	_	_	patente	patente	_	_	_	_	_	linguistic	_		_		_	_	_
 89-15	BO118	89	_	_	quando	quando	_	_	_	_	_	linguistic	_		_		_	_	_
 89-16	BO118	89	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-89-17	BO118	89	_	_	vevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
+89-17	BO118	89	_	_	avevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
 89-18	BO118	89	_	_	diciotto	diciotto	_	_	_	_	_	linguistic	_		_		_	_	7-8(90)
 89-19	BO118	89	_	_	[anni].	anni	_	_	_	_	_	linguistic	_	Intonation=descending	End=367.18		_	_	0-3(90)
 90-0	BO140	90	_	_	[no]	no	_	_	_	_	_	linguistic	_		Begin=367.08		_	_	0-2(89)
@@ -1040,7 +1040,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 97-1	BO118	97	_	_	{ride}	{ride}	_	_	_	_	_	metalinguistic	_		End=391.03		_	_	_
 98-0	BO118	98	_	_	che	che	_	_	_	_	_	linguistic	_		Begin=391.902		_	_	_
 98-1	BO118	98	_	_	po:i	poi	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
-98-2	BO118	98	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+98-2	BO118	98	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 98-3	BO118	98	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 98-4	BO118	98	_	_	fatta	fatta	_	_	_	_	_	linguistic	_		_		_	_	_
 98-5	BO118	98	_	_	tut~	tut~	_	_	_	_	_	linguistic	_	Interrupted=Yes	_		_	_	_
@@ -1194,7 +1194,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 120-10	BO140	120	_	_	be:ne	bene	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
 120-11	BO140	120	_	_	perché	perché	_	_	_	_	_	linguistic	_		_		_	_	_
 120-12	BO140	120	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-120-13	BO140	120	_	_	ra:	era	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
+120-13	BO140	120	_	_	era:	era	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
 120-14	BO140	120	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 120-15	BO140	120	_	_	ambiente	ambiente	_	_	_	_	_	linguistic	_		_		_	_	_
 120-16	BO140	120	_	_	comune	comune	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1216,13 +1216,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 122-6	BO140	122	_	_	cioè::	cioè	_	_	_	_	_	linguistic	_		_	3x2	_	_	_
 122-7	BO140	122	_	_	mh::	mh	_	_	_	_	_	linguistic	_		_	1x2	_	_	_
 122-8	BO140	122	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-122-9	BO140	122	_	_	mbiente	ambiente	_	_	_	_	_	linguistic	_		_		_	_	_
+122-9	BO140	122	_	_	ambiente	ambiente	_	_	_	_	_	linguistic	_		_		_	_	_
 122-10	BO140	122	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 122-11	BO140	122	_	_	familia:re:	familiare	_	_	_	_	_	linguistic	_		_	6x1,8x1	_	_	_
 122-12	BO140	122	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 122-13	BO140	122	_	_	comunque	comunque	_	_	_	_	_	linguistic	_		_		_	_	_
 122-14	BO140	122	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-122-15	BO140	122	_	_	rano	erano	_	_	_	_	_	linguistic	_		_		_	_	_
+122-15	BO140	122	_	_	erano	erano	_	_	_	_	_	linguistic	_		_		_	_	_
 122-16	BO140	122	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 122-17	BO140	122	_	_	paio	paio	_	_	_	_	_	linguistic	_		_		_	_	_
 122-18	BO140	122	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1251,7 +1251,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 125-1	BO140	125	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 125-2	BO140	125	_	_	po:i	poi	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
 125-3	BO140	125	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-125-4	BO140	125	_	_	ran	eran	_	_	_	_	_	linguistic	_		_		_	_	_
+125-4	BO140	125	_	_	eran	eran	_	_	_	_	_	linguistic	_		_		_	_	_
 125-5	BO140	125	_	_	le	le	_	_	_	_	_	linguistic	_		_		_	_	_
 125-6	BO140	125	_	_	due	due	_	_	_	_	_	linguistic	_		_		_	_	_
 125-7	BO140	125	_	_	camere	camere	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1327,7 +1327,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 129-6	BO118	129	_	_	cercavo	cercavo	_	_	_	_	_	linguistic	_		_		_	_	_
 129-7	BO118	129	_	_	casa::	casa	_	_	_	_	_	linguistic	_		_	3x2	_	_	_
 129-8	BO118	129	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-129-9	BO118	129	_	_	nno	anno	_	_	_	_	_	linguistic	_		_		_	_	_
+129-9	BO118	129	_	_	anno	anno	_	_	_	_	_	linguistic	_		_		_	_	_
 129-10	BO118	129	_	_	scorso,	scorso	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=507.28		_	_	_
 130-0	BO118	130	_	_	e::	e	_	_	_	_	_	linguistic	_		Begin=508.55	0x2	_	_	_
 130-1	BO118	130	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1453,7 +1453,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 144-2	BO140	144	_	_	que:sta	questa	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
 144-3	BO140	144	_	_	invece:	invece	_	_	_	_	_	linguistic	_		_	5x1	_	_	_
 144-4	BO140	144	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-144-5	BO140	144	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+144-5	BO140	144	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 144-6	BO140	144	_	_	stato	stato	_	_	_	_	_	linguistic	_		_		_	_	_
 144-7	BO140	144	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 144-8	BO140	144	_	_	periodo	periodo	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1486,7 +1486,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 147-6	BO140	147	_	_	uomini,	uomini	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	_		_	_	_
 147-7	BO140	147	_	_	mentre	mentre	_	_	_	_	_	linguistic	_		_		_	_	_
 147-8	BO140	147	_	_	nell'	nell'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-147-9	BO140	147	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+147-9	BO140	147	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 147-10	BO140	147	_	_	comunque	comunque	_	_	_	_	_	linguistic	_		_		_	_	_
 147-11	BO140	147	_	_	essendo	essendo	_	_	_	_	_	linguistic	_		_		_	_	_
 147-12	BO140	147	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1523,7 +1523,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 150-1	BO118	150	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 150-2	BO118	150	_	_	rispetto	rispetto	_	_	_	_	_	linguistic	_		_		_	_	_
 150-3	BO118	150	_	_	all'	all'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-150-4	BO118	150	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+150-4	BO118	150	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 150-5	BO118	150	_	_	casa:?	casa	_	_	_	_	_	linguistic	_	Intonation=ascending	_	3x1	_	_	_
 150-6	BO118	150	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
 150-7	BO118	150	_	_	quali	quali	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1536,7 +1536,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 150-14	BO118	150	_	_	qui	qui	_	_	_	_	_	linguistic	_		_		_	_	_
 150-15	BO118	150	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 150-16	BO118	150	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-150-17	BO118	150	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+150-17	BO118	150	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 150-18	BO118	150	_	_	casa?	casa	_	_	_	_	_	linguistic	_	Intonation=ascending	End=585.74		_	_	_
 151-0	BO140	151	_	_	e:::::	e	_	_	_	_	_	linguistic	_		Begin=586.5	0x5	_	_	_
 151-1	BO140	151	_	_	xx	x	_	_	_	_	_	unknown	_		End=588.165		_	_	_
@@ -1676,7 +1676,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 158-3	BO140	158	_	_	principale	principale	_	_	_	_	_	linguistic	_		_		_	_	_
 158-4	BO140	158	_	_	con	con	_	_	_	_	_	linguistic	_		_		_	_	_
 158-5	BO140	158	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-158-6	BO140	158	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+158-6	BO140	158	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 158-7	BO140	158	_	_	casa::	casa	_	_	_	_	_	linguistic	_		_	3x2	_	_	_
 158-8	BO140	158	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 158-9	BO140	158	_	_	che::,	che	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=646.42	2x2	_	_	_
@@ -1712,7 +1712,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 161-1	BO140	161	_	_	diciamo	diciamo	_	_	_	_	_	linguistic	_		_		_	_	_
 161-2	BO140	161	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 161-3	BO140	161	_	_	dell'	dell'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-161-4	BO140	161	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+161-4	BO140	161	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 161-5	BO140	161	_	_	preferivo	preferivo	_	_	_	_	_	linguistic	_		_		_	_	_
 161-6	BO140	161	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 161-7	BO140	161	_	_	fatto	fatto	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1741,7 +1741,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 163-2	BO140	163	_	_	livello	livello	_	_	_	_	_	linguistic	_		_		_	_	_
 163-3	BO140	163	_	_	estetico	estetico	_	_	_	_	_	linguistic	_		_		_	_	_
 163-4	BO140	163	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-163-5	BO140	163	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+163-5	BO140	163	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 163-6	BO140	163	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 163-7	BO140	163	_	_	più	più	_	_	_	_	_	linguistic	_		_		_	_	_
 163-8	BO140	163	_	_	bella	bella	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1776,7 +1776,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 168-2	BO118	168	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
 168-3	BO118	168	_	_	me	me	_	_	_	_	_	linguistic	_		_		_	_	_
 168-4	BO118	168	_	_	m'	m'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-168-5	BO118	168	_	_	a	ha	_	_	_	_	_	linguistic	_		_		_	_	_
+168-5	BO118	168	_	_	ha	ha	_	_	_	_	_	linguistic	_		_		_	_	_
 168-6	BO118	168	_	_	fatto	fatto	_	_	_	_	_	linguistic	_		_		_	_	_
 168-7	BO118	168	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 168-8	BO118	168	_	_	sacco	sacco	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1850,7 +1850,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 172-29	BO140	172	_	_	diciamo,	diciamo	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=701.81		_	_	_
 173-0	BO140	173	_	_	non	non	_	_	_	_	_	linguistic	_		Begin=702.297		_	_	_
 173-1	BO140	173	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-173-2	BO140	173	_	_	o	ho	_	_	_	_	_	linguistic	_		_		_	_	_
+173-2	BO140	173	_	_	ho	ho	_	_	_	_	_	linguistic	_		_		_	_	_
 173-3	BO140	173	_	_	mai	mai	_	_	_	_	_	linguistic	_		_		_	_	_
 173-4	BO140	173	_	_	sentita::	sentita	_	_	_	_	_	linguistic	_		_	6x2	_	_	_
 173-5	BO140	173	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -1899,7 +1899,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 174-33	BO140	174	_	_	camera	camera	_	_	_	_	_	linguistic	_		_		_	_	_
 174-34	BO140	174	_	_	ce	ce	_	_	_	_	_	linguistic	_		_		_	_	_
 174-35	BO140	174	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-174-36	BO140	174	_	_	vevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
+174-36	BO140	174	_	_	avevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
 174-37	BO140	174	_	_	circa	circa	_	_	_	_	_	linguistic	_		_		_	_	_
 174-38	BO140	174	_	_	libera.	libera	_	_	_	_	_	linguistic	_	Intonation=descending	End=719.09		_	_	_
 175-0	BO118	175	_	_	[okay]	okay	_	_	_	_	_	linguistic	_		End=716.12		_	_	0-4(174)
@@ -1951,7 +1951,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 181-1	BO118	181	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	0-3(180)
 181-2	BO118	181	_	_	be:]lla	bella	_	_	_	_	_	linguistic	_		_	1x1	_	_	0-2(180)
 181-3	BO118	181	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-181-4	BO118	181	_	_	niver[sità]	università	_	_	_	_	_	linguistic	_		_		_	_	5-10(182)
+181-4	BO118	181	_	_	univer[sità]	università	_	_	_	_	_	linguistic	_		_		_	_	5-10(182)
 181-5	BO118	181	_	_	tutti	tutti	_	_	_	_	_	linguistic	_		_		_	_	_
 181-6	BO118	181	_	_	insie[me]	insieme	_	_	_	_	_	linguistic	_		End=743.44		_	_	4-7(183)
 182-0	BO140	182	_	_	[esatto].	esatto	_	_	_	_	_	linguistic	_	Intonation=descending	End=742.91		_	_	0-6(181)
@@ -1977,12 +1977,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 185-2	BO118	185	_	_	se	se	_	_	_	_	_	linguistic	_		_		Fast=0-2(0)	_	_
 185-3	BO118	185	_	_	te	te	_	_	_	_	_	linguistic	_		_		Fast=0-2(0)	_	_
 185-4	BO118	185	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		Fast=0-2(0)	_	_
-185-5	BO118	185	_	_	vevo	avevo	_	_	_	_	_	linguistic	_		_		Fast=0-5(0)	_	_
+185-5	BO118	185	_	_	avevo	avevo	_	_	_	_	_	linguistic	_		_		Fast=0-5(0)	_	_
 185-6	BO118	185	_	_	detto<	detto	_	_	_	_	_	linguistic	_		_		Fast=0-5(0)	_	_
 185-7	BO118	185	_	_	tipo	tipo	_	_	_	_	_	linguistic	_		_		_	_	_
 185-8	BO118	185	_	_	io	io	_	_	_	_	_	linguistic	_		_		_	_	_
 185-9	BO118	185	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-185-10	BO118	185	_	_	nno	anno	_	_	_	_	_	linguistic	_		_		_	_	_
+185-10	BO118	185	_	_	anno	anno	_	_	_	_	_	linguistic	_		_		_	_	_
 185-11	BO118	185	_	_	sco:rso	scorso	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
 185-12	BO118	185	_	_	ero	ero	_	_	_	_	_	linguistic	_		_		_	_	_
 185-13	BO118	185	_	_	arrivata	arrivata	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2014,7 +2014,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 187-7	BO118	187	_	_	porta:	porta	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
 187-8	BO118	187	_	_	divisoria	divisoria	_	_	_	_	_	linguistic	_		_		_	_	_
 187-9	BO118	187	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-187-10	BO118	187	_	_	vevano	avevano	_	_	_	_	_	linguistic	_		_		_	_	_
+187-10	BO118	187	_	_	avevano	avevano	_	_	_	_	_	linguistic	_		_		_	_	_
 187-11	BO118	187	_	_	solamente	solamente	_	_	_	_	_	linguistic	_		_		_	_	_
 187-12	BO118	187	_	_	una	una	_	_	_	_	_	linguistic	_		_		_	_	_
 187-13	BO118	187	_	_	specie	specie	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2038,15 +2038,15 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 188-9	BO118	188	_	_	parte	parte	_	_	_	_	_	linguistic	_		_		_	_	_
 188-10	BO118	188	_	_	o	o	_	_	_	_	_	linguistic	_		_		_	_	_
 188-11	BO118	188	_	_	dall'	dall'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-188-12	BO118	188	_	_	ltra	altra	_	_	_	_	_	linguistic	_		End=771.38		_	_	_
+188-12	BO118	188	_	_	altra	altra	_	_	_	_	_	linguistic	_		End=771.38		_	_	_
 189-0	BO118	189	_	_	e	e	_	_	_	_	_	linguistic	_		Begin=772.085		_	_	_
 189-1	BO118	189	_	_	io	io	_	_	_	_	_	linguistic	_		_		_	_	_
 189-2	BO118	189	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-189-3	BO118	189	_	_	:nico	unico	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
+189-3	BO118	189	_	_	u:nico	unico	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 189-4	BO118	189	_	_	posto::	posto	_	_	_	_	_	linguistic	_		_	4x2	_	_	_
 189-5	BO118	189	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 189-6	BO118	189	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-189-7	BO118	189	_	_	vevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
+189-7	BO118	189	_	_	avevo	avevo	_	_	_	_	_	linguistic	_		_		_	_	_
 189-8	BO118	189	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
 189-9	BO118	189	_	_	cui	cui	_	_	_	_	_	linguistic	_		_		_	_	_
 189-10	BO118	189	_	_	potevo	potevo	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2109,12 +2109,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 194-1	BO118	194	_	_	sì	sì	_	_	_	_	_	linguistic	_		_		_	_	_
 194-2	BO118	194	_	_	ma	ma	_	_	_	_	_	linguistic	_		_		_	_	_
 194-3	BO118	194	_	_	anch'	anch'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-194-4	BO118	194	_	_	o::	io	_	_	_	_	_	linguistic	_		_	1x2	_	_	_
+194-4	BO118	194	_	_	io::	io	_	_	_	_	_	linguistic	_		_	1x2	_	_	_
 194-5	BO118	194	_	_	però	però	_	_	_	_	_	linguistic	_		_		_	_	_
 194-6	BO118	194	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 194-7	BO118	194	_	_	proprio	proprio	_	_	_	_	_	linguistic	_		_		_	_	_
 194-8	BO118	194	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-194-9	BO118	194	_	_	sigenza	esigenza	_	_	_	_	_	linguistic	_		_		_	_	7-8(195)
+194-9	BO118	194	_	_	esigenza	esigenza	_	_	_	_	_	linguistic	_		_		_	_	7-8(195)
 194-10	BO118	194	_	_	[de	de	_	_	_	_	_	linguistic	_		_		_	_	0-2(195)
 194-11	BO118	194	_	_	sta	sta	_	_	_	_	_	linguistic	_		_		_	_	0-3(195)
 194-12	BO118	194	_	_	da	da	_	_	_	_	_	linguistic	_		_		_	_	0-2(195)
@@ -2168,12 +2168,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 199-16	BO118	199	_	_	ovunque	ovunque	_	_	_	_	_	linguistic	_		_		_	_	_
 199-17	BO118	199	_	_	vai	vai	_	_	_	_	_	linguistic	_		_		_	_	_
 199-18	BO118	199	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-199-19	BO118	199	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+199-19	BO118	199	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 199-20	BO118	199	_	_	qualcuno	qualcuno	_	_	_	_	_	linguistic	_		End=807.02		_	_	_
 200-0	BO118	200	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		Begin=807.499		_	_	_
 200-1	BO118	200	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 200-2	BO118	200	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-200-3	BO118	200	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+200-3	BO118	200	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 200-4	BO118	200	_	_	nessun	nessun	_	_	_	_	_	linguistic	_		_		_	_	_
 200-5	BO118	200	_	_	posto	posto	_	_	_	_	_	linguistic	_		_		_	_	_
 200-6	BO118	200	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2252,7 +2252,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 209-12	BO140	209	_	_	andrea	andrea	_	_	_	_	_	linguistic	_		_		_	_	_
 209-13	BO140	209	_	_	costa	costa	_	_	_	_	_	linguistic	_		_		_	_	_
 209-14	BO140	209	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-209-15	BO140	209	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+209-15	BO140	209	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 209-16	BO140	209	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 209-17	BO140	209	_	_	parco	parco	_	_	_	_	_	linguistic	_		_		_	_	_
 209-18	BO140	209	_	_	pubblico,	pubblico	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=833.95		_	_	_
@@ -2260,7 +2260,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 210-1	BO140	210	_	_	ho	ho	_	_	_	_	_	linguistic	_		_		_	_	_
 210-2	BO140	210	_	_	scoperto	scoperto	_	_	_	_	_	linguistic	_		_		_	_	_
 210-3	BO140	210	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-210-4	BO140	210	_	_	nno	anno	_	_	_	_	_	linguistic	_		_		_	_	_
+210-4	BO140	210	_	_	anno	anno	_	_	_	_	_	linguistic	_		_		_	_	_
 210-5	BO140	210	_	_	scorso:	scorso	_	_	_	_	_	linguistic	_		_	5x1	_	_	_
 210-6	BO140	210	_	_	e:	e	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 210-7	BO140	210	_	_	se	se	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2290,7 +2290,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 213-9	BO140	213	_	_	mello:ni:	melloni	_	_	_	_	_	linguistic	_		_	4x1,6x1	_	_	_
 213-10	BO140	213	_	_	e::	e	_	_	_	_	_	linguistic	_		_	0x2	_	_	_
 213-11	BO140	213	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-213-12	BO140	213	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+213-12	BO140	213	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 213-13	BO140	213	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 213-14	BO140	213	_	_	so	so	_	_	_	_	_	linguistic	_		_		_	_	_
 213-15	BO140	213	_	_	come	come	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2485,7 +2485,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 238-20	BO118	238	_	_	avendo	avendo	_	_	_	_	_	linguistic	_		_		_	_	_
 238-21	BO118	238	_	_	fatto	fatto	_	_	_	_	_	linguistic	_		_		_	_	_
 238-22	BO118	238	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-238-23	BO118	238	_	_	niversità:	università	_	_	_	_	_	linguistic	_		_	9x1	_	_	_
+238-23	BO118	238	_	_	università:	università	_	_	_	_	_	linguistic	_		_	9x1	_	_	_
 238-24	BO118	238	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 238-25	BO118	238	_	_	ovvio	ovvio	_	_	_	_	_	linguistic	_		_		_	_	_
 238-26	BO118	238	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2658,7 +2658,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 255-11	BO118	255	_	_	dove::,	dove	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=987.04	3x2	_	_	_
 256-0	BO118	256	_	_	dove	dove	_	_	_	_	_	linguistic	_		Begin=987.385		_	_	_
 256-1	BO118	256	_	_	m'	m'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-256-2	BO118	256	_	_	anno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
+256-2	BO118	256	_	_	hanno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
 256-3	BO118	256	_	_	ospitato	ospitato	_	_	_	_	_	linguistic	_		_		_	_	_
 256-4	BO118	256	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
 256-5	BO118	256	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2674,7 +2674,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 256-15	BO118	256	_	_	pistoia	pistoia	_	_	_	_	_	linguistic	_		_		_	_	_
 256-16	BO118	256	_	_	>cioè	cioè	_	_	_	_	_	linguistic	_		_		Fast=0-4(0)	_	_
 256-17	BO118	256	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		Fast=0-2(0)	_	_
-256-18	BO118	256	_	_	bbiamo<	abbiamo	_	_	_	_	_	linguistic	_		_		Fast=0-6(0)	_	_
+256-18	BO118	256	_	_	abbiamo<	abbiamo	_	_	_	_	_	linguistic	_		_		Fast=0-6(0)	_	_
 256-19	BO118	256	_	_	messo:,	messo	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=995.13	4x1	_	_	_
 257-0	BO118	257	_	_	venti	venti	_	_	_	_	_	linguistic	_		Begin=995.422		_	_	_
 257-1	BO118	257	_	_	minuti	minuti	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2708,7 +2708,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 258-15	BO118	258	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 258-16	BO118	258	_	_	sabato	sabato	_	_	_	_	_	linguistic	_		_		_	_	_
 258-17	BO118	258	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-258-18	BO118	258	_	_	a	ha	_	_	_	_	_	linguistic	_		_		_	_	_
+258-18	BO118	258	_	_	ha	ha	_	_	_	_	_	linguistic	_		_		_	_	_
 258-19	BO118	258	_	_	voglia	voglia	_	_	_	_	_	linguistic	_		_		_	_	_
 258-20	BO118	258	_	_	de	de	_	_	_	_	_	linguistic	_		_		_	_	_
 258-21	BO118	258	_	_	fa'	fa'	_	_	_	_	_	linguistic	_	Truncated=Yes	_		_	_	_
@@ -2728,16 +2728,16 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 261-6	BO118	261	_	_	ok::ay	okay	_	_	_	_	_	linguistic	_		_	1x2	_	_	_
 261-7	BO118	261	_	_	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
 261-8	BO118	261	_	_	fine	fine	_	_	_	_	_	linguistic	_		_		_	_	_
-261-9	BO118	261	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+261-9	BO118	261	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 261-10	BO118	261	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 261-11	BO118	261	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 261-12	BO118	261	_	_	pistoia	pistoia	_	_	_	_	_	linguistic	_		_		_	_	_
 261-13	BO118	261	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
 261-14	BO118	261	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-261-15	BO118	261	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+261-15	BO118	261	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 261-16	BO118	261	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 261-17	BO118	261	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-261-18	BO118	261	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+261-18	BO118	261	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 261-19	BO118	261	_	_	assolutamente	assolutamente	_	_	_	_	_	linguistic	_		_		_	_	_
 261-20	BO118	261	_	_	niente	niente	_	_	_	_	_	linguistic	_		End=1015.73		_	_	_
 262-0	BO118	262	_	_	però:	però	_	_	_	_	_	linguistic	_		Begin=1016.448	3x1	_	_	_
@@ -2850,7 +2850,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 270-4	BO140	270	_	_	traffico	traffico	_	_	_	_	_	linguistic	_		_		_	_	_
 270-5	BO140	270	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 270-6	BO140	270	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-270-7	BO140	270	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+270-7	BO140	270	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 270-8	BO140	270	_	_	tro:vi	trovi	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
 270-9	BO140	270	_	_	anche:	anche	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
 270-10	BO140	270	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2858,7 +2858,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 270-12	BO140	270	_	_	metti	metti	_	_	_	_	_	linguistic	_		_		_	_	_
 270-13	BO140	270	_	_	anche	anche	_	_	_	_	_	linguistic	_		_		_	_	_
 270-14	BO140	270	_	_	mezz'	mezz'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-270-15	BO140	270	_	_	:ra,	ora	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=1060.6	0x1	_	_	_
+270-15	BO140	270	_	_	o:ra,	ora	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=1060.6	0x1	_	_	_
 271-0	BO140	271	_	_	in	in	_	_	_	_	_	linguistic	_		Begin=1061.59		_	_	_
 271-1	BO140	271	_	_	quel	quel	_	_	_	_	_	linguistic	_		_		_	_	_
 271-2	BO140	271	_	_	caso	caso	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -2969,7 +2969,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 279-23	BO118	279	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 279-24	BO118	279	_	_	ce	ce	_	_	_	_	_	linguistic	_		_		_	_	_
 279-25	BO118	279	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-279-26	BO118	279	_	_	o	ho	_	_	_	_	_	linguistic	_		_		_	_	_
+279-26	BO118	279	_	_	ho	ho	_	_	_	_	_	linguistic	_		_		_	_	_
 279-27	BO118	279	_	_	mai	mai	_	_	_	_	_	linguistic	_		_		_	_	_
 279-28	BO118	279	_	_	vista	vista	_	_	_	_	_	linguistic	_		_		_	_	_
 279-29	BO118	279	_	_	una	una	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3001,8 +3001,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 281-21	BO140	281	_	_	centro	centro	_	_	_	_	_	linguistic	_		_		_	_	_
 281-22	BO140	281	_	_	piccolo	piccolo	_	_	_	_	_	linguistic	_		_		_	_	_
 281-23	BO140	281	_	_	come	come	_	_	_	_	_	linguistic	_		_		_	_	_
-281-24	BO140	281	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
-281-25	BO140	281	_	_	.	.	_	_	_	_	_	error	_		End=1101.42		_	_	_
+281-24	BO140	281	_	_	@nomepaese.	@nomepaese.	_	_	_	_	_	error	_		End=1101.42		_	_	_
 282-0	BO118	282	_	_	°okay°	okay	_	_	_	_	_	linguistic	_	Volume=low	End=1102.179		_	_	_
 283-0	BO140	283	_	_	perché	perché	_	_	_	_	_	linguistic	_		Begin=1102.216		_	_	_
 283-1	BO140	283	_	_	non::	non	_	_	_	_	_	linguistic	_		End=1103.523	2x2	_	_	_
@@ -3013,7 +3012,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 284-4	BO140	284	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 284-5	BO140	284	_	_	offre	offre	_	_	_	_	_	linguistic	_		_		_	_	_
 284-6	BO140	284	_	_	niente	niente	_	_	_	_	_	linguistic	_		_		_	_	_
-284-7	BO140	284	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+284-7	BO140	284	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 284-8	BO140	284	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 284-9	BO140	284	_	_	mh	mh	_	_	_	_	_	linguistic	_		_		_	_	_
 284-10	BO140	284	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3036,7 +3035,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 284-27	BO140	284	_	_	giovani::	giovani	_	_	_	_	_	linguistic	_		_	6x2	_	_	_
 284-28	BO140	284	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 284-29	BO140	284	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-284-30	BO140	284	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+284-30	BO140	284	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 284-31	BO140	284	_	_	possibilità	possibilità	_	_	_	_	_	linguistic	_		_		_	_	_
 284-32	BO140	284	_	_	lavorativa	lavorativa	_	_	_	_	_	linguistic	_		_		_	_	_
 284-33	BO140	284	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3093,7 +3092,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 287-5	BO140	287	_	_	mia	mia	_	_	_	_	_	linguistic	_		_		_	_	_
 287-6	BO140	287	_	_	vita	vita	_	_	_	_	_	linguistic	_		_		_	_	_
 287-7	BO140	287	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-287-8	BO140	287	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+287-8	BO140	287	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 287-9	BO140	287	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
 287-10	BO140	287	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 287-11	BO140	287	_	_	lo	lo	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3139,7 +3138,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 289-14	BO140	289	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
 289-15	BO140	289	_	_	centro	centro	_	_	_	_	_	linguistic	_		_		_	_	_
 289-16	BO140	289	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-289-17	BO140	289	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		End=1152.7		_	_	_
+289-17	BO140	289	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		End=1152.7		_	_	_
 290-0	BO118	290	_	_	n[o:]?	no	_	_	_	_	_	linguistic	_	Intonation=ascending	End=1153.49	1x1	_	_	1-2(291)
 291-0	BO140	291	_	_	[pe]rché	perché	_	_	_	_	_	linguistic	_		Begin=1153.345		_	_	0-2(290)
 291-1	BO140	291	_	_	non:	non	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
@@ -3151,10 +3150,9 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 292-1	BO118	292	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
 292-2	BO118	292	_	_	realtà	realtà	_	_	_	_	_	linguistic	_		_		_	_	_
 292-3	BO118	292	_	_	anch'	anch'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-292-4	BO118	292	_	_	o	io	_	_	_	_	_	linguistic	_		_		_	_	_
+292-4	BO118	292	_	_	io	io	_	_	_	_	_	linguistic	_		_		_	_	_
 292-5	BO118	292	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-292-6	BO118	292	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
-292-7	BO118	292	_	_	.	.	_	_	_	_	_	error	_		End=1158.01		_	_	_
+292-6	BO118	292	_	_	@nomepaese.	@nomepaese.	_	_	_	_	_	error	_		End=1158.01		_	_	_
 293-0	BO118	293	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		Begin=1158.17		_	_	_
 293-1	BO118	293	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 293-2	BO118	293	_	_	ho	ho	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3162,10 +3160,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 293-4	BO118	293	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 293-5	BO118	293	_	_	uscissi	uscissi	_	_	_	_	_	linguistic	_		_		_	_	_
 293-6	BO118	293	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-293-7	BO118	293	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+293-7	BO118	293	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 293-8	BO118	293	_	_	o	o	_	_	_	_	_	linguistic	_		_		_	_	_
 293-9	BO118	293	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-293-10	BO118	293	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+293-10	BO118	293	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 293-11	BO118	293	_	_	con	con	_	_	_	_	_	linguistic	_		_		_	_	_
 293-12	BO118	293	_	_	i	i	_	_	_	_	_	linguistic	_		_		_	_	_
 293-13	BO118	293	_	_	miei	miei	_	_	_	_	_	linguistic	_		End=1161.713		_	_	_
@@ -3225,7 +3223,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 296-40	BO140	296	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 296-41	BO140	296	_	_	buona	buona	_	_	_	_	_	linguistic	_		End=1186.39		_	_	_
 297-0	BO140	297	_	_	però	però	_	_	_	_	_	linguistic	_		Begin=1186.912		_	_	_
-297-1	BO140	297	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+297-1	BO140	297	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 297-2	BO140	297	_	_	secondo	secondo	_	_	_	_	_	linguistic	_		_		_	_	_
 297-3	BO140	297	_	_	me	me	_	_	_	_	_	linguistic	_		_		_	_	_
 297-4	BO140	297	_	_	per	per	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3265,7 +3263,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 301-2	BO140	301	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	0-1(300)
 301-3	BO140	301	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	0-3(300)
 301-4	BO140	301	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-2(300)
-301-5	BO140	301	_	_	mmini]strazione::	amministrazione	_	_	_	_	_	linguistic	_		_	14x2	_	_	0-6(300)
+301-5	BO140	301	_	_	ammini]strazione::	amministrazione	_	_	_	_	_	linguistic	_		_	14x2	_	_	0-6(300)
 301-6	BO140	301	_	_	mh:	mh	_	_	_	_	_	linguistic	_		End=1200.96	1x1	_	_	_
 302-0	BO140	302	_	_	non	non	_	_	_	_	_	linguistic	_		Begin=1201.782		_	_	_
 302-1	BO140	302	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3348,7 +3346,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 307-0	BO118	307	_	_	[sì]?	sì	_	_	_	_	_	linguistic	_	Intonation=ascending	End=1233.328		_	_	0-2(306)
 308-0	BO140	308	_	_	sì	sì	_	_	_	_	_	linguistic	_		Begin=1233.661		_	_	_
 308-1	BO140	308	_	_	[l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-2(309)
-308-2	BO140	308	_	_	ni]versità	università	_	_	_	_	_	linguistic	_		_		_	_	0-3(309)
+308-2	BO140	308	_	_	uni]versità	università	_	_	_	_	_	linguistic	_		_		_	_	0-3(309)
 308-3	BO140	308	_	_	organizzava	organizzava	_	_	_	_	_	linguistic	_		_		_	_	_
 308-4	BO140	308	_	_	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
 308-5	BO140	308	_	_	concerti	concerti	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3381,7 +3379,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 310-10	BO140	310	_	_	e:	e	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 310-11	BO140	310	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 310-12	BO140	310	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-310-13	BO140	310	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+310-13	BO140	310	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 310-14	BO140	310	_	_	più	più	_	_	_	_	_	linguistic	_		_		_	_	_
 310-15	BO140	310	_	_	niente.	niente	_	_	_	_	_	linguistic	_	Intonation=descending	End=1245.52		_	_	_
 311-0	BO140	311	_	_	quindi:	quindi	_	_	_	_	_	linguistic	_		Begin=1246.06	5x1	_	_	_
@@ -3408,7 +3406,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 313-6	BO140	313	_	_	secondo	secondo	_	_	_	_	_	linguistic	_		_		_	_	_
 313-7	BO140	313	_	_	me::	me	_	_	_	_	_	linguistic	_		_	1x2	_	_	_
 313-8	BO140	313	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-313-9	BO140	313	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+313-9	BO140	313	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 313-10	BO140	313	_	_	più	più	_	_	_	_	_	linguistic	_		_		_	_	_
 313-11	BO140	313	_	_	via	via	_	_	_	_	_	linguistic	_		_		_	_	_
 313-12	BO140	313	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3424,10 +3422,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 314-4	BO140	314	_	_	piccolo	piccolo	_	_	_	_	_	linguistic	_		_		_	_	_
 314-5	BO140	314	_	_	centro	centro	_	_	_	_	_	linguistic	_		_		_	_	_
 314-6	BO140	314	_	_	come	come	_	_	_	_	_	linguistic	_		_		_	_	_
-314-7	BO140	314	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+314-7	BO140	314	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 314-8	BO140	314	_	_	dove	dove	_	_	_	_	_	linguistic	_		_		_	_	_
 314-9	BO140	314	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-314-10	BO140	314	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+314-10	BO140	314	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 314-11	BO140	314	_	_	una	una	_	_	_	_	_	linguistic	_		_		_	_	_
 314-12	BO140	314	_	_	piazza:	piazza	_	_	_	_	_	linguistic	_		_	5x1	_	_	_
 314-13	BO140	314	_	_	e	e	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3444,11 +3442,11 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 314-24	BO140	314	_	_	gambe:	gambe	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
 314-25	BO140	314	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 314-26	BO140	314	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-314-27	BO140	314	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+314-27	BO140	314	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 314-28	BO140	314	_	_	più:	più	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
 314-29	BO140	314	_	_	via	via	_	_	_	_	_	linguistic	_		_		_	_	_
 314-30	BO140	314	_	_	d'	d'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-314-31	BO140	314	_	_	scita	uscita	_	_	_	_	_	linguistic	_		End=1266.78		_	_	_
+314-31	BO140	314	_	_	uscita	uscita	_	_	_	_	_	linguistic	_		End=1266.78		_	_	_
 315-0	BO140	315	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		Begin=1266.92		_	_	_
 315-1	BO140	315	_	_	ti	ti	_	_	_	_	_	linguistic	_		_		_	_	_
 315-2	BO140	315	_	_	devi	devi	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3504,7 +3502,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 318-12	BO140	318	_	_	tre	tre	_	_	_	_	_	linguistic	_		_		_	_	_
 318-13	BO140	318	_	_	quarti	quarti	_	_	_	_	_	linguistic	_		_		_	_	_
 318-14	BO140	318	_	_	d'	d'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-318-15	BO140	318	_	_	:ra.	ora	_	_	_	_	_	linguistic	_	Intonation=descending	End=1283.21	0x1	_	_	_
+318-15	BO140	318	_	_	o:ra.	ora	_	_	_	_	_	linguistic	_	Intonation=descending	End=1283.21	0x1	_	_	_
 319-0	BO140	319	_	_	e:	e	_	_	_	_	_	linguistic	_		Begin=1283.845	0x1	_	_	_
 319-1	BO140	319	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
 319-2	BO140	319	_	_	ti	ti	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3550,17 +3548,17 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 322-6	BO140	322	_	_	poi	poi	_	_	_	_	_	linguistic	_		_		_	_	_
 322-7	BO140	322	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 322-8	BO140	322	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-322-9	BO140	322	_	_	nica	unica	_	_	_	_	_	linguistic	_		_		_	_	_
+322-9	BO140	322	_	_	unica	unica	_	_	_	_	_	linguistic	_		_		_	_	_
 322-10	BO140	322	_	_	strada	strada	_	_	_	_	_	linguistic	_		_		_	_	_
 322-11	BO140	322	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 322-12	BO140	322	_	_	collega:	collega	_	_	_	_	_	linguistic	_		_	6x1	_	_	_
 322-13	BO140	322	_	_	pesaro	pesaro	_	_	_	_	_	linguistic	_		_		_	_	_
 322-14	BO140	322	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-322-15	BO140	322	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+322-15	BO140	322	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 322-16	BO140	322	_	_	e:::	e	_	_	_	_	_	linguistic	_		End=1302.94	0x3	_	_	_
 323-0	BO140	323	_	_	non	non	_	_	_	_	_	linguistic	_		Begin=1303.33		_	_	_
 323-1	BO140	323	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-323-2	BO140	323	_	_	ai:	hai	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
+323-2	BO140	323	_	_	hai:	hai	_	_	_	_	_	linguistic	_		_	2x1	_	_	_
 323-3	BO140	323	_	_	altro	altro	_	_	_	_	_	linguistic	_		_		_	_	_
 323-4	BO140	323	_	_	modo:	modo	_	_	_	_	_	linguistic	_		_	3x1	_	_	_
 323-5	BO140	323	_	_	per	per	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3572,7 +3570,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 324-4	BO140	324	_	_	quella	quella	_	_	_	_	_	linguistic	_		_		_	_	_
 324-5	BO140	324	_	_	quindi	quindi	_	_	_	_	_	linguistic	_		_		_	_	_
 324-6	BO140	324	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-324-7	BO140	324	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+324-7	BO140	324	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 324-8	BO140	324	_	_	anche	anche	_	_	_	_	_	linguistic	_		_		_	_	_
 324-9	BO140	324	_	_	mh	mh	_	_	_	_	_	linguistic	_		_		_	_	_
 324-10	BO140	324	_	_	abbastanza	abbastanza	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3620,7 +3618,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 330-7	BO140	330	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 330-8	BO140	330	_	_	ha	ha	_	_	_	_	_	linguistic	_		_		_	_	_
 330-9	BO140	330	_	_	un'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-330-10	BO140	330	_	_	mministrazione	amministrazione	_	_	_	_	_	linguistic	_		_		_	_	_
+330-10	BO140	330	_	_	amministrazione	amministrazione	_	_	_	_	_	linguistic	_		_		_	_	_
 330-11	BO140	330	_	_	più	più	_	_	_	_	_	linguistic	_		_		_	_	_
 330-12	BO140	330	_	_	ricca.	ricca	_	_	_	_	_	linguistic	_	Intonation=descending	End=1326.145		_	_	_
 331-0	BO140	331	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		Begin=1326.6		_	_	_
@@ -3645,12 +3643,12 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 334-9	BO140	334	_	_	per	per	_	_	_	_	_	linguistic	_		_		_	_	_
 334-10	BO140	334	_	_	dire	dire	_	_	_	_	_	linguistic	_		_		_	_	_
 334-11	BO140	334	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-334-12	BO140	334	_	_	ccensione	accensione	_	_	_	_	_	linguistic	_		_		_	_	_
+334-12	BO140	334	_	_	accensione	accensione	_	_	_	_	_	linguistic	_		_		_	_	_
 334-13	BO140	334	_	_	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
 334-14	BO140	334	_	_	luci	luci	_	_	_	_	_	linguistic	_		_		_	_	_
 334-15	BO140	334	_	_	natalizie:	natalizie	_	_	_	_	_	linguistic	_		_	8x1	_	_	_
 334-16	BO140	334	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-334-17	BO140	334	_	_	rano	erano	_	_	_	_	_	linguistic	_		_		_	_	_
+334-17	BO140	334	_	_	erano	erano	_	_	_	_	_	linguistic	_		_		_	_	_
 334-18	BO140	334	_	_	boh	boh	_	_	_	_	_	linguistic	_		_		_	_	_
 334-19	BO140	334	_	_	migliaia	migliaia	_	_	_	_	_	linguistic	_		_		_	_	_
 334-20	BO140	334	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3704,7 +3702,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 339-4	BO140	339	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 339-5	BO140	339	_	_	ha	ha	_	_	_	_	_	linguistic	_		_		_	_	_
 339-6	BO140	339	_	_	un'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-339-7	BO140	339	_	_	niversità	università	_	_	_	_	_	linguistic	_		_		_	_	_
+339-7	BO140	339	_	_	università	università	_	_	_	_	_	linguistic	_		_		_	_	_
 339-8	BO140	339	_	_	propria.	propria	_	_	_	_	_	linguistic	_	Intonation=descending	End=1357.64		_	_	_
 340-0	BO118	340	_	_	o:kay	okay	_	_	_	_	_	linguistic	_		End=1358.43	0x1	_	_	_
 341-0	BO140	341	_	_	accoglie	accoglie	_	_	_	_	_	linguistic	_		Begin=1358.437		_	_	_
@@ -3723,7 +3721,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 344-2	BO118	344	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
 344-3	BO118	344	_	_	pesaro	pesaro	_	_	_	_	_	linguistic	_		_		_	_	_
 344-4	BO118	344	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-344-5	BO118	344	_	_	biteresti?	abiteresti	_	_	_	_	_	linguistic	_	Intonation=ascending	End=1364.63		_	_	_
+344-5	BO118	344	_	_	abiteresti?	abiteresti	_	_	_	_	_	linguistic	_	Intonation=ascending	End=1364.63		_	_	_
 345-0	BO140	345	_	_	sì.	sì	_	_	_	_	_	linguistic	_	Intonation=descending	End=1365.14		_	_	_
 346-0	BO140	346	_	_	a	a	_	_	_	_	_	linguistic	_		Begin=1365.41		_	_	_
 346-1	BO140	346	_	_	pesaro	pesaro	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3761,7 +3759,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 349-12	BO140	349	_	_	piacerebbe	piacerebbe	_	_	_	_	_	linguistic	_		_		_	_	_
 349-13	BO140	349	_	_	vivere	vivere	_	_	_	_	_	linguistic	_		_		_	_	_
 349-14	BO140	349	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
-349-15	BO140	349	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+349-15	BO140	349	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 349-16	BO140	349	_	_	o	o	_	_	_	_	_	linguistic	_		_		_	_	_
 349-17	BO140	349	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
 349-18	BO140	349	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3833,7 +3831,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 355-8	BO118	355	_	_	più	più	_	_	_	_	_	linguistic	_		_		_	_	_
 355-9	BO118	355	_	_	grande	grande	_	_	_	_	_	linguistic	_		_		_	_	_
 355-10	BO118	355	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
-355-11	BO118	355	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		End=1403.57		_	_	_
+355-11	BO118	355	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		End=1403.57		_	_	_
 356-0	BO140	356	_	_	[centomi:la	centomila	_	_	_	_	_	linguistic	_		Begin=1401.315	6x1	_	_	0-9(355)
 356-1	BO140	356	_	_	perlom~]	perlom~	_	_	_	_	_	linguistic	_	Interrupted=Yes	End=1402.57		_	_	0-7(355)
 357-0	BO118	357	_	_	poi	poi	_	_	_	_	_	linguistic	_		Begin=1403.91		_	_	_
@@ -3845,7 +3843,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 357-6	BO118	357	_	_	né	né	_	_	_	_	_	linguistic	_		_		_	_	_
 357-7	BO118	357	_	_	pesaro	pesaro	_	_	_	_	_	linguistic	_		_		_	_	_
 357-8	BO118	357	_	_	né	né	_	_	_	_	_	linguistic	_		_		_	_	_
-357-9	BO118	357	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		End=1406.387		_	_	_
+357-9	BO118	357	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		End=1406.387		_	_	_
 358-0	BO140	358	_	_	[si:]	si	_	_	_	_	_	linguistic	_		End=1404.79	1x1	_	_	0-2(357)
 359-0	BO140	359	_	_	no	no	_	_	_	_	_	linguistic	_		Begin=1406.61		_	_	_
 359-1	BO140	359	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3853,14 +3851,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 360-0	BO118	360	_	_	[quindi	quindi	_	_	_	_	_	linguistic	_		Begin=1406.75		_	_	0-6(359)
 360-1	BO118	360	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	0-3(359)
 360-2	BO118	360	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-2(359)
-360-3	BO118	360	_	_	o]	ho	_	_	_	_	_	linguistic	_		_		_	_	0-2(359)
+360-3	BO118	360	_	_	ho]	ho	_	_	_	_	_	linguistic	_		_		_	_	0-2(359)
 360-4	BO118	360	_	_	proprio	proprio	_	_	_	_	_	linguistic	_		_		_	_	_
 360-5	BO118	360	_	_	idea.	idea	_	_	_	_	_	linguistic	_	Intonation=descending	End=1408.0		_	_	_
 361-0	BO140	361	_	_	e::	e	_	_	_	_	_	linguistic	_		Begin=1408.3	0x2	_	_	_
 361-1	BO140	361	_	_	che:::	che	_	_	_	_	_	linguistic	_		_	2x3	_	_	_
 361-2	BO140	361	_	_	no	no	_	_	_	_	_	linguistic	_		_		_	_	_
 361-3	BO140	361	_	_	beh	beh	_	_	_	_	_	linguistic	_		_		_	_	_
-361-4	BO140	361	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+361-4	BO140	361	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 361-5	BO140	361	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
 361-6	BO140	361	_	_	realtà	realtà	_	_	_	_	_	linguistic	_		_		_	_	_
 361-7	BO140	361	_	_	conta:	conta	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
@@ -3943,7 +3941,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 371-3	BO118	371	_	_	sto]	sto	_	_	_	_	_	linguistic	_		_		_	_	0-3(370)
 371-4	BO118	371	_	_	pensando	pensando	_	_	_	_	_	linguistic	_		_		_	_	_
 371-5	BO118	371	_	_	all'	all'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-371-6	BO118	371	_	_	quivale:nte	equivalente	_	_	_	_	_	linguistic	_		_	7x1	_	_	_
+371-6	BO118	371	_	_	equivale:nte	equivalente	_	_	_	_	_	linguistic	_		_	7x1	_	_	_
 371-7	BO118	371	_	_	de	de	_	_	_	_	_	linguistic	_		_		_	_	_
 371-8	BO118	371	_	_	quello	quello	_	_	_	_	_	linguistic	_		_		_	_	_
 371-9	BO118	371	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -3952,7 +3950,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 371-12	BO118	371	_	_	pesaro,	pesaro	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=1444.38		_	_	_
 372-0	BO118	372	_	_	tipo	tipo	_	_	_	_	_	linguistic	_		Begin=1444.53		_	_	_
 372-1	BO118	372	_	_	vicino	vicino	_	_	_	_	_	linguistic	_		_		_	_	_
-372-2	BO118	372	_	_	{nomepaese}	{nomepaese}	_	_	_	_	_	metalinguistic	_		_		_	_	_
+372-2	BO118	372	_	_	@nomepaese	@nomepaese	_	_	_	_	_	error	_		_		_	_	_
 372-3	BO118	372	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 372-4	BO118	372	_	_	so	so	_	_	_	_	_	linguistic	_		_		_	_	_
 372-5	BO118	372	_	_	se	se	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -4012,10 +4010,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 375-28	BO118	375	_	_	facoltà	facoltà	_	_	_	_	_	linguistic	_		_		_	_	_
 375-29	BO118	375	_	_	scientifiche	scientifiche	_	_	_	_	_	linguistic	_		_		_	_	_
 375-30	BO118	375	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-375-31	BO118	375	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+375-31	BO118	375	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 375-32	BO118	375	_	_	medicina:,	medicina	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	_	7x1	_	_	_
 375-33	BO118	375	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-375-34	BO118	375	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+375-34	BO118	375	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 375-35	BO118	375	_	_	ingegneria,	ingegneria	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=1466.3		_	_	_
 376-0	BO140	376	_	_	sì	sì	_	_	_	_	_	linguistic	_		End=1466.65		_	_	_
 377-0	BO118	377	_	_	quasi	quasi	_	_	_	_	_	linguistic	_		Begin=1466.65		_	_	_
@@ -4118,7 +4116,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 388-2	BO118	388	_	_	fermo	fermo	_	_	_	_	_	linguistic	_		_		_	_	_
 388-3	BO118	388	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 388-4	BO118	388	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-388-5	BO118	388	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+388-5	BO118	388	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 388-6	BO118	388	_	_	niente.	niente	_	_	_	_	_	linguistic	_	Intonation=descending	End=1501.6		_	_	_
 389-0	BO118	389	_	_	cioè:::	cioè	_	_	_	_	_	linguistic	_		Begin=1502.53	3x3	_	_	_
 389-1	BO118	389	_	_	[xxx	x	_	_	_	_	_	unknown	_		_		_	_	0-3(390)
@@ -4134,16 +4132,16 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 390-8	BO140	390	_	_	cameri]no	camerino	_	_	_	_	_	linguistic	_		_		_	_	0-6(389)
 390-9	BO140	390	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 390-10	BO140	390	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-390-11	BO140	390	_	_	a	ha	_	_	_	_	_	linguistic	_		_		_	_	_
+390-11	BO140	390	_	_	ha	ha	_	_	_	_	_	linguistic	_		_		_	_	_
 390-12	BO140	390	_	_	università	università	_	_	_	_	_	linguistic	_		_		_	_	_
 390-13	BO140	390	_	_	fermo	fermo	_	_	_	_	_	linguistic	_		_		_	_	_
 390-14	BO140	390	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 390-15	BO140	390	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-390-16	BO140	390	_	_		è	_	_	_	_	_	linguistic	_		End=1507.6		_	_	_
+390-16	BO140	390	_	_	è	è	_	_	_	_	_	linguistic	_		End=1507.6		_	_	_
 391-0	BO118	391	_	_	camerino::,	camerino	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	Begin=1507.605	7x2	_	_	_
 391-1	BO118	391	_	_	fermo	fermo	_	_	_	_	_	linguistic	_		_		_	_	_
 391-2	BO118	391	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-391-3	BO118	391	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+391-3	BO118	391	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 391-4	BO118	391	_	_	ingegneria	ingegneria	_	_	_	_	_	linguistic	_		_		_	_	_
 391-5	BO118	391	_	_	gestionale,	gestionale	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=1510.73		_	_	_
 392-0	BO118	392	_	_	che	che	_	_	_	_	_	linguistic	_		Begin=1511.2		_	_	_
@@ -4156,7 +4154,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 393-0	BO118	393	_	_	e	e	_	_	_	_	_	linguistic	_		Begin=1513.382		_	_	_
 393-1	BO118	393	_	_	po:i::	poi	_	_	_	_	_	linguistic	_		_	1x1,2x2	_	_	_
 393-2	BO118	393	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-393-3	BO118	393	_	_	:	è	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
+393-3	BO118	393	_	_	è:	è	_	_	_	_	_	linguistic	_		_	0x1	_	_	_
 393-4	BO118	393	_	_	tipo	tipo	_	_	_	_	_	linguistic	_		_		_	_	_
 393-5	BO118	393	_	_	beni	beni	_	_	_	_	_	linguistic	_		_		_	_	_
 393-6	BO118	393	_	_	cultura:li	culturali	_	_	_	_	_	linguistic	_		_	6x1	_	_	_
@@ -4167,14 +4165,14 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 394-1	BO140	394	_	_	okay	okay	_	_	_	_	_	linguistic	_		End=1518.68		_	_	_
 395-0	BO118	395	_	_	però	però	_	_	_	_	_	linguistic	_		Begin=1519.207		_	_	_
 395-1	BO118	395	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-395-2	BO118	395	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+395-2	BO118	395	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 395-3	BO118	395	_	_	poca	poca	_	_	_	_	_	linguistic	_		_		_	_	_
 395-4	BO118	395	_	_	gente.	gente	_	_	_	_	_	linguistic	_	Intonation=descending	End=1520.597		_	_	_
 396-0	BO140	396	_	_	ma	ma	_	_	_	_	_	linguistic	_		Begin=1520.67		_	_	_
 396-1	BO140	396	_	_	so~	so~	_	_	_	_	_	linguistic	_	Interrupted=Yes	_		_	_	_
 396-2	BO140	396	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 396-3	BO140	396	_	_	dell'	dell'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-396-4	BO140	396	_	_	niversità	università	_	_	_	_	_	linguistic	_		_		_	_	_
+396-4	BO140	396	_	_	università	università	_	_	_	_	_	linguistic	_		_		_	_	_
 396-5	BO140	396	_	_	di	di	_	_	_	_	_	linguistic	_		_		_	_	_
 396-6	BO140	396	_	_	fermo	fermo	_	_	_	_	_	linguistic	_		_		_	_	_
 396-7	BO140	396	_	_	proprio?	proprio	_	_	_	_	_	linguistic	_	Intonation=ascending	End=1522.62		_	_	_
@@ -4196,10 +4194,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 399-10	BO118	399	_	_	quelle	quelle	_	_	_	_	_	linguistic	_		_		_	_	_
 399-11	BO118	399	_	_	umanistiche.	umanistiche	_	_	_	_	_	linguistic	_	Intonation=descending	End=1528.3		_	_	_
 400-0	BO118	400	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	Begin=1529.218		_	_	_
-400-1	BO118	400	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+400-1	BO118	400	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 400-2	BO118	400	_	_	architettu:ra::,	architettura	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	_	9x1,11x2	_	_	_
 400-3	BO118	400	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-400-4	BO118	400	_	_	::::	è	_	_	_	_	_	linguistic	_		_	0x4	_	_	_
+400-4	BO118	400	_	_	è::::	è	_	_	_	_	_	linguistic	_		_	0x4	_	_	_
 400-5	BO118	400	_	_	[ingegneri~]	ingegneri~	_	_	_	_	_	linguistic	_	Interrupted=Yes	End=1533.01		_	_	0-9(401)
 401-0	BO140	401	_	_	[ingegn~	ingegn~	_	_	_	_	_	linguistic	_	Interrupted=Yes	Begin=1532.135		_	_	0-7(400)
 401-1	BO140	401	_	_	ingegn]eria:	ingegneria	_	_	_	_	_	linguistic	_		_	9x1	_	_	0-6(400)
@@ -4260,7 +4258,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 408-4	BO118	408	_	_	me	me	_	_	_	_	_	linguistic	_		_		_	_	_
 408-5	BO118	408	_	_	me	me	_	_	_	_	_	linguistic	_		_		_	_	_
 408-6	BO118	408	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-408-7	BO118	408	_	_	anno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
+408-7	BO118	408	_	_	hanno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
 408-8	BO118	408	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 408-9	BO118	408	_	_	sacco	sacco	_	_	_	_	_	linguistic	_		_		_	_	_
 408-10	BO118	408	_	_	sc~	sc~	_	_	_	_	_	linguistic	_	Interrupted=Yes	_		_	_	_
@@ -4271,7 +4269,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 408-15	BO118	408	_	_	cioè	cioè	_	_	_	_	_	linguistic	_		_		_	_	_
 408-16	BO118	408	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 408-17	BO118	408	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-408-18	BO118	408	_	_	ra	era	_	_	_	_	_	linguistic	_		_		_	_	_
+408-18	BO118	408	_	_	era	era	_	_	_	_	_	linguistic	_		_		_	_	_
 408-19	BO118	408	_	_	lingue	lingue	_	_	_	_	_	linguistic	_		End=1552.45		_	_	_
 409-0	BO118	409	_	_	potevo	potevo	_	_	_	_	_	linguistic	_		Begin=1552.688		_	_	_
 409-1	BO118	409	_	_	anda'	anda'	_	_	_	_	_	linguistic	_	Truncated=Yes	_		_	_	_
@@ -4305,18 +4303,18 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 410-20	BO118	410	_	_	perché	perché	_	_	_	_	_	linguistic	_		_		_	_	_
 410-21	BO118	410	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 410-22	BO118	410	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-410-23	BO118	410	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+410-23	BO118	410	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 410-24	BO118	410	_	_	niente	niente	_	_	_	_	_	linguistic	_		_		_	_	_
 410-25	BO118	410	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	_
 410-26	BO118	410	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-410-27	BO118	410	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+410-27	BO118	410	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 410-28	BO118	410	_	_	niente	niente	_	_	_	_	_	linguistic	_		End=1562.26		_	_	_
 411-0	BO118	411	_	_	però	però	_	_	_	_	_	linguistic	_		Begin=1562.636		_	_	_
 411-1	BO118	411	_	_	in	in	_	_	_	_	_	linguistic	_		_		_	_	_
 411-2	BO118	411	_	_	realtà	realtà	_	_	_	_	_	linguistic	_		_		_	_	_
 411-3	BO118	411	_	_	io	io	_	_	_	_	_	linguistic	_		_		_	_	_
 411-4	BO118	411	_	_	l'	l'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-411-5	BO118	411	_	_	o	ho	_	_	_	_	_	linguistic	_		_		_	_	_
+411-5	BO118	411	_	_	ho	ho	_	_	_	_	_	linguistic	_		_		_	_	_
 411-6	BO118	411	_	_	vista	vista	_	_	_	_	_	linguistic	_		_		_	_	_
 411-7	BO118	411	_	_	due	due	_	_	_	_	_	linguistic	_		_		_	_	_
 411-8	BO118	411	_	_	volte:	volte	_	_	_	_	_	linguistic	_		_	4x1	_	_	_
@@ -4329,7 +4327,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 411-15	BO118	411	_	_	laurea,	laurea	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=1565.9		_	_	_
 412-0	BO118	412	_	_	e	e	_	_	_	_	_	linguistic	_		Begin=1566.826		_	_	_
 412-1	BO118	412	_	_	un'	un'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-412-2	BO118	412	_	_	ltra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
+412-2	BO118	412	_	_	altra	altra	_	_	_	_	_	linguistic	_		_		_	_	_
 412-3	BO118	412	_	_	volta::	volta	_	_	_	_	_	linguistic	_		_	4x2	_	_	_
 412-4	BO118	412	_	_	così	così	_	_	_	_	_	linguistic	_		_		_	_	_
 412-5	BO118	412	_	_	dovevamo	dovevamo	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -4349,13 +4347,13 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 413-5	BO118	413	_	_	sarà	sarà	_	_	_	_	_	linguistic	_		_		_	_	_
 413-6	BO118	413	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 413-7	BO118	413	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-413-8	BO118	413	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+413-8	BO118	413	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 413-9	BO118	413	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 413-10	BO118	413	_	_	ma:re:	mare	_	_	_	_	_	linguistic	_		_	1x1,3x1	_	_	_
 413-11	BO118	413	_	_	a	a	_	_	_	_	_	linguistic	_		_		_	_	_
 413-12	BO118	413	_	_	me	me	_	_	_	_	_	linguistic	_		_		_	_	_
 413-13	BO118	413	_	_	m'	m'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-413-14	BO118	413	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+413-14	BO118	413	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 413-15	BO118	413	_	_	piaciuta.	piaciuta	_	_	_	_	_	linguistic	_	Intonation=descending	End=1576.5		_	_	_
 414-0	BO118	414	_	_	certo	certo	_	_	_	_	_	linguistic	_		Begin=1577.141		_	_	_
 414-1	BO118	414	_	_	no~	no~	_	_	_	_	_	linguistic	_	Interrupted=Yes	_		_	_	_
@@ -4378,7 +4376,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 415-2	BO118	415	_	_	carina	carina	_	_	_	_	_	linguistic	_		_		_	_	_
 415-3	BO118	415	_	_	perché	perché	_	_	_	_	_	linguistic	_		_		_	_	_
 415-4	BO118	415	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-415-5	BO118	415	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	_
+415-5	BO118	415	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	_
 415-6	BO118	415	_	_	il	il	_	_	_	_	_	linguistic	_		_		_	_	_
 415-7	BO118	415	_	_	ma:re::	mare	_	_	_	_	_	linguistic	_		_	1x1,3x2	_	_	_
 415-8	BO118	415	_	_	ci	ci	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -4417,7 +4415,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 417-24	BO140	417	_	_	organ[izzano:]	organizzano	_	_	_	_	_	linguistic	_		End=1597.32	10x1	_	_	5-11(418)
 418-0	BO118	418	_	_	[no	no	_	_	_	_	_	linguistic	_		Begin=1596.54		_	_	0-2(417)
 418-1	BO118	418	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-2(417)
-418-2	BO118	418	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	0-1(417)
+418-2	BO118	418	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	0-1(417)
 418-3	BO118	418	_	_	tipo]	tipo	_	_	_	_	_	linguistic	_		_		_	_	0-4(417)
 418-4	BO118	418	_	_	un	un	_	_	_	_	_	linguistic	_		_		_	_	_
 418-5	BO118	418	_	_	pu:b	pub	_	_	_	_	_	linguistic	_		End=1597.87	1x1	_	_	_
@@ -4429,7 +4427,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 421-0	BO140	421	_	_	[cioè	cioè	_	_	_	_	_	linguistic	_		Begin=1599.325		_	_	0-4(420)
 421-1	BO140	421	_	_	non	non	_	_	_	_	_	linguistic	_		_		_	_	0-3(420)
 421-2	BO140	421	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	0-2(420)
-421-3	BO140	421	_	_		è	_	_	_	_	_	linguistic	_		_		_	_	0-1(420)
+421-3	BO140	421	_	_	è	è	_	_	_	_	_	linguistic	_		_		_	_	0-1(420)
 421-4	BO140	421	_	_	nie]nte:	niente	_	_	_	_	_	linguistic	_		_	5x1	_	_	0-3(420)
 421-5	BO140	421	_	_	mh:	mh	_	_	_	_	_	linguistic	_		End=1601.465	1x1	_	_	_
 422-0	BO140	422	_	_	e	e	_	_	_	_	_	linguistic	_		Begin=1601.81		_	_	_
@@ -4496,7 +4494,7 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 427-6	BO118	427	_	_	edifici	edifici	_	_	_	_	_	linguistic	_		_		_	_	_
 427-7	BO118	427	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 427-8	BO118	427	_	_	m'	m'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-427-9	BO118	427	_	_	anno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
+427-9	BO118	427	_	_	hanno	hanno	_	_	_	_	_	linguistic	_		_		_	_	_
 427-10	BO118	427	_	_	lasciato	lasciato	_	_	_	_	_	linguistic	_		_		_	_	_
 427-11	BO118	427	_	_	oddio	oddio	_	_	_	_	_	linguistic	_		_		_	_	_
 427-12	BO118	427	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
@@ -4543,10 +4541,10 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 432-4	BO118	432	_	_	la	la	_	_	_	_	_	linguistic	_		_		_	_	_
 432-5	BO118	432	_	_	facoltà	facoltà	_	_	_	_	_	linguistic	_		_		_	_	_
 432-6	BO118	432	_	_	d'	d'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-432-7	BO118	432	_	_	conomi:a	economia	_	_	_	_	_	linguistic	_		_	6x1	_	_	_
+432-7	BO118	432	_	_	economi:a	economia	_	_	_	_	_	linguistic	_		_	6x1	_	_	_
 432-8	BO118	432	_	_	che	che	_	_	_	_	_	linguistic	_		_		_	_	_
 432-9	BO118	432	_	_	c'	c'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-432-10	BO118	432	_	_	a	ha	_	_	_	_	_	linguistic	_		_		_	_	_
+432-10	BO118	432	_	_	ha	ha	_	_	_	_	_	linguistic	_		_		_	_	_
 432-11	BO118	432	_	_	sto::	sto	_	_	_	_	_	linguistic	_		_	2x2	_	_	_
 432-12	BO118	432	_	_	prato	prato	_	_	_	_	_	linguistic	_		_		_	_	_
 432-13	BO118	432	_	_	enorme	enorme	_	_	_	_	_	linguistic	_		_		_	_	_

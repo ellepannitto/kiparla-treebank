@@ -932,7 +932,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
-				<ANNOTATION_VALUE>id:19 sono di {nomepaese} .</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:19 sono di @nomepaese .</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1327,7 +1327,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a132" TIME_SLOT_REF1="ts262" TIME_SLOT_REF2="ts263">
-				<ANNOTATION_VALUE>id:130 a {nomepaese} con una vista bellissima.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:130 a @nomepaese con una vista bellissima.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1342,7 +1342,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts268" TIME_SLOT_REF2="ts269">
-				<ANNOTATION_VALUE>id:133 poi essendo che {nomepaese} è in collina da quasi tutte le case in realtà c' è una bella vista ma quella in particolare c' era un terrazzo,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:133 poi essendo che @nomepaese è in collina da quasi tutte le case in realtà c' è una bella vista ma quella in particolare c' era un terrazzo,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1407,7 +1407,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts300" TIME_SLOT_REF2="ts301">
-				<ANNOTATION_VALUE>id:149 sono di {nomepaese} .</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:149 sono di @nomepaese .</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1507,7 +1507,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts350" TIME_SLOT_REF2="ts351">
-				<ANNOTATION_VALUE>id:174 mh mi emoziona~ cioè non ero abitua~ era sconcer~ cioè {P} a {nomepaese} davvero se tu prendi l' autobus e trovi uno della tua età,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:174 mh mi emoziona~ cioè non ero abitua~ era sconcer~ cioè {P} a @nomepaese davvero se tu prendi l' autobus e trovi uno della tua età,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1527,7 +1527,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts362" TIME_SLOT_REF2="ts363">
-				<ANNOTATION_VALUE>id:180 non ce n' è a {nomepaese} perché sono tutti sparsi all' università::,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:180 non ce n' è a @nomepaese perché sono tutti sparsi all' università::,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1537,7 +1537,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts366" TIME_SLOT_REF2="ts367">
-				<ANNOTATION_VALUE>id:182 e:h a {nomepaese} non c' è la popolazione dai diciotto ai venticinque.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:182 e:h a @nomepaese non c' è la popolazione dai diciotto ai venticinque.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2312,12 +2312,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a413" TIME_SLOT_REF1="ts824" TIME_SLOT_REF2="ts825">
-				<ANNOTATION_VALUE>id:411 sono nata a {nomepaese} .</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:411 sono nata a @nomepaese .</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a415" TIME_SLOT_REF1="ts828" TIME_SLOT_REF2="ts829">
-				<ANNOTATION_VALUE>id:413 {nomepaese} .</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:413 @nomepaese .</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2439,7 +2439,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
-				<ANNOTATION_VALUE>id:69 quindi tu hai sempre vissuto a {nomepaese} ? non vivi a torino,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:69 quindi tu hai sempre vissuto a @nomepaese ? non vivi a torino,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>

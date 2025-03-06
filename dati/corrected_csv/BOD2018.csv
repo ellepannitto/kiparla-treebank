@@ -19,12 +19,12 @@ tu_id	speaker	start	end	duration	text
 17	BO118	49.760	50.420	0.660	okay
 18	BO118	50.735	53.755	3.020	e si trova in centro: alla città: o fuori?
 19	BO140	53.770	57.490	3.720	no si trova fuori dalla città: ma:: è vicina in realtà
-20	BO140	57.735	62.860	5.125	io abito a {nomepaese} e:: a piedi: una decina di: minuti ci metto
+20	BO140	57.735	62.860	5.125	io abito a @nomepaese e:: a piedi: una decina di: minuti ci metto
 21	BO118	63.560	64.110	0.550	[°okay°]
 22	BO140	63.597	67.910	4.313	[e:]:: è bella: secondo me perché è immersa nel verde
 23	BO140	68.673	73.030	4.357	fino a:: mh trent'anni fa: io non lo so ma ho visto dalle foto,
 24	BO140	73.436	84.270	10.834	c'e:ra: era so~ c'era solo casa mia: e:: immersa proprio nel verde po:i: dopo hanno costruito delle villette sopra casa mia: e quindi: si è persa la percezione della strada::
-25	BO140	84.660	89.350	4.690	eh: nazionale:: che collega {nomepaese} con altre: altri paesi
+25	BO140	84.660	89.350	4.690	eh: nazionale:: che collega @nomepaese con altre: altri paesi
 26	BO118	89.358	90.170	0.812	okay.
 27	BO118	90.413	94.550	4.137	e:: tipo fuori da casa tua che c'è tipo avete il giardino::,
 28	BO140	94.630	98.650	4.020	abbia:mo: sì (me:) un prato: c'è un grande prato,
@@ -67,7 +67,7 @@ tu_id	speaker	start	end	duration	text
 65	BO118	255.745	256.700	0.955	<oka:y>
 66	BO118	258.505	266.050	7.545	e::hm quindi stai vicina al ce:ntro:: e: vai spesso in centro: o:: o resti più nella zona dove: dove abiti?
 67	BO140	266.310	267.310	1.000	sì: vabbè certo.
-68	BO140	267.470	271.130	3.660	anche perché: abito: diciamo: in una periferia (cioè) {nomepaese} è piccola.
+68	BO140	267.470	271.130	3.660	anche perché: abito: diciamo: in una periferia (cioè) @nomepaese è piccola.
 69	BO140	271.485	283.030	11.545	quindi appena ti sposti un po' dal centro: a meno che non sia proprio la zona residenziale:, nuo:va, eh:: entri molto nella campagna e:: dove abito io appunto è: un aggregato di:,
 70	BO140	283.450	286.840	3.390	cento ca:se:: con la chiesetta così insomma:,
 71	BO140	287.175	290.475	3.300	non si fa niente in quella zona quindi [per] forza vai [in centro].
@@ -97,7 +97,7 @@ tu_id	speaker	start	end	duration	text
 95	BO140	387.100	388.520	1.420	[ah] ecco vedi? {ride}
 96	BO140	388.750	390.360	1.610	no io lo prendevo anche quando nevicava
 97	BO118	390.365	391.030	0.665	ma:do' {ride}
-98	BO118	391.902	395.900	3.998	che po:i {nomepaese} è fatta tut~ cioè tutta in sali:t[a:: son] scomode le strade
+98	BO118	391.902	395.900	3.998	che po:i @nomepaese è fatta tut~ cioè tutta in sali:t[a:: son] scomode le strade
 99	BO140	394.180	394.840	0.660	[sì eh]
 100	BO140	396.170	400.890	4.720	sì eh cioè diciamo che il centro è tutto:: salita e discesa.
 101	BO140	401.215	408.620	7.405	però: fuori:: tutta la periferia così:: cioè sono delle pendenze norma:li diciamo.
@@ -260,7 +260,7 @@ tu_id	speaker	start	end	duration	text
 258	BO118	1000.277	1008.210	7.933	e le:i sta in campagna però in realtà se vuole un po': cioè se: mh:: il sabato c'ha voglia de fa' una passeggiata in centro,
 259	BO118	1008.742	1009.440	0.698	fa subito
 260	BO140	1009.641	1010.000	0.359	sì.
-261	BO118	1010.357	1015.730	5.373	come magari dove abito io che ok::ay alla fine {nomepaese} non è pistoia cioè a {nomepaese} non c'è assolutamente niente
+261	BO118	1010.357	1015.730	5.373	come magari dove abito io che ok::ay alla fine @nomepaese non è pistoia cioè a @nomepaese non c'è assolutamente niente
 262	BO118	1016.448	1021.010	4.562	però: come zo:na: più o meno è limitrofa: a: un centro un po' più gra:nde.
 263	BO118	1021.408	1024.560	3.152	però è comunque resta comunque abbastanza [isolata] per sta' tranqu[illa]
 264	BO140	1022.440	1023.180	0.740	[sì sì sì]
@@ -280,23 +280,23 @@ tu_id	speaker	start	end	duration	text
 278	BO118	1083.262	1084.880	1.618	a pisto:ia che è piccola però,
 279	BO118	1085.422	1093.520	8.098	è molto più::: mh familia::re::, cioè comunque ci stanno un sacco de famiglie: cioè a bologna non ci stanno cioè in via zamboni non ce l'ho mai vista una [famiglia]
 280	BO140	1092.845	1093.495	0.650	[sì sì sì]
-281	BO140	1094.115	1101.420	7.305	eh per dire però allo stesso tempo: non abiterei a bologna forse per tutta la mia vita ma:: neanche in un centro piccolo come {nomepaese}.
+281	BO140	1094.115	1101.420	7.305	eh per dire però allo stesso tempo: non abiterei a bologna forse per tutta la mia vita ma:: neanche in un centro piccolo come @nomepaese.
 282	BO118	1101.670	1102.179	0.509	°okay°
 283	BO140	1102.216	1103.523	1.307	perché non::
-284	BO140	1104.146	1117.733	13.587	vabbè al di là non offre niente {nomepaese} non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita ma per i giovani:: non c'è possibilità lavorativa a meno che: non ti accontenti comunque di lavorare al ba:r,
+284	BO140	1104.146	1117.733	13.587	vabbè al di là non offre niente @nomepaese non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita ma per i giovani:: non c'è possibilità lavorativa a meno che: non ti accontenti comunque di lavorare al ba:r,
 285	BO140	1118.310	1124.650	6.340	o:: in un ristorante insomma o se:: riesci a reinventarti: e: costruisci una tua attività
 286	BO140	1125.135	1131.760	6.625	però è:: è difficile insomma io da: ingegnere:: a meno che non vado a lavorare in uno studio di ingegneria:,
-287	BO140	1132.082	1136.600	4.518	e comunque rinchiudere tutta la mia vita a {nomepaese} e non lo vorrò mai fare perché:
+287	BO140	1132.082	1136.600	4.518	e comunque rinchiudere tutta la mia vita a @nomepaese e non lo vorrò mai fare perché:
 288	BO140	1137.041	1145.650	8.609	comunque:: mh ti offre poco a livello sia:: cioè offre anche poco divertimento a livello giovanile ma anche per delle famiglie
-289	BO140	1146.255	1152.700	6.445	cioè io non ho ricordi di quando son piccola::: che uscivo con i miei in centro a {nomepaese}
+289	BO140	1146.255	1152.700	6.445	cioè io non ho ricordi di quando son piccola::: che uscivo con i miei in centro a @nomepaese
 290	BO118	1153.116	1153.490	0.374	n[o:]?
 291	BO140	1153.345	1156.700	3.355	[pe]rché non: ma pochissimi perché [non:]
-292	BO118	1156.447	1158.010	1.563	[ma] in realtà anch'io a {nomepaese}.
-293	BO118	1158.170	1161.713	3.543	cioè non ho ricordi che uscissi a {nomepaese} o a {nomepaese} con i miei
+292	BO118	1156.447	1158.010	1.563	[ma] in realtà anch'io a @nomepaese.
+293	BO118	1158.170	1161.713	3.543	cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei
 294	BO118	1162.596	1167.010	4.414	forse xx più nel paesi:no nostro::, [ma sem]pre solite co::se:,
 295	BO140	1165.300	1166.240	0.940	[sì sì sì]
 296	BO140	1167.712	1186.390	18.678	sì però::: cioè magari ci sono pochi eventi: e iniziative::: offerte in una città più piccola che poi non è sempre vero perché ci son tante periferie tanti piccoli borghetti che organizzano tanti eventi:: e: la qualità della vita è: è buona
-297	BO140	1186.912	1191.700	4.788	però {nomepaese} secondo me per quanto sia anche una città universitaria:: non offre nulla.
+297	BO140	1186.912	1191.700	4.788	però @nomepaese secondo me per quanto sia anche una città universitaria:: non offre nulla.
 298	BO118	1191.700	1195.200	3.500	eh ma infatti è stra:no cioè comunque è un polo universitario grosso
 299	BO140	1195.340	1195.750	0.410	sì.
 300	BO118	1195.755	1198.890	3.135	cioè ci viene gente dal su:d veramente: [xx xxx]
@@ -313,7 +313,7 @@ tu_id	speaker	start	end	duration	text
 311	BO140	1246.060	1246.870	0.810	quindi: [xx]
 312	BO118	1246.694	1249.390	2.696	[ma] in realtà anche a bologna stanno a fa' un po' sto lavoro.
 313	BO140	1249.615	1255.260	5.645	sì però bologna essendo più gra:nde secondo me:: c'è più via di uscita e ne risente meno.
-314	BO140	1255.995	1266.780	10.785	mentre un paesin~ un: piccolo centro come {nomepaese} dove c'è una piazza: e ci sono: boh dieci locali: se a tutti tagli le gambe: non c'è più: via d'uscita
+314	BO140	1255.995	1266.780	10.785	mentre un paesin~ un: piccolo centro come @nomepaese dove c'è una piazza: e ci sono: boh dieci locali: se a tutti tagli le gambe: non c'è più: via d'uscita
 315	BO140	1266.920	1268.360	1.440	cioè ti devi spostare per fo:rza.
 316	BO140	1269.260	1279.520	10.260	e non è una città: vic~ che è vicino a tante possibilità: cioè la vi~ cioè la città più gran~ più grande xxx diciamo più vicina che è leggermente più grande è pe:saro.
 317	BO118	1279.547	1280.027	0.480	mhmh
@@ -321,7 +321,7 @@ tu_id	speaker	start	end	duration	text
 319	BO140	1283.845	1288.740	4.895	e: cioè ti passa un po' la voglia diciamo a fare avanti e indietro comunque: per [questo]
 320	BO118	1288.382	1290.370	1.988	[pen]savo fosse:: fosse più vicina.
 321	BO140	1291.110	1296.940	5.830	no in realtà son trentacinque chilometri ma: la strada: è::=mh cioè è vecchia
-322	BO140	1297.300	1302.940	5.640	e quindi ci metti ta:nto tempo poi è l'unica strada che collega: pesaro a {nomepaese} e:::
+322	BO140	1297.300	1302.940	5.640	e quindi ci metti ta:nto tempo poi è l'unica strada che collega: pesaro a @nomepaese e:::
 323	BO140	1303.330	1305.950	2.620	non c'hai: altro modo: per andare
 324	BO140	1306.297	1309.760	3.463	e devi fare unicamente quella quindi c'è anche mh abbastanza traffico
 325	BO118	1309.787	1312.180	2.393	e pesaro è più viva a livello: [di] eventi?
@@ -348,19 +348,19 @@ tu_id	speaker	start	end	duration	text
 346	BO140	1365.410	1366.260	0.850	a pesaro sì.
 347	BO140	1366.667	1370.270	3.603	perché:: ho sempre pensato di riavvicinarmi a ca:sa,
 348	BO140	1371.038	1374.520	3.482	e: quindi comunque: ritornare vicino ai mie:i, alla mia famiglia,
-349	BO140	1375.273	1381.440	6.167	ma allo stesso tempo:: per il discorso che facevo prima non mi piacerebbe vivere a {nomepaese} o in un piccolo paese
+349	BO140	1375.273	1381.440	6.167	ma allo stesso tempo:: per il discorso che facevo prima non mi piacerebbe vivere a @nomepaese o in un piccolo paese
 350	BO118	1381.470	1382.130	0.660	<okay>
 351	BO140	1382.544	1393.530	10.986	e pesaro diciamo che è un po' l[a:: la cioè la] sìùÁ il compromesso giusto: perché: ti offre tanto di più: e allo stesso tempo è comunque una piccola città: e: in cui vivi bene: e:
 352	BO118	1384.800	1385.950	1.150	[il compromesso].
 353	BO140	1394.160	1396.820	2.660	mh le persone si conoscono generalmente anche se:,
 354	BO140	1397.520	1399.720	2.200	boh. non so quanti abitanti ci si:ano però,
-355	BO118	1400.440	1403.570	3.130	non lo so no~ non [pensavo] nemmeno fosse più grande di {nomepaese}
+355	BO118	1400.440	1403.570	3.130	non lo so no~ non [pensavo] nemmeno fosse più grande di @nomepaese
 356	BO140	1401.315	1402.570	1.255	[centomi:la perlom~]
-357	BO118	1403.910	1406.387	2.477	poi io [non ho] mai visto né pesaro né {nomepaese}
+357	BO118	1403.910	1406.387	2.477	poi io [non ho] mai visto né pesaro né @nomepaese
 358	BO140	1404.200	1404.790	0.590	[si:]
 359	BO140	1406.610	1407.300	0.690	no a [livel~]
 360	BO118	1406.750	1408.000	1.250	[quindi non c'ho] proprio idea.
-361	BO140	1408.300	1413.240	4.940	e:: che::: no beh {nomepaese} in realtà conta: quindicimila abita:nti
+361	BO140	1408.300	1413.240	4.940	e:: che::: no beh @nomepaese in realtà conta: quindicimila abita:nti
 362	BO118	1413.240	1413.820	0.580	°ah po[chi]°
 363	BO140	1413.650	1416.580	2.930	[qui:]ndi sì ne fa trentamila con gli studenti universit[ari]
 364	BO118	1416.460	1417.270	0.810	[eh] ecco
@@ -371,7 +371,7 @@ tu_id	speaker	start	end	duration	text
 369	BO140	1438.230	1439.770	1.540	e quindi sì: abiterei a pesaro.
 370	BO140	1439.980	1441.270	1.290	m[i piace come città]
 371	BO118	1440.040	1444.380	4.340	[io sto p~ sto] pensando all'equivale:nte de quello che potrebbe esse pesaro,
-372	BO118	1444.530	1448.780	4.250	tipo vicino {nomepaese} non so se tipo anco:na potrebbe esse una cosa simile.
+372	BO118	1444.530	1448.780	4.250	tipo vicino @nomepaese non so se tipo anco:na potrebbe esse una cosa simile.
 373	BO140	1449.915	1452.960	3.045	non lo so perché io ad ancona non ci son mai stata sinceramente
 374	BO118	1452.960	1454.600	1.640	ancona è carina solo che,
 375	BO118	1455.040	1466.300	11.260	tipo per gli universitari è molto triste cioè anche lì ci stanno pochi eventi per i giovani che poi è strano perché comunque ci stanno una marea di facoltà scientifiche c'è medicina:, c'è ingegneria,

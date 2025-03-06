@@ -969,7 +969,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
-				<ANNOTATION_VALUE>id:20 io abito a {nomepaese} e:: a piedi: una decina di: minuti ci metto</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:20 io abito a @nomepaese e:: a piedi: una decina di: minuti ci metto</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -989,7 +989,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
-				<ANNOTATION_VALUE>id:25 eh: nazionale:: che collega {nomepaese} con altre: altri paesi</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:25 eh: nazionale:: che collega @nomepaese con altre: altri paesi</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1119,7 +1119,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts139">
-				<ANNOTATION_VALUE>id:68 anche perché: abito: diciamo: in una periferia (cioè) {nomepaese} è piccola.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:68 anche perché: abito: diciamo: in una periferia (cioè) @nomepaese è piccola.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1739,7 +1739,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a283" TIME_SLOT_REF1="ts564" TIME_SLOT_REF2="ts565">
-				<ANNOTATION_VALUE>id:281 eh per dire però allo stesso tempo: non abiterei a bologna forse per tutta la mia vita ma:: neanche in un centro piccolo come {nomepaese}.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:281 eh per dire però allo stesso tempo: non abiterei a bologna forse per tutta la mia vita ma:: neanche in un centro piccolo come @nomepaese.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1749,7 +1749,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a286" TIME_SLOT_REF1="ts570" TIME_SLOT_REF2="ts571">
-				<ANNOTATION_VALUE>id:284 vabbè al di là non offre niente {nomepaese} non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita ma per i giovani:: non c'è possibilità lavorativa a meno che: non ti accontenti comunque di lavorare al ba:r,</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:284 vabbè al di là non offre niente @nomepaese non mh cioè comunque continuano a lavorarci le persone che ci hanno lavorato da una vita ma per i giovani:: non c'è possibilità lavorativa a meno che: non ti accontenti comunque di lavorare al ba:r,</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1764,7 +1764,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a289" TIME_SLOT_REF1="ts576" TIME_SLOT_REF2="ts577">
-				<ANNOTATION_VALUE>id:287 e comunque rinchiudere tutta la mia vita a {nomepaese} e non lo vorrò mai fare perché:</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:287 e comunque rinchiudere tutta la mia vita a @nomepaese e non lo vorrò mai fare perché:</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1774,7 +1774,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a291" TIME_SLOT_REF1="ts580" TIME_SLOT_REF2="ts581">
-				<ANNOTATION_VALUE>id:289 cioè io non ho ricordi di quando son piccola::: che uscivo con i miei in centro a {nomepaese}</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:289 cioè io non ho ricordi di quando son piccola::: che uscivo con i miei in centro a @nomepaese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1794,7 +1794,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a299" TIME_SLOT_REF1="ts596" TIME_SLOT_REF2="ts597">
-				<ANNOTATION_VALUE>id:297 però {nomepaese} secondo me per quanto sia anche una città universitaria:: non offre nulla.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:297 però @nomepaese secondo me per quanto sia anche una città universitaria:: non offre nulla.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1854,7 +1854,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts630" TIME_SLOT_REF2="ts631">
-				<ANNOTATION_VALUE>id:314 mentre un paesin~ un: piccolo centro come {nomepaese} dove c'è una piazza: e ci sono: boh dieci locali: se a tutti tagli le gambe: non c'è più: via d'uscita</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:314 mentre un paesin~ un: piccolo centro come @nomepaese dove c'è una piazza: e ci sono: boh dieci locali: se a tutti tagli le gambe: non c'è più: via d'uscita</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1884,7 +1884,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts646" TIME_SLOT_REF2="ts647">
-				<ANNOTATION_VALUE>id:322 e quindi ci metti ta:nto tempo poi è l'unica strada che collega: pesaro a {nomepaese} e:::</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:322 e quindi ci metti ta:nto tempo poi è l'unica strada che collega: pesaro a @nomepaese e:::</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -1984,7 +1984,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a351" TIME_SLOT_REF1="ts700" TIME_SLOT_REF2="ts701">
-				<ANNOTATION_VALUE>id:349 ma allo stesso tempo:: per il discorso che facevo prima non mi piacerebbe vivere a {nomepaese} o in un piccolo paese</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:349 ma allo stesso tempo:: per il discorso che facevo prima non mi piacerebbe vivere a @nomepaese o in un piccolo paese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2019,7 +2019,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a363" TIME_SLOT_REF1="ts724" TIME_SLOT_REF2="ts725">
-				<ANNOTATION_VALUE>id:361 e:: che::: no beh {nomepaese} in realtà conta: quindicimila abita:nti</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:361 e:: che::: no beh @nomepaese in realtà conta: quindicimila abita:nti</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2411,7 +2411,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts198" TIME_SLOT_REF2="ts199">
-				<ANNOTATION_VALUE>id:98 che po:i {nomepaese} è fatta tut~ cioè tutta in sali:t[a:: son] scomode le strade</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:98 che po:i @nomepaese è fatta tut~ cioè tutta in sali:t[a:: son] scomode le strade</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2761,7 +2761,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a263" TIME_SLOT_REF1="ts524" TIME_SLOT_REF2="ts525">
-				<ANNOTATION_VALUE>id:261 come magari dove abito io che ok::ay alla fine {nomepaese} non è pistoia cioè a {nomepaese} non c'è assolutamente niente</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:261 come magari dove abito io che ok::ay alla fine @nomepaese non è pistoia cioè a @nomepaese non c'è assolutamente niente</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2816,12 +2816,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a294" TIME_SLOT_REF1="ts586" TIME_SLOT_REF2="ts587">
-				<ANNOTATION_VALUE>id:292 [ma] in realtà anch'io a {nomepaese}.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:292 [ma] in realtà anch'io a @nomepaese.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a295" TIME_SLOT_REF1="ts588" TIME_SLOT_REF2="ts589">
-				<ANNOTATION_VALUE>id:293 cioè non ho ricordi che uscissi a {nomepaese} o a {nomepaese} con i miei</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:293 cioè non ho ricordi che uscissi a @nomepaese o a @nomepaese con i miei</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2911,12 +2911,12 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a357" TIME_SLOT_REF1="ts712" TIME_SLOT_REF2="ts713">
-				<ANNOTATION_VALUE>id:355 non lo so no~ non [pensavo] nemmeno fosse più grande di {nomepaese}</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:355 non lo so no~ non [pensavo] nemmeno fosse più grande di @nomepaese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts716" TIME_SLOT_REF2="ts717">
-				<ANNOTATION_VALUE>id:357 poi io [non ho] mai visto né pesaro né {nomepaese}</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:357 poi io [non ho] mai visto né pesaro né @nomepaese</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
@@ -2941,7 +2941,7 @@
 			</ANNOTATION>
 		<ANNOTATION>
 			<ALIGNABLE_ANNOTATION ANNOTATION_ID="a374" TIME_SLOT_REF1="ts746" TIME_SLOT_REF2="ts747">
-				<ANNOTATION_VALUE>id:372 tipo vicino {nomepaese} non so se tipo anco:na potrebbe esse una cosa simile.</ANNOTATION_VALUE>
+				<ANNOTATION_VALUE>id:372 tipo vicino @nomepaese non so se tipo anco:na potrebbe esse una cosa simile.</ANNOTATION_VALUE>
 				</ALIGNABLE_ANNOTATION>
 			</ANNOTATION>
 		<ANNOTATION>
