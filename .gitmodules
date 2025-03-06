@@ -1,0 +1,3 @@
+[submodule "kiparla-annotazione"]
+	path = kiparla-annotazione
+	url = git@github.com:ellepannitto/kiparla-annotazione.git

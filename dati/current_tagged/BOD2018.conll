@@ -2,8 +2,8 @@ token_id	speaker	tu_id	unit	id	span	form	lemma	upos	xpos	feats	deprel	type	meta_
 0-0	BO118	0	0	1	dovresti	dovresti	dovresto	NOUN	S	Gender=Masc|Number=Plur	root:0	linguistic	_		Begin=0.96		_	_	_
 0-1	BO118	0	0	2	parlarmi	parlarmi	parlarmo	ADJ	A	Gender=Masc|Number=Plur	amod:1	linguistic	_		_		_	_	_
 0-2	BO118	0	0	3-4	della	della	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	di	di	ADP	E		case:6	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:6	_	_	_	_	_	_	_	_
+_	_	_	0	3	_	di	di	ADP	E		case:6	_	_	_	_	_	_	_	_
+_	_	_	0	4	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:6	_	_	_	_	_	_	_	_
 0-3	BO118	0	0	5	tua	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	det:poss:6	linguistic	_		_		_	_	_
 0-4	BO118	0	0	6	casa.	casa	casa	NOUN	S	Gender=Fem|Number=Sing	nmod:1	linguistic	_	Intonation=descending	End=2.78		_	_	_
 1-0	BO118	1	0	7	attuale.	attuale	attuale	ADJ	A	Number=Sing	amod:6	linguistic	_	Intonation=descending	End=3.4		_	_	_
@@ -29,8 +29,8 @@ _	_	_	_	4	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:6	
 5-1	BO140	5	4	8	in	in	in	ADP	E		case:9	linguistic	_		_		_	_	_
 5-2	BO140	5	4	9	mezzo	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	obl:14	linguistic	_		_		_	_	_
 5-3	BO140	5	4	10-11	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	10	_	a	a	ADP	E		case:12	_	_	_	_	_	_	_	_
-_	_	_	_	11	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:12	_	_	_	_	_	_	_	_
+_	_	_	4	10	_	a	a	ADP	E		case:12	_	_	_	_	_	_	_	_
+_	_	_	4	11	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:12	_	_	_	_	_	_	_	_
 5-4	BO140	5	4	12	natura,	natura	natura	NOUN	S	Gender=Fem|Number=Sing	obl:14	linguistic	_	Intonation=weakly_ascending	End=16.62		_	_	_
 6-0	BO140	6	4	13	ci	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:14	linguistic	_		Begin=17.0		_	_	_
 6-1	BO140	6	4	14	viviamo:	viviamo	vivere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	parataxis:6	linguistic	_		_	6x1	_	_	_
@@ -59,8 +59,8 @@ _	_	_	_	11	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 10-8	BO140	10	4	37	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:38	linguistic	_		_		_	_	_
 10-9	BO140	10	4	38	nonna	nonna	nonno	NOUN	S	Gender=Fem|Number=Sing	conj:35	linguistic	_		_		_	_	_
 10-10	BO140	10	4	39-40	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	39	_	di	di	ADP	E		case:42	_	_	_	_	_	_	_	_
-_	_	_	_	40	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:42	_	_	_	_	_	_	_	_
+_	_	_	4	39	_	di	di	ADP	E		case:42	_	_	_	_	_	_	_	_
+_	_	_	4	40	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:42	_	_	_	_	_	_	_	_
 10-11	BO140	10	4	41	miei	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	det:poss:42	linguistic	_		_		_	_	_
 10-12	BO140	10	4	42	cugini	cugini	cugino	NOUN	S	Gender=Masc|Number=Plur	nmod:38	linguistic	_		_		_	_	_
 10-13	BO140	10	4	43	quindi	quindi	quindi	ADV	B		advmod:45	linguistic	_		_		_	_	_
@@ -96,8 +96,8 @@ _	_	_	_	40	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:4
 14-12	BO140	14	6	19	da	da	da	ADP	E		case:20	linguistic	_		_		_	_	_
 14-13	BO140	14	6	20	uno	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	obl:agent:18	linguistic	_		_		_	_	_
 14-14	BO140	14	6	21-22	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	21	_	di	di	ADP	E		case:24	_	_	_	_	_	_	_	_
-_	_	_	_	22	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:24	_	_	_	_	_	_	_	_
+_	_	_	6	21	_	di	di	ADP	E		case:24	_	_	_	_	_	_	_	_
+_	_	_	6	22	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:24	_	_	_	_	_	_	_	_
 14-15	BO140	14	6	23	miei	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	det:poss:24	linguistic	_		_		_	_	_
 14-16	BO140	14	6	24	zii	zii	zo	NOUN	S	Gender=Masc|Number=Plur	nmod:20	linguistic	_		End=41.26		_	_	_
 15-0	BO118	15	7	1	<oka:y>	okay	okay	INTJ	I		discourse:3	linguistic	_		End=42.354	2x1	Slow=0-4(0)	_	_
@@ -112,8 +112,8 @@ _	_	_	_	22	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:2
 16-8	BO140	16	8	5	costruita:	costruita	costruito	ADJ	A	Gender=Fem|Number=Sing	amod:4	linguistic	_		_	8x1	_	_	_
 16-9	BO140	16	8	6	intorno	intorno	intorno	ADP	E		mark:11	linguistic	_		_		_	_	_
 16-10	BO140	16	8	7-8	agli	agli	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	a	a	ADP	E		case:9	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
+_	_	_	8	7	_	a	a	ADP	E		case:9	_	_	_	_	_	_	_	_
+_	_	_	8	8	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
 16-11	BO140	16	8	9	anni:	anni	anno	NOUN	S	Gender=Masc|Number=Plur	obl:11	linguistic	_		_	3x1	_	_	_
 16-12	BO140	16	8	10	cinquanta	cinquanta	cinquanto	PRON	PR	PronType=Rel	obj:11	linguistic	_		_		_	_	_
 16-13	BO140	16	8	11	credo	credo	credere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	advcl:5	linguistic	_		End=49.35		_	_	_
@@ -124,8 +124,8 @@ _	_	_	_	8	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:
 18-3	BO118	18	8	16	in	in	in	ADP	E		case:17	linguistic	_		_		_	_	_
 18-4	BO118	18	8	17	centro:	centro	centro	NOUN	S	Gender=Masc|Number=Sing	obl:15	linguistic	_		_	5x1	_	_	_
 18-5	BO118	18	8	18-19	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	18	_	a	a	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	8	18	_	a	a	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	8	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
 18-6	BO118	18	8	20	città:	città	città	NOUN	S	Gender=Fem	obl:15	linguistic	_		_	4x1	_	_	_
 18-7	BO118	18	8	21	o	o	o	CCONJ	CC		cc:22	linguistic	_		_		_	_	_
 18-8	BO118	18	8	22	fuori?	fuori	fuori	ADV	B		conj:20	linguistic	_	Intonation=ascending	End=53.755		_	_	_
@@ -134,8 +134,8 @@ _	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2
 19-2	BO140	19	10	2	trova	trova	trovare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 19-3	BO140	19	10	3	fuori	fuori	fuori	ADV	B		advmod:2	linguistic	_		_		_	_	_
 19-4	BO140	19	10	4-5	dalla	dalla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	4	_	da	da	ADP	E		case:6	_	_	_	_	_	_	_	_
-_	_	_	_	5	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:6	_	_	_	_	_	_	_	_
+_	_	_	10	4	_	da	da	ADP	E		case:6	_	_	_	_	_	_	_	_
+_	_	_	10	5	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:6	_	_	_	_	_	_	_	_
 19-5	BO140	19	10	6	città:	città	città	NOUN	S	Gender=Fem	obl:2	linguistic	_		_	4x1	_	_	_
 19-6	BO140	19	10	7	ma::	ma	ma	CCONJ	CC		cc:9	linguistic	_		_	1x2	_	_	_
 19-7	BO140	19	10	8	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:9	linguistic	_		_		_	_	_
@@ -165,8 +165,8 @@ _	_	_	_	5	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:6	
 22-6	BO140	22	11	23	è	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux:24	linguistic	_		_		_	_	_
 22-7	BO140	22	11	24	immersa	immersa	immerso	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	advcl:15	linguistic	_		_		_	_	_
 22-8	BO140	22	11	25-26	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	25	_	in	in	ADP	E		case:28	_	_	_	_	_	_	_	_
-_	_	_	_	26	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:28	_	_	_	_	_	_	_	_
+_	_	_	11	25	_	in	in	ADP	E		case:28	_	_	_	_	_	_	_	_
+_	_	_	11	26	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:28	_	_	_	_	_	_	_	_
 22-9	BO140	22	11	27	verde	verde	verde	ADJ	A	Number=Sing	amod:28	linguistic	_		End=67.91		_	_	_
 23-0	BO140	23	11	28	fino	fino	fino	NOUN	S	Gender=Masc|Number=Sing	obl:24	linguistic	_		Begin=68.673		_	_	_
 23-1	BO140	23	11	29	a::	a	a	ADP	E		case:30	linguistic	_		_	0x2	_	_	_
@@ -182,8 +182,8 @@ _	_	_	_	26	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 23-11	BO140	23	11	39	ho	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:40	linguistic	_		_		_	_	_
 23-12	BO140	23	11	40	visto	visto	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	conj:37	linguistic	_		_		_	_	_
 23-13	BO140	23	11	41-42	dalle	dalle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	41	_	da	da	ADP	E		case:43	_	_	_	_	_	_	_	_
-_	_	_	_	42	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:43	_	_	_	_	_	_	_	_
+_	_	_	11	41	_	da	da	ADP	E		case:43	_	_	_	_	_	_	_	_
+_	_	_	11	42	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:43	_	_	_	_	_	_	_	_
 23-14	BO140	23	11	43	foto,	foto	foto	NOUN	S	Gender=Fem	obl:47	linguistic	_	Intonation=weakly_ascending	End=73.03		_	_	_
 24-0	BO140	24	11	44	c'	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:47	linguistic	_	SpaceAfter=No	Begin=73.436		_	_	_
 24-1	BO140	24	11	45	e:ra:	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	aux:47	linguistic	_		_	0x1,2x1	_	_	_
@@ -198,16 +198,16 @@ _	_	_	_	42	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:4
 24-10	BO140	24	11	54	immersa	immersa	immerso	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	conj:49	linguistic	_		_		_	_	_
 24-11	BO140	24	11	55	proprio	proprio	proprio	ADV	B		advmod:54	linguistic	_		_		_	_	_
 24-12	BO140	24	11	56-57	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	56	_	in	in	ADP	E		case:58	_	_	_	_	_	_	_	_
-_	_	_	_	57	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:58	_	_	_	_	_	_	_	_
+_	_	_	11	56	_	in	in	ADP	E		case:58	_	_	_	_	_	_	_	_
+_	_	_	11	57	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:58	_	_	_	_	_	_	_	_
 24-13	BO140	24	11	58	verde	verde	verde	ADJ	A	Number=Sing	obl:54	linguistic	_		_		_	_	_
 24-14	BO140	24	12	1	po:i:	poi	poi	ADV	B		advmod:4	linguistic	_		_	1x1,2x1	_	_	_
 24-15	BO140	24	12	2	dopo	dopo	dopo	ADV	B		advmod:4	linguistic	_		_		_	_	_
 24-16	BO140	24	12	3	hanno	hanno	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	aux:4	linguistic	_		_		_	_	_
 24-17	BO140	24	12	4	costruito	costruito	costruire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	root:0	linguistic	_		_		_	_	_
 24-18	BO140	24	12	5-6	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	5	_	di	di	ADP	E		case:7	_	_	_	_	_	_	_	_
-_	_	_	_	6	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:7	_	_	_	_	_	_	_	_
+_	_	_	12	5	_	di	di	ADP	E		case:7	_	_	_	_	_	_	_	_
+_	_	_	12	6	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:7	_	_	_	_	_	_	_	_
 24-19	BO140	24	12	7	villette	villette	villa	NOUN	S	Gender=Fem|Number=Plur	obl:4	linguistic	_		_		_	_	_
 24-20	BO140	24	12	8	sopra	sopra	sopra	ADP	E		case:9	linguistic	_		_		_	_	_
 24-21	BO140	24	12	9	casa	casa	casa	NOUN	S	Gender=Fem|Number=Sing	nmod:7	linguistic	_		_		_	_	_
@@ -220,8 +220,8 @@ _	_	_	_	6	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:7	
 24-28	BO140	24	12	16	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:17	linguistic	_		_		_	_	_
 24-29	BO140	24	12	17	percezione	percezione	percezione	NOUN	S	Gender=Fem|Number=Sing	obj:15	linguistic	_		_		_	_	_
 24-30	BO140	24	12	18-19	della	della	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	18	_	di	di	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	12	18	_	di	di	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	12	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
 24-31	BO140	24	12	20	strada::	strada	strada	NOUN	S	Gender=Fem|Number=Sing	nmod:17	linguistic	_		End=84.27	5x2	_	_	_
 25-0	BO140	25	12	21	eh:	eh	eh	INTJ	I		discourse:22	linguistic	_		Begin=84.66	1x1	_	_	_
 25-1	BO140	25	12	22	nazionale::	nazionale	nazionale	ADJ	A	Number=Sing	amod:17	linguistic	_		_	8x2	_	_	_
@@ -267,8 +267,8 @@ _	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2
 30-1	BO140	30	16	14	sono	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	cop:15	linguistic	_		_		_	_	_
 30-2	BO140	30	16	15	divisi	divisi	diviso	ADJ	A	Gender=Masc|Number=Plur	conj:5	linguistic	_		_		_	_	_
 30-3	BO140	30	16	16-17	dalla	dalla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	16	_	da	da	ADP	E		case:18	_	_	_	_	_	_	_	_
-_	_	_	_	17	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:18	_	_	_	_	_	_	_	_
+_	_	_	16	16	_	da	da	ADP	E		case:18	_	_	_	_	_	_	_	_
+_	_	_	16	17	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:18	_	_	_	_	_	_	_	_
 30-4	BO140	30	16	18	strada	strada	strada	NOUN	S	Gender=Fem|Number=Sing	obl:15	linguistic	_		_		_	_	_
 30-5	BO140	30	16	19	che:	che	che	PRON	PR	PronType=Rel	obj:18	linguistic	_		_	2x1	_	_	_
 30-6	BO140	30	16	20	che	che	che	PRON	PR	PronType=Rel	nsubj:21	linguistic	_		_		_	_	_
@@ -296,8 +296,8 @@ _	_	_	_	17	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 31-17	BO140	31	16	42	nonna	nonna	nonno	NOUN	S	Gender=Fem|Number=Sing	obl:36	linguistic	_		_		_	_	_
 31-18	BO140	31	16	43	e	e	e	CCONJ	CC		cc:47	linguistic	_		_		_	_	_
 31-19	BO140	31	16	44-45	dai	dai	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	44	_	da	da	ADP	E		case:47	_	_	_	_	_	_	_	_
-_	_	_	_	45	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:47	_	_	_	_	_	_	_	_
+_	_	_	16	44	_	da	da	ADP	E		case:47	_	_	_	_	_	_	_	_
+_	_	_	16	45	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:47	_	_	_	_	_	_	_	_
 31-20	BO140	31	16	46	miei	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	det:poss:47	linguistic	_		_		_	_	_
 31-21	BO140	31	16	47	genito:ri	genitori	genitore	NOUN	S	Gender=Masc|Number=Plur	conj:42	linguistic	_		_	5x1	_	_	_
 31-22	BO140	31	16	48	un'	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	det:50	linguistic	_	SpaceAfter=No	_		_	_	_
@@ -324,8 +324,8 @@ _	_	_	_	45	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:4
 34-7	BO140	34	18	9	è	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux:10	linguistic	_		_		_	_	_
 34-8	BO140	34	18	10	immersa	immersa	immerdere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	root:0	linguistic	_		_		_	_	_
 34-9	BO140	34	18	11-12	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	11	_	in	in	ADP	E		case:13	_	_	_	_	_	_	_	_
-_	_	_	_	12	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
+_	_	_	18	11	_	in	in	ADP	E		case:13	_	_	_	_	_	_	_	_
+_	_	_	18	12	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
 34-10	BO140	34	18	13	natura	natura	natura	NOUN	S	Gender=Fem|Number=Sing	obl:10	linguistic	_		_		_	_	_
 34-11	BO140	34	19	1	poi	poi	poi	ADV	B		advmod:3	linguistic	_		_		_	_	_
 34-12	BO140	34	19	2	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:impers:3	linguistic	_		_		_	_	_
@@ -339,8 +339,8 @@ _	_	_	_	12	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 35-1	BO140	35	20	3	bello.	bello	bello	ADJ	A	Gender=Masc|Number=Sing	root:0	linguistic	_	Intonation=descending	End=128.199		_	_	_
 36-0	BO118	36	20	4	e:::hm	ehm	ehm	SYM	SYM		parataxis:hashtag:3	linguistic	_		Begin=128.52	0x3	_	_	_
 36-1	BO118	36	21	1-2	coi	coi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	1	_	con	con	ADP	E		case:3	_	_	_	_	_	_	_	_
-_	_	_	_	2	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:3	_	_	_	_	_	_	_	_
+_	_	_	21	1	_	con	con	ADP	E		case:3	_	_	_	_	_	_	_	_
+_	_	_	21	2	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:3	_	_	_	_	_	_	_	_
 36-2	BO118	36	21	3	vicini	vicini	vicino	NOUN	S	Gender=Masc|Number=Plur	obl:4	linguistic	_		_		_	_	_
 36-3	BO118	36	21	4	avete	avete	avere	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 36-4	BO118	36	21	5	un	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	det:7	linguistic	_		_		_	_	_
@@ -366,8 +366,8 @@ _	_	_	_	2	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:3	
 37-14	BO140	37	22	15	fan	fan	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	advcl:8	linguistic	_		_		_	_	_
 37-15	BO140	37	22	16	parte	parte	parte	NOUN	S	Gender=Fem|Number=Sing	obj:15	linguistic	_		_		_	_	_
 37-16	BO140	37	22	17-18	della	della	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	17	_	di	di	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	18	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	22	17	_	di	di	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	22	18	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
 37-17	BO140	37	22	19	mia	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	det:poss:20	linguistic	_		_		_	_	_
 37-18	BO140	37	22	20	famiglia::	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	nmod:16	linguistic	_		_	7x2	_	_	_
 37-19	BO140	37	23	1	non	non	non	ADV	BN	PronType=Neg	advmod:3	linguistic	_		_		_	_	_
@@ -469,8 +469,8 @@ _	_	_	_	18	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2
 44-27	BO140	44	27	16	e:,	e	e	CCONJ	CC		cc:23	linguistic	_	Intonation=weakly_ascending	End=180.7	0x1	_	_	_
 45-0	BO140	45	27	17	sì	sì	sì	INTJ	I		discourse:23	linguistic	_		Begin=181.52		_	_	_
 45-1	BO140	45	27	18-19	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	18	_	a	a	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	27	18	_	a	a	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	27	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
 45-2	BO140	45	27	20	fine	fine	fine	NOUN	S	Gender=Fem|Number=Sing	obl:23	linguistic	_		_		_	_	_
 45-3	BO140	45	27	21	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:23	linguistic	_		_		_	_	_
 45-4	BO140	45	27	22	un	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	det:23	linguistic	_		_		_	_	_
@@ -493,8 +493,8 @@ _	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2
 48-6	BO118	48	30	6	stanza	stanza	stanza	NOUN	S	Gender=Fem|Number=Sing	root:0	linguistic	_		_		_	_	_
 48-7	BO118	48	30	7	preferita	preferita	preferito	ADJ	A	Gender=Fem|Number=Sing	amod:6	linguistic	_		_		_	_	_
 48-8	BO118	48	30	8-9	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	8	_	in	in	ADP	E		case:11	_	_	_	_	_	_	_	_
-_	_	_	_	9	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
+_	_	_	30	8	_	in	in	ADP	E		case:11	_	_	_	_	_	_	_	_
+_	_	_	30	9	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
 48-9	BO118	48	30	10	tua	tua	tuo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	det:poss:11	linguistic	_		_		_	_	_
 48-10	BO118	48	30	11	casa?	casa	casa	NOUN	S	Gender=Fem|Number=Sing	nmod:6	linguistic	_	Intonation=ascending	End=194.0		_	_	_
 49-0	BO140	49	31	1	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:3	linguistic	_		Begin=195.163		_	_	_
@@ -517,8 +517,8 @@ _	_	_	_	9	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:11
 50-5	BO140	50	32	14	più	più	più	ADV	B		advmod:15	linguistic	_		_		_	_	_
 50-6	BO140	50	32	15	piccola	piccola	piccolo	ADJ	A	Gender=Fem|Number=Sing	amod:13	linguistic	_		_		_	_	_
 50-7	BO140	50	32	16-17	della	della	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	16	_	di	di	ADP	E		case:18	_	_	_	_	_	_	_	_
-_	_	_	_	17	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:18	_	_	_	_	_	_	_	_
+_	_	_	32	16	_	di	di	ADP	E		case:18	_	_	_	_	_	_	_	_
+_	_	_	32	17	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:18	_	_	_	_	_	_	_	_
 50-8	BO140	50	32	18	casa:	casa	casa	NOUN	S	Gender=Fem|Number=Sing	nmod:13	linguistic	_		_	3x1	_	_	_
 50-9	BO140	50	32	19	e:	e	e	CCONJ	CC		cc:21	linguistic	_		_	0x1	_	_	_
 50-10	BO140	50	32	20	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:21	linguistic	_		_		_	_	_
@@ -678,8 +678,8 @@ _	_	_	_	17	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 66-2	BO118	66	41	4	stai	stai	stare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 66-3	BO118	66	41	5	vicina	vicina	vicina	NOUN	S	Gender=Fem|Number=Sing	obj:4	linguistic	_		_		_	_	_
 66-4	BO118	66	41	6-7	al	al	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	a	a	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	41	6	_	a	a	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	41	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 66-5	BO118	66	41	8	ce:ntro::	centro	centro	NOUN	S	Gender=Masc|Number=Sing	nmod:5	linguistic	_		_	1x1,5x2	_	_	_
 66-6	BO118	66	41	9	e:	e	e	CCONJ	CC		cc:10	linguistic	_		_	0x1	_	_	_
 66-7	BO118	66	41	10	vai	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	conj:4	linguistic	_		_		_	_	_
@@ -691,8 +691,8 @@ _	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8
 66-13	BO118	66	41	16	resti	resti	restare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	conj:10	linguistic	_		_		_	_	_
 66-14	BO118	66	41	17	più	più	più	ADV	B		advmod:16	linguistic	_		_		_	_	_
 66-15	BO118	66	41	18-19	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	18	_	in	in	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	41	18	_	in	in	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	41	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
 66-16	BO118	66	41	20	zona	zona	zona	NOUN	S	Gender=Fem|Number=Sing	obl:16	linguistic	_		_		_	_	_
 66-17	BO118	66	41	21	dove:	dove	dove	ADV	B		advmod:22	linguistic	_		_	3x1	_	_	_
 66-18	BO118	66	41	22	dove	dove	dovere	ADV	B		advmod:23	linguistic	_		_		_	_	_
@@ -718,8 +718,8 @@ _	_	_	_	19	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2
 69-4	BO140	69	42	19	un	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	det:20	linguistic	_		_		_	_	_
 69-5	BO140	69	42	20	po'	po'	po'	ADV	B		advmod:18	linguistic	_		_		_	_	_
 69-6	BO140	69	42	21-22	dal	dal	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	21	_	da	da	ADP	E		case:23	_	_	_	_	_	_	_	_
-_	_	_	_	22	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:23	_	_	_	_	_	_	_	_
+_	_	_	42	21	_	da	da	ADP	E		case:23	_	_	_	_	_	_	_	_
+_	_	_	42	22	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:23	_	_	_	_	_	_	_	_
 69-7	BO140	69	42	23	centro:	centro	centro	NOUN	S	Gender=Masc|Number=Sing	obl:18	linguistic	_		_	5x1	_	_	_
 69-8	BO140	69	42	24	a	a	a	ADP	E		case:25	linguistic	_		_		_	_	_
 69-9	BO140	69	42	25	meno	meno	meno	ADV	B		advmod:18	linguistic	_		_		_	_	_
@@ -735,8 +735,8 @@ _	_	_	_	22	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 69-19	BO140	69	42	35	entri	entri	entrare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	acl:relcl:31	linguistic	_		_		_	_	_
 69-20	BO140	69	42	36	molto	molto	molto	ADV	B		advmod:35	linguistic	_		_		_	_	_
 69-21	BO140	69	42	37-38	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	37	_	in	in	ADP	E		case:39	_	_	_	_	_	_	_	_
-_	_	_	_	38	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:39	_	_	_	_	_	_	_	_
+_	_	_	42	37	_	in	in	ADP	E		case:39	_	_	_	_	_	_	_	_
+_	_	_	42	38	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:39	_	_	_	_	_	_	_	_
 69-22	BO140	69	42	39	campagna	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	obl:35	linguistic	_		_		_	_	_
 69-23	BO140	69	43	1	e::	e	e	CCONJ	CC		cc:3	linguistic	_		_	0x2	_	_	_
 69-24	BO140	69	43	2	dove	dove	dove	ADV	B		advmod:3	linguistic	_		_		_	_	_
@@ -823,8 +823,8 @@ _	_	_	_	38	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:3
 75-31	BO140	75	49	12	comunque::	comunque	comunque	ADV	B		advmod:16	linguistic	_		_	7x2	_	_	_
 75-32	BO140	75	49	13	son	son	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	cop:16	linguistic	_		_		_	_	_
 75-33	BO140	75	49	14-15	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	14	_	di	di	ADP	E		case:16	_	_	_	_	_	_	_	_
-_	_	_	_	15	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:16	_	_	_	_	_	_	_	_
+_	_	_	49	14	_	di	di	ADP	E		case:16	_	_	_	_	_	_	_	_
+_	_	_	49	15	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:16	_	_	_	_	_	_	_	_
 75-34	BO140	75	49	16	strade:	strade	strade	NOUN	S	Gender=Fem|Number=Plur	obl:7	linguistic	_		_	5x1	_	_	_
 75-35	BO140	75	49	17	abbastanza	abbastanza	abbastanza	ADV	B		advmod:18	linguistic	_		_		_	_	_
 75-36	BO140	75	49	18	buie:,	buie	buie	ADJ	A	Gender=Fem|Number=Plur	amod:16	linguistic	_	Intonation=weakly_ascending	End=308.71	3x1	_	_	_
@@ -887,8 +887,8 @@ _	_	_	_	15	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 81-20	BO140	81	54	21	po'	po'	po'	ADV	B		advmod:22	linguistic	_		_		_	_	_
 81-21	BO140	81	54	22	scomodo	scomodo	scomodo	ADJ	A	Gender=Masc|Number=Sing	amod:14	linguistic	_		_		_	_	_
 81-22	BO140	81	54	23-24	spostarsi	spostarsi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	23	_	spostar	spostare	VERB	V	VerbForm=Inf	csubj:22	_	_	_	_	_	_	_	_
-_	_	_	_	24	_	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:23	_	_	_	_	_	_	_	_
+_	_	_	54	23	_	spostar	spostare	VERB	V	VerbForm=Inf	csubj:22	_	_	_	_	_	_	_	_
+_	_	_	54	24	_	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:23	_	_	_	_	_	_	_	_
 81-23	BO140	81	54	25	in	in	in	ADP	E		case:26	linguistic	_		_		_	_	_
 81-24	BO140	81	54	26	autobus.	autobus	autobus	X	X		obl:23	linguistic	_	Intonation=descending	End=332.23		_	_	_
 82-0	BO140	82	55	1	cioè	cioè	cioè	CCONJ	CC		cc:4	linguistic	_		Begin=332.55		_	_	_
@@ -927,12 +927,12 @@ _	_	_	_	24	_	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:23	_	_	_	_	_	_	
 83-16	BO140	83	56	23	lavoravano	lavoravano	lavorare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	acl:relcl:15	linguistic	_		_		_	_	_
 83-17	BO140	83	56	24	sempre	sempre	sempre	ADV	B		advmod:23	linguistic	_		_		_	_	_
 83-18	BO140	83	56	25-26	dalla	dalla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	25	_	da	da	ADP	E		case:27	_	_	_	_	_	_	_	_
-_	_	_	_	26	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:27	_	_	_	_	_	_	_	_
+_	_	_	56	25	_	da	da	ADP	E		case:27	_	_	_	_	_	_	_	_
+_	_	_	56	26	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:27	_	_	_	_	_	_	_	_
 83-19	BO140	83	56	27	mattina	mattina	mattina	NOUN	S	Gender=Fem|Number=Sing	obl:23	linguistic	_		_		_	_	_
 83-20	BO140	83	56	28-29	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	28	_	a	a	ADP	E		case:30	_	_	_	_	_	_	_	_
-_	_	_	_	29	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:30	_	_	_	_	_	_	_	_
+_	_	_	56	28	_	a	a	ADP	E		case:30	_	_	_	_	_	_	_	_
+_	_	_	56	29	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:30	_	_	_	_	_	_	_	_
 83-21	BO140	83	56	30	sera:	sera	sera	NOUN	S	Gender=Fem|Number=Sing	obl:23	linguistic	_		_	3x1	_	_	_
 83-22	BO140	83	56	31	e:	e	e	CCONJ	CC		cc:42	linguistic	_		_	0x1	_	_	_
 83-23	BO140	83	56	32	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:42	linguistic	_		_		_	_	_
@@ -954,17 +954,17 @@ _	_	_	_	29	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:3
 84-3	BO140	84	57	4	molto	molto	molto	ADV	B		advmod:5	linguistic	_		_		_	_	_
 84-4	BO140	84	57	5	legata	legata	legato	ADJ	A	Gender=Fem|Number=Sing	root:0	linguistic	_		_		_	_	_
 84-5	BO140	84	57	6-7	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	a	a	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	57	6	_	a	a	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	57	7	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 84-6	BO140	84	57	8	macchina	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	obl:5	linguistic	_		_		_	_	_
 84-7	BO140	84	57	9	e	e	e	CCONJ	CC		cc:12	linguistic	_		_		_	_	_
 84-8	BO140	84	57	10-11	agli	agli	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	10	_	a	a	ADP	E		case:12	_	_	_	_	_	_	_	_
-_	_	_	_	11	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:12	_	_	_	_	_	_	_	_
+_	_	_	57	10	_	a	a	ADP	E		case:12	_	_	_	_	_	_	_	_
+_	_	_	57	11	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:12	_	_	_	_	_	_	_	_
 84-9	BO140	84	57	12	spostamenti	spostamenti	spostamento	NOUN	S	Gender=Masc|Number=Plur	conj:8	linguistic	_		_		_	_	_
 84-10	BO140	84	57	13	in	in	in	ADP	E		case:14	linguistic	_		_		_	_	_
 84-11	BO140	84	57	14	[macchina]	macchina	macchina	NOUN	S	Gender=Fem|Number=Sing	nmod:12	linguistic	_		_		_	_	0-8(85)
-84-12	BO140	84	57	15	{ride}	{ride}	_	_	_	_	dep:5	metalinguistic	_		End=351.067		_	_	_
+84-12	BO140	84	57	15	{ride}	{ride}	_	_	_	_	dep:5	metalinguistic	NLB		End=351.067		_	_	_
 85-0	BO118	85	58	1	[si:	si	sì	INTJ	I		discourse:3	linguistic	_		Begin=350.42	1x1	_	_	0-2(84)
 85-1	BO118	85	58	2	anch'	anch'	anch'	ADV	B		advmod:3	linguistic	_	SpaceAfter=No	_		_	_	0-5(84)
 85-2	BO118	85	58	3	io]	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	root:0	linguistic	_		End=351.07		_	_	0-2(84)
@@ -976,8 +976,8 @@ _	_	_	_	11	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 86-5	BO118	86	59	6	po'	po'	po'	ADV	B		advmod:4	linguistic	_		_		_	_	_
 86-6	BO118	86	59	7	fuori	fuori	fuori	ADV	B		advmod:4	linguistic	_		_		_	_	_
 86-7	BO118	86	59	8-9	dal	dal	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	8	_	da	da	ADP	E		case:10	_	_	_	_	_	_	_	_
-_	_	_	_	9	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:10	_	_	_	_	_	_	_	_
+_	_	_	59	8	_	da	da	ADP	E		case:10	_	_	_	_	_	_	_	_
+_	_	_	59	9	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:10	_	_	_	_	_	_	_	_
 86-8	BO118	86	59	10	centro:,	centro	centro	NOUN	S	Gender=Masc|Number=Sing	obl:4	linguistic	_	Intonation=weakly_ascending	_	5x1	_	_	_
 86-9	BO118	86	60	1	cioè	cioè	cioè	CCONJ	CC		cc:3	linguistic	_		_		_	_	_
 86-10	BO118	86	60	2	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:3	linguistic	_		_		_	_	_
@@ -991,8 +991,8 @@ _	_	_	_	9	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:1
 86-18	BO118	86	60	10	per	per	per	ADP	E		mark:11	linguistic	_		_		_	_	_
 86-19	BO118	86	60	11	arrivare	arrivare	arrivare	VERB	V	VerbForm=Inf	conj:6	linguistic	_		_		_	_	_
 86-20	BO118	86	60	12-13	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	12	_	in	in	ADP	E		case:14	_	_	_	_	_	_	_	_
-_	_	_	_	13	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:14	_	_	_	_	_	_	_	_
+_	_	_	60	12	_	in	in	ADP	E		case:14	_	_	_	_	_	_	_	_
+_	_	_	60	13	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:14	_	_	_	_	_	_	_	_
 86-21	BO118	86	60	14	paese	paese	paese	NOUN	S	Gender=Masc|Number=Sing	obl:11	linguistic	_		_		_	_	_
 86-22	BO118	86	60	15	vero	vero	vero	ADJ	A	Gender=Masc|Number=Sing	amod:14	linguistic	_		_		_	_	_
 86-23	BO118	86	60	16	e	e	e	CCONJ	CC		cc:18	linguistic	_		_		_	_	_
@@ -1042,8 +1042,8 @@ _	_	_	_	13	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 90-10	BO140	90	65	2	ero:	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	cop:7	linguistic	_		_	2x1	_	_	_
 90-11	BO140	90	65	3	cioè	cioè	cioere	CCONJ	CC		cc:7	linguistic	_		_		_	_	_
 90-12	BO140	90	65	4-5	dai	dai	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	4	_	da	da	ADP	E		case:7	_	_	_	_	_	_	_	_
-_	_	_	_	5	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	_	_	_	_	_	_	_	_
+_	_	_	65	4	_	da	da	ADP	E		case:7	_	_	_	_	_	_	_	_
+_	_	_	65	5	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	_	_	_	_	_	_	_	_
 90-13	BO140	90	65	6	quattordici	quattordici	quattordici	NUM	N	NumType=Card	nummod:7	linguistic	_		_		_	_	_
 90-14	BO140	90	65	7	anni	anni	anno	NOUN	S	Gender=Masc|Number=Plur	advcl:13	linguistic	_		_		_	_	_
 90-15	BO140	90	65	8	in	in	in	ADP	E		case:9	linguistic	_		_		_	_	_
@@ -1054,8 +1054,8 @@ _	_	_	_	5	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	
 90-20	BO140	90	65	13	legata	legata	legare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	root:0	linguistic	_		_		_	_	_
 90-21	BO140	90	65	14	molto	molto	molto	ADV	B		advmod:13	linguistic	_		_		_	_	_
 90-22	BO140	90	65	15-16	al	al	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	15	_	a	a	ADP	E		case:17	_	_	_	_	_	_	_	_
-_	_	_	_	16	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:17	_	_	_	_	_	_	_	_
+_	_	_	65	15	_	a	a	ADP	E		case:17	_	_	_	_	_	_	_	_
+_	_	_	65	16	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:17	_	_	_	_	_	_	_	_
 90-23	BO140	90	65	17	motorino	motorino	motorino	NOUN	S	Gender=Masc|Number=Sing	obl:13	linguistic	_		_		_	_	_
 90-24	BO140	90	66	1	ma	ma	ma	CCONJ	CC		cc:4	linguistic	_		_		_	_	_
 90-25	BO140	90	66	2	perché:	perché	perché	ADV	B		advmod:4	linguistic	_		_	5x1	_	_	_
@@ -1069,8 +1069,8 @@ _	_	_	_	16	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 93-0	BO140	93	67	3	cioè	cioè	cioè	CCONJ	CC		cc:4	linguistic	_		Begin=379.9		_	_	_
 93-1	BO140	93	67	4	preferisco:	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_	9x1	_	_	_
 93-2	BO140	93	67	5-6	spostarmi	spostarmi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	5	_	spostar	spostare	VERB	V	VerbForm=Inf	xcomp:4	_	_	_	_	_	_	_	_
-_	_	_	_	6	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:5	_	_	_	_	_	_	_	_
+_	_	_	67	5	_	spostar	spostare	VERB	V	VerbForm=Inf	xcomp:4	_	_	_	_	_	_	_	_
+_	_	_	67	6	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:5	_	_	_	_	_	_	_	_
 93-3	BO140	93	67	7	per	per	per	ADP	E		case:9	linguistic	_		_		_	_	_
 93-4	BO140	93	67	8	i	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	linguistic	_		_		_	_	_
 93-5	BO140	93	67	9	cavoli	cavoli	cavole	NOUN	S	Gender=Masc|Number=Plur	obl:5	linguistic	_		_		_	_	_
@@ -1079,8 +1079,8 @@ _	_	_	_	6	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:5	_	_
 93-8	BO140	93	67	12	stare	stare	stare	VERB	V	VerbForm=Inf	advcl:5	linguistic	_		_		_	_	_
 93-9	BO140	93	67	13	[(sempre	sempre	sempre	ADV	B		advmod:12	linguistic	_		_		_	0-6(0)	0-6(94)
 93-10	BO140	93	67	14-15	agli)	agli	_	_	_	_	_	linguistic	_		_		_	0-4(0)	0-4(94)
-_	_	_	_	14	_	a	a	ADP	E		case:16	_	_	_	_	_	_	_	_
-_	_	_	_	15	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:16	_	_	_	_	_	_	_	_
+_	_	_	67	14	_	a	a	ADP	E		case:16	_	_	_	_	_	_	_	_
+_	_	_	67	15	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:16	_	_	_	_	_	_	_	_
 93-11	BO140	93	67	16	altri].	altri	altro	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	obl:12	linguistic	_	Intonation=descending	End=385.01		_	_	0-5(94)
 94-0	BO118	94	68	1	[io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:3	linguistic	_		Begin=384.07		_	_	0-2(93)
 94-1	BO118	94	68	2	ho	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:3	linguistic	_		_		_	_	0-2(93)
@@ -1100,7 +1100,7 @@ _	_	_	_	15	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 95-0	BO140	95	69	1	[ah]	ah	ah	INTJ	I		discourse:3	linguistic	_		Begin=387.1		_	_	0-2(94)
 95-1	BO140	95	69	2	ecco	ecco	ecco	ADV	B		advmod:3	linguistic	_		_		_	_	_
 95-2	BO140	95	69	3	vedi?	vedi	vedere	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	root:0	linguistic	_	Intonation=ascending	_		_	_	_
-95-3	BO140	95	69	4	{ride}	{ride}	_	_	_	_	dep:3	metalinguistic	_		End=388.52		_	_	_
+95-3	BO140	95	69	4	{ride}	{ride}	_	_	_	_	dep:3	metalinguistic	NLB		End=388.52		_	_	_
 96-0	BO140	96	70	1	no	no	no	INTJ	I		discourse:4	linguistic	_		Begin=388.75		_	_	_
 96-1	BO140	96	70	2	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:4	linguistic	_		_		_	_	_
 96-2	BO140	96	70	3	lo	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	obj:4	linguistic	_		_		_	_	_
@@ -1109,7 +1109,7 @@ _	_	_	_	15	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 96-5	BO140	96	70	6	quando	quando	quando	SCONJ	CS		mark:7	linguistic	_		_		_	_	_
 96-6	BO140	96	70	7	nevicava	nevicava	nevicare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	advcl:4	linguistic	_		End=390.36		_	_	_
 97-0	BO118	97	71	1	ma:do'	mado'	mado'	ADV	B		root:0	linguistic	_	Truncated=Yes	Begin=390.365	1x1	_	_	_
-97-1	BO118	97	71	2	{ride}	{ride}	_	_	_	_	dep:1	metalinguistic	_		End=391.03		_	_	_
+97-1	BO118	97	71	2	{ride}	{ride}	_	_	_	_	dep:1	metalinguistic	NLB		End=391.03		_	_	_
 98-0	BO118	98	71	3	che	che	che	SCONJ	CS		mark:7	linguistic	_		Begin=391.902		_	_	_
 98-1	BO118	98	71	4	po:i	poi	poi	ADV	B		advmod:7	linguistic	_		_	1x1	_	_	_
 98-2	BO118	98	71	5	@nomepaese	@nomepaese	@nomepaese	SYM	SYM		nsubj:7	error	_		_		_	_	_
@@ -1147,8 +1147,8 @@ _	_	_	_	15	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 101-6	BO140	101	76	1	cioè	cioè	cioè	CCONJ	CC		cc:5	linguistic	_		_		_	_	_
 101-7	BO140	101	76	2	sono	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	cop:5	linguistic	_		_		_	_	_
 101-8	BO140	101	76	3-4	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	di	di	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	76	3	_	di	di	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	76	4	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:5	_	_	_	_	_	_	_	_
 101-9	BO140	101	76	5	pendenze	pendenze	pendenza	NOUN	S	Gender=Fem|Number=Plur	root:0	linguistic	_		_		_	_	_
 101-10	BO140	101	76	6	norma:li	normali	normale	ADJ	A	Gender=Fem|Number=Plur	amod:5	linguistic	_		_	4x1	_	_	_
 101-11	BO140	101	77	1	diciamo.	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	root:0	linguistic	_	Intonation=descending	End=408.62		_	_	_
@@ -1223,8 +1223,8 @@ _	_	_	_	4	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:5	
 114-2	BO140	114	86	4	in	in	in	ADP	E		case:5	linguistic	_		_		_	_	_
 114-3	BO140	114	86	5	centro:	centro	centro	NOUN	S	Gender=Masc|Number=Sing	conj:1	linguistic	_		_	5x1	_	_	_
 114-4	BO140	114	86	6-7	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	in	in	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	86	6	_	in	in	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	86	7	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 114-5	BO140	114	86	8	zona	zona	zona	NOUN	S	Gender=Fem|Number=Sing	nmod:5	linguistic	_		_		_	_	_
 114-6	BO140	114	86	9	universitaria,	universitaria	universitario	ADJ	A	Gender=Fem|Number=Sing	amod:8	linguistic	_	Intonation=weakly_ascending	End=435.53		_	_	_
 115-0	BO140	115	87	1	e::	e	e	CCONJ	CC		cc:4	linguistic	_		Begin=436.265	0x2	_	_	_
@@ -1335,8 +1335,8 @@ _	_	_	_	7	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:8	
 125-9	BO140	125	94	9	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:10	linguistic	_		_		_	_	_
 125-10	BO140	125	94	10	affacciavano	affacciavano	affacciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	acl:relcl:7	linguistic	_		_		_	_	_
 125-11	BO140	125	94	11-12	su:lla	sulla	_	_	_	_	_	linguistic	_		_	1x1	_	_	_
-_	_	_	_	11	_	su	su	ADP	E		case:13	_	_	_	_	_	_	_	_
-_	_	_	_	12	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
+_	_	_	94	11	_	su	su	ADP	E		case:13	_	_	_	_	_	_	_	_
+_	_	_	94	12	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
 125-12	BO140	125	94	13	saletta	saletta	sala	NOUN	S	Gender=Fem|Number=Sing	obl:10	linguistic	_		_		_	_	_
 125-13	BO140	125	94	14	e	e	e	CCONJ	CC		cc:16	linguistic	_		_		_	_	_
 125-14	BO140	125	94	15	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:16	linguistic	_		_		_	_	_
@@ -1375,8 +1375,8 @@ _	_	_	_	12	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 126-24	BO140	126	98	5	gli	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:6	linguistic	_		_		_	_	_
 126-25	BO140	126	98	6	edifici	edifici	edificio	NOUN	S	Gender=Masc|Number=Plur	obj:4	linguistic	_		_		_	_	_
 126-26	BO140	126	98	7-8	degli	degli	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
+_	_	_	98	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
+_	_	_	98	8	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
 126-27	BO140	126	98	9	anni	anni	anno	NOUN	S	Gender=Masc|Number=Plur	nmod:6	linguistic	_		_		_	_	_
 126-28	BO140	126	98	10	settanta	settanta	settanto	PRON	PR	PronType=Rel	obj:9	linguistic	_		_		_	_	_
 126-29	BO140	126	98	11	che	che	che	PRON	PR	PronType=Rel	nsubj:13	linguistic	_		_		_	_	_
@@ -1466,8 +1466,8 @@ _	_	_	_	8	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:
 135-3	BO140	135	104	27	sto:riche	storiche	storico	ADJ	A	Gender=Fem|Number=Plur	amod:26	linguistic	_		_	2x1	_	_	_
 135-4	BO140	135	104	28	sono:	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	cop:31	linguistic	_		End=523.12	3x1	_	_	_
 136-0	BO140	136	104	29-30	dai	dai	_	_	_	_	_	linguistic	_		Begin=524.277		_	_	_
-_	_	_	_	29	_	da	da	ADP	E		case:31	_	_	_	_	_	_	_	_
-_	_	_	_	30	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:31	_	_	_	_	_	_	_	_
+_	_	_	104	29	_	da	da	ADP	E		case:31	_	_	_	_	_	_	_	_
+_	_	_	104	30	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:31	_	_	_	_	_	_	_	_
 136-1	BO140	136	104	31	zambo:ni:,	zamboni	zambone	NOUN	S	Gender=Masc|Number=Plur	conj:23	linguistic	_	Intonation=weakly_ascending	_	4x1,6x1	_	_	_
 136-2	BO140	136	104	32	[ca]stiglio:ne,	castiglione	castiglione	NOUN	S	Gender=Fem|Number=Sing	compound:31	linguistic	_	Intonation=weakly_ascending	_	8x1	_	_	0-2(137)
 136-3	BO140	136	104	33	san	san	santo	X	X		root:0	linguistic	_		_		_	_	_
@@ -1524,8 +1524,8 @@ _	_	_	_	30	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:3
 142-7	BO118	142	112	8	ragazze?	ragazze	ragazzo	NOUN	S	Gender=Fem|Number=Plur	obl:4	linguistic	_	Intonation=ascending	End=546.52		_	_	_
 143-0	BO140	143	113	1	sì	sì	sì	INTJ	I		discourse:7	linguistic	_		Begin=547.42		_	_	_
 143-1	BO140	143	113	2-3	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	in	in	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	113	2	_	in	in	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	113	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
 143-2	BO140	143	113	4	prima	prima	primo	ADJ	NO	Gender=Fem|NumType=Ord|Number=Sing	amod:5	linguistic	_		_		_	_	_
 143-3	BO140	143	113	5	casa	casa	casa	NOUN	S	Gender=Fem|Number=Sing	obl:7	linguistic	_		_		_	_	_
 143-4	BO140	143	113	6	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:7	linguistic	_		_		_	_	_
@@ -1547,8 +1547,8 @@ _	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	
 144-12	BO140	144	113	22	abitato	abitato	abitare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	acl:relcl:18	linguistic	_		_		_	_	_
 144-13	BO140	144	113	23	anche:	anche	anche	ADV	B		advmod:26	linguistic	_		_	4x1	_	_	_
 144-14	BO140	144	113	24-25	degli	degli	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	24	_	di	di	ADP	E		case:26	_	_	_	_	_	_	_	_
-_	_	_	_	25	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:26	_	_	_	_	_	_	_	_
+_	_	_	113	24	_	di	di	ADP	E		case:26	_	_	_	_	_	_	_	_
+_	_	_	113	25	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:26	_	_	_	_	_	_	_	_
 144-15	BO140	144	113	26	uomini,	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	obl:22	linguistic	_	Intonation=weakly_ascending	End=558.18		_	_	_
 145-0	BO140	145	114	1	ehm::::	ehm	ehm	INTJ	I		root:0	linguistic	_		Begin=558.985	2x4	_	_	_
 145-1	BO140	145	115	1	anche	anche	anche	ADV	B		advmod:5	linguistic	_		_		_	_	_
@@ -1569,13 +1569,13 @@ _	_	_	_	25	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det
 147-3	BO140	147	116	9	siano	siano	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	parataxis:4	linguistic	_		_		_	_	_
 147-4	BO140	147	116	10	anche	anche	anche	ADV	B		advmod:13	linguistic	_		_		_	_	_
 147-5	BO140	147	116	11-12	degli	degli	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	11	_	di	di	ADP	E		case:13	_	_	_	_	_	_	_	_
-_	_	_	_	12	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:13	_	_	_	_	_	_	_	_
+_	_	_	116	11	_	di	di	ADP	E		case:13	_	_	_	_	_	_	_	_
+_	_	_	116	12	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:13	_	_	_	_	_	_	_	_
 147-6	BO140	147	116	13	uomini,	uomini	uomo	NOUN	S	Gender=Masc|Number=Plur	obl:9	linguistic	_	Intonation=weakly_ascending	_		_	_	_
 147-7	BO140	147	117	1	mentre	mentre	mentre	SCONJ	CS		mark:9	linguistic	_		_		_	_	_
 147-8	BO140	147	117	2-3	nell'	nell'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-_	_	_	_	2	_	in	in	ADP	E		case:4	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
+_	_	_	117	2	_	in	in	ADP	E		case:4	_	_	_	_	_	_	_	_
+_	_	_	117	3	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
 147-9	BO140	147	117	4	altra	altra	altro	ADJ	A		obl:9	linguistic	_		_		_	_	_
 147-10	BO140	147	117	5	comunque	comunque	comunque	ADV	B		advmod:9	linguistic	_		_		_	_	_
 147-11	BO140	147	117	6	essendo	essendo	essere	AUX	V	VerbForm=Ger	cop:9	linguistic	_		_		_	_	_
@@ -1601,8 +1601,8 @@ _	_	_	_	3	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_
 148-16	BO140	148	118	3	magari	magari	magari	ADV	B		advmod:10	linguistic	_		_		_	_	_
 148-17	BO140	148	118	4	cioè	cioè	cioè	CCONJ	CC		cc:10	linguistic	_		_		_	_	_
 148-18	BO140	148	118	5-6	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	5	_	in	in	ADP	E		case:7	_	_	_	_	_	_	_	_
-_	_	_	_	6	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:7	_	_	_	_	_	_	_	_
+_	_	_	118	5	_	in	in	ADP	E		case:7	_	_	_	_	_	_	_	_
+_	_	_	118	6	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:7	_	_	_	_	_	_	_	_
 148-19	BO140	148	118	7	senso	senso	senso	NOUN	S	Gender=Masc|Number=Sing	obl:10	linguistic	_		_		_	_	_
 148-20	BO140	148	118	8	si	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:impers:10	linguistic	_		_		_	_	_
 148-21	BO140	148	118	9	possono	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	aux:10	linguistic	_		_		_	_	_
@@ -1615,8 +1615,8 @@ _	_	_	_	6	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:7
 150-1	BO118	150	119	3	e	e	e	CCONJ	CC		cc:8	linguistic	_		_		_	_	_
 150-2	BO118	150	119	4	rispetto	rispetto	rispetto	ADP	E		case:8	linguistic	_		_		_	_	_
 150-3	BO118	150	119	5-6	all'	all'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-_	_	_	_	5	_	a	a	ADP	E		fixed:4	_	_	_	_	_	_	_	_
-_	_	_	_	6	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	119	5	_	a	a	ADP	E		fixed:4	_	_	_	_	_	_	_	_
+_	_	_	119	6	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 150-4	BO118	150	119	7	altra	altra	altro	ADJ	A		amod:8	linguistic	_		_		_	_	_
 150-5	BO118	150	119	8	casa:?	casa	casa	NOUN	S	Gender=Fem|Number=Sing	conj:1	linguistic	_	Intonation=ascending	_	3x1	_	_	_
 150-6	BO118	150	120	1	cioè	cioè	cioè	CCONJ	CC		cc:5	linguistic	_		_		_	_	_
@@ -1684,8 +1684,8 @@ _	_	_	_	6	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_
 154-20	BO140	154	124	6	o	o	o	CCONJ	CC		cc:10	linguistic	_		_		_	_	_
 154-21	BO140	154	124	7	con	con	con	ADP	E		case:10	linguistic	_		_		_	_	_
 154-22	BO140	154	124	8-9	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	8	_	di	di	ADP	E		case:10	_	_	_	_	_	_	_	_
-_	_	_	_	9	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:10	_	_	_	_	_	_	_	_
+_	_	_	124	8	_	di	di	ADP	E		case:10	_	_	_	_	_	_	_	_
+_	_	_	124	9	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:10	_	_	_	_	_	_	_	_
 154-23	BO140	154	124	10	mezzi,	mezzi	mezzo	NOUN	S	Gender=Masc|Number=Plur	conj:4	linguistic	_	Intonation=weakly_ascending	_		_	_	_
 154-24	BO140	154	124	11	o	o	o	CCONJ	CC		cc:13	linguistic	_		_		_	_	_
 154-25	BO140	154	124	12	a	a	a	ADP	E		case:13	linguistic	_		_		_	_	_
@@ -1760,8 +1760,8 @@ _	_	_	_	9	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:10
 157-23	BO140	157	128	11	dieci	dieci	dieci	NUM	N	NumType=Card	nummod:12	linguistic	_		_		_	_	_
 157-24	BO140	157	128	12	minuti	minuti	minuto	NOUN	S	Gender=Masc|Number=Plur	obl:7	linguistic	_		_		_	_	_
 157-25	BO140	157	128	13-14	al	al	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	13	_	a	a	ADP	E		case:15	_	_	_	_	_	_	_	_
-_	_	_	_	14	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:15	_	_	_	_	_	_	_	_
+_	_	_	128	13	_	a	a	ADP	E		case:15	_	_	_	_	_	_	_	_
+_	_	_	128	14	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:15	_	_	_	_	_	_	_	_
 157-26	BO140	157	128	15	giorno	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	obl:7	linguistic	_		_		_	_	_
 157-27	BO140	157	128	16	comunque	comunque	comunque	ADV	B		advmod:18	linguistic	_		_		_	_	_
 157-28	BO140	157	128	17	mi	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:18	linguistic	_		_		_	_	_
@@ -1810,8 +1810,8 @@ _	_	_	_	14	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 161-1	BO140	161	131	9	diciamo	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	parataxis:6	linguistic	_		_		_	_	_
 161-2	BO140	161	131	10	che	che	che	SCONJ	CS		mark:14	linguistic	_		_		_	_	_
 161-3	BO140	161	131	11-12	dell'	dell'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-_	_	_	_	11	_	di	di	ADP	E		case:13	_	_	_	_	_	_	_	_
-_	_	_	_	12	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
+_	_	_	131	11	_	di	di	ADP	E		case:13	_	_	_	_	_	_	_	_
+_	_	_	131	12	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
 161-4	BO140	161	131	13	altra	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	obl:14	linguistic	_		_		_	_	_
 161-5	BO140	161	131	14	preferivo	preferivo	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ccomp:9	linguistic	_		_		_	_	_
 161-6	BO140	161	131	15	il	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:16	linguistic	_		_		_	_	_
@@ -2007,12 +2007,12 @@ _	_	_	_	12	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:13	_	_	_	_	_
 176-1	BO140	176	146	2	se	se	se	SCONJ	CS		mark:4	linguistic	_		_		_	_	_
 176-2	BO140	176	146	3	volevo	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	aux:4	linguistic	_		_		_	_	_
 176-3	BO140	176	146	4-5	ritagliarmi	ritagliarmi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	4	_	ritagliar	ritagliare	VERB	V	VerbForm=Inf	advcl:12	_	_	_	_	_	_	_	_
-_	_	_	_	5	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	expl:4	_	_	_	_	_	_	_	_
+_	_	_	146	4	_	ritagliar	ritagliare	VERB	V	VerbForm=Inf	advcl:12	_	_	_	_	_	_	_	_
+_	_	_	146	5	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	expl:4	_	_	_	_	_	_	_	_
 176-4	BO140	176	146	6	anche	anche	anche	ADV	B		advmod:9	linguistic	_		_		_	_	_
 176-5	BO140	176	146	7-8	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
+_	_	_	146	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
+_	_	_	146	8	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
 176-6	BO140	176	146	9	momenti	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	obl:4	linguistic	_		_		_	_	_
 176-7	BO140	176	146	10	miei::	miei	mio	PRON	PP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	nmod:9	linguistic	_		_	3x2	_	_	_
 176-8	BO140	176	146	11	non	non	non	ADV	BN	PronType=Neg	advmod:12	linguistic	_		_		_	_	_
@@ -2045,12 +2045,12 @@ _	_	_	_	8	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	
 178-11	BO140	178	150	1	sei	sei	essere	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	cop:5	linguistic	_		_		_	_	_
 178-12	BO140	178	150	2	ancora	ancora	ancora	ADV	B		advmod:5	linguistic	_		_		_	_	_
 178-13	BO140	178	150	3-4	nella	nella	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	in	in	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	150	3	_	in	in	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	150	4	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
 178-14	BO140	178	150	5	fase	fase	fase	NOUN	S	Gender=Fem|Number=Sing	root:0	linguistic	_		_		_	_	_
 178-15	BO140	178	150	6-7	del,	del	_	_	_	_	_	linguistic	_	Intonation=weakly_ascending	End=738.77		_	_	_
-_	_	_	_	6	_	di	di	ADP	E		case:11	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
+_	_	_	150	6	_	di	di	ADP	E		case:11	_	_	_	_	_	_	_	_
+_	_	_	150	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
 179-0	BO118	179	150	8	[si].	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	expl:11	linguistic	_	Intonation=descending	End=737.34		_	_	0-2(178)
 180-0	BO140	180	150	9	siamo	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	cop:11	linguistic	_		Begin=739.211		_	_	_
 180-1	BO140	180	150	10	tutti	tutti	tutto	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	obl:11	linguistic	_		_		_	_	_
@@ -2078,8 +2078,8 @@ _	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:1
 183-12	BO140	183	153	13	in	in	in	ADP	E		case:14	linguistic	_		_		_	_	0-2(184)
 183-13	BO140	183	153	14	cui	cui	cui	PRON	PR	PronType=Rel	obl:16	linguistic	_		_		_	_	0-3(184)
 183-14	BO140	183	153	15	rin]chiuderti.	rinchiuderti	_	_	_	_	dep:5	linguistic	_	Intonation=descending	End=749.71		_	_	0-3(184)
-_	_	_	_	16	_	rinchiuder	rinchiudere	VERB	V	VerbForm=Inf	acl:11	_	_	_	_	_	_	_	_
-_	_	_	_	17	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:16	_	_	_	_	_	_	_	_
+_	_	_	153	16	_	rinchiuder	rinchiudere	VERB	V	VerbForm=Inf	acl:11	_	_	_	_	_	_	_	_
+_	_	_	153	17	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:16	_	_	_	_	_	_	_	_
 184-0	BO118	184	154	1	[sì	sì	sì	INTJ	I		discourse:4	linguistic	_		Begin=748.0		_	_	0-2(183)
 184-1	BO118	184	154	2	assolutamente].	assolutamente	assolutamente	ADV	B		advmod:4	linguistic	_	Intonation=descending	End=749.342		_	_	0-13(183)
 185-0	BO118	185	154	3	>non	non	non	ADV	BN	PronType=Neg	advmod:4	linguistic	_		Begin=750.036		Fast=0-3(0)	_	_
@@ -2097,8 +2097,8 @@ _	_	_	_	17	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:16	_
 185-12	BO118	185	154	15	ero	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	aux:16	linguistic	_		_		_	_	_
 185-13	BO118	185	154	16	arrivata	arrivata	arrivare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	parataxis:4	linguistic	_		_		_	_	_
 185-14	BO118	185	154	17-18	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	17	_	a	a	ADP	E		case:19	_	_	_	_	_	_	_	_
-_	_	_	_	18	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:19	_	_	_	_	_	_	_	_
+_	_	_	154	17	_	a	a	ADP	E		case:19	_	_	_	_	_	_	_	_
+_	_	_	154	18	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:19	_	_	_	_	_	_	_	_
 185-15	BO118	185	154	19	fine	fine	fine	NOUN	S	Gender=Fem|Number=Sing	obl:16	linguistic	_		_		_	_	_
 185-16	BO118	185	154	20	che	che	che	PRON	PR	PronType=Rel	nsubj:24	linguistic	_		_		_	_	_
 185-17	BO118	185	154	21	non	non	non	ADV	BN	PronType=Neg	advmod:24	linguistic	_		_		_	_	_
@@ -2150,8 +2150,8 @@ _	_	_	_	18	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 188-9	BO118	188	158	12	parte	parte	parte	NOUN	S	Gender=Fem|Number=Sing	obl:9	linguistic	_		_		_	_	_
 188-10	BO118	188	158	13	o	o	o	CCONJ	CC		cc:16	linguistic	_		_		_	_	_
 188-11	BO118	188	158	14-15	dall'	dall'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-_	_	_	_	14	_	da	da	ADP	E		case:16	_	_	_	_	_	_	_	_
-_	_	_	_	15	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:16	_	_	_	_	_	_	_	_
+_	_	_	158	14	_	da	da	ADP	E		case:16	_	_	_	_	_	_	_	_
+_	_	_	158	15	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:16	_	_	_	_	_	_	_	_
 188-12	BO118	188	158	16	altra	altra	altro	PRON	PI	Gender=Fem|Number=Sing|PronType=Ind	conj:12	linguistic	_		End=771.38		_	_	_
 189-0	BO118	189	159	1	e	e	e	CCONJ	CC		cc:13	linguistic	_		Begin=772.085		_	_	_
 189-1	BO118	189	159	2	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:13	linguistic	_		_		_	_	_
@@ -2211,8 +2211,8 @@ _	_	_	_	15	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:16	_	_	_	_	_
 193-10	BO140	193	161	21	sempre	sempre	sempre	ADV	B		advmod:20	linguistic	_		_		_	_	_
 193-11	BO140	193	161	22	con	con	con	ADP	E		case:25	linguistic	_		_		_	_	_
 193-12	BO140	193	161	23-24	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	23	_	di	di	ADP	E		fixed:22	_	_	_	_	_	_	_	_
-_	_	_	_	24	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:25	_	_	_	_	_	_	_	_
+_	_	_	161	23	_	di	di	ADP	E		fixed:22	_	_	_	_	_	_	_	_
+_	_	_	161	24	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:25	_	_	_	_	_	_	_	_
 193-13	BO140	193	161	25	persone::	persone	persona	NOUN	S	Gender=Fem|Number=Plur	obl:20	linguistic	_		_	6x2	_	_	_
 193-14	BO140	193	161	26	tranquille	tranquille	tranquillo	ADJ	A	Gender=Fem|Number=Plur	amod:25	linguistic	_		_		_	_	_
 193-15	BO140	193	161	27	che	che	che	PRON	PR	PronType=Rel	nsubj:29	linguistic	_		_		_	_	_
@@ -2237,8 +2237,8 @@ _	_	_	_	24	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:2
 194-13	BO118	194	162	14	sola	sola	solo	ADJ	A	Gender=Fem|Number=Sing	obl:12	linguistic	_		_		_	_	0-4(195)
 194-14	BO118	194	162	15	in	in	in	ADP	E		case:18	linguistic	_		_		_	_	0-2(195)
 194-15	BO118	194	162	16-17	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	0-3(195)
-_	_	_	_	16	_	di	di	ADP	E		fixed:15	_	_	_	_	_	_	_	_
-_	_	_	_	17	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:18	_	_	_	_	_	_	_	_
+_	_	_	162	16	_	di	di	ADP	E		fixed:15	_	_	_	_	_	_	_	_
+_	_	_	162	17	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:18	_	_	_	_	_	_	_	_
 194-16	BO118	194	162	18	momenti]	momenti	momento	NOUN	S	Gender=Masc|Number=Plur	obl:12	linguistic	_		End=795.63		_	_	0-6(195)
 195-0	BO140	195	162	19	[sì	sì	sì	INTJ	I		discourse:10	linguistic	_		Begin=794.208		_	_	0-2(194)
 195-1	BO140	195	163	1	di	di	di	ADP	E		mark:2	linguistic	_		_		_	_	0-2(194)
@@ -2426,8 +2426,8 @@ _	_	_	_	17	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 215-6	BO140	215	179	24	in	in	in	ADP	E		case:25	linguistic	_		_		_	_	_
 215-7	BO140	215	179	25	mezzo	mezzo	mezzo	NOUN	S	Gender=Masc|Number=Sing	obl:23	linguistic	_		_		_	_	_
 215-8	BO140	215	179	26-27	alle	alle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	26	_	a	a	ADP	E		case:28	_	_	_	_	_	_	_	_
-_	_	_	_	27	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:28	_	_	_	_	_	_	_	_
+_	_	_	179	26	_	a	a	ADP	E		case:28	_	_	_	_	_	_	_	_
+_	_	_	179	27	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:28	_	_	_	_	_	_	_	_
 215-9	BO140	215	179	28	case,	case	casa	NOUN	S	Gender=Fem|Number=Plur	obl:23	linguistic	_	Intonation=weakly_ascending	End=852.86		_	_	_
 216-0	BO140	216	179	29	e	e	e	CCONJ	CC		cc:32	linguistic	_		Begin=853.367		_	_	_
 216-1	BO140	216	179	30	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:32	linguistic	_		_		_	_	_
@@ -2457,8 +2457,8 @@ _	_	_	_	27	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:2
 216-25	BO140	216	181	6	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:7	linguistic	_		_		_	_	_
 216-26	BO140	216	181	7	sera::	sera	sera	NOUN	S	Gender=Fem|Number=Sing	obl:5	linguistic	_		_	3x2	_	_	_
 216-27	BO140	216	181	8-9	alle	alle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	8	_	a	a	ADP	E		case:10	_	_	_	_	_	_	_	_
-_	_	_	_	9	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:10	_	_	_	_	_	_	_	_
+_	_	_	181	8	_	a	a	ADP	E		case:10	_	_	_	_	_	_	_	_
+_	_	_	181	9	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:10	_	_	_	_	_	_	_	_
 216-28	BO140	216	181	10	nove	nove	nova	NOUN	S	Gender=Fem|Number=Plur	obl:5	linguistic	_		_		_	_	_
 216-29	BO140	216	181	11	di	di	di	ADP	E		case:12	linguistic	_		_		_	_	_
 216-30	BO140	216	181	12	sera	sera	sera	NOUN	S	Gender=Fem|Number=Sing	nmod:10	linguistic	_		_		_	_	_
@@ -2486,8 +2486,8 @@ _	_	_	_	9	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:10
 220-3	BO118	220	186	4	già:	già	già	ADV	B		advmod:5	linguistic	_		_	2x1	_	_	_
 220-4	BO118	220	186	5	uscendo	uscendo	uscire	VERB	V	VerbForm=Ger	conj:1	linguistic	_		_		_	_	_
 220-5	BO118	220	186	6-7	dalle	dalle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	186	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	186	7	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
 220-6	BO118	220	186	8	mura:,	mura	mura	NOUN	S	Gender=Fem|Number=Sing	obl:5	linguistic	_	Intonation=weakly_ascending	End=872.467	3x1	_	_	_
 221-0	BO118	221	186	9	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:10	linguistic	_		Begin=872.73		_	_	_
 221-1	BO118	221	186	10	diversa	diversa	diverso	DET	DI	PronType=Ind	root:0	linguistic	_		_		_	_	_
@@ -2526,8 +2526,8 @@ _	_	_	_	7	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:8	
 228-9	BO140	228	190	15	ci	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:16	linguistic	_		_		_	_	_
 228-10	BO140	228	190	16	abitan	abitan	abitare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	ccomp:11	linguistic	_		_		_	_	_
 228-11	BO140	228	190	17-18	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	17	_	di	di	ADP	E		case:19	_	_	_	_	_	_	_	_
-_	_	_	_	18	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:19	_	_	_	_	_	_	_	_
+_	_	_	190	17	_	di	di	ADP	E		case:19	_	_	_	_	_	_	_	_
+_	_	_	190	18	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:19	_	_	_	_	_	_	_	_
 228-12	BO140	228	190	19	fami:glie::	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	obl:16	linguistic	_		_	3x1,7x2	_	_	_
 228-13	BO140	228	190	20	i	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:22	linguistic	_		_		_	_	_
 228-14	BO140	228	190	21	non	non	non	ADV	BN	PronType=Neg	advmod:22	linguistic	_		_		_	_	_
@@ -2562,8 +2562,8 @@ _	_	_	_	18	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 232-3	BO140	232	192	16	son	son	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:17	linguistic	_		_		_	_	_
 232-4	BO140	232	192	17	rimaste	rimaste	rimanere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	parataxis:7	linguistic	_		_		_	_	_
 232-5	BO140	232	192	18-19	nelle	nelle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	18	_	in	in	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	19	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	192	18	_	in	in	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	192	19	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:20	_	_	_	_	_	_	_	_
 232-6	BO140	232	192	20	zone	zone	zona	NOUN	S	Gender=Fem|Number=Plur	obl:17	linguistic	_		_		_	_	_
 232-7	BO140	232	192	21	più	più	più	ADV	B		advmod:22	linguistic	_		_		_	_	_
 232-8	BO140	232	192	22	sto:riche	storiche	storico	ADJ	A	Gender=Fem|Number=Plur	amod:23	linguistic	_		_	2x1	_	_	_
@@ -2580,8 +2580,8 @@ _	_	_	_	19	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:2
 236-5	BO118	236	193	9	se	se	se	SCONJ	CS		mark:10	linguistic	_		_		_	_	_
 236-6	BO118	236	193	10	mh::	mh	mh	INTJ	I		discourse:2	linguistic	_		_	1x2	_	_	_
 236-7	BO118	236	193	11-12	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	11	_	in	in	ADP	E		case:13	_	_	_	_	_	_	_	_
-_	_	_	_	12	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
+_	_	_	193	11	_	in	in	ADP	E		case:13	_	_	_	_	_	_	_	_
+_	_	_	193	12	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:13	_	_	_	_	_	_	_	_
 236-8	BO118	236	193	13	futu~	futu~	futu~	SYM	SYM		nmod:10	linguistic	_	Interrupted=Yes	_		_	_	_
 236-9	BO118	236	193	14	cioè,	cioè	cioè	CCONJ	CC		root:0	linguistic	_	Intonation=weakly_ascending	End=908.36		_	_	_
 237-0	BO118	237	193	15	se	se	se	SCONJ	CS		mark:18	linguistic	_		Begin=909.017		_	_	_
@@ -2671,11 +2671,11 @@ _	_	_	_	12	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 244-4	BO140	244	198	23	campagna	campagna	campagna	NOUN	S	Gender=Fem|Number=Sing	obl:21	linguistic	_		_		_	_	_
 244-5	BO140	244	198	24	[lontana	lontana	lontano	ADJ	A	Gender=Fem|Number=Sing	amod:23	linguistic	_		_		_	_	0-7(245)
 244-6	BO140	244	198	25	dal]	dal	_	_	_	_	dep:17	linguistic	_		_		_	_	0-3(245)
-_	_	_	_	26	_	da	da	ADP	E		case:30	_	_	_	_	_	_	_	_
-_	_	_	_	27	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:30	_	_	_	_	_	_	_	_
-_	_	_	_	28	_	da	da	ADP	E		case:30	_	_	_	_	_	_	_	_
+_	_	_	198	26	_	da	da	ADP	E		case:30	_	_	_	_	_	_	_	_
+_	_	_	198	27	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:30	_	_	_	_	_	_	_	_
+_	_	_	198	28	_	da	da	ADP	E		case:30	_	_	_	_	_	_	_	_
 244-7	BO140	244	198	26-27-28-29	dal	dal	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	29	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:30	_	_	_	_	_	_	_	_
+_	_	_	198	29	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:30	_	_	_	_	_	_	_	_
 244-8	BO140	244	198	30	traffico:	traffico	traffico	NOUN	S	Gender=Masc|Number=Sing	obl:21	linguistic	_		_	7x1	_	_	_
 244-9	BO140	244	199	1	[e:],	e	e	CCONJ	CC		cc:3	linguistic	_	Intonation=weakly_ascending	End=943.44	0x1	_	_	0-1(246)
 245-0	BO118	245	199	2	[fo:rse	forse	forse	ADV	B		advmod:3	linguistic	_		Begin=940.75	1x1	_	_	0-5(244)
@@ -2689,8 +2689,8 @@ _	_	_	_	29	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 247-4	BO140	247	200	5	no.	no	no	INTJ	I		discourse:4	linguistic	_	Intonation=descending	End=945.9		_	_	_
 248-0	BO140	248	201	1	cioè	cioè	cioè	CCONJ	CC		cc:4	linguistic	_		Begin=946.06		_	_	_
 248-1	BO140	248	201	2-3	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	in	in	ADP	E		case:4	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
+_	_	_	201	2	_	in	in	ADP	E		case:4	_	_	_	_	_	_	_	_
+_	_	_	201	3	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
 248-2	BO140	248	201	4	senso	senso	senso	NOUN	S	Gender=Masc|Number=Sing	root:0	linguistic	_		_		_	_	_
 248-3	BO140	248	201	5	per	per	per	ADP	E		case:6	linguistic	_		_		_	_	_
 248-4	BO140	248	201	6	quanto	quanto	quanto	PRON	PR	PronType=Rel	obl:8	linguistic	_		_		_	_	_
@@ -2727,8 +2727,8 @@ _	_	_	_	3	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:4
 250-9	BO140	250	203	2	ho	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 250-10	BO140	250	203	3	bisogno	bisogno	bisogno	NOUN	S	Gender=Masc|Number=Sing	obj:2	linguistic	_		_		_	_	_
 250-11	BO140	250	203	4-5	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	4	_	di	di	ADP	E		case:7	_	_	_	_	_	_	_	_
-_	_	_	_	5	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	_	_	_	_	_	_	_	_
+_	_	_	203	4	_	di	di	ADP	E		case:7	_	_	_	_	_	_	_	_
+_	_	_	203	5	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	_	_	_	_	_	_	_	_
 250-12	BO140	250	203	6	miei	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	det:poss:7	linguistic	_		_		_	_	_
 250-13	BO140	250	203	7	spazi.	spazi	spazio	NOUN	S	Gender=Masc|Number=Plur	nmod:3	linguistic	_	Intonation=descending	End=962.7		_	_	_
 251-0	BO140	251	204	1	però:	però	però	ADV	B		advmod:3	linguistic	_		Begin=962.98	3x1	_	_	_
@@ -2738,20 +2738,20 @@ _	_	_	_	5	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:7	
 251-4	BO140	251	204	5	uscire	uscire	uscire	VERB	V	VerbForm=Inf	csubj:3	linguistic	_		_		_	_	_
 251-5	BO140	251	204	6	a	a	a	ADP	E		mark:7	linguistic	_		_		_	_	_
 251-6	BO140	251	204	7-8	farmi	farmi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	far	fare	VERB	V	VerbForm=Inf	xcomp:5	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:7	_	_	_	_	_	_	_	_
+_	_	_	204	7	_	far	fare	VERB	V	VerbForm=Inf	xcomp:5	_	_	_	_	_	_	_	_
+_	_	_	204	8	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:7	_	_	_	_	_	_	_	_
 251-7	BO140	251	204	9	una	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	det:10	linguistic	_		_		_	_	_
 251-8	BO140	251	204	10	passeggiata:	passeggiata	passeggiata	NOUN	S	Gender=Fem|Number=Sing	obj:7	linguistic	_		_	10x1	_	_	_
 251-9	BO140	251	204	11	e:	e	e	CCONJ	CC		cc:12	linguistic	_		_	0x1	_	_	_
 251-10	BO140	251	204	12	incontrare	incontrare	incontrare	VERB	V	VerbForm=Inf	conj:7	linguistic	_		_		_	_	_
 251-11	BO140	251	204	13-14	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	13	_	di	di	ADP	E		case:15	_	_	_	_	_	_	_	_
-_	_	_	_	14	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:15	_	_	_	_	_	_	_	_
+_	_	_	204	13	_	di	di	ADP	E		case:15	_	_	_	_	_	_	_	_
+_	_	_	204	14	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:15	_	_	_	_	_	_	_	_
 251-12	BO140	251	204	15	persone.	persone	persona	NOUN	S	Gender=Fem|Number=Plur	obl:12	linguistic	_	Intonation=descending	End=968.84		_	_	_
 252-0	BO140	252	204	16	cioè	cioè	cioè	CCONJ	CC		cc:17	linguistic	_		Begin=969.29		_	_	_
 252-1	BO140	252	204	17-18	farci	farci	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	17	_	far	fare	VERB	V	VerbForm=Inf	conj:12	_	_	_	_	_	_	_	_
-_	_	_	_	18	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:17	_	_	_	_	_	_	_	_
+_	_	_	204	17	_	far	fare	VERB	V	VerbForm=Inf	conj:12	_	_	_	_	_	_	_	_
+_	_	_	204	18	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:17	_	_	_	_	_	_	_	_
 252-2	BO140	252	204	19	due	due	due	NUM	N	NumType=Card	nummod:20	linguistic	_		_		_	_	_
 252-3	BO140	252	204	20	chiacchiere	chiacchiere	chiacchiere	NOUN	S	Gender=Fem|Number=Plur	obj:17	linguistic	_		_		_	_	_
 252-4	BO140	252	204	21	magari:	magari	magari	ADV	B		advmod:22	linguistic	_		_	5x1	_	_	_
@@ -2787,8 +2787,8 @@ _	_	_	_	18	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:17	
 254-16	BO140	254	206	15	posto:	posto	posto	NOUN	S	Gender=Masc|Number=Sing	nmod:12	linguistic	_		_	4x1	_	_	_
 254-17	BO140	254	206	16	con	con	con	ADP	E		case:20	linguistic	_		_		_	_	_
 254-18	BO140	254	206	17-18	del	del	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	17	_	di	di	ADP	E		fixed:16	_	_	_	_	_	_	_	_
-_	_	_	_	18	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	206	17	_	di	di	ADP	E		fixed:16	_	_	_	_	_	_	_	_
+_	_	_	206	18	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:20	_	_	_	_	_	_	_	_
 254-19	BO140	254	206	19	verde.	verde	verde	ADJ	A	Number=Sing	amod:20	linguistic	_	Intonation=descending	End=982.08		_	_	_
 255-0	BO118	255	206	20	esa:tto:	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	nmod:15	linguistic	_		Begin=982.48	2x1,5x1	_	_	_
 255-1	BO118	255	206	21	cioè	cioè	cioè	CCONJ	CC		cc:24	linguistic	_		_		_	_	_
@@ -2815,8 +2815,8 @@ _	_	_	_	18	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 256-10	BO118	256	208	4	abbastanza	abbastanza	abbastanza	ADV	B		advmod:3	linguistic	_		_		_	_	_
 256-11	BO118	256	208	5	lontana	lontana	lontano	ADJ	A	Gender=Fem|Number=Sing	xcomp:3	linguistic	_		_		_	_	_
 256-12	BO118	256	208	6-7	dal	dal	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	208	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	208	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 256-13	BO118	256	208	8	centro	centro	centro	NOUN	S	Gender=Masc|Number=Sing	obl:5	linguistic	_		_		_	_	_
 256-14	BO118	256	208	9	di	di	di	ADP	E		case:10	linguistic	_		_		_	_	_
 256-15	BO118	256	208	10	pistoia	pistoia	pistoia	NOUN	S	Gender=Fem|Number=Sing	nmod:8	linguistic	_		_		_	_	_
@@ -2875,8 +2875,8 @@ _	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8
 261-5	BO118	261	210	7	che	che	che	PRON	PR	PronType=Rel	nsubj:8	linguistic	_		_		_	_	_
 261-6	BO118	261	210	8	ok::ay	okay	okay	INTJ	I		discourse:15	linguistic	_		_	1x2	_	_	_
 261-7	BO118	261	210	9-10	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	9	_	a	a	ADP	E		case:11	_	_	_	_	_	_	_	_
-_	_	_	_	10	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
+_	_	_	210	9	_	a	a	ADP	E		case:11	_	_	_	_	_	_	_	_
+_	_	_	210	10	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
 261-8	BO118	261	210	11	fine	fine	fine	NOUN	S	Gender=Fem|Number=Sing	obl:15	linguistic	_		_		_	_	_
 261-9	BO118	261	210	12	@nomepaese	@nomepaese	@nomepaese	ADJ	A	Number=Sing	amod:11	error	_		_		_	_	_
 261-10	BO118	261	210	13	non	non	non	ADV	BN	PronType=Neg	advmod:15	linguistic	_		_		_	_	_
@@ -3038,8 +3038,8 @@ _	_	_	_	10	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:1
 271-26	BO140	271	216	43	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:44	linguistic	_		_		_	_	_
 271-27	BO140	271	216	44	percezione	percezione	percezione	NOUN	S	Gender=Fem|Number=Sing	nsubj:41	linguistic	_		_		_	_	_
 271-28	BO140	271	216	45-46	della	della	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	45	_	di	di	ADP	E		case:47	_	_	_	_	_	_	_	_
-_	_	_	_	46	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:47	_	_	_	_	_	_	_	_
+_	_	_	216	45	_	di	di	ADP	E		case:47	_	_	_	_	_	_	_	_
+_	_	_	216	46	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:47	_	_	_	_	_	_	_	_
 271-29	BO140	271	216	47	città	città	città	NOUN	S	Gender=Fem	nmod:44	linguistic	_		_		_	_	_
 271-30	BO140	271	217	1	[cioè	cioè	cioè	CCONJ	CC		discourse:3	linguistic	_		_		_	_	0-4(272)
 271-31	BO140	271	217	2	io:]	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:3	linguistic	_		End=1070.25	1x1	_	_	0-2(272)
@@ -3066,8 +3066,8 @@ _	_	_	_	46	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4
 275-6	BO118	275	218	8	da	da	da	ADP	E		case:9	linguistic	_		_		_	_	_
 275-7	BO118	275	218	9	grande:	grande	grande	ADJ	A	Number=Plur	obl:7	linguistic	_		_	5x1	_	_	_
 275-8	BO118	275	218	10-11	coi	coi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	10	_	con	con	ADP	E		case:13	_	_	_	_	_	_	_	_
-_	_	_	_	11	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:13	_	_	_	_	_	_	_	_
+_	_	_	218	10	_	con	con	ADP	E		case:13	_	_	_	_	_	_	_	_
+_	_	_	218	11	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:13	_	_	_	_	_	_	_	_
 275-9	BO118	275	218	12	miei	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	det:poss:13	linguistic	_		_		_	_	_
 275-10	BO118	275	218	13	figli,	figli	figlio	NOUN	S	Gender=Masc|Number=Plur	obl:7	linguistic	_	Intonation=weakly_ascending	_		_	_	_
 275-11	BO118	275	218	14	[fare]	fare	fare	VERB	V	VerbForm=Inf	acl:13	linguistic	_		_		_	_	0-4(276)
@@ -3081,16 +3081,16 @@ _	_	_	_	11	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 275-19	BO118	275	218	22	[cioè]	cioè	cioè	CCONJ	CC		cc:23	linguistic	_		_		_	_	0-4(277)
 275-20	BO118	275	218	23	preferisco	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	conj:14	linguistic	_		_		_	_	_
 275-21	BO118	275	218	24-25	farmi	farmi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	24	_	far	fare	VERB	V	VerbForm=Inf	xcomp:23	_	_	_	_	_	_	_	_
-_	_	_	_	25	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:24	_	_	_	_	_	_	_	_
+_	_	_	218	24	_	far	fare	VERB	V	VerbForm=Inf	xcomp:23	_	_	_	_	_	_	_	_
+_	_	_	218	25	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:24	_	_	_	_	_	_	_	_
 275-22	BO118	275	218	26	una	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	det:27	linguistic	_		_		_	_	_
 275-23	BO118	275	218	27	passeggiata	passeggiata	passeggiata	NOUN	S	Gender=Fem|Number=Sing	obj:24	linguistic	_		_		_	_	_
 275-24	BO118	275	218	28	a	a	a	ADP	E		case:29	linguistic	_		_		_	_	_
 275-25	BO118	275	218	29	fire:nze	firenze	firenze	PROPN	SP		obl:24	linguistic	_		_	3x1	_	_	_
 275-26	BO118	275	219	1	preferisco	preferisco	preferire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 275-27	BO118	275	219	2-3	farmi	farmi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	far	fare	VERB	V	VerbForm=Inf	xcomp:1	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:2	_	_	_	_	_	_	_	_
+_	_	_	219	2	_	far	fare	VERB	V	VerbForm=Inf	xcomp:1	_	_	_	_	_	_	_	_
+_	_	_	219	3	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:2	_	_	_	_	_	_	_	_
 275-28	BO118	275	219	4	una	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	det:5	linguistic	_		_		_	_	_
 275-29	BO118	275	219	5	passeggiata,	passeggiata	passeggiata	NOUN	S	Gender=Fem|Number=Sing	obj:2	linguistic	_	Intonation=weakly_ascending	End=1082.91		_	_	_
 276-0	BO140	276	219	6	[esatto]	esatto	esatto	ADJ	A	Gender=Masc|Number=Sing	amod:5	linguistic	_		End=1077.42		_	_	0-6(275)
@@ -3140,8 +3140,8 @@ _	_	_	_	3	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	iobj:2	_	
 281-2	BO140	281	220	6	dire	dire	dire	VERB	V	VerbForm=Inf	advcl:13	linguistic	_		_		_	_	_
 281-3	BO140	281	220	7	però	però	però	ADV	B		advmod:6	linguistic	_		_		_	_	_
 281-4	BO140	281	220	8-9	allo	allo	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	8	_	a	a	ADP	E		case:11	_	_	_	_	_	_	_	_
-_	_	_	_	9	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
+_	_	_	220	8	_	a	a	ADP	E		case:11	_	_	_	_	_	_	_	_
+_	_	_	220	9	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:11	_	_	_	_	_	_	_	_
 281-5	BO140	281	220	10	stesso	stesso	stesso	DET	DD	PronType=Dem	det:11	linguistic	_		_		_	_	_
 281-6	BO140	281	220	11	tempo:	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	obl:6	linguistic	_		_	4x1	_	_	_
 281-7	BO140	281	220	12	non	non	non	ADV	BN	PronType=Neg	advmod:13	linguistic	_		_		_	_	_
@@ -3162,15 +3162,15 @@ _	_	_	_	9	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:1
 281-22	BO140	281	221	6	piccolo	piccolo	piccolo	ADJ	A	Gender=Masc|Number=Sing	amod:5	linguistic	_		_		_	_	_
 281-23	BO140	281	221	7	come	come	come	ADP	E		case:8	linguistic	_		_		_	_	_
 281-24	BO140	281	221	8-9	@nomepaese.	@nomepaese.	_	_	_	_	_	error	_		End=1101.42		_	_	_
-_	_	_	_	8	_	@nomepaese	@nomepaese	NOUN	S	Gender=Masc|Number=Sing	nmod:5	_	_	_	_	_	_	_	_
-_	_	_	_	9	_	.	.	PUNCT	FS		punct:5	_	_	_	_	_	_	_	_
+_	_	_	221	8	_	@nomepaese	@nomepaese	NOUN	S	Gender=Masc|Number=Sing	nmod:5	_	_	_	_	_	_	_	_
+_	_	_	221	9	_	.	.	PUNCT	FS		punct:5	_	_	_	_	_	_	_	_
 282-0	BO118	282	221	10	°okay°	okay	okay	ADV	B		advmod:19	linguistic	_	Volume=low	End=1102.179		_	_	_
 283-0	BO140	283	221	11	perché	perché	perché	SCONJ	CS		mark:13	linguistic	_		Begin=1102.216		_	_	_
 283-1	BO140	283	221	12	non::	non	non	ADV	BN	PronType=Neg	advmod:13	linguistic	_		End=1103.523	2x2	_	_	_
 284-0	BO140	284	221	13	vabbè	vabbè	vabbere	INTJ	I		advcl:19	linguistic	_		Begin=1104.146		_	_	_
 284-1	BO140	284	221	14-15	al	al	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	14	_	a	a	ADP	E		case:17	_	_	_	_	_	_	_	_
-_	_	_	_	15	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:17	_	_	_	_	_	_	_	_
+_	_	_	221	14	_	a	a	ADP	E		case:17	_	_	_	_	_	_	_	_
+_	_	_	221	15	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:17	_	_	_	_	_	_	_	_
 284-2	BO140	284	221	16	di	di	di	ADP	E		case:17	linguistic	_		_		_	_	_
 284-3	BO140	284	221	17	là	là	là	ADV	B		obl:13	linguistic	_		_		_	_	_
 284-4	BO140	284	221	18	non	non	non	ADV	BN	PronType=Neg	advmod:19	linguistic	_		_		_	_	_
@@ -3184,8 +3184,8 @@ _	_	_	_	15	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 284-12	BO140	284	222	5	continuano	continuano	continuare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	conj:2	linguistic	_		_		_	_	_
 284-13	BO140	284	222	6	a	a	a	ADP	E		mark:7	linguistic	_		_		_	_	_
 284-14	BO140	284	222	7-8	lavorarci	lavorarci	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	lavorar	lavorare	VERB	V	VerbForm=Inf	xcomp:5	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:7	_	_	_	_	_	_	_	_
+_	_	_	222	7	_	lavorar	lavorare	VERB	V	VerbForm=Inf	xcomp:5	_	_	_	_	_	_	_	_
+_	_	_	222	8	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:7	_	_	_	_	_	_	_	_
 284-15	BO140	284	222	9	le	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:10	linguistic	_		_		_	_	_
 284-16	BO140	284	222	10	persone	persone	persona	NOUN	S	Gender=Fem|Number=Plur	obj:7	linguistic	_		_		_	_	_
 284-17	BO140	284	222	11	che	che	che	PRON	PR	PronType=Rel	nsubj:14	linguistic	_		_		_	_	_
@@ -3214,8 +3214,8 @@ _	_	_	_	8	_	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:7	_	
 284-40	BO140	284	224	8	di	di	di	ADP	E		mark:9	linguistic	_		_		_	_	_
 284-41	BO140	284	224	9	lavorare	lavorare	lavorare	VERB	V	VerbForm=Inf	xcomp:6	linguistic	_		_		_	_	_
 284-42	BO140	284	224	10-11	al	al	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	10	_	a	a	ADP	E		case:12	_	_	_	_	_	_	_	_
-_	_	_	_	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:12	_	_	_	_	_	_	_	_
+_	_	_	224	10	_	a	a	ADP	E		case:12	_	_	_	_	_	_	_	_
+_	_	_	224	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:12	_	_	_	_	_	_	_	_
 284-43	BO140	284	224	12	ba:r,	bar	bar	NOUN	S	Gender=Masc	obl:9	linguistic	_	Intonation=weakly_ascending	End=1117.733	1x1	_	_	_
 285-0	BO140	285	224	13	o::	o	o	CCONJ	CC		cc:16	linguistic	_		Begin=1118.31	0x2	_	_	_
 285-1	BO140	285	224	14	in	in	in	ADP	E		case:16	linguistic	_		_		_	_	_
@@ -3227,8 +3227,8 @@ _	_	_	_	11	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 285-7	BO140	285	224	20	riesci	riesci	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	conj:9	linguistic	_		_		_	_	_
 285-8	BO140	285	224	21	a	a	a	ADP	E		mark:22	linguistic	_		_		_	_	_
 285-9	BO140	285	224	22-23	reinventarti:	reinventarti	_	_	_	_	_	linguistic	_		_	11x1	_	_	_
-_	_	_	_	22	_	reinventar	reinventare	VERB	V	VerbForm=Inf	xcomp:20	_	_	_	_	_	_	_	_
-_	_	_	_	23	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:22	_	_	_	_	_	_	_	_
+_	_	_	224	22	_	reinventar	reinventare	VERB	V	VerbForm=Inf	xcomp:20	_	_	_	_	_	_	_	_
+_	_	_	224	23	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:22	_	_	_	_	_	_	_	_
 285-10	BO140	285	224	24	e:	e	e	CCONJ	CC		cc:25	linguistic	_		_	0x1	_	_	_
 285-11	BO140	285	224	25	costruisci	costruisci	costruire	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	conj:22	linguistic	_		_		_	_	_
 285-12	BO140	285	224	26	una	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	det:28	linguistic	_		_		_	_	_
@@ -3290,8 +3290,8 @@ _	_	_	_	23	_	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	obj:22	_
 288-17	BO140	288	226	19	anche	anche	anche	ADV	B		advmod:23	linguistic	_		_		_	_	_
 288-18	BO140	288	226	20	per	per	per	ADP	E		case:23	linguistic	_		_		_	_	_
 288-19	BO140	288	226	21-22	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	21	_	di	di	ADP	E		fixed:20	_	_	_	_	_	_	_	_
-_	_	_	_	22	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:23	_	_	_	_	_	_	_	_
+_	_	_	226	21	_	di	di	ADP	E		fixed:20	_	_	_	_	_	_	_	_
+_	_	_	226	22	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:23	_	_	_	_	_	_	_	_
 288-20	BO140	288	226	23	famiglie	famiglie	famiglia	NOUN	S	Gender=Fem|Number=Plur	conj:17	linguistic	_		End=1145.65		_	_	_
 289-0	BO140	289	227	1	cioè	cioè	cioè	CCONJ	CC		discourse:4	linguistic	_		Begin=1146.255		_	_	_
 289-1	BO140	289	227	2	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:4	linguistic	_		_		_	_	_
@@ -3325,8 +3325,8 @@ _	_	_	_	22	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:2
 292-4	BO118	292	229	5	io	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	nsubj:7	linguistic	_		_		_	_	_
 292-5	BO118	292	229	6	a	a	a	ADP	E		case:7	linguistic	_		_		_	_	_
 292-6	BO118	292	229	7-8	@nomepaese.	@nomepaese.	_	_	_	_	_	error	_		End=1158.01		_	_	_
-_	_	_	_	7	_	@nomepaese	@nomepaese	NOUN	S	Gender=Masc|Number=Sing	root:0	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	.	.	PUNCT	FS		punct:7	_	_	_	_	_	_	_	_
+_	_	_	229	7	_	@nomepaese	@nomepaese	NOUN	S	Gender=Masc|Number=Sing	root:0	_	_	_	_	_	_	_	_
+_	_	_	229	8	_	.	.	PUNCT	FS		punct:7	_	_	_	_	_	_	_	_
 293-0	BO118	293	229	9	cioè	cioè	cioè	CCONJ	CC		cc:12	linguistic	_		Begin=1158.17		_	_	_
 293-1	BO118	293	229	10	non	non	non	ADV	BN	PronType=Neg	advmod:12	linguistic	_		_		_	_	_
 293-2	BO118	293	229	11	ho	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:12	linguistic	_		_		_	_	_
@@ -3345,8 +3345,8 @@ _	_	_	_	8	_	.	.	PUNCT	FS		punct:7	_	_	_	_	_	_	_	_
 294-1	BO118	294	229	24	xx	x	per	ADP	E		case:25	unknown	_		_		_	_	_
 294-2	BO118	294	229	25	più	più	più	ADV	B		advmod:28	linguistic	_		_		_	_	_
 294-3	BO118	294	229	26-27	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	26	_	in	in	ADP	E		case:28	_	_	_	_	_	_	_	_
-_	_	_	_	27	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:28	_	_	_	_	_	_	_	_
+_	_	_	229	26	_	in	in	ADP	E		case:28	_	_	_	_	_	_	_	_
+_	_	_	229	27	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:28	_	_	_	_	_	_	_	_
 294-4	BO118	294	229	28	paesi:no	paesino	paesino	NOUN	S	Gender=Masc|Number=Sing	obl:14	linguistic	_		_	4x1	_	_	_
 294-5	BO118	294	229	29	nostro::,	nostro	nostro	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	det:poss:33	linguistic	_	Intonation=weakly_ascending	_	5x2	_	_	_
 294-6	BO118	294	229	30	[ma	ma	ma	CCONJ	CC		cc:32	linguistic	_		_		_	_	0-2(295)
@@ -3394,8 +3394,8 @@ _	_	_	_	27	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 296-35	BO140	296	231	35	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:36	linguistic	_		_		_	_	_
 296-36	BO140	296	231	36	qualità	qualità	qualità	NOUN	S	Gender=Fem	conj:33	linguistic	_		_		_	_	_
 296-37	BO140	296	231	37-38	della	della	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	37	_	di	di	ADP	E		case:39	_	_	_	_	_	_	_	_
-_	_	_	_	38	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:39	_	_	_	_	_	_	_	_
+_	_	_	231	37	_	di	di	ADP	E		case:39	_	_	_	_	_	_	_	_
+_	_	_	231	38	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:39	_	_	_	_	_	_	_	_
 296-38	BO140	296	231	39	vita	vita	vita	NOUN	S	Gender=Fem|Number=Sing	nmod:36	linguistic	_		_		_	_	_
 296-39	BO140	296	231	40	è:	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	aux:42	linguistic	_		_	0x1	_	_	_
 296-40	BO140	296	231	41	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:42	linguistic	_		_		_	_	_
@@ -3432,8 +3432,8 @@ _	_	_	_	38	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:3
 300-2	BO118	300	236	4	viene	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 300-3	BO118	300	236	5	gente	gente	gente	NOUN	S	Gender=Fem|Number=Sing	obl:4	linguistic	_		_		_	_	_
 300-4	BO118	300	236	6-7	dal	dal	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	236	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	236	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 300-5	BO118	300	236	8	su:d	sud	sud	PROPN	SP		obl:4	linguistic	_		_	1x1	_	_	_
 300-6	BO118	300	237	1	veramente:	veramente	veramente	ADV	B		advmod:3	linguistic	_		_	8x1	_	_	_
 300-7	BO118	300	237	2	[xx	x	x	ADP	E		case:3	unknown	_		_		_	_	0-2(301)
@@ -3451,12 +3451,12 @@ _	_	_	_	7	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:8
 302-3	BO140	302	239	1	probabilmente	probabilmente	probabilmente	ADV	B		advmod:13	linguistic	_		_		_	_	_
 302-4	BO140	302	239	2	cioè	cioè	cioè	CCONJ	CC		cc:13	linguistic	_		_		_	_	_
 302-5	BO140	302	239	3-4	nel	nel	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	in	in	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	239	3	_	in	in	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	239	4	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
 302-6	BO140	302	239	5	senso	senso	senso	NOUN	S	Gender=Masc|Number=Sing	obl:13	linguistic	_		_		_	_	_
 302-7	BO140	302	239	6-7	negli	negli	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	in	in	ADP	E		case:10	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:10	_	_	_	_	_	_	_	_
+_	_	_	239	6	_	in	in	ADP	E		case:10	_	_	_	_	_	_	_	_
+_	_	_	239	7	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:10	_	_	_	_	_	_	_	_
 302-8	BO140	302	239	8	ultimi	ultimi	ultimo	ADJ	A	Gender=Masc|Number=Plur	amod:10	linguistic	_		_		_	_	_
 302-9	BO140	302	239	9	due	due	due	NUM	N	NumType=Card	nummod:10	linguistic	_		_		_	_	_
 302-10	BO140	302	239	10	anni	anni	anno	NOUN	S	Gender=Masc|Number=Plur	nmod:5	linguistic	_		_		_	_	_
@@ -3469,8 +3469,8 @@ _	_	_	_	7	_	gli	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:
 302-17	BO140	302	239	17	di	di	di	ADP	E		mark:18	linguistic	_		_		_	_	_
 302-18	BO140	302	239	18	far	far	fare	VERB	V	VerbForm=Inf	xcomp:16	linguistic	_		_		_	_	_
 302-19	BO140	302	239	19-20	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	19	_	di	di	ADP	E		case:21	_	_	_	_	_	_	_	_
-_	_	_	_	20	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:21	_	_	_	_	_	_	_	_
+_	_	_	239	19	_	di	di	ADP	E		case:21	_	_	_	_	_	_	_	_
+_	_	_	239	20	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:21	_	_	_	_	_	_	_	_
 302-20	BO140	302	239	21	passi	passi	passo	NOUN	S	Gender=Masc|Number=Plur	obl:18	linguistic	_		_		_	_	_
 302-21	BO140	302	239	22	avanti	avanti	avanti	ADV	B		advmod:18	linguistic	_		End=1207.47		_	_	_
 303-0	BO140	303	240	1	però::	però	però	CCONJ	CC		cc:5	linguistic	_		Begin=1208.061	3x2	_	_	_
@@ -3479,12 +3479,12 @@ _	_	_	_	20	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:2
 303-3	BO140	303	240	4	ero:	ero	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	cop:5	linguistic	_		_	2x1	_	_	_
 303-4	BO140	303	240	5	adolesce:nte	adolescente	adolescente	ADJ	A	Number=Sing	root:0	linguistic	_		_	7x1	_	_	_
 303-5	BO140	303	240	6-7	dai	dai	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	240	6	_	da	da	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	240	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
 303-6	BO140	303	240	8	diciamo	diciamo	dire	VERB	V	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	obl:5	linguistic	_		_		_	_	_
 303-7	BO140	303	240	9-10	dai::	dai	_	_	_	_	_	linguistic	_		_	2x2	_	_	_
-_	_	_	_	9	_	da	da	ADP	E		case:11	_	_	_	_	_	_	_	_
-_	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:11	_	_	_	_	_	_	_	_
+_	_	_	240	9	_	da	da	ADP	E		case:11	_	_	_	_	_	_	_	_
+_	_	_	240	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:11	_	_	_	_	_	_	_	_
 303-8	BO140	303	240	11	boh	boh	boh	NOUN	S		obl:8	linguistic	_		_		_	_	_
 303-9	BO140	303	240	12	quattordici	quattordici	quattordici	NUM	N	NumType=Card	nummod:13	linguistic	_		_		_	_	_
 303-10	BO140	303	240	13	anni	anni	anno	NOUN	S	Gender=Masc|Number=Plur	compound:11	linguistic	_		_		_	_	_
@@ -3510,11 +3510,11 @@ _	_	_	_	10	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 305-6	BO140	305	241	9	mai	mai	mai	ADV	B		advmod:10	linguistic	_		_		_	_	_
 305-7	BO140	305	241	10	trovato	trovato	trovare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	conj:5	linguistic	_		_		_	_	_
 305-8	BO140	305	241	11	dei::	dei	_	_	_	_	dep:5	linguistic	_		_	2x2	_	_	_
-_	_	_	_	12	_	di	di	ADP	E		case:17	_	_	_	_	_	_	_	_
-_	_	_	_	13	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:17	_	_	_	_	_	_	_	_
-_	_	_	_	14	_	di	di	ADP	E		case:17	_	_	_	_	_	_	_	_
+_	_	_	241	12	_	di	di	ADP	E		case:17	_	_	_	_	_	_	_	_
+_	_	_	241	13	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:17	_	_	_	_	_	_	_	_
+_	_	_	241	14	_	di	di	ADP	E		case:17	_	_	_	_	_	_	_	_
 305-9	BO140	305	241	12-13-14-15	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	15	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:17	_	_	_	_	_	_	_	_
+_	_	_	241	15	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:17	_	_	_	_	_	_	_	_
 305-10	BO140	305	241	16	grandi	grandi	grande	ADJ	A	Gender=Masc|Number=Plur	amod:17	linguistic	_		_		_	_	_
 305-11	BO140	305	241	17	eventi:	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	obl:10	linguistic	_		_	5x1	_	_	_
 305-12	BO140	305	241	18	o:,	o	o	CCONJ	CC		cc:20	linguistic	_	Intonation=weakly_ascending	End=1225.41	0x1	_	_	_
@@ -3522,8 +3522,8 @@ _	_	_	_	15	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 306-1	BO140	306	241	20	possibilità	possibilità	possibilità	NOUN	S	Gender=Fem	conj:17	linguistic	_		_		_	_	_
 306-2	BO140	306	241	21	di	di	di	ADP	E		mark:23	linguistic	_		_		_	_	_
 306-3	BO140	306	241	22	divertirmi:	divertirmi	_	_	_	_	dep:5	linguistic	_		_	9x1	_	_	_
-_	_	_	_	23	_	divertir	divertire	VERB	V	VerbForm=Inf	acl:17	_	_	_	_	_	_	_	_
-_	_	_	_	24	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:23	_	_	_	_	_	_	_	_
+_	_	_	241	23	_	divertir	divertire	VERB	V	VerbForm=Inf	acl:17	_	_	_	_	_	_	_	_
+_	_	_	241	24	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:23	_	_	_	_	_	_	_	_
 306-4	BO140	306	242	1	anzi	anzi	anzi	ADV	B		advmod:3	linguistic	_		_		_	_	_
 306-5	BO140	306	242	2	quando	quando	quando	SCONJ	CS		mark:3	linguistic	_		_		_	_	_
 306-6	BO140	306	242	3	avevo	avevo	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	advcl:8	linguistic	_		_		_	_	_
@@ -3538,8 +3538,8 @@ _	_	_	_	24	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:23	_
 306-15	BO140	306	243	1	organizzavano	organizzavano	organizzare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 306-16	BO140	306	243	2	anche	anche	anche	ADV	B		advmod:5	linguistic	_		_		_	_	_
 306-17	BO140	306	243	3-4	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	di	di	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	243	3	_	di	di	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	243	4	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:5	_	_	_	_	_	_	_	_
 306-18	BO140	306	243	5	concer[ti::]	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	obl:1	linguistic	_		End=1233.32	7x2	_	_	6-8(307)
 307-0	BO118	307	244	1	[sì]?	sì	sì	INTJ	I		discourse:2	linguistic	_	Intonation=ascending	End=1233.328		_	_	0-2(306)
 308-0	BO140	308	244	2	sì	sì	sì	INTJ	I		root:0	linguistic	_		Begin=1233.661		_	_	_
@@ -3547,8 +3547,8 @@ _	_	_	_	4	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:5	
 308-2	BO140	308	244	4	uni]versità	università	università	NOUN	S	Gender=Fem	nsubj:2	linguistic	_		_		_	_	0-3(309)
 308-3	BO140	308	244	5	organizzava	organizzava	organizzavo	ADJ	A	Gender=Fem|Number=Sing	amod:4	linguistic	_		_		_	_	_
 308-4	BO140	308	244	6-7	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	di	di	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	244	6	_	di	di	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	244	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
 308-5	BO140	308	244	8	concerti	concerti	concerto	NOUN	S	Gender=Masc|Number=Plur	nmod:4	linguistic	_		_		_	_	_
 308-6	BO140	308	244	9	e	e	e	CCONJ	CC		cc:10	linguistic	_		_		_	_	_
 308-7	BO140	308	244	10	lasciavano	lasciavano	lasciare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	conj:4	linguistic	_		_		_	_	_
@@ -3814,8 +3814,8 @@ _	_	_	_	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	
 330-3	BO140	330	259	23	anche	anche	anche	ADV	B		advmod:24	linguistic	_		_		_	_	_
 330-4	BO140	330	259	24	dato	dato	dare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	advcl:16	linguistic	_		_		_	_	_
 330-5	BO140	330	259	25-26	dal	dal	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	25	_	da	da	ADP	E		case:27	_	_	_	_	_	_	_	_
-_	_	_	_	26	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:27	_	_	_	_	_	_	_	_
+_	_	_	259	25	_	da	da	ADP	E		case:27	_	_	_	_	_	_	_	_
+_	_	_	259	26	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:27	_	_	_	_	_	_	_	_
 330-6	BO140	330	259	27	fatto	fatto	fatto	NOUN	S	Gender=Masc|Number=Sing	obl:agent:24	linguistic	_		_		_	_	_
 330-7	BO140	330	259	28	che	che	che	PRON	PR	PronType=Rel	nsubj:29	linguistic	_		_		_	_	_
 330-8	BO140	330	259	29	ha	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	acl:relcl:27	linguistic	_		_		_	_	_
@@ -3837,8 +3837,8 @@ _	_	_	_	26	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 334-1	BO140	334	259	45	investono	investono	investire	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	conj:37	linguistic	_		_		_	_	_
 334-2	BO140	334	259	46	tanto	tanto	tanto	ADV	B		advmod:45	linguistic	_		_		_	_	_
 334-3	BO140	334	259	47-48	nel::	nel	_	_	_	_	_	linguistic	_		_	2x2	_	_	_
-_	_	_	_	47	_	in	in	ADP	E		case:49	_	_	_	_	_	_	_	_
-_	_	_	_	48	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:49	_	_	_	_	_	_	_	_
+_	_	_	259	47	_	in	in	ADP	E		case:49	_	_	_	_	_	_	_	_
+_	_	_	259	48	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:49	_	_	_	_	_	_	_	_
 334-4	BO140	334	259	49	mh	mh	mh	NOUN	S		obl:45	linguistic	_		_		_	_	_
 334-5	BO140	334	259	50	in	in	in	ADP	E		case:51	linguistic	_		_		_	_	_
 334-6	BO140	334	259	51	eventi:	eventi	evento	NOUN	S	Gender=Masc|Number=Plur	obl:45	linguistic	_		_	5x1	_	_	_
@@ -3849,8 +3849,8 @@ _	_	_	_	48	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:
 334-11	BO140	334	259	56	l'	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:57	linguistic	_	SpaceAfter=No	_		_	_	_
 334-12	BO140	334	259	57	accensione	accensione	accensione	NOUN	S	Gender=Fem|Number=Sing	obj:55	linguistic	_		_		_	_	_
 334-13	BO140	334	259	58-59	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	58	_	di	di	ADP	E		case:60	_	_	_	_	_	_	_	_
-_	_	_	_	59	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:60	_	_	_	_	_	_	_	_
+_	_	_	259	58	_	di	di	ADP	E		case:60	_	_	_	_	_	_	_	_
+_	_	_	259	59	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:60	_	_	_	_	_	_	_	_
 334-14	BO140	334	259	60	luci	luci	lucio	NOUN	S	Gender=Fem|Number=Plur	nmod:57	linguistic	_		_		_	_	_
 334-15	BO140	334	259	61	natalizie:	natalizie	natalizie	ADJ	A	Gender=Fem|Number=Plur	amod:60	linguistic	_		_	8x1	_	_	_
 334-16	BO140	334	259	62	c'	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:73	linguistic	_	SpaceAfter=No	_		_	_	_
@@ -3873,8 +3873,8 @@ _	_	_	_	59	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:6
 336-3	BO118	336	260	5	ci	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	expl:6	linguistic	_		_		_	_	_
 336-4	BO118	336	260	6	stanno	stanno	stare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_		_	_	_
 336-5	BO118	336	260	7-8	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
+_	_	_	260	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
+_	_	_	260	8	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
 336-6	BO118	336	260	9	università:?	università	università	NOUN	S	Gender=Fem	obl:6	linguistic	_	Intonation=ascending	End=1345.948	9x1	_	_	_
 337-0	BO140	337	261	1	a	a	a	ADP	E		case:2	linguistic	_		Begin=1346.355		_	_	_
 337-1	BO140	337	261	2	pesaro	pesaro	pesaro	NOUN	S	Gender=Masc|Number=Sing	obl:4	linguistic	_		_		_	_	_
@@ -3892,8 +3892,8 @@ _	_	_	_	8	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:9	
 337-13	BO140	337	261	14	ma	ma	ma	CCONJ	CC		cc:18	linguistic	_		_		_	_	_
 337-14	BO140	337	261	15	sono	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	cop:18	linguistic	_		_		_	_	_
 337-15	BO140	337	261	16-17	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	16	_	di	di	ADP	E		case:18	_	_	_	_	_	_	_	_
-_	_	_	_	17	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:18	_	_	_	_	_	_	_	_
+_	_	_	261	16	_	di	di	ADP	E		case:18	_	_	_	_	_	_	_	_
+_	_	_	261	17	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:18	_	_	_	_	_	_	_	_
 337-16	BO140	337	261	18	corsi	corsi	corse	NOUN	S	Gender=Masc|Number=Plur	parataxis:4	linguistic	_		_		_	_	_
 337-17	BO140	337	261	19	di	di	di	ADP	E		case:20	linguistic	_		_		_	_	_
 337-18	BO140	337	261	20	laurea:	laurea	laurea	NOUN	S	Gender=Fem|Number=Sing	nmod:18	linguistic	_		_	5x1	_	_	_
@@ -3918,12 +3918,12 @@ _	_	_	_	17	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:1
 341-0	BO140	341	263	2	accoglie	accoglie	accoglia	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		Begin=1358.437		_	_	_
 341-1	BO140	341	263	3	solo:	solo	solo	ADV	B		advmod:6	linguistic	_		_	3x1	_	_	_
 341-2	BO140	341	263	4-5	nelle	nelle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	4	_	in	in	ADP	E		case:6	_	_	_	_	_	_	_	_
-_	_	_	_	5	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:6	_	_	_	_	_	_	_	_
+_	_	_	263	4	_	in	in	ADP	E		case:6	_	_	_	_	_	_	_	_
+_	_	_	263	5	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:6	_	_	_	_	_	_	_	_
 341-3	BO140	341	263	6	sedi:	sedi	sede	NOUN	S	Gender=Masc	obl:2	linguistic	_		_	3x1	_	_	_
 341-4	BO140	341	263	7-8	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
-_	_	_	_	8	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
+_	_	_	263	7	_	di	di	ADP	E		case:9	_	_	_	_	_	_	_	_
+_	_	_	263	8	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	_	_	_	_	_	_	_	_
 341-5	BO140	341	263	9	corsi	corsi	corse	NOUN	S	Gender=Masc|Number=Plur	nmod:6	linguistic	_		End=1360.903		_	_	_
 342-0	BO118	342	264	1	tipo:	tipo	tipo'	NOUN	S	Gender=Masc|Number=Sing	root:0	linguistic	_		Begin=1360.907	3x1	_	_	_
 342-1	BO118	342	264	2	succursali	succursali	succursale	ADJ	A	Number=Plur	amod:1	linguistic	_		End=1361.92		_	_	_
@@ -3946,8 +3946,8 @@ _	_	_	_	8	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:9	
 347-3	BO140	347	267	7	pensato	pensato	pensare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	acl:2	linguistic	_		_		_	_	_
 347-4	BO140	347	267	8	di	di	di	ADP	E		mark:9	linguistic	_		_		_	_	_
 347-5	BO140	347	267	9-10	riavvicinarmi	riavvicinarmi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	9	_	riavvicinar	riavvicinare	VERB	V	VerbForm=Inf	acl:2	_	_	_	_	_	_	_	_
-_	_	_	_	10	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:9	_	_	_	_	_	_	_	_
+_	_	_	267	9	_	riavvicinar	riavvicinare	VERB	V	VerbForm=Inf	acl:2	_	_	_	_	_	_	_	_
+_	_	_	267	10	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:9	_	_	_	_	_	_	_	_
 347-6	BO140	347	267	11	a	a	a	ADP	E		case:12	linguistic	_		_		_	_	_
 347-7	BO140	347	267	12	ca:sa,	casa	casa	NOUN	S	Gender=Fem|Number=Sing	obl:9	linguistic	_	Intonation=weakly_ascending	End=1370.27	1x1	_	_	_
 348-0	BO140	348	267	13	e:	e	e	CCONJ	CC		cc:16	linguistic	_		Begin=1371.038	0x1	_	_	_
@@ -3956,18 +3956,18 @@ _	_	_	_	10	_	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	obj:9	_	
 348-3	BO140	348	267	16	ritornare	ritornare	ritornare	VERB	V	VerbForm=Inf	conj:9	linguistic	_		_		_	_	_
 348-4	BO140	348	267	17	vicino	vicino	vicino	ADV	B		advmod:16	linguistic	_		_		_	_	_
 348-5	BO140	348	267	18-19	ai	ai	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	18	_	a	a	ADP	E		case:20	_	_	_	_	_	_	_	_
-_	_	_	_	19	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:20	_	_	_	_	_	_	_	_
+_	_	_	267	18	_	a	a	ADP	E		case:20	_	_	_	_	_	_	_	_
+_	_	_	267	19	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:20	_	_	_	_	_	_	_	_
 348-6	BO140	348	267	20	mie:i,	miei	mio	DET	AP	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	obl:16	linguistic	_	Intonation=weakly_ascending	_	2x1	_	_	_
 348-7	BO140	348	267	21-22	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	21	_	a	a	ADP	E		case:24	_	_	_	_	_	_	_	_
-_	_	_	_	22	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:24	_	_	_	_	_	_	_	_
+_	_	_	267	21	_	a	a	ADP	E		case:24	_	_	_	_	_	_	_	_
+_	_	_	267	22	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:24	_	_	_	_	_	_	_	_
 348-8	BO140	348	267	23	mia	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	det:poss:24	linguistic	_		_		_	_	_
 348-9	BO140	348	267	24	famiglia,	famiglia	famiglia	NOUN	S	Gender=Fem|Number=Sing	obl:16	linguistic	_	Intonation=weakly_ascending	End=1374.52		_	_	_
 349-0	BO140	349	268	1	ma	ma	ma	CCONJ	CC		cc:5	linguistic	_		Begin=1375.273		_	_	_
 349-1	BO140	349	268	2-3	allo	allo	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	a	a	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	268	2	_	a	a	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	268	3	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
 349-2	BO140	349	268	4	stesso	stesso	stesso	DET	DD	PronType=Dem	det:5	linguistic	_		_		_	_	_
 349-3	BO140	349	268	5	tempo::	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	root:0	linguistic	_		_	4x2	_	_	_
 349-4	BO140	349	268	6	per	per	per	ADP	E		case:8	linguistic	_		_		_	_	_
@@ -4011,8 +4011,8 @@ _	_	_	_	3	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5
 351-20	BO140	351	271	6	più:	più	più	ADV	B		advmod:3	linguistic	_		_	2x1	_	_	_
 351-21	BO140	351	272	1	e	e	e	CCONJ	CC		cc:10	linguistic	_		_		_	_	_
 351-22	BO140	351	272	2-3	allo	allo	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	a	a	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	272	2	_	a	a	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	272	3	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
 351-23	BO140	351	272	4	stesso	stesso	stesso	DET	DD	PronType=Dem	det:5	linguistic	_		_		_	_	_
 351-24	BO140	351	272	5	tempo	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	obl:10	linguistic	_		_		_	_	_
 351-25	BO140	351	272	6	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:10	linguistic	_		_		_	_	_
@@ -4165,8 +4165,8 @@ _	_	_	_	3	_	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5
 371-3	BO118	371	290	4	sto]	sto	essere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:5	linguistic	_		_		_	_	0-3(370)
 371-4	BO118	371	290	5	pensando	pensando	pensare	VERB	V	VerbForm=Ger	root:0	linguistic	_		_		_	_	_
 371-5	BO118	371	290	6-7	all'	all'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-_	_	_	_	6	_	a	a	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	290	6	_	a	a	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	290	7	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_	_	_
 371-6	BO118	371	290	8	equivale:nte	equivalente	equivalente	NOUN	S	Gender=Fem|Number=Sing	obl:5	linguistic	_		_	7x1	_	_	_
 371-7	BO118	371	290	9	de	de	de	ADP	E		case:10	linguistic	_		_		_	_	_
 371-8	BO118	371	290	10	quello	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	obl:5	linguistic	_		_		_	_	_
@@ -4283,8 +4283,8 @@ _	_	_	_	7	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:8	_	_	_	_	_	_
 382-6	BO140	382	305	11	il	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:12	linguistic	_		_		_	_	_
 382-7	BO140	382	305	12	sud	sud	sud	NOUN	S		advcl:7	linguistic	_		_		_	_	_
 382-8	BO140	382	305	13-14	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	13	_	di	di	ADP	E		case:15	_	_	_	_	_	_	_	_
-_	_	_	_	14	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:15	_	_	_	_	_	_	_	_
+_	_	_	305	13	_	di	di	ADP	E		case:15	_	_	_	_	_	_	_	_
+_	_	_	305	14	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:15	_	_	_	_	_	_	_	_
 382-9	BO140	382	305	15	marche	marche	marca	NOUN	S	Gender=Fem|Number=Plur	nmod:12	linguistic	_		_		_	_	_
 382-10	BO140	382	306	1	sinceramente:::	sinceramente	sinceramente	ADV	B		advmod:3	linguistic	_		_	11x3	_	_	_
 382-11	BO140	382	306	2	non	non	non	ADV	BN	PronType=Neg	advmod:3	linguistic	_		_		_	_	_
@@ -4400,8 +4400,8 @@ _	_	_	_	14	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 396-1	BO140	396	326	2	so~	so~	so~	SYM	SYM		root:0	linguistic	_	Interrupted=Yes	_		_	_	_
 396-2	BO140	396	327	1	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:4	linguistic	_		_		_	_	_
 396-3	BO140	396	327	2-3	dell'	dell'	_	_	_	_	_	linguistic	_	SpaceAfter=No	_		_	_	_
-_	_	_	_	2	_	di	di	ADP	E		case:4	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
+_	_	_	327	2	_	di	di	ADP	E		case:4	_	_	_	_	_	_	_	_
+_	_	_	327	3	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
 396-4	BO140	396	327	4	università	università	università	NOUN	S	Gender=Fem	root:0	linguistic	_		_		_	_	_
 396-5	BO140	396	327	5	di	di	di	ADP	E		case:6	linguistic	_		_		_	_	_
 396-6	BO140	396	327	6	fermo	fermo	fermo	NOUN	S	Gender=Masc|Number=Sing	nmod:4	linguistic	_		_		_	_	_
@@ -4456,8 +4456,8 @@ _	_	_	_	3	_	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_
 405-12	BO140	405	336	17	ancona:	ancona	ancona	NOUN	S	Gender=Fem|Number=Sing	conj:15	linguistic	_		_	5x1	_	_	_
 405-13	BO140	405	337	1	poi	poi	poi	ADV	B		advmod:6	linguistic	_		_		_	_	_
 405-14	BO140	405	337	2-3	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	a	a	ADP	E		case:4	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
+_	_	_	337	2	_	a	a	ADP	E		case:4	_	_	_	_	_	_	_	_
+_	_	_	337	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
 405-15	BO140	405	337	4	fine	fine	fine	NOUN	S	Gender=Fem|Number=Sing	obl:6	linguistic	_		_		_	_	_
 405-16	BO140	405	337	5	ho	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	aux:6	linguistic	_		_		_	_	_
 405-17	BO140	405	337	6	scelto	scelto	scegliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	root:0	linguistic	_		_		_	_	_
@@ -4482,8 +4482,8 @@ _	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	
 406-12	BO140	406	338	15	ancona.	ancona	ancona	NOUN	S	Gender=Fem|Number=Sing	nmod:11	linguistic	_	Intonation=descending	End=1547.04		_	_	_
 407-0	BO140	407	339	1	quindi	quindi	quindi	CCONJ	CC		cc:4	linguistic	_		Begin=1547.635		_	_	_
 407-1	BO140	407	339	2-3	alla	alla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	a	a	ADP	E		case:4	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
+_	_	_	339	2	_	a	a	ADP	E		case:4	_	_	_	_	_	_	_	_
+_	_	_	339	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
 407-2	BO140	407	339	4	[fine:::]	fine	fine	NOUN	S	Gender=Fem|Number=Sing	root:0	linguistic	_		End=1548.84	3x3	_	_	0-4(408)
 408-0	BO118	408	339	5	[sì	sì	sì	INTJ	I		discourse:4	linguistic	_		Begin=1548.33		_	_	0-2(407)
 408-1	BO118	408	340	1	ancona:]:	ancona	anconare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		_	5x2	_	_	0-6(407)
@@ -4572,8 +4572,8 @@ _	_	_	_	3	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:4	
 412-10	BO118	412	347	18	a	a	a	ADP	E		case:19	linguistic	_		_		_	_	_
 412-11	BO118	412	347	19	consegna'	consegna'	consegnà	NOUN	S	Gender=Fem	obl:17	linguistic	_	Truncated=Yes	_		_	_	_
 412-12	BO118	412	347	20-21	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	20	_	di	di	ADP	E		case:22	_	_	_	_	_	_	_	_
-_	_	_	_	21	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:22	_	_	_	_	_	_	_	_
+_	_	_	347	20	_	di	di	ADP	E		case:22	_	_	_	_	_	_	_	_
+_	_	_	347	21	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:22	_	_	_	_	_	_	_	_
 412-13	BO118	412	347	22	documenti,	documenti	documento	NOUN	S	Gender=Masc|Number=Plur	nmod:19	linguistic	_	Intonation=weakly_ascending	End=1571.46		_	_	_
 413-0	BO118	413	347	23	ehm::::	ehm	ehm	INTJ	I		discourse:3	linguistic	_		Begin=1571.846	2x4	_	_	_
 413-1	BO118	413	348	1	però	però	però	ADV	B		advmod:3	linguistic	_		_		_	_	_
@@ -4621,8 +4621,8 @@ _	_	_	_	21	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:2
 415-11	BO118	415	355	1	sto	sto	questo	DET	DD	PronType=Dem	det:2	linguistic	_		_		_	_	_
 415-12	BO118	415	355	2	viale	viale	viale	NOUN	S	Gender=Fem|Number=Sing	root:0	linguistic	_		_		_	_	_
 415-13	BO118	415	355	3-4	coi	coi	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	con	con	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	355	3	_	con	con	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	355	4	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:5	_	_	_	_	_	_	_	_
 415-14	BO118	415	355	5	negozi:,	negozi	negozio	NOUN	S	Gender=Masc|Number=Plur	nmod:2	linguistic	_	Intonation=weakly_ascending	End=1587.31	5x1	_	_	_
 416-0	BO118	416	356	1	però	però	però	ADV	B		advmod:2	linguistic	_		Begin=1588.725		_	_	_
 416-1	BO118	416	356	2	[sì],	sì	sì	INTJ	I		discourse:3	linguistic	_	Intonation=weakly_ascending	End=1589.365		_	_	0-2(417)
@@ -4713,8 +4713,8 @@ _	_	_	_	4	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:5	
 425-7	BO140	425	366	8	capito	capito	capitare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	ccomp:6	linguistic	_		_		_	_	_
 425-8	BO140	425	366	9	che:	che	che	SCONJ	CS		ccomp:8	linguistic	_		_	2x1	_	_	_
 425-9	BO140	425	366	10-11	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	10	_	di	di	ADP	E		case:12	_	_	_	_	_	_	_	_
-_	_	_	_	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:12	_	_	_	_	_	_	_	_
+_	_	_	366	10	_	di	di	ADP	E		case:12	_	_	_	_	_	_	_	_
+_	_	_	366	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:12	_	_	_	_	_	_	_	_
 425-10	BO140	425	366	12	città	città	città	NOUN	S	Gender=Fem	obl:9	linguistic	_		_		_	_	_
 425-11	BO140	425	366	13	che	che	che	PRON	PR	PronType=Rel	nsubj:14	linguistic	_		_		_	_	_
 425-12	BO140	425	366	14	hanno	hanno	avere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	acl:relcl:12	linguistic	_		_		_	_	_
@@ -4745,8 +4745,8 @@ _	_	_	_	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 428-1	BO118	428	369	1	la	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:2	linguistic	_		_		_	_	_
 428-2	BO118	428	369	2	zona	zona	zona	NOUN	S	Gender=Fem|Number=Sing	root:0	linguistic	_		_		_	_	_
 428-3	BO118	428	369	3-4	del	del	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	3	_	di	di	ADP	E		case:5	_	_	_	_	_	_	_	_
-_	_	_	_	4	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
+_	_	_	369	3	_	di	di	ADP	E		case:5	_	_	_	_	_	_	_	_
+_	_	_	369	4	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5	_	_	_	_	_	_	_	_
 428-4	BO118	428	369	5	passe:tto	passetto	passo	NOUN	S	Gender=Masc|Number=Sing	nmod:2	linguistic	_		_	4x1	_	_	_
 428-5	BO118	428	369	6	che	che	che	PRON	PR	PronType=Rel	nsubj:8	linguistic	_		_		_	_	_
 428-6	BO118	428	369	7	ci	ci	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	iobj:8	linguistic	_		_		_	_	_
@@ -4809,8 +4809,8 @@ _	_	_	_	4	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:5
 433-7	BO118	433	372	8	particolare	particolare	particolare	ADJ	A	Number=Sing	root:0	linguistic	_		_		_	_	_
 433-8	BO118	433	372	9	rispetto	rispetto	rispetto	ADP	E		case:12	linguistic	_		_		_	_	_
 433-9	BO118	433	372	10-11	a::lle	alle	_	_	_	_	_	linguistic	_		_	0x2	_	_	_
-_	_	_	_	10	_	a	a	ADP	E		fixed:9	_	_	_	_	_	_	_	_
-_	_	_	_	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:12	_	_	_	_	_	_	_	_
+_	_	_	372	10	_	a	a	ADP	E		fixed:9	_	_	_	_	_	_	_	_
+_	_	_	372	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:12	_	_	_	_	_	_	_	_
 433-10	BO118	433	372	12	altr~	altr~	altr~	SYM	SYM		obl:8	linguistic	_	Interrupted=Yes	_		_	_	_
 433-11	BO118	433	372	13	altri	altri	altro	DET	DI	PronType=Ind	det:14	linguistic	_		_		_	_	_
 433-12	BO118	433	372	14	edifici	edifici	edificio	NOUN	S	Gender=Masc|Number=Plur	nsubj:8	linguistic	_		_		_	_	_
@@ -4829,7 +4829,7 @@ _	_	_	_	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 435-0	BO140	435	373	13	[sì]	sì	sì	INTJ	I		obl:11	linguistic	_		End=1653.595		_	_	0-2(434)
 436-0	BO140	436	373	14	a	a	a	ADP	E		case:15	linguistic	_		Begin=1655.83		_	_	_
 436-1	BO140	436	373	15	caso	caso	caso	NOUN	S	Gender=Masc|Number=Sing	obl:11	linguistic	_		_		_	_	_
-436-2	BO140	436	373	16	{ride}	{ride}	_	_	_	_	dep:8	metalinguistic	_		_		_	_	_
+436-2	BO140	436	373	16	{ride}	{ride}	_	_	_	_	dep:8	metalinguistic	NLB		_		_	_	_
 436-3	BO140	436	373	17	senza	senza	senza	ADP	E		mark:18	linguistic	_		_		_	_	_
 436-4	BO140	436	373	18	sapere	sapere	sapere	VERB	V	VerbForm=Inf	xcomp:11	linguistic	_		End=1658.04		_	_	_
 437-0	BO118	437	373	19	no	no	no	INTJ	I		obj:18	linguistic	_		Begin=1658.56		_	_	_
@@ -4860,8 +4860,8 @@ _	_	_	_	11	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 441-2	BO140	441	376	3	una	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	det:4	linguistic	_		_		_	_	_
 441-3	BO140	441	376	4	mail	mail	mail	NOUN	S		obj:2	linguistic	_		_		_	_	_
 441-4	BO140	441	376	5-6	dalla	dalla	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	5	_	da	da	ADP	E		case:7	_	_	_	_	_	_	_	_
-_	_	_	_	6	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:7	_	_	_	_	_	_	_	_
+_	_	_	376	5	_	da	da	ADP	E		case:7	_	_	_	_	_	_	_	_
+_	_	_	376	6	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:7	_	_	_	_	_	_	_	_
 441-5	BO140	441	376	7	sovrintendenza	sovrintendenza	sovrintendenza	NOUN	S	Gender=Fem|Number=Sing	obl:2	linguistic	_		_		_	_	_
 441-6	BO140	441	376	8	per:	per	per	ADP	E		case:11	linguistic	_		_	2x1	_	_	_
 441-7	BO140	441	376	9	per	per	per	ADP	E		case:11	linguistic	_		_		_	_	_
@@ -4873,8 +4873,8 @@ _	_	_	_	6	_	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	det:7	
 442-3	BO140	442	376	15	ancona	ancona	ancona	NOUN	S	Gender=Fem|Number=Sing	conj:2	linguistic	_		_		_	_	_
 442-4	BO140	442	376	16	quella	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	nsubj:15	linguistic	_		_		_	_	_
 442-5	BO140	442	376	17-18	delle	delle	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	17	_	di	di	ADP	E		case:19	_	_	_	_	_	_	_	_
-_	_	_	_	18	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:19	_	_	_	_	_	_	_	_
+_	_	_	376	17	_	di	di	ADP	E		case:19	_	_	_	_	_	_	_	_
+_	_	_	376	18	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:19	_	_	_	_	_	_	_	_
 442-6	BO140	442	376	19	marche	marche	marca	NOUN	S	Gender=Fem|Number=Plur	nmod:16	linguistic	_		_		_	_	_
 442-7	BO140	442	377	1	[quindi]	quindi	quindi	CCONJ	CC		cc:4	linguistic	_		_		_	_	0-6(443)
 442-8	BO140	442	377	2	probabilmente	probabilmente	probabilmente	ADV	B		advmod:4	linguistic	_		_		_	_	_
@@ -4889,8 +4889,8 @@ _	_	_	_	18	_	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:1
 443-0	BO118	443	378	1	[ah]	ah	ah	INTJ	I		root:0	linguistic	_		End=1671.21		_	_	0-2(442)
 444-0	BO118	444	379	1	vai	vai	andare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	root:0	linguistic	_		Begin=1673.521		_	_	_
 444-1	BO118	444	379	2-3	al	al	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	2	_	a	a	ADP	E		case:4	_	_	_	_	_	_	_	_
-_	_	_	_	3	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
+_	_	_	379	2	_	a	a	ADP	E		case:4	_	_	_	_	_	_	_	_
+_	_	_	379	3	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:4	_	_	_	_	_	_	_	_
 444-2	BO118	444	379	4	passetto	passetto	passetto	NOUN	S	Gender=Masc|Number=Sing	obl:1	linguistic	_		_		_	_	_
 444-3	BO118	444	379	5	°che	che	che	SCONJ	CS		mark:7	linguistic	_	Volume=low	_		_	_	_
 444-4	BO118	444	379	6	è	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	cop:7	linguistic	_	Volume=low	_		_	_	_
@@ -4901,8 +4901,8 @@ _	_	_	_	3	_	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	det:4
 445-3	BO118	445	380	4	le	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	det:5	linguistic	_		_		_	_	_
 445-4	BO118	445	380	5	casette	casette	casa	NOUN	S	Gender=Fem|Number=Plur	nsubj:2	linguistic	_		_		_	_	_
 445-5	BO118	445	380	6-7	dei	dei	_	_	_	_	_	linguistic	_		_		_	_	_
-_	_	_	_	6	_	di	di	ADP	E		case:8	_	_	_	_	_	_	_	_
-_	_	_	_	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
+_	_	_	380	6	_	di	di	ADP	E		case:8	_	_	_	_	_	_	_	_
+_	_	_	380	7	_	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	det:8	_	_	_	_	_	_	_	_
 445-6	BO118	445	380	8	pescato:ri,	pescatori	pescatore	NOUN	S	Gender=Masc|Number=Plur	nmod:5	linguistic	_	Intonation=weakly_ascending	End=1677.706	6x1	_	_	_
 446-0	BO140	446	380	9	be::[llo:]	bello	bello	ADJ	A	Gender=Masc|Number=Sing	amod:8	linguistic	_		End=1678.63	1x2,4x1	_	_	2-5(447)
 447-0	BO118	447	380	10	[bellissi]mo	bellissimo	bello	ADJ	A	Degree=Abs|Gender=Masc|Number=Sing	amod:8	linguistic	_		End=1679.19		_	_	0-8(446)
